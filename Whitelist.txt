@@ -1,0 +1,103 @@
+www.msftncsi.com #Windows 10 Network/Connection check
+dns.msftncsi.com #Windows 10 Network/Connection check
+msftncsi.com #Windows 10 Network/Connection check
+
+www.googleadservices.com #GoogleSearch Ad-click
+ad-emea.doubleclick.net #GoogleSearch Ad-click
+ad-server.one.com #GoogleSearch Ad-click
+bs.serving-sys.com #GoogleSearch Ad-click
+clickserve.dartsearch.net #GoogleSearch Ad-click
+clickserve.eu.dartsearch.net #GoogleSearch Ad-click
+clickserve.uk.dartsearch.net #GoogleSearch Ad-click
+clickserve.us2.dartsearch.net #GoogleSearch Ad-click
+
+pagead2.googlesyndication.com #apkmirror thing + SNBforum
+odb.outbrain.com #Apkmirror thing
+staticxx.facebook.com #FB
+
+cached-images.bonnier.news #DN
+s3.eu-west-1.amazonaws.com #Bilder kommer här ifrån-Absolut Vodka
+encrypted-tbn0.gstatic.com #GoogleBilderSearch
+
+clients2.google.com
+clients3.google.com
+clients4.google.com
+
+login.live.com #MS Outlook
+
+clients.l.google.com #Google-login
+appsitemsuggest-pa.clients6.google.com #Google-login
+ogs.google.com #Google-login
+lh2.l.google.com #Google-login
+lh3.google.com #Google-login
+csi.gstatic.com #Google-login
+clients6.google.com #Google-login
+www.gstatic.com #Google-login + Restore Google icons on webpage + Capita for webpage login
+gstatic.com #Google This restores Account elements
+#googleadapis.l.google.com #Vet ej Google login
+drive.google.com #Google-login
+accounts-cctld.l.google.com #Google-login
+www3.l.google.com #Google-login
+plus.l.google.com #Google-login
+googlehosted.l.googleusercontent.com #Google-login
+talk.google.com #Google-login
+play.googleapis.com #Google Playbutik Mobil
+android.clients.google.com #GoogleDrive Upload files MobPhone
+apis.google.com #Google.hangout.com + Youtube This restores the "g-hovercard"
+www.google-analytics.com #Video button on page #Mesosphere.com
+imasdk.googleapis.com #Player/Video at zdnet.com
+clients2.google.com #Chrome Plugin error message saying "An error has occurred: Download interrupted" pops up.
+tools.google.com #Chrome update problems, aren't blocked
+dl.google.com #Chrome update problems, aren't blocked
+r6---sn-uxaxovg-5gok.gvt1.com #CHROME N G-Drive
+redirector.gvt1.com #CHROME N G-Drive
+ssl.gstatic.com #Prevents loading Google Drive contents + Restore Google icons on webpage
+ajax.googleapis.com Problem to confirm cookies toolbar -filmtipset.se, webpage waves.com does not show **Orsakar google annonser på tradera.com
+
+fonts.googleapis.com #Fonts for webpage
+fonts.gstatic.com #Fonts for webpage
+www.googletagservices.com #Problem to load pictures, dayviews.com/hanssonfh/493934660/ ZDNET.com Video does not play http://www.zdnet.com
+
+docs.google.com #Google Docs
+mtalk.google.com #Google Cloud Messaging
+clients2.googleusercontent.com #Google Vet ej
+clientservices.googleapis.com #Chrome vet ej
+translate.googleapis.com #Chrome vet ej
+clients4.google.com #Chrome Syncbookmark etc
+lh3.googleusercontent.com #Chrome vet ej
+clients1.google.com #GoogleChrome Autofill + ev Drive
+
+redirector.gvt1.com #Google ChromeBrowser+Drive
+drive-thirdparty.googleusercontent.com #GoogleDrive Icons on files in drive
+
+appsitemsuggest-pa.clients6.google.com #GoogleDrive msg servern error
+
+lh1.ggpht.com #Google Cache Bilder:  https://play.google.com/store/apps/details?id=ua.co.cts.sideup
+lh2.ggpht.com #Google Cache Bilder
+lh3.ggpht.com #Google Cache Bilder
+lh4.ggpht.com #Google Cache Bilder
+lh5.ggpht.com #Google Cache Bilder
+lh6.ggpht.com #Google Cache Bilder
+ssl.p.jwpcdn.com #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
+orange.fruity.pw #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
+cex.io # BITCOIN Exchange
+maxcdn.bootstrapcdn.com #Ad-block detection Seehd.ws
+cdn.syndication.twimg.com #TWITTER embeded i websida syns ej:  http://bpungdom.se/?firstRef
+sjs.bizographics.com #Laddar Väldigt segt support sidan https://support.jwplayer.com/faqs/
+cdn1.smartadserver.com #Ad-block detection Bild.de
+cdn.jsdelivr.net #Player
+api.cxense.com #ystadsallehanda.se Rekomenderat för dej
+easylist.club #Ad-block detection Sockshare.net
+media.trafficjunky.net #Ad-block detection Redtube.com
+
+
+js-agent.newrelic.com #Chruncyroll
+gllto.glpals.com #Chruncyroll
+
+# www.googleapis.com #Chrome vet ej 
+#spclient.wg.spotify.com #Spotify vet ej
+#pubads.g.doubleclick.net #NBC Player detects as ad-block
+#tpc.googlesyndication.com #NBC Player detects as ad-block
+#accounts.google.com #Google Vet ej
+#accounts.google.se #Google Vet ej
+#clients5.google.com #Vet ej Ser ut att ladda ads
