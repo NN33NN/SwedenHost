@@ -1,0 +1,27 @@
+
+127.0.0.1 di.insplanet.com #204.13.194.231
+127.0.0.1 oascentral.sears.com #204.13.194.231
+127.0.0.1 ad.adriver.ru #209.244.0.3
+127.0.0.1 ads.trafficjunky.net #209.244.0.3
+127.0.0.1 ads2.contentabc.com #209.244.0.3
+127.0.0.1 adserver.adtechus.com #209.244.0.3
+127.0.0.1 adserver.cxad.cxense.com #209.244.0.3
+127.0.0.1 adspaces.ero-advertising.com #209.244.0.3
+127.0.0.1 as.sexad.net #209.244.0.3
+127.0.0.1 biowebb-data.s3.amazonaws.com #209.244.0.3
+127.0.0.1 cdn.sailfish.media #209.244.0.3
+127.0.0.1 clk.tradedoubler.com #209.244.0.3
+127.0.0.1 download.verticdn.com #209.244.0.3
+127.0.0.1 googleads.g.doubleclick.net #209.244.0.3
+127.0.0.1 googleadservices.com #209.244.0.3
+127.0.0.1 haggilder.com #209.244.0.3
+127.0.0.1 in.zog.link #209.244.0.3
+127.0.0.1 in3.zog.link #209.244.0.3
+127.0.0.1 mg.adskeeper.co.uk #209.244.0.3
+127.0.0.1 pubads.g.doubleclick.net #209.244.0.3
+127.0.0.1 st.sunporno.com #209.244.0.3
+127.0.0.1 webbannons.ntm.eu #209.244.0.3
+127.0.0.1 widgets.boka.holiday #209.244.0.3
+127.0.0.1 www.hmads.se #209.244.0.3
+127.0.0.1 www.kuriren.eu #209.244.0.3
+127.0.0.1 www.stadiumstage.com #209.244.0.3
