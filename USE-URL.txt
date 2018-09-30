@@ -1,11 +1,21 @@
 https://raw.githubusercontent.com/NN33NN/SwedenHost/master/hosts-DEMO.txt
 https://raw.githubusercontent.com/NN33NN/SwedenHost/master/ANDROID-DEMO.txt
 https://raw.githubusercontent.com/NN33NN/SwedenHost/master/Special127.0.0.1.txt
-
-
+https://raw.githubusercontent.com/NN33NN/SwedenHost/master/Crunchyroll3.txt
+Total: 2614 Domains Blocked
 
 Github to host files:
 https://www.labnol.org/internet/free-file-hosting-github/29092/
 
 Ultimateblacklist:
 https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist/blob/master/README.md
+
+Commands:
+Install AMTM:
+/usr/sbin/curl -Os https://raw.githubusercontent.com/decoderman/amtm/master/amtm && sh amtm
+
+Start: /jffs/scripts/amtm  or amtm
+
+Install Diversion:
+curl -Os https://diversion.ch/install && sh install
+Start: diversion
