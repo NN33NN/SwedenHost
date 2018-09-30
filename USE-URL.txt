@@ -1,0 +1,11 @@
+https://raw.githubusercontent.com/NN33NN/SwedenHost/master/hosts-DEMO.txt
+https://raw.githubusercontent.com/NN33NN/SwedenHost/master/ANDROID-DEMO.txt
+https://raw.githubusercontent.com/NN33NN/SwedenHost/master/Special127.0.0.1.txt
+
+
+
+Github to host files:
+https://www.labnol.org/internet/free-file-hosting-github/29092/
+
+Ultimateblacklist:
+https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist/blob/master/README.md
