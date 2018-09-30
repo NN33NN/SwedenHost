@@ -5,6 +5,7 @@ msftncsi.com #Windows 10 Network/Connection check
 www.googleadservices.com #GoogleSearch Ad-click
 ad-emea.doubleclick.net #GoogleSearch Ad-click
 ad-server.one.com #GoogleSearch Ad-click
+pixel.everesttech.net #GoogleSearch Ad-click
 bs.serving-sys.com #GoogleSearch Ad-click
 clickserve.dartsearch.net #GoogleSearch Ad-click
 clickserve.eu.dartsearch.net #GoogleSearch Ad-click
@@ -90,9 +91,6 @@ api.cxense.com #ystadsallehanda.se Rekomenderat för dej
 easylist.club #Ad-block detection Sockshare.net
 media.trafficjunky.net #Ad-block detection Redtube.com
 
-
-js-agent.newrelic.com #Chruncyroll
-gllto.glpals.com #Chruncyroll
 
 # www.googleapis.com #Chrome vet ej 
 #spclient.wg.spotify.com #Spotify vet ej

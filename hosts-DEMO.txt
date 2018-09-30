@@ -16,6 +16,10 @@
 #Unblocked cached-images.bonnier.news
 #Unblocked s3.eu-west-1.amazonaws.com
 
+#Aftonbladet
+127.0.0.1 dc437.s407.meetrics.net
+127.0.0.1 smetrics.aftonbladet.se
+
 #SvTPlay
 127.0.0.1 svt.d3.sc.omtrdc.net
 127.0.0.1 svt.demdex.net
@@ -880,7 +884,6 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 
 #[VIDEO] stream-tv6.me/flixify.to/stream-tv-series.info
 127.0.0.1 promo.verajohn.com
-127.0.0.1 se.unibet.com
 127.0.0.1 adserving.unibet.com
 127.0.0.1 online.ladbrokes.com
 127.0.0.1 directrevads.com
