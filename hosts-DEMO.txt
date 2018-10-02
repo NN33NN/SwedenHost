@@ -2975,9 +2975,20 @@ Tiendeo.se
 # [WEB] Prisjakt.nu
  
 127.0.0.1 resources.host.bannerflow.com
+127.0.0.1 cdn.bannerflow.com
+127.0.0.1 tracker.bannerflow.com
 127.0.0.1 images.host.bannerflow.com
 127.0.0.1 adv.prisjakt.nu
 127.0.0.1 s1.adform.net
+127.0.0.1 track.adform.net
+127.0.0.1 secure.adnxs.com
+127.0.0.1 s1.adform.net
+127.0.0.1 vcdn.adnxs.com
+127.0.0.1 cdn.adnxs.com
+127.0.0.1 acdn.adnxs.com
+127.0.0.1 ib.adnxs.com
+127.0.0.1 analytics.codigo.se
+127.0.0.1 jssdk.pulse.schibsted.com
 
 # [WEB] Onlinepriset.se/Butikpris.se
 
