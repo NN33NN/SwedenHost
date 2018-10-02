@@ -11,7 +11,8 @@ clickserve.dartsearch.net #GoogleSearch Ad-click
 clickserve.eu.dartsearch.net #GoogleSearch Ad-click
 clickserve.uk.dartsearch.net #GoogleSearch Ad-click
 clickserve.us2.dartsearch.net #GoogleSearch Ad-click
-
+encrypted-tbn3.gstatic.com #GoogleSearch Ad-click Bilder
+encrypted-tbn2.gstatic.com #GoogleSearch Ad-click Bilder
 pagead2.googlesyndication.com #apkmirror thing + SNBforum
 odb.outbrain.com #Apkmirror thing
 staticxx.facebook.com #FB
@@ -90,7 +91,10 @@ cdn.jsdelivr.net #Player
 api.cxense.com #ystadsallehanda.se Rekomenderat för dej
 easylist.club #Ad-block detection Sockshare.net
 media.trafficjunky.net #Ad-block detection Redtube.com
-
+img1.ak.crunchyroll.com #Chruncyroll
+i.ytimg.com #Youtube
+mx1.youtube.com #Youtube
+mx0.youtube.com #Youtube
 
 # www.googleapis.com #Chrome vet ej 
 #spclient.wg.spotify.com #Spotify vet ej
@@ -99,3 +103,4 @@ media.trafficjunky.net #Ad-block detection Redtube.com
 #accounts.google.com #Google Vet ej
 #accounts.google.se #Google Vet ej
 #clients5.google.com #Vet ej Ser ut att ladda ads
+

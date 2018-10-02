@@ -1,4 +1,6 @@
+127.0.0.1 cdn2.inner-active.mobi
 #Chromecast crunchyroll
+127.0.0.1 5fd74.v.fwmrm.net
 127.0.0.1 plg2.yumenetworks.com
 127.0.0.1 search.spotxchange.com
 127.0.0.1 js-agent.newrelic.com
@@ -11,11 +13,7 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 plg2.yumenetworks.com
-127.0.0.1 static.vrv.co
 127.0.0.1 static.subcdn.com
-#127.0.0.1 a-vrv.akamaized.net
-#127.0.0.1 api.vrv.co
-#127.0.0.1 dl.v.vrv.co
 127.0.0.1 s0.2mdn.net #Youtube Problem
 127.0.0.1 2mdn.net
 127.0.0.1 s0.mdn.net
@@ -39,7 +37,4 @@
 127.0.0.1 pings.conviva.com
 127.0.0.1 cws.conviva.com
 127.0.0.1 vendri.io
-#127.0.0.1 www.%s.facebook.com
-#127.0.0.1 graph.%s.facebook.com
-#127.0.0.1 accounts.google.com
 
