@@ -4,6 +4,78 @@
 ##ADS
 #https://www.quora.com/How-do-I-stop-seeing-ads-on-Google
 #http://www.youronlinechoices.com/se/dina-val
+#https://l3.evidon.com/site/425/3445/22?lang=en-us
+
+#http://irq5.io/2012/12/10/hacking-functionality-into-asuswrt-routers/
+#https://www.site24x7.com/find-ip-address-of-web-site.html
+#---Pixel--Servers ###http://get-site-ip.com/###
+#sync.bumlam.com (white pixel) 31.172.81.158 Works 31.172.81.159
+#https://load77.exelator.com/pixel.gif
+#https://csync.viralgains.com/sync?state=11&prevstate=10
+#match.sync.ad.cpe.dotomi.com  63.215.202.75
+# Helt vit sida: https://aka-cdn.adtech.de/ 192.229.233.249 lr 152.195.39.249
+#TEST
+#31.172.81.158 sf.se -Pixel blank vit Works
+#63.215.202.75 fz.se Vet ej snurrar bara
+#192.229.233.249 dn.se -funkar ej--- men ej error
+#152.195.39.249 di.se
+https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+google.f.bez1fd google.f.LmvwCb
+31.172.81.158 staticxx.facebook.com
+
+
+
+
+127.0.0.1 
+
+static.xx.fbcdn.net
+connect.facebook.net
+facebook.net
+cdn":"staticxx.facebook.com"
+www.facebook.com
+m.facebook.com
+connect.facebook.net
+127.0.0.1 business.facebook.com
+api.facebook.com
+127.0.0.1 api-read.facebook.com
+graph.facebook.com
+127.0.0.1 an.facebook.com
+127.0.0.1 developers.facebook.com
+
+
+
+
+
+##SVD
+127.0.0.1 session.login.schibsted.com
+127.0.0.1 login.svd.se
+127.0.0.1 sdk.pulse.schibsted.com
+127.0.0.1 kundservice.svd.se
+
+31.172.81.158 googleads.g.doubleclick.net
+#Check http://www.linksysinfo.org/index.php?threads/asus-rt-n66u-low-nvram.37500/
+sync.bumlam.com s0.2mdn.net # TEST ZdPlayer does not work
+sync.bumlam.com pagead2.googlesyndication.com
+31.172.81.158 staticxx.facebook.com
+
+
+
+#https://ipinfo.info/html/ip_checker.php
+127.0.0.1 bid.g.doubleclick.net
+127.0.0.1 e.dlx.addthis.com
+127.0.0.1 fw.adsafeprotected.com
+127.0.0.1 rtb.openx.net
+127.0.0.1 e.nexac.com
+
+#https://nyafilmerhd.com/
+127.0.0.1 uptobranding.com
+31.172.81.158 speednetwork14.adk2x.com
+31.172.81.158 .meddelande.org #(block subs)
+31.172.81.158 free-movies.xsf5w89sa9.top #(block subs)
+31.172.81.158 auiviilbp2.com
+31.172.81.158 d3et.superxtrme.com
+31.172.81.158 xsvrz.com
+
 
 #Youtube https://www.youtube.com/watch?reload=9&v=Td9iGvjyFjc
 127.0.0.1 i9.ytimg.com
@@ -140,8 +212,8 @@
 127.0.0.1 login.di.se #Påslagen full access till weekend.di.se.Slå AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
 
 #DN: https://www.dn.se/ekonomi/elon-musk-stams-for-vilseledande-information/
-127.0.0.1 kampanj.dn.se
-204.13.194.231 di.insplanet.com
+31.172.81.158 kampanj.dn.se
+31.172.81.158 di.insplanet.com
 #52.84.213.218 di.insplanet.com
 #Unblocked cached-images.bonnier.news
 #Unblocked s3.eu-west-1.amazonaws.com
@@ -221,7 +293,6 @@
 
 #http://www.faz.net/aktuell/
 127.0.0.1 l.betrad.com
-127.0.0.1 c.evidon.com
 127.0.0.1 static.plista.com
 127.0.0.1 tag.aticdn.net
 
@@ -505,14 +576,16 @@
 #127.0.0.1 code.jquery.com
 127.0.0.1 collector.brandmetrics.com
 127.0.0.1 cdn.brandmetrics.com
+127.0.0.1 engage-auth.schibsted.media
+127.0.0.1 schema.schibsted.com
+127.0.0.1 collector.schibsted.io
+
 
 
 # https://assets.svd.se/assets/application-top-05e22f8589aaa3158062ec929d740a78.css
 
 
 ###Bild.de
-#0.0.0.0 cdn1.smartadserver.com #Ad-block detection Bild.de
-#127.0.0.1 acdn.adnxs.com SVD1-Ad-Blockerare Detection
 127.0.0.1 aka-cdn.adtech.de
 127.0.0.1 cdn.adrtx.net
 127.0.0.1 prg.smartadserver.com
@@ -522,6 +595,13 @@
 127.0.0.1 irqs.ioam.de
 127.0.0.1 script.ioam.de
 script.ioam.de/iam.js
+127.0.0.1 console.appnexus.com
+127.0.0.1 www.appnexus.com
+127.0.0.1 71i.nuggad.net
+.nuggad.net
+127.0.0.1 resources-production.la.welt.de
+127.0.0.1 ad.71i.de
+127.0.0.1 profiles.tagger.opecloud.com
 ******
 127.0.0.1 rem-track.bild.de
 127.0.0.1 samsung-germany.demdex.net
@@ -565,7 +645,7 @@ b-api.facebook.com
 #https://support.google.com/a/answer/2589954?hl=en
 127.0.0.1 notifications.google.com
 #127.0.0.1 www.google-analytics.com #Vet ej Mesopare
-127.0.0.1 www.googletagservices.com
+
 
 # APP samsung Upday
 127.0.0.1 .arn1.llnw.net
@@ -723,7 +803,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 client.reactrjs.com
 127.0.0.1 static.ak.fbcdn.net
 127.0.0.1 adserver.xpanama.net
-127.0.0.1 imasdk.googleapis.com
 127.0.0.1 boredpanda-d.openx.net
 127.0.0.1 geoip.boredpanda.com
 127.0.0.1 cdn-us.air.tv
@@ -911,7 +990,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 #Chromecast crunchyroll
 127.0.0.1 plg2.yumenetworks.com
 127.0.0.1 search.spotxchange.com
-#js-agent.newrelic.com
 127.0.0.1 5fd74.v.fwmrm.net
 
 
@@ -1168,12 +1246,8 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 #http://mysagagame.com/preland-2912_3.html?pid=10&sid=1&nonad=1&s2s=VjN8MzI0MXw3Nzg0NTV8ODQ2MDJ8MTUwNjY4Nzk3MnxhN2VlMWRlNy0zMDM5LTQxZTktYWY3Ny04YjY5YjA4OTFiNzR8MjEzLjExMy40OS43fDF8dGVzdFY9TkVXX09QVF90XzE0fDU1OWMwYjI1YTk1Yzg2ZjcxYmUyNDJmOTI2MDUwOWU2
 
 
-:http://www.zdnet.com/video/windows-10-upgrade-for-free/
 #https://www.ekuriren.se/affarsliv
-#127.0.0.1 static.sm.infomaker.io
-
-
-
+31.172.81.158 sm-falback.imgix.net
 
 #https://www.newsvine.com/
 127.0.0.1 mps.nbcnews.com
@@ -1274,7 +1348,6 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 127.0.0.1 dmp.v.fwmrm.net
 127.0.0.1 smart.link
 127.0.0.1 tlg.mookie1.com
-127.0.0.1 l.betrad.com
 127.0.0.1 nbcu.demdex.net
 127.0.0.1 aol.demdex.net
 127.0.0.1 tracker.nbcuas.com
@@ -1611,8 +1684,8 @@ Tiendeo.se
 127.0.0.1 googleanalytics.com
 127.0.0.1 ssl.googleanalytics.com
 127.0.0.1 www.googleanalytics.com
-127.0.0.1 ssl.googletagservices.com
-127.0.0.1 googletagservices.com
+#127.0.0.1 ssl.googletagservices.com
+#127.0.0.1 googletagservices.com
 127.0.0.1 sassets.vevo.com
 127.0.0.1 m.v.fwmrm.net
 127.0.0.1 www.fwmrm.net
@@ -2513,9 +2586,6 @@ Tiendeo.se
 127.0.0.1 jadserve.postrelease.com
 127.0.0.1 adadvisor.net
 
-# [News] Mitti.se
-
-127.0.0.1 analytics.codigo.se
 
 # [News] Mvt.se
 
@@ -2698,6 +2768,7 @@ Tiendeo.se
 
 127.0.0.1 cdn.dep-x.com
 127.0.0.1 mkt.dep-x.com
+
 
 # [OS Reporting]
 
@@ -2892,7 +2963,6 @@ Tiendeo.se
 127.0.0.1 cdn.royapp.com
 127.0.0.1 logs177.xiti.com
 127.0.0.1 hitta-static-files.s3.amazonaws.com
-#127.0.0.1 www.googletagmanager.com
 
 # [WEB] Hivtest.se
 
@@ -2979,12 +3049,11 @@ Tiendeo.se
 127.0.0.1 images.host.bannerflow.com
 127.0.0.1 adv.prisjakt.nu
 127.0.0.1 s1.adform.net
-127.0.0.1 track.adform.net
+#127.0.0.1 track.adform.net #Klickar på ads redirection tex https://mitti.se/
 127.0.0.1 secure.adnxs.com
 127.0.0.1 s1.adform.net
 127.0.0.1 vcdn.adnxs.com
 127.0.0.1 cdn.adnxs.com
-127.0.0.1 acdn.adnxs.com
 127.0.0.1 ib.adnxs.com
 127.0.0.1 analytics.codigo.se
 127.0.0.1 jssdk.pulse.schibsted.com
@@ -3188,7 +3257,9 @@ Tiendeo.se
 127.0.0.1 metrics1.travel.sp1.yahoo.com
 
 # [WEB] Zdnet.com
-
+127.0.0.1 cbsinteractive.hb.omtrdc.net
+127.0.0.1 inqlnfvog763mmf771rou737u.litix.io
+127.0.0.1 www.googletagservices.com
 127.0.0.1 secure-us.imrworldwide.com
 127.0.0.1 ads.zdnet.com
 127.0.0.1 ads.ztod.com

@@ -81,21 +81,30 @@ lh3.ggpht.com #Google Cache Bilder
 lh4.ggpht.com #Google Cache Bilder
 lh5.ggpht.com #Google Cache Bilder
 lh6.ggpht.com #Google Cache Bilder
+cex.io # BITCOIN Exchange
+
+sjs.bizographics.com #Laddar Väldigt segt support sidan https://support.jwplayer.com/faqs/
+cdn.jsdelivr.net #PLAYER
+c.evidon.com #PLAYER: ZDNET.COM
+s0.2mdn.net #PLAYER: ZDNET.COM
+imasdk.googleapis.com #PLAYER: ZDNET.COM
 ssl.p.jwpcdn.com #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
 orange.fruity.pw #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
-cex.io # BITCOIN Exchange
-maxcdn.bootstrapcdn.com #Ad-block detection Seehd.ws
-cdn.syndication.twimg.com #TWITTER embeded i websida syns ej:  http://bpungdom.se/?firstRef
-sjs.bizographics.com #Laddar Väldigt segt support sidan https://support.jwplayer.com/faqs/
-cdn1.smartadserver.com #Ad-block detection Bild.de
-cdn.jsdelivr.net #Player
+
 api.cxense.com #ystadsallehanda.se Rekomenderat för dej
-easylist.club #Ad-block detection Sockshare.net
-media.trafficjunky.net #Ad-block detection Redtube.com
+track.adform.net #Klickar på ads redirection tex https://mitti.se/
+
 img1.ak.crunchyroll.com #Chruncyroll
 i.ytimg.com #Youtube
 mx1.youtube.com #Youtube
 mx0.youtube.com #Youtube
+cdn.syndication.twimg.com #TWITTER Feed på Websida Bild.de
+
+easylist.club #AD-BLOCK DETECTION: Sockshare.net
+media.trafficjunky.net #AD-BLOCK DETECTION: Redtube.com
+acdn.adnxs.com #AD-BLOCK DETECTION: Bild.de ev SVD.se
+cdn1.smartadserver.com #AD-BLOCK DETECTION: Bild.de <- kan tas bort
+maxcdn.bootstrapcdn.com AD-BLOCK DETECTION: Seehd.ws
 
 # www.googleapis.com #Chrome vet ej 
 #spclient.wg.spotify.com #Spotify vet ej
