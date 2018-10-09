@@ -14,7 +14,7 @@ clickserve.uk.dartsearch.net #GoogleSearch Ad-click
 clickserve.us2.dartsearch.net #GoogleSearch Ad-click
 encrypted-tbn3.gstatic.com #GoogleSearch Ad-click Bilder
 encrypted-tbn2.gstatic.com #GoogleSearch Ad-click Bilder
-pagead2.googlesyndication.com #apkmirror thing + SNBforum
+pagead2.googlesyndication.com #apkmirror thing + SNBforum + msguides.com
 odb.outbrain.com #Apkmirror thing
 staticxx.facebook.com #FB
 
@@ -90,7 +90,7 @@ s0.2mdn.net #PLAYER: ZDNET.COM
 imasdk.googleapis.com #PLAYER: ZDNET.COM
 ssl.p.jwpcdn.com #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
 orange.fruity.pw #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
-
+images-na.ssl-images-amazon.com #Bilder på https://www.amazon.com
 api.cxense.com #ystadsallehanda.se Rekomenderat för dej
 track.adform.net #Klickar på ads redirection tex https://mitti.se/
 
@@ -105,6 +105,8 @@ media.trafficjunky.net #AD-BLOCK DETECTION: Redtube.com
 acdn.adnxs.com #AD-BLOCK DETECTION: Bild.de ev SVD.se
 cdn1.smartadserver.com #AD-BLOCK DETECTION: Bild.de <- kan tas bort
 maxcdn.bootstrapcdn.com AD-BLOCK DETECTION: Seehd.ws
+ping.chartbeat.net #BBC Sport app in the UK
+
 
 # www.googleapis.com #Chrome vet ej 
 #spclient.wg.spotify.com #Spotify vet ej
