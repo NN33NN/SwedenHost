@@ -1,0 +1,18 @@
+
+
+#cdn1.smartadserver.com #AD-BLOCK DETECTION: Bild.de <- kan tas bort
+# www.googleapis.com #Chrome vet ej 
+#spclient.wg.spotify.com #Spotify vet ej
+#pubads.g.doubleclick.net #NBC Player detects as ad-block
+#tpc.googlesyndication.com #NBC Player detects as ad-block
+#accounts.google.com #Google Vet ej
+#accounts.google.se #Google Vet ej
+#clients5.google.com #Vet ej Ser ut att ladda ads
+#clients.l.google.com #Google-login --Not true??
+#ogs.google.com #Google-login --Not true??
+#csi.gstatic.com #Google-login --Not true??
+#googleadapis.l.google.com #Vet ej Google login
+#www3.l.google.com #Google-login
+#www.google-analytics.com #Video button on page #Mesosphere.com
+
+

@@ -20,15 +20,15 @@
 #63.215.202.75 fz.se Vet ej snurrar bara
 #192.229.233.249 dn.se -funkar ej--- men ej error
 #152.195.39.249 di.se
-https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+#https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 google.f.bez1fd google.f.LmvwCb
-31.172.81.158 staticxx.facebook.com
 
 
 
 
 127.0.0.1 
 127.0.0.1 scontent.xx.fbcdn.net
+31.172.81.158 staticxx.facebook.com
 #127.0.0.1 static.xx.fbcdn.net #Fuckar FB sidan
 connect.facebook.net
 facebook.net
@@ -44,20 +44,32 @@ graph.facebook.com
 127.0.0.1 developers.facebook.com
 
 
-
-
-
-##SVD
-#127.0.0.1 session.login.schibsted.com
-#127.0.0.1 login.svd.se
-#127.0.0.1 sdk.pulse.schibsted.com
-#127.0.0.1 kundservice.svd.se
-
 31.172.81.158 googleads.g.doubleclick.net
 #Check http://www.linksysinfo.org/index.php?threads/asus-rt-n66u-low-nvram.37500/
-sync.bumlam.com s0.2mdn.net # TEST ZdPlayer does not work
 sync.bumlam.com pagead2.googlesyndication.com
-31.172.81.158 staticxx.facebook.com
+
+
+#http://n4g.com/
+127.0.0.1 mad-docs.azurewebsites.net
+127.0.0.1 cdn.connatix.com
+127.0.0.1 cdns.connatix.com
+127.0.0.1 i.connatix.com
+127.0.0.1 ck.connatix.com
+127.0.0.1 core.connatix.com
+127.0.0.1 rtb.connatix.com #ads
+127.0.0.1 v.connatix.com #ads
+127.0.0.1 connatix-d.openx.net
+127.0.0.1 trk.connatix.com
+127.0.0.1 slckg-kqe2e.ads.tremorhub.com
+127.0.0.1 slckg-lyoc5.ads.tremorhub.com
+.ads.tremorhub.com
+
+#https://www.releases.com/p/fast-striker
+127.0.0.1 ecdn.firstimpression.io
+127.0.0.1 cdn.firstimpression.io
+127.0.0.1 js.gumgum.com
+127.0.0.1 g2.gumgum.com
+127.0.0.1 cdn.digitru.st
 
 #E-mail
 127.0.0.1 mensagemdevestir.com.br
@@ -72,11 +84,9 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 native.propellerads.com
 127.0.0.1 i62e2b4mfy.com
 127.0.0.1 n.pc1ads.com
-127.0.0.1 i62e2b4mfy.com
 127.0.0.1 tdt2.user-api.com
 127.0.0.1 cdn.user-api.com
 127.0.0.1 r.remarketingpixel.com
-127.0.0.1 ie8eamus.com
 127.0.0.1 push-notifications.top
 127.0.0.1 p226975.mycdn.co
 127.0.0.1 p226975.clksite.com
@@ -109,11 +119,9 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 sax.peakonspot.com
 127.0.0.1 d3ud741uvs727m.cloudfront.net
 127.0.0.1 lpo.mediaonspot.com
-127.0.0.1 go.onclasrv.com
 127.0.0.1 ww2.corneey.com
 
 #https://ipinfo.info/html/ip_checker.php
-127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 e.dlx.addthis.com
 127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 rtb.openx.net
@@ -138,125 +146,123 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 youtube-ui.l.google.com
 127.0.0.1 pagead-googlehosted.l.google.com
 127.0.0.1 gstaticadssl.l.google.com
-127.0.0.1 static.doubleclick.net
 127.0.0.1 static-doubleclick-net.l.google.com
 127.0.0.1 www3.l.google.com
 127.0.0.1 photos-ugc.l.googleusercontent.com
 127.0.0.1 dart.l.doubleclick.net
 .eu-west-1.elb.amazonaws.com
-0.0.0.0	youtu.be
-0.0.0.0	host.youtube.com
-0.0.0.0	mx.youtube.com
-0.0.0.0	admin.youtube.com
-0.0.0.0	devel.youtube.com
-0.0.0.0	stats.youtube.com
-0.0.0.0	http.youtube.com
-0.0.0.0	administration.youtube.com
-0.0.0.0	development.youtube.com
-0.0.0.0	svn.youtube.com
-0.0.0.0	id.youtube.com
-0.0.0.0	ads.youtube.com
-0.0.0.0	devsql.youtube.com
-0.0.0.0	syslog.youtube.com
-0.0.0.0	adserver.youtube.com
-0.0.0.0	images.youtube.com
-0.0.0.0	mysql.youtube.com
-0.0.0.0	devtest.youtube.com
-0.0.0.0	info.youtube.com
-0.0.0.0	news.youtube.com
-0.0.0.0	alerts.youtube.com
-0.0.0.0	dhcp.youtube.com
-0.0.0.0	test1.youtube.com
-0.0.0.0	internal.youtube.com
-0.0.0.0	noc.youtube.com
-0.0.0.0	alpha.youtube.com
-0.0.0.0	direct.youtube.com
-0.0.0.0	test2.youtube.com
-0.0.0.0	internet.youtube.com
-0.0.0.0	ns.youtube.com
-0.0.0.0	ap.youtube.com
-0.0.0.0	dmz.youtube.com
-0.0.0.0	testing.youtube.com
-0.0.0.0	intra.youtube.com
-0.0.0.0	ns0.youtube.com
-0.0.0.0	apache.youtube.com #
-0.0.0.0	dns.youtube.com
-0.0.0.0	upload.youtube.com
-0.0.0.0	intranet.youtube.com
-0.0.0.0	ns1.youtube.com
-0.0.0.0	app.youtube.com
-0.0.0.0	dns0.youtube.com
-0.0.0.0	vm.youtube.com
-0.0.0.0	ipv6.youtube.com
-0.0.0.0	ns2.youtube.com
-0.0.0.0	apps.youtube.com
-0.0.0.0	dns1.youtube.com
-0.0.0.0	vnc.youtube.com
-0.0.0.0	lab.youtube.com
-0.0.0.0	ns3.youtube.com
-0.0.0.0	appserver.youtube.com
-0.0.0.0	dns2.youtube.com
-0.0.0.0	ldap.youtube.com
-0.0.0.0	aptest.youtube.com
-0.0.0.0	download.youtube.com
-0.0.0.0	vpn.youtube.com
-0.0.0.0	linux.youtube.com
-0.0.0.0	ops.youtube.com
-0.0.0.0	auth.youtube.com #
-0.0.0.0	en.youtube.com
-0.0.0.0	web.youtube.com
-0.0.0.0	local.youtube.com
-0.0.0.0	oracle.youtube.com
-0.0.0.0	backup.youtube.com
-0.0.0.0	erp.youtube.com
-0.0.0.0	web2test.youtube.com
-0.0.0.0	log.youtube.com
-0.0.0.0	owa.youtube.com
-0.0.0.0	beta.youtube.com
-0.0.0.0	eshop.youtube.com
-0.0.0.0	whois.youtube.com
-0.0.0.0	pbx.youtube.com
-0.0.0.0	blog.youtube.com
-0.0.0.0	exchange.youtube.com
-0.0.0.0	wiki.youtube.com
-0.0.0.0	s3.youtube.com
-0.0.0.0	f5.youtube.com
-0.0.0.0	secure.youtube.com
-0.0.0.0	chat.youtube.com
-0.0.0.0	fileserver.youtube.com
-0.0.0.0	www2.youtube.com
-0.0.0.0	server.youtube.com
-0.0.0.0	citrix.youtube.com
-0.0.0.0	firewall.youtube.com
-0.0.0.0	xml.youtube.com
-0.0.0.0	main.youtube.com
-0.0.0.0	shop.youtube.com
-0.0.0.0	cms.youtube.com
-0.0.0.0	forum.youtube.com
-0.0.0.0	manage.youtube.com
-0.0.0.0	sip.youtube.com
-0.0.0.0	corp.youtube.com
-0.0.0.0	mgmt.youtube.com
-0.0.0.0	crs.youtube.com
-0.0.0.0	mirror.youtube.com
-0.0.0.0	sql.youtube.com
-0.0.0.0	cvs.youtube.com
-0.0.0.0	git.youtube.com
-0.0.0.0	mobile.youtube.com
-0.0.0.0	squid.youtube.com
-0.0.0.0	database.youtube.com
-0.0.0.0	gw.youtube.com
-0.0.0.0	help.youtube.com
-0.0.0.0	monitor.youtube.com
-0.0.0.0	ssh.youtube.com
-0.0.0.0	db.youtube.com
-0.0.0.0	mssql.youtube.com
-0.0.0.0	ssl.youtube.com
-0.0.0.0	demo.youtube.com
-0.0.0.0	helpdesk.youtube.com
-0.0.0.0	mta.youtube.com
-0.0.0.0	dev.youtube.com
-0.0.0.0	home.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 host.youtube.com
+0.0.0.0 mx.youtube.com
+0.0.0.0 admin.youtube.com
+0.0.0.0 devel.youtube.com
+0.0.0.0 stats.youtube.com
+0.0.0.0 http.youtube.com
+0.0.0.0 administration.youtube.com
+0.0.0.0 development.youtube.com
+0.0.0.0 svn.youtube.com
+0.0.0.0 id.youtube.com
+0.0.0.0 devsql.youtube.com
+0.0.0.0 syslog.youtube.com
+0.0.0.0 adserver.youtube.com
+0.0.0.0 images.youtube.com
+0.0.0.0 mysql.youtube.com
+0.0.0.0 devtest.youtube.com
+0.0.0.0 info.youtube.com
+0.0.0.0 news.youtube.com
+0.0.0.0 alerts.youtube.com
+0.0.0.0 dhcp.youtube.com
+0.0.0.0 test1.youtube.com
+0.0.0.0 internal.youtube.com
+0.0.0.0 noc.youtube.com
+0.0.0.0 alpha.youtube.com
+0.0.0.0 direct.youtube.com
+0.0.0.0 test2.youtube.com
+0.0.0.0 internet.youtube.com
+0.0.0.0 ns.youtube.com
+0.0.0.0 ap.youtube.com
+0.0.0.0 dmz.youtube.com
+0.0.0.0 testing.youtube.com
+0.0.0.0 intra.youtube.com
+0.0.0.0 ns0.youtube.com
+0.0.0.0 apache.youtube.com #
+0.0.0.0 dns.youtube.com
+0.0.0.0 upload.youtube.com
+0.0.0.0 intranet.youtube.com
+0.0.0.0 ns1.youtube.com
+0.0.0.0 app.youtube.com
+0.0.0.0 dns0.youtube.com
+0.0.0.0 vm.youtube.com
+0.0.0.0 ipv6.youtube.com
+0.0.0.0 ns2.youtube.com
+0.0.0.0 apps.youtube.com
+0.0.0.0 dns1.youtube.com
+0.0.0.0 vnc.youtube.com
+0.0.0.0 lab.youtube.com
+0.0.0.0 ns3.youtube.com
+0.0.0.0 appserver.youtube.com
+0.0.0.0 dns2.youtube.com
+0.0.0.0 ldap.youtube.com
+0.0.0.0 aptest.youtube.com
+0.0.0.0 download.youtube.com
+0.0.0.0 vpn.youtube.com
+0.0.0.0 linux.youtube.com
+0.0.0.0 ops.youtube.com
+0.0.0.0 auth.youtube.com #
+0.0.0.0 en.youtube.com
+0.0.0.0 web.youtube.com
+0.0.0.0 local.youtube.com
+0.0.0.0 oracle.youtube.com
+0.0.0.0 backup.youtube.com
+0.0.0.0 erp.youtube.com
+0.0.0.0 web2test.youtube.com
+0.0.0.0 log.youtube.com
+0.0.0.0 owa.youtube.com
+0.0.0.0 beta.youtube.com
+0.0.0.0 eshop.youtube.com
+0.0.0.0 whois.youtube.com
+0.0.0.0 pbx.youtube.com
+0.0.0.0 blog.youtube.com
+0.0.0.0 exchange.youtube.com
+0.0.0.0 wiki.youtube.com
+0.0.0.0 s3.youtube.com
+0.0.0.0 f5.youtube.com
+0.0.0.0 secure.youtube.com
+0.0.0.0 chat.youtube.com
+0.0.0.0 fileserver.youtube.com
+0.0.0.0 www2.youtube.com
+0.0.0.0 server.youtube.com
+0.0.0.0 citrix.youtube.com
+0.0.0.0 firewall.youtube.com
+0.0.0.0 xml.youtube.com
+0.0.0.0 main.youtube.com
+0.0.0.0 shop.youtube.com
+0.0.0.0 cms.youtube.com
+0.0.0.0 forum.youtube.com
+0.0.0.0 manage.youtube.com
+0.0.0.0 sip.youtube.com
+0.0.0.0 corp.youtube.com
+0.0.0.0 mgmt.youtube.com
+0.0.0.0 crs.youtube.com
+0.0.0.0 mirror.youtube.com
+0.0.0.0 sql.youtube.com
+0.0.0.0 cvs.youtube.com
+0.0.0.0 git.youtube.com
+0.0.0.0 mobile.youtube.com
+0.0.0.0 squid.youtube.com
+0.0.0.0 database.youtube.com
+0.0.0.0 gw.youtube.com
+0.0.0.0 help.youtube.com
+0.0.0.0 monitor.youtube.com
+0.0.0.0 ssh.youtube.com
+0.0.0.0 db.youtube.com
+0.0.0.0 mssql.youtube.com
+0.0.0.0 ssl.youtube.com
+0.0.0.0 demo.youtube.com
+0.0.0.0 helpdesk.youtube.com
+0.0.0.0 mta.youtube.com
+0.0.0.0 dev.youtube.com
+0.0.0.0 home.youtube.com
 
 
 # 1[SPECIAL]
@@ -267,12 +273,8 @@ sync.bumlam.com pagead2.googlesyndication.com
 31.172.81.158 kampanj.dn.se
 31.172.81.158 di.insplanet.com
 #52.84.213.218 di.insplanet.com
-#Unblocked cached-images.bonnier.news
-#Unblocked s3.eu-west-1.amazonaws.com
 
-#Aftonbladet
-127.0.0.1 dc437.s407.meetrics.net
-127.0.0.1 smetrics.aftonbladet.se
+
 
 #SvTPlay
 127.0.0.1 svt.d3.sc.omtrdc.net
@@ -292,39 +294,22 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 mmismm.com
 127.0.0.1 exelator.com
 127.0.0.1 dc.tremormedia.com
-127.0.0.1 plusone.google.com
 127.0.0.1 videoegg.com
-127.0.0.1 adserver.adtechus.com
-127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 2o7.net
 127.0.0.1 sync.tidaltv.com
 127.0.0.1 media.scanscout.com
 127.0.0.1 intellitxt.com
 127.0.0.1 invitemedia.com
-127.0.0.1 exelator.com
 127.0.0.1 atdmt.com
 127.0.0.1 adap.tv
-127.0.0.1 redir.adap.tv
 127.0.0.1 chibis.adotube.com
 127.0.0.1 adotube.com
-127.0.0.1 bs.serving-sys.com
 127.0.0.1 bluekai.com
 127.0.0.1 redir.adap.tv
 127.0.0.1 googleadsense.ya.com
 127.0.0.1 www.z-adsense.com
-127.0.0.1 adservices.google.com
-127.0.0.1 video-stats.video.google.com
-127.0.0.1 4.afs.googleadservices.com
-127.0.0.1 feedads.googleadservices.com
-127.0.0.1 imageads.googleadservices.com
-127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 partner.googleadservices.com
 127.0.0.1 creativeby2.unicast.com
 127.0.0.1 pagead.googleadservices.com
-127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 www.adotube.com
-127.0.0.1 pagead.googlesyndication.com
-#127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 www.adotube.com
 127.0.0.1 flash.quantserve.com
 127.0.0.1 cdn1.ustream.tv
@@ -350,39 +335,13 @@ sync.bumlam.com pagead2.googlesyndication.com
 #Extra
 127.0.0.1 adssettings.google.com
 127.0.0.1 schema.org
-127.0.0.1 encrypted-tbn0.gstatic.com
 127.0.0.1 encrypted-tbn1.gstatic.com
-127.0.0.1 encrypted-tbn2.gstatic.com
-127.0.0.1 encrypted-tbn3.gstatic.com
-
 127.0.0.1 notifications.google.com
 127.0.0.1 clients5.google.com
 127.0.0.1 feedads.googleadservices.com
-127.0.0.1 imageads.googleadservices.com
 127.0.0.1 www.partner.googleadservices.com
-127.0.0.1 video-stats.video.google.com
-# get rid of google analytics and adsense
-127.0.0.1 google-analytics.com
-127.0.0.1 ssl.google-analytics.com #[urchinTracker]
-127.0.0.1 www.google-analytics.com #[Google Analytics]
-127.0.0.1 pagead.googlesyndication.com
-127.0.0.1 adservices.google.com
-127.0.0.1 video-stats.video.google.com
-127.0.0.1 4.afs.googleadservices.com
-127.0.0.1 partner.googleadservices.com
-127.0.0.1 imageads.googleadservices.com
 #[Ewido.TrackingCookie.Googleadservices]
-127.0.0.1 imageads1.googleadservices.com
-127.0.0.1 imageads2.googleadservices.com
-127.0.0.1 imageads3.googleadservices.com
-127.0.0.1 imageads4.googleadservices.com
-127.0.0.1 imageads5.googleadservices.com
-127.0.0.1 imageads6.googleadservices.com
-127.0.0.1 imageads7.googleadservices.com
-127.0.0.1 imageads8.googleadservices.com
-127.0.0.1 imageads9.googleadservices.com
 127.0.0.1 apps5.oingo.com #[Microsoft.Typo-Patrol]
-127.0.0.1 www.appliedsemantics.com
 127.0.0.1 service.urchin.com #[Urchin Tracking Module]
 #ivwbox.de
 127.0.0.1 ivwbox.de
@@ -477,55 +436,30 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 zeitonl.ivwbox.de
 
 #SNBForum
-127.0.0.1 aax-eu.amazon-adsystem.com
-127.0.0.1 aax-us-east.amazon-adsystem.com
-
 127.0.0.1 ad2.netshelter.net
 
 127.0.0.1 assets.omidoo.com
 
 127.0.0.1 flashtalking.com
 
-127.0.0.1 fls-na.amazon-adsystem.com
-
-#127.0.0.1 images-na.ssl-images-amazon.com
-
-#Whitelisted
-127.0.0.1 ir-na.amazon-adsystem.com
-
-127.0.0.1 ir-uk.amazon-adsystem.com
-
-127.0.0.1 servedby.flashtalking.com
-
 127.0.0.1 tgdaily.com 
 127.0.0.1 tgdaily.net
 
 127.0.0.1 vma.tgdaily.com
 
-127.0.0.1 vma.tgdaily.net
-
-127.0.0.1 wms-eu.amazon-adsystem.com
-
-127.0.0.1 wms-na.amazon-adsystem.com
 
 127.0.0.1 wms-na.assoc-amazon.com
 
-127.0.0.1 ws-eu.amazon-adsystem.com
-127.0.0.1 ws-na.amazon-adsystem.com
 
-127.0.0.1 z-na.amazon-adsystem.com
 
 #MisC
-127.0.0.1 survey.webstatus.v2.userneeds.dk
 127.0.0.1 repairbo.pro
 127.0.0.1 slobomin.com
 127.0.0.1 dzjv9gbu8a.com
 
 #Google
 127.0.0.1 afs.googlesyndication.com
-127.0.0.1 google-analytics.com
 127.0.0.1 afs.googleusercontent.com
-127.0.0.1 domains.googlesyndication.com
 
 #DN FIx-PAYWALL https://www.dn.se/nyheter/varlden/spindelvav-tacker-enorm-yta-i-grekland/
 127.0.0.1 account.bonnier.news
@@ -549,11 +483,10 @@ sync.bumlam.com pagead2.googlesyndication.com
 
 
 #*******Ej Klar
-#2018-05-19 http://www.javadecompilers.com/apk #AD-Detector #pagead2.googlesyndication.com
+#2018-05-19 http://www.javadecompilers.com/apk #AD-Detector 
 #https://blockadblock.com/#88491
 127.0.0.1 zoover.bannertrack.net
 127.0.0.1 serve.adnetasia.com
-127.0.0.1 ad.mail.ru
 127.0.0.1 advertising.aol.com
 127.0.0.1 promote.pair.com
 127.0.0.1 juicyads.com
@@ -573,7 +506,6 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 crunchyroll.adtrackers.net
 127.0.0.1 yahoo.adclixx.net
 127.0.0.1 a.livesportmedia.eu
-127.0.0.1 partnerads.ysm.yahoo.com
 #https://help.getadblock.com/support/solutions/articles/6000082125-a-website-is-telling-me-to-disable-adblock-before-it-will-show-content
 
 
@@ -584,28 +516,24 @@ sync.bumlam.com pagead2.googlesyndication.com
 #2018-05-17 https://www.dizist1.com/
 127.0.0.1 adbetnet.advertserve.com
 127.0.0.1 serving.adbetclickin.pink
-127.0.0.1 adbetnet.advertserve.com
 127.0.0.1 betticket.org
 
 #2018-05-17 http://www.dizison.com/diziler/human-planet/
 127.0.0.1 i.resimyukle.xyz
 
 
-#Aftonbladet.se
-127.0.0.1 dc437.s407.meetrics.net
-127.0.0.1 smetrics.aftonbladet.se
-127.0.0.1 s407.mxcdn.net
-127.0.0.1 se-aftonbladet.videoplaza.tv
-
 # https://www.tekrevue.com/
 127.0.0.1 adserver1.backbeatmedia.com
-127.0.0.1 bullseye.backbeatmedia.com
+52.39.47.29 bullseye.backbeatmedia.com
 127.0.0.1 content.adten.eu
 127.0.0.1 ogs.google.com
+127.0.0.1 use.typekit.net
+127.0.0.1 p.typekit.net
+127.0.0.1 performance.typekit.net
+127.0.0.1 s0.wp.com
 
 #https://apkpure.com/upday-news-for-samsung/de.axelspringer.yana/download?from=details
 127.0.0.1 a.apkpure.com
-#127.0.0.1 pagead2.googlesyndication.com #Ad-detection https://www.snbforums.com/threads/diversion-the-router-adblocker.48538/
 31.172.81.158 dealspure.com
 
 
@@ -617,14 +545,12 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 az19942.vo.msecnd.net
 127.0.0.1 cdn.polyfill.io
 127.0.0.1 status.dixa.io
-127.0.0.1 ogp.me
 
 
 # PC Total360 Security APPAds  
 127.0.0.1 display.360totalsecurity.com
 127.0.0.1 recsys.op-cdn.net
 127.0.0.1 static.ts.360.com
-127.0.0.1 www.google-analytics.com
 127.0.0.1 s.360safe.com
 127.0.0.1 s.360totalsecurity.com
 127.0.0.1 orion.ts.360.com
@@ -632,16 +558,10 @@ sync.bumlam.com pagead2.googlesyndication.com
 
 #SVD.se
 # https://www.svd.se/valbetalda-ex-direktorerna-pa-elefantkyrkogarden
-#127.0.0.1 code.jquery.com
 127.0.0.1 collector.brandmetrics.com
 127.0.0.1 cdn.brandmetrics.com
 127.0.0.1 engage-auth.schibsted.media
 127.0.0.1 schema.schibsted.com
-127.0.0.1 collector.schibsted.io
-
-
-
-# https://assets.svd.se/assets/application-top-05e22f8589aaa3158062ec929d740a78.css
 
 
 ###Bild.de
@@ -666,13 +586,11 @@ script.ioam.de/iam.js
 127.0.0.1 samsung-germany.demdex.net
 127.0.0.1 adstax-match.adrtx.net
 127.0.0.1 pfa.levexis.co
-127.0.0.1 bs.serving-sys.com
 127.0.0.1 xpl.theadex.com
 127.0.0.1 datacloud.tealiumiq.com
 127.0.0.1 p.yieldlab.net
 127.0.0.1 cdn.emetriq.de
 127.0.0.1 ups.xplosion.de
-127.0.0.1 cdn.adnxs.com
 127.0.0.1 asv.nuggad.net
 127.0.0.1 track.movad.net
 127.0.0.1 cdn2.movad.net
@@ -701,11 +619,6 @@ b-api.facebook.com
 127.0.0.1 api.facebook.com
 127.0.0.1 connect.facebook.com
 
-#https://support.google.com/a/answer/2589954?hl=en
-127.0.0.1 notifications.google.com
-#127.0.0.1 www.google-analytics.com #Vet ej Mesopare
-
-
 # APP samsung Upday
 127.0.0.1 .arn1.llnw.net
 127.0.0.1 googletraveladservices.com
@@ -713,11 +626,9 @@ b-api.facebook.com
 127.0.0.1 compute-1.amazonaws.com
 
 #DNSSniffer:
-127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 prebid.districtm.ca
 127.0.0.1 pbid.pro-market.net
 127.0.0.1 2542116.fls.doubleclick.net
-127.0.0.1 dart.l.doubleclick.net
 127.0.0.1 um2.eqads.com
 127.0.0.1 ado.pro-market.net
 127.0.0.1 cdn.carbonads.com
@@ -726,7 +637,6 @@ b-api.facebook.com
 127.0.0.1 ads2.backads.com
 127.0.0.1 pixel2368.everesttech.net
 127.0.0.1 pixel1466.everesttech.net
-127.0.0.1 pixel.everesttech.net
 127.0.0.1 everesttech.net
 127.0.0.1 ads.everesttech.net
 127.0.0.1 hfaffiliates.com
@@ -805,7 +715,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 lucklayed.info
 127.0.0.1 croissed.info
 127.0.0.1 filter.bidrev.net
-127.0.0.1 d3ud741uvs727m.cloudfront.net
 
 
 #https://1movies.se/movie/pirates-of-the-caribbean-dead-men-tell-no-tales/111900-watch-online-free.html
@@ -835,13 +744,12 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 # https://www.boredpanda.com/armed-forces-refugees-photos-kainoa-little-islamic-state/?utm_source=boredpanda&utm_medium=link&utm_campaign=boredpanda_paid
 ## rumble.com ##Video sajt
 127.0.0.1 services-ssl.boredpanda.com
-#127.0.0.1 www.adiode.com Ad-Block detection
+127.0.0.1 www.adiode.com ######Ad-Block detection
 127.0.0.1 n.boredpanda.com
 127.0.0.1 904643836773.apps.googleusercontent.com
-#127.0.0.1 static.boredpanda.com
 127.0.0.1 api.w.org
 127.0.0.1 uproxx.com
-127.0.0.1 b.scorecardresearch.com #Funkar ej
+127.0.0.1 b.scorecardresearch.com
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 appnexus.eu-west-1.p.x-click.net
 127.0.0.1 t.appnexus.eu-west-1.p.x-click.net
@@ -855,7 +763,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 r.casalemedia.com
 127.0.0.1 p.rfihub.com
 127.0.0.1 rfihub.com
-127.0.0.1 odb.outbrain.com
 127.0.0.1 pagefair.net
 127.0.0.1 rumble.com
 127.0.0.1 m2d.m2.ai
@@ -921,6 +828,9 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 
 # https://nyheter24.se/modette/livsstil/903102-darfor-ska-du-inte-duscha-pa-morgonen
 127.0.0.1 tcd.tourn.se
+#http://dayviews.com/hanssonfh/493934660/
+127.0.0.1 static.emocore.se
+
 
 #Call Recorder
 127.0.0.1 udm.ia1.scorecardresearch.com
@@ -1147,7 +1057,6 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 #[] http://www.allergimat.com/page.asp?id=504&namn=Om-Korsreaktioner-Allergi
 127.0.0.1 video.seenthis.se
 127.0.0.1 npv-cdn.seenthis.se
-#127.0.0.1 s0.2mdn.net # TEST ZdPlayer does not work
 
 #[VIDEO] stream-tv6.me/flixify.to/stream-tv-series.info
 127.0.0.1 promo.verajohn.com
@@ -1158,7 +1067,6 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 127.0.0.1 record.ppincome.net
 127.0.0.1 piwik.plaingaming.net
 127.0.0.1 targeting.bannerflow.com
-127.0.0.1 speednetwork14.adk2x.com
 127.0.0.1 in.betsson.com
 127.0.0.1 s.w.org
 127.0.0.1 s.speednetwork13.com
@@ -1179,13 +1087,6 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 #New https://kinox.to/Stream/Happy_Deathday-1.html
 
 #[VIDEO] plejmo.com/sv
-#127.0.0.1 cdn.jsdelivr.net #Player
-#127.0.0.1 20722781p.rfihub.com
-#127.0.0.1 widget.intercom.io
-#127.0.0.1 c1.rfihub.net
-#127.0.0.1 api.appcues.net
-#127.0.0.1 fast.appcues.com
-#127.0.0.1 cdn.mxpnl.com
 127.0.0.1 d3qxef4rp70elm.cloudfront.net
 127.0.0.1 a.rfihub.com
 
@@ -1232,7 +1133,6 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 127.0.0.1 www.junbi-tracker.com
 127.0.0.1 hicpm5.com
 127.0.0.1 higheurest.com
-127.0.0.1 vcdn.adnxs.com
 127.0.0.1 ams1-ib.adnxs.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 ads.mopub.com
@@ -1402,6 +1302,10 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 127.0.0.1 5d457.v.fwmrm.net
 127.0.0.1 5d0b6.v.fwmrm.net
 127.0.0.1 router.infolinks.com
+127.0.0.1 munchkin.marketo.net
+127.0.0.1 640-wsz-165.mktoresp.com
+127.0.0.1 cdn.segment.com
+.mktoresp.com
 
 # NBC.com/NBCuni.com/CNBC.com
 127.0.0.1 dmp.v.fwmrm.net
@@ -1445,7 +1349,6 @@ Metro.se
 127.0.0.1 asvcs.aol.com
 127.0.0.1 ps-adinfo.egslb.aol.com
 127.0.0.1 adinfo.aol.com
-#127.0.0.1 api.cxense.com #ystadsallehanda.se Rekomenderat för dej
 127.0.0.1 geo.moatads.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 apx.moatads.com
@@ -1485,8 +1388,6 @@ Tiendeo.se
 127.0.0.1 tre-3-3.bannerflow.com
 127.0.0.1 pro.bannerflow.com
 127.0.0.1 scripts.host.bannerflow.com
-127.0.0.1 tracker.bannerflow.com
-#127.0.0.1 ad-server.one.com ##Google search domain: http://ad-server.one.com/click?agency=google-se&locale=sv&page=https://www.one.com/sv/domaener&gclid=Cj0KCQjw_7HdBRDPARIsAN_ltcLC7KXHVQE9XFxiXS-DORqR93yxGjMDpXOgN-e0SlWOMiiggvWQ0p0aAh7sEALw_wcB
 127.0.0.1 cdn.stickyadstv.com
 
 # [ADS] Adinfuse
@@ -1641,10 +1542,6 @@ Tiendeo.se
 127.0.0.1 ads.cc-dt.com
 127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 creative.cc-dt.com
-#127.0.0.1 clickserve.dartsearch.net #Google Search results ads
-127.0.0.1 clickserve.eu.dartsearch.net #Google Search results ads
-127.0.0.1 clickserve.uk.dartsearch.net #Google Search results ads
-127.0.0.1 clickserve.us2.dartsearch.net #Google Search results ads
 127.0.0.1 ad2.doubleclick.net
 127.0.0.1 ad.ae.doubleclick.net
 127.0.0.1 ad.ar.doubleclick.net
@@ -1687,7 +1584,6 @@ Tiendeo.se
 127.0.0.1 ad.us.doubleclick.net
 127.0.0.1 ad.za.doubleclick.net
 127.0.0.1 ad.n2434.doubleclick.net
-127.0.0.1 ad-emea.doubleclick.net
 127.0.0.1 creatives.doubleclick.net
 127.0.0.1 dfp.doubleclick.net
 127.0.0.1 feedads.g.doubleclick.net
@@ -1768,6 +1664,7 @@ Tiendeo.se
 127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 google-analytics.com
+127.0.0.1 www.google-analytics.com
 127.0.0.1 imageads.googleadservices.com 
 127.0.0.1 imageads1.googleadservices.com
 127.0.0.1 imageads2.googleadservices.com
@@ -1793,10 +1690,8 @@ Tiendeo.se
 # [ADS] Google Doubleclick
 
 127.0.0.1 ad-g.doubleclick.net
-#127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.mo.doubleclick.net
 127.0.0.1 doubleclick.net
-209.244.0.3 googleads.g.doubleclick.net # (Do not work)Works shows white screen buttom line https://www.snbforums.com/threads/diversion-the-router-adblocker.48538/page-25
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 pagead.l.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
@@ -1808,7 +1703,7 @@ Tiendeo.se
 127.0.0.1 analytic-google.com
 #127.0.0.1 clients1.google.com #GoogleChrome Autofill + Drive
 127.0.0.1 googleads4.g.doubleclick.net
-209.244.0.3 googleadservices.com
+31.172.81.158 googleadservices.com
 127.0.0.1 www.analytic-google.com
 
 # [ADS] Greystripe
@@ -1892,16 +1787,13 @@ Tiendeo.se
 127.0.0.1 vrt.outbrain.com
 127.0.0.1 tr.outbrain.com
 127.0.0.1 log.outbrain.com
-#127.0.0.1 paid.outbrain.com #Links on edition.cnn.com (video)
 127.0.0.1 vrp.outbrain.com
 127.0.0.1 rva.outbrain.com
 127.0.0.1 hpr.outbrain.com
-#127.0.0.1 traffic.outbrain.com #Links on edition.cnn.com (video)
-#127.0.0.1 odb.outbrain.com #BLOCKA* Edition.cnn.com Sport/Style/Health etc
-#127.0.0.1 images.outbrain.com #Edition.cnn.com Sport/Style/Health etc
-#127.0.0.1 storage.outbrain.com #Edition.cnn.com Sport/Style/Health etc
-#127.0.0.1 widgets.outbrain.com #Edition.cnn.com Sport/Style/Health etc
 
+#apkmirror.com
+127.0.0.1 api.pushbullet.com
+127.0.0.1 widget.pushbullet.com
 
 # [ADS] PubExchange Partner
 
@@ -1923,7 +1815,7 @@ Tiendeo.se
 
 # [ADS] Smart Adserver
 
-#0.0.0.0 cdn1.smartadserver.com #Ad-block detection Bild.de
+0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 diff2.smartadserver.com
@@ -2015,7 +1907,7 @@ Tiendeo.se
 127.0.0.1 api-s2s.taboola.com
 127.0.0.1 esd-secure.taboola.com.edgekey.net
 127.0.0.1 www.esd-secure.taboola.com.edgekey.net
-209.244.0.3 adserver.adtechus.com
+31.172.81.158 adserver.adtechus.com
 127.0.0.1 js.adsonar.com
 127.0.0.1 www.adserver.adtechus.com
 
@@ -2086,14 +1978,13 @@ Tiendeo.se
 
 # [ADS] Trafficjunky
 
-#127.0.0.1 media.trafficjunky.net #Ad-block detection Redtube.com
 127.0.0.1 hw-cdn.trafficjunky.net
 127.0.0.1 vz-cdn.trafficjunky.net
 127.0.0.1 www.trafficjunky.net
 127.0.0.1 192.168.ads.trafficjunky.net
 127.0.0.1 192.168.media.trafficjunky.net
 127.0.0.1 ad.trafficjunky.net
-209.244.0.3 ads.trafficjunky.net
+31.172.81.158 ads.trafficjunky.net
 127.0.0.1 marketplace.trafficjunky.net
 127.0.0.1 pt.trafficjunky.net
 127.0.0.1 static.trafficjunky.net
@@ -2382,7 +2273,10 @@ Tiendeo.se
 127.0.0.1 click.vgnett.no
 127.0.0.1 s3-eu-central-1.amazonaws.com
 127.0.0.1 tag2.mydatabankapp.com
-
+127.0.0.1 dc437.s407.meetrics.net
+127.0.0.1 smetrics.aftonbladet.se
+127.0.0.1 s407.mxcdn.net
+127.0.0.1 se-aftonbladet.videoplaza.tv
 127.0.0.1 adv.aftonbladet.se
 127.0.0.1 ab-web-notifications.herokuapp.com
 127.0.0.1 metrics.aftonbladet.se
@@ -2414,7 +2308,6 @@ Tiendeo.se
 127.0.0.1 v.lkqd.net
 127.0.0.1 cse.google.com
 127.0.0.1 ad.lkqd.net
-127.0.0.1 redir.adap.tv
 127.0.0.1 ads37.vertamedia.com
 127.0.0.1 px.moatads.com
 
@@ -2451,10 +2344,24 @@ Tiendeo.se
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 adserver-us.adtech.advertising.com
 
+#https://edition.cnn.com/videos/politics/2018/04/17/white-house-nikki-haley-russia-sanctions-acosta-dnt.cnn/video/playlists/nikki-haley-and-donald-trump/
 # [News] Edition.cnn.com/money.cnn.com
-
+#127.0.0.1 registry.api.cnn.io
+127.0.0.1 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
+.cws.conviva.com
+127.0.0.1 cdns.gigya.com
+127.0.0.1 cdns1.gigya.com
+127.0.0.1 cdns2.gigya.com
+127.0.0.1 cdns3.gigya.com
+127.0.0.1 cdn3.optimizely.com
+127.0.0.1 cdn.cookielaw.org
+127.0.0.1 geolocation.onetrust.com
+127.0.0.1 i.cdn.turner.com
+127.0.0.1 d1osssr1rvrv5b.cloudfront.net
+127.0.0.1 smetrics.cnn.com
+127.0.0.1 cnn.sdk.beemray.com
+127.0.0.1 emea.sdk.beemray.com
 127.0.0.1 ads.undertone.com
-127.0.0.1 an.facebook.com
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 rtax.criteo.com
 127.0.0.1 s.cdn.turner.com
@@ -2951,7 +2858,6 @@ Tiendeo.se
 127.0.0.1 resources.infolinks.com
 127.0.0.1 cdn-images.mailchimp.com
 127.0.0.1 dp.g.doubleclick.net
-127.0.0.1 afs.googleusercontent.com
 127.0.0.1 images.smartname.com
 209.244.0.3 download.verticdn.com
 127.0.0.1 10xdownloads.com
@@ -3108,14 +3014,10 @@ Tiendeo.se
 127.0.0.1 images.host.bannerflow.com
 127.0.0.1 adv.prisjakt.nu
 127.0.0.1 s1.adform.net
-#127.0.0.1 track.adform.net #Klickar på ads redirection tex https://mitti.se/
 127.0.0.1 secure.adnxs.com
-127.0.0.1 s1.adform.net
 127.0.0.1 vcdn.adnxs.com
 127.0.0.1 cdn.adnxs.com
-127.0.0.1 ib.adnxs.com
 127.0.0.1 analytics.codigo.se
-127.0.0.1 jssdk.pulse.schibsted.com
 
 # [WEB] Onlinepriset.se/Butikpris.se
 
@@ -3149,9 +3051,6 @@ Tiendeo.se
 127.0.0.1 d.la4-c2-phx.salesforceliveagent.com
 127.0.0.1 tl.r7ls.net
 
-# [WEB] Snbforums.com
-
-127.0.0.1 vma.tgdaily.com
 
 # [WEB] Sportamore.se
 
@@ -3187,7 +3086,6 @@ Tiendeo.se
 127.0.0.1 cdn.getblueshift.com
 127.0.0.1 browser-update.org
 127.0.0.1 ads.google.com
-127.0.0.1 afs.googlesyndication.com
 127.0.0.1 googleusercontent.com
 
 # [WEB] Torrentday.com
@@ -3227,7 +3125,6 @@ Tiendeo.se
 127.0.0.1 a.adroll.com
 127.0.0.1 b.adroll.com
 127.0.0.1 d.adroll.com
-127.0.0.1 ping.chartbeat.net
 127.0.0.1 static.chartbeat.com
 127.0.0.1 img.en25.com
 127.0.0.1 api.demandbase.com
@@ -3452,7 +3349,6 @@ Tiendeo.se
 
 # [VIDEO] Putlocker.ac/.fm/.ist Sockshare.net
 
-#127.0.0.1 easylist.club #Ad-block detection Sockshare.net
 127.0.0.1 cdn.engine.spotscenered.info
 127.0.0.1 asmedia.adsupplyssl.com
 127.0.0.1 www.u1trkqf.com

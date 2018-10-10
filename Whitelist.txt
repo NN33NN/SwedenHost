@@ -15,8 +15,14 @@ clickserve.us2.dartsearch.net #GoogleSearch Ad-click
 encrypted-tbn3.gstatic.com #GoogleSearch Ad-click Bilder
 encrypted-tbn2.gstatic.com #GoogleSearch Ad-click Bilder
 pagead2.googlesyndication.com #apkmirror thing + SNBforum + msguides.com
-odb.outbrain.com #Apkmirror thing
-staticxx.facebook.com #FB
+
+paid.outbrain.com #Links on edition.cnn.com (video)
+traffic.outbrain.com #Links on edition.cnn.com (video)
+images.outbrain.com #Edition.cnn.com Sport/Style/Health etc
+storage.outbrain.com #Edition.cnn.com Sport/Style/Health etc
+widgets.outbrain.com #Edition.cnn.com Sport/Style/Health etc
+odb.outbrain.com  #Edition.cnn.com Play video, shows rekommend videos can be removed from whitelist
+staticxx.facebook.com #FB -Vet ej
 
 cached-images.bonnier.news #DN
 s3.eu-west-1.amazonaws.com #Bilder kommer här ifrån-Absolut Vodka
@@ -28,38 +34,33 @@ clients4.google.com
 
 login.live.com #MS Outlook
 
-clients.l.google.com #Google-login
 appsitemsuggest-pa.clients6.google.com #Google-login
-ogs.google.com #Google-login
 lh2.l.google.com #Google-login
 lh3.google.com #Google-login
-csi.gstatic.com #Google-login
 clients6.google.com #Google-login
 www.gstatic.com #Google-login + Restore Google icons on webpage + Capita for webpage login
 gstatic.com #Google This restores Account elements
-#googleadapis.l.google.com #Vet ej Google login
 drive.google.com #Google-login
 accounts-cctld.l.google.com #Google-login
-www3.l.google.com #Google-login
 plus.l.google.com #Google-login
 googlehosted.l.googleusercontent.com #Google-login
 talk.google.com #Google-login
 play.googleapis.com #Google Playbutik Mobil
 android.clients.google.com #GoogleDrive Upload files MobPhone
 apis.google.com #Google.hangout.com + Youtube This restores the "g-hovercard"
-www.google-analytics.com #Video button on page #Mesosphere.com
+
 imasdk.googleapis.com #Player/Video at zdnet.com
 clients2.google.com #Chrome Plugin error message saying "An error has occurred: Download interrupted" pops up.
 tools.google.com #Chrome update problems, aren't blocked
 dl.google.com #Chrome update problems, aren't blocked
-r6---sn-uxaxovg-5gok.gvt1.com #CHROME N G-Drive
+gvt1.com #CHROME N G-Drive
 redirector.gvt1.com #CHROME N G-Drive
 ssl.gstatic.com #Prevents loading Google Drive contents + Restore Google icons on webpage
 ajax.googleapis.com Problem to confirm cookies toolbar -filmtipset.se, webpage waves.com does not show **Orsakar google annonser på tradera.com
 
 fonts.googleapis.com #Fonts for webpage
 fonts.gstatic.com #Fonts for webpage
-www.googletagservices.com #Problem to load pictures, dayviews.com/hanssonfh/493934660/ ZDNET.com Video does not play http://www.zdnet.com
+
 
 docs.google.com #Google Docs
 mtalk.google.com #Google Cloud Messaging
@@ -84,7 +85,7 @@ lh6.ggpht.com #Google Cache Bilder
 cex.io # BITCOIN Exchange
 
 sjs.bizographics.com #Laddar Väldigt segt support sidan https://support.jwplayer.com/faqs/
-cdn.jsdelivr.net #PLAYER
+cdn.jsdelivr.net #PLAYER plejmo.com/sv
 c.evidon.com #PLAYER: ZDNET.COM
 s0.2mdn.net #PLAYER: ZDNET.COM
 imasdk.googleapis.com #PLAYER: ZDNET.COM
@@ -103,16 +104,7 @@ cdn.syndication.twimg.com #TWITTER Feed på Websida Bild.de
 easylist.club #AD-BLOCK DETECTION: Sockshare.net
 media.trafficjunky.net #AD-BLOCK DETECTION: Redtube.com
 acdn.adnxs.com #AD-BLOCK DETECTION: Bild.de ev SVD.se
-cdn1.smartadserver.com #AD-BLOCK DETECTION: Bild.de <- kan tas bort
+
 maxcdn.bootstrapcdn.com AD-BLOCK DETECTION: Seehd.ws
 ping.chartbeat.net #BBC Sport app in the UK
-
-
-# www.googleapis.com #Chrome vet ej 
-#spclient.wg.spotify.com #Spotify vet ej
-#pubads.g.doubleclick.net #NBC Player detects as ad-block
-#tpc.googlesyndication.com #NBC Player detects as ad-block
-#accounts.google.com #Google Vet ej
-#accounts.google.se #Google Vet ej
-#clients5.google.com #Vet ej Ser ut att ladda ads
-
+s2.n4g.com #Web n4g.com -vanligsida bilder + endel ads

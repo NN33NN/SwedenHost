@@ -1,10 +1,6 @@
-
-127.0.0.1 di.insplanet.com #204.13.194.231
-127.0.0.1 oascentral.sears.com #204.13.194.231
+127.0.0.1 oascentral.sears.com #209.244.0.3
 127.0.0.1 ad.adriver.ru #209.244.0.3
-127.0.0.1 ads.trafficjunky.net #209.244.0.3
 127.0.0.1 ads2.contentabc.com #209.244.0.3
-127.0.0.1 adserver.adtechus.com #209.244.0.3
 127.0.0.1 adserver.cxad.cxense.com #209.244.0.3
 127.0.0.1 adspaces.ero-advertising.com #209.244.0.3
 127.0.0.1 as.sexad.net #209.244.0.3
@@ -12,8 +8,6 @@
 127.0.0.1 cdn.sailfish.media #209.244.0.3
 127.0.0.1 clk.tradedoubler.com #209.244.0.3
 127.0.0.1 download.verticdn.com #209.244.0.3
-127.0.0.1 googleads.g.doubleclick.net #209.244.0.3
-127.0.0.1 googleadservices.com #209.244.0.3
 127.0.0.1 haggilder.com #209.244.0.3
 127.0.0.1 in.zog.link #209.244.0.3
 127.0.0.1 in3.zog.link #209.244.0.3
@@ -25,3 +19,23 @@
 127.0.0.1 www.hmads.se #209.244.0.3
 127.0.0.1 www.kuriren.eu #209.244.0.3
 127.0.0.1 www.stadiumstage.com #209.244.0.3
+127.0.0.1 .meddelande.org #(block subs) #31.172.81.158
+127.0.0.1 ads.shorte.st #31.172.81.158
+127.0.0.1 ads.trafficjunky.net #31.172.81.158
+127.0.0.1 adserver.adtechus.com #31.172.81.158
+127.0.0.1 adserving.unibet.com #31.172.81.158
+127.0.0.1 auiviilbp2.com #31.172.81.158
+127.0.0.1 d3et.superxtrme.com #31.172.81.158
+127.0.0.1 dealspure.com #31.172.81.158
+127.0.0.1 di.insplanet.com #31.172.81.158
+127.0.0.1 free-movies.xsf5w89sa9.top #(block subs) #31.172.81.158
+127.0.0.1 googleads.g.doubleclick.net #31.172.81.158
+127.0.0.1 googleadservices.com #31.172.81.158
+127.0.0.1 kampanj.dn.se #31.172.81.158
+127.0.0.1 sm-falback.imgix.net #31.172.81.158
+127.0.0.1 speednetwork14.adk2x.com #31.172.81.158
+127.0.0.1 staticxx.facebook.com #31.172.81.158 
+127.0.0.1 xsvrz.com #31.172.81.158
+127.0.0.1 bullseye.backbeatmedia.com  #31.172.81.158
+
+
