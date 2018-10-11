@@ -1,6 +1,7 @@
 https://www.aljazeera.com/
 https://1.1.1.1/help
 https://dnssec.vs.uni-due.de/
+https://rootcanary.org/test.html
 
 Speed test:
 https://www.dnsperf.com/
@@ -10,3 +11,39 @@ https://www.cdnperf.com/
 
 JAVA
 https://www.jsdelivr.com/
+
+
+
+https://www.snbforums.com/threads/release-dnscrypt-installer-for-asuswrt.36071/page-54#post-420432
+Test: DNS server, DNSSEC and WebRTC
+
+01. DNSSEC validation by dnsmasq Test: (need the firmware v384.6 or Newer for test)
+
+LAN -> DHCP Server:
+Enable DNSSEC support: Yes
+Enable DNS Rebind protection: Yes
+After Enable both, you have to Apply.
+Now you have to do this Test: https://rootcanary.org/test.html
+This message does not have to appear in the System Log, after doing the test or when surfing the Web:
+Jul 28 20:21:49 dnsmasq[13607]: Insecure DS reply received, do upstream DNS servers support DNSSEC?
+Jul 28 20:22:13 dnsmasq[13607]: Insecure DS reply received, do upstream DNS servers support DNSSEC?
+
+02. DNS Spoofability and DNS Entrophy Test:
+https://www.grc.com/dns/dns.htm (scroll down and click on "Initiate Standard DNS Spoofability Test")
+https://www.dns-oarc.net/oarc/services/dnsentropy
+
+03. DNS Leak Test:
+https://www.dnsleaktest.com/ (use Extended test)
+https://ipleak.net/
+
+04. DNSSEC Test:
+http://dnssec.vs.uni-due.de/
+http://0skar.cz/dns/en/
+http://en.conn.internet.nl/connection/
+
+05. WebRTC Leak Test:
+https://browserleaks.com/webrtc
+https://ip8.com/webrtc-test
+https://ipx.ac/run
+https://www.perfect-privacy.com/check-ip/
+https://www.doileak.com/
