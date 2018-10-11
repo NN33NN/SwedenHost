@@ -1,0 +1,176 @@
+CLAS21216
+
+
+Office 2019
+http://alsiti.net/index.php?topic=9300.0
+
+Office 2019 Pro Plus Test MAK:       Activ. Count   : 998300   
+ (???????/??????)
+          
+ PKeyConfig     : Office 2019 ProPlus2019XC2RVL
+ Key            : N9J9Q-Q7MMP-XDDM6-63KKP-76FPM
+ Key Status     : Valid
+ Product ID     : 00400-00000-00001-AA208
+ Extended PID   : XXXXX-04000-000-000001-03-1049-9200.0000-1862018
+ SKU ID         : 0b4e6cfa-3072-434c-b702-bd1836e6887c
+ Description    : Office19_ProPlus2019XC2RVL_MAKC2R
+ Edition ID     : ProPlus2019Volume
+ Sub Type       : X21-72969
+ License Type   : Volume:MAK
+ Channel        : ltMAK
+ Crypto ID      : 4000 (fa0)
+ Activ. Count   : 998300
+ Comment        : 
+
+       
+Office 2019 Project Professional 2019 Test MAK: Activ. Count   : 999850
+ (???????/??????)
+        ================================================
+ PKeyConfig     : Office 2019 ProjectPro2019XC2RVL
+ Key            : F4QWT-NMMKH-XPTV9-W9HFB-B4JCQ
+ Key Status     : Valid
+ Product ID     : 00400-20000-00001-AA363
+ Extended PID   : XXXXX-04002-000-000001-03-1049-9200.0000-1862018
+ SKU ID         : 73fc2508-0fb1-475a-bd6f-2d42fd84c62a
+ Description    : Office19_ProjectPro2019XC2RVL_MAKC2R
+ Edition ID     : ProjectPro2019Volume
+ Sub Type       : X21-72970
+ License Type   : Volume:MAK
+ Channel        : ltMAK
+ Crypto ID      : 4002 (fa2)
+ Activ. Count   : 999850
+ Comment        : 
+
+  
+Office 2019 Visio Professional 2019 Test MAK: Activ. Count   : 999791
+ (???????/??????)
+  PKeyConfig     : Office 2019 VisioPro2019XC2RVL
+ Key            : FHK9Q-NPXKY-QVQ9J-MXWMH-X78CP
+ Key Status     : Valid
+ Product ID     : 00400-10000-00001-AA410
+ Extended PID   : XXXXX-04001-000-000001-03-1049-9200.0000-1862018
+ SKU ID         : 7df5867b-e38f-459f-a590-93c1dd2ef0c6
+ Description    : Office19_VisioPro2019XC2RVL_MAKC2R
+ Edition ID     : VisioPro2019Volume
+ Sub Type       : X21-72971
+ License Type   : Volume:MAK
+ Channel        : ltMAK
+ Crypto ID      : 4001 (fa1)
+ Activ. Count   : 999791
+ Comment        : 
+
+
+Office 2019 Professional2019R PrepidBypass
+ (???????/??????)
+PKeyConfig     : Office 2019 Professional2019R
+Key            : DFJBC-DN3C6-RH4XT-26YYY-K78BY
+Key Status     : Valid
+Product ID     : 00398-40000-00000-AA470
+Extended PID   : XXXXX-03984-000-000000-00-1049-9200.0000-1882018
+SKU ID         : 72621d09-f833-4cc5-812b-2929a06dcf4f
+Description    : Office19_Professional2019R_PrepidBypass
+Edition ID     : Professional2019Retail
+Sub Type       : X21-64690
+License Type   : Retail
+Channel        : ltFree
+Crypto ID      : 3984 (f90)
+Comment      : 
+
+Office 2019 ProPlus2019R PrepidBypass
+ (???????/??????)
+PKeyConfig     : Office 2019 ProPlus2019R
+Key            : W8W6K-3N7KK-PXB9H-8TD8W-BWTH9
+Key Status     : Valid
+Product ID     : 00398-30000-00000-AA912
+Extended PID   : XXXXX-03983-000-000000-00-1049-9200.0000-1882018
+SKU ID         : c3b2612d-58ee-4d9b-ad9d-7568decb29f7
+Description    : Office19_ProPlus2019R_PrepidBypass
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-64688
+License Type   : Retail
+Channel        : ltFree
+Crypto ID      : 3983 (f8f)
+Comment      : 
+Office2019 VisioPro2019R PrepidBypass
+ (???????/??????)
+PKeyConfig     : Office 2019 VisioPro2019R
+Key            : 99YMM-NRFBH-VVMMQ-9F96F-KBWB2
+Key Status     : Valid
+Product ID     : 00398-50000-00000-AA117
+Extended PID   : XXXXX-03985-000-000000-00-1049-9200.0000-1882018
+SKU ID         : 2ea0d3c6-b498-4503-97a1-19ac88ae44e5
+Description    : Office19_VisioPro2019R_PrepidBypass
+Edition ID     : VisioPro2019Retail
+Sub Type       : X21-64689
+License Type   : Retail
+Channel        : ltFree
+Crypto ID      : 3985 (f91)
+Comment      : 
+Office 2019 ProjectPro2019R PrepidBypass
+ (???????/??????)
+================================================
+PKeyConfig     : Office 2019 ProjectPro2019R
+Key            : KDNJ9-G2MPB-HWJB4-DC6C2-DDCWD
+Key Status     : Valid
+Product ID     : 00398-60000-00000-AA740
+Extended PID   : XXXXX-03986-000-000000-00-1049-9200.0000-1882018
+SKU ID         : a1bfbae1-3092-4b33-bf77-0681be6807fe
+Description    : Office19_ProjectPro2019R_PrepidBypass
+Edition ID     : ProjectPro2019Retail
+Sub Type       : X21-64691
+License Type   : Retail
+Channel        : ltFree
+Crypto ID      : 3986 (f92)
+Comment      : 
+
+Office19_RTM19_Access2019VL_KMS_Client_AE
+ (???????/??????)
+      PKeyConfig     : Office 2019 RTM19
+ Key            : 9N9PT-27V4Y-VJ2PD-YXFMF-YTFQT
+ Key Status     : Valid
+ Product ID     : 00402-80000-00000-AA701
+ Extended PID   : XXXXX-04028-000-000000-03-1049-9200.0000-1882018
+ SKU ID         : 9e9bceeb-e736-4f26-88de-763f87dcc485
+ Description    : Office19_RTM19_Access2019VL_KMS_Client_AE
+ Edition ID     : Access2019Volume
+ Sub Type       : X21-74027
+ License Type   : Volume:GVLK
+ Channel        : ltKMS
+ Crypto ID      : 4028 (fbc)
+ Comment        : 
+
+
+Many times you heard that there are OEM Licenses, Retail products keys, Academic Keys etc. and some of us really confused that what is the real difference between these keys. They all are the keys of a same product but why are they categorized like that ? 
+
+The Product keys of Microsoft products are categorized on the basis of there customers. Below is a listing of Product Key types, along with descriptions. Some keys are only available to certain customer types.
+
+Key type shown in UI/Description 
+
+CUS -This custom key requires special actions to activate or install.
+
+MAK -This volume license key (MAK) allows multiple activations.
+
+RTL -This retail key allows multiple activations.
+
+STA -This setup key bypasses activation.
+
+VL1 -This is a VA 1.0 key
+
+OEM -This is an Original Equipment Manufacturer key that allows multiple activations.
+
+AAA -This retail key is for AA* programs and allows one activation. These keys are issued in batches.
+
+AAL -This lab use key is for AA programs and allows multiple activations.**
+
+AAM -This is a multiple activation key for AA program customers.
+
+AV1 -This volume license key (VA 1.0) is for AA programs and allows multiple installations.
+
+AV2 -This volume license key (KMS) is for Academic Alliance programs. 
+
+*AA = Academic Alliance 
+
+IMPORTANT - If you use products that require activation, many allow you to go 30 days without activating. If you re-image your computers more frequently than every 30 days, you may want to consider NOT activating them in these cases - if you have that option based on the product you are installing.
+
+
+https://info.gwdg.de/~ceulig/docs-dev/doku.php?id=en:services:general_services:software_and_license_management:mskms
