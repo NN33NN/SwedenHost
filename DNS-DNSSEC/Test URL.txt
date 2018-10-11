@@ -1,0 +1,11 @@
+https://www.aljazeera.com/
+https://1.1.1.1/help
+
+Speed test:
+https://www.dnsperf.com/
+
+CDNs
+https://www.cdnperf.com/
+
+JAVA
+https://www.jsdelivr.com/
