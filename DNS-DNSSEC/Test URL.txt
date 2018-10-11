@@ -1,5 +1,6 @@
 https://www.aljazeera.com/
 https://1.1.1.1/help
+https://dnssec.vs.uni-due.de/
 
 Speed test:
 https://www.dnsperf.com/
