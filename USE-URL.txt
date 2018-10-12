@@ -4,6 +4,11 @@ https://raw.githubusercontent.com/NN33NN/SwedenHost/master/Special127.0.0.1.txt
 https://raw.githubusercontent.com/NN33NN/SwedenHost/master/Crunchyroll3.txt
 Total: 2614 Domains Blocked
 
+NYA
+https://raw.githubusercontent.com/NN33NN/SwedenHost/master/hosts
+https://raw.githubusercontent.com/NN33NN/SwedenHost/master/Special127.0.0.1Ny.txt
+
+
 Github to host files:
 https://www.labnol.org/internet/free-file-hosting-github/29092/
 
