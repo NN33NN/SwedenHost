@@ -25,6 +25,7 @@
 127.0.0.1 engine.spotscenered.info
 127.0.0.1 free-movies.xsf5w89sa9.top
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 googleadservices.com
 127.0.0.1 impse.tradedoubler.com
 127.0.0.1 in.zog.link
