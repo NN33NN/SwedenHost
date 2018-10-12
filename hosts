@@ -25,7 +25,8 @@ google.f.bez1fd google.f.LmvwCb
 
 
 
-
+127.0.0.1 m.facebook.com
+127.0.0.1 .facebook.com
 127.0.0.1 
 127.0.0.1 scontent.xx.fbcdn.net
 31.172.81.158 staticxx.facebook.com
@@ -48,6 +49,8 @@ graph.facebook.com
 #Check http://www.linksysinfo.org/index.php?threads/asus-rt-n66u-low-nvram.37500/
 sync.bumlam.com pagead2.googlesyndication.com
 
+#https://ip8.com/webrtc-test
+127.0.0.1 autocookie.org
 
 #http://n4g.com/
 127.0.0.1 mad-docs.azurewebsites.net
@@ -871,7 +874,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 portal.fb.com
 127.0.0.1 stats.jpush.cn
 127.0.0.1 people-pa.googleapis.com
-127.0.0.1 app.adjust.com
 127.0.0.1 morrison-software.com
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 config.edge.skype.com
@@ -955,14 +957,8 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 ads-twitter.com
 127.0.0.1 1lniu-yllm6.ads.tremorhub.com
 127.0.0.1 static.pub-ecommerce.crunchyroll.com
-127.0.0.1 http%3A%2F%2Fwww.crunchyroll.com%2Fxml%2F%3Freq%3DRpcApiVideoPlayer_GetStandardConfig%26media_id%3D760339%26video_format%3D103%26video_quality%3D61%26auto_play%3D1%26aff%3Dcrunchyroll-website%26show_pop_out_controls%3D1%26pop_out_disable_message%3DOnly%2BPremium%2Band%2BPremium%252B%2BMembers%2Bcan%2Bpop%2Bout%2Bthis%2Bvideo.%2BGet%2Byour%2Bmembership%2Btoday%2521%26click_through%3D0
 #Chromecast crunchyroll
-127.0.0.1 plg2.yumenetworks.com
-127.0.0.1 search.spotxchange.com
 127.0.0.1 5fd74.v.fwmrm.net
-
-
-
 127.0.0.1 singlewomenmeet.com
 127.0.0.1 d3p2b5qewrnsyv.cloudfront.net
 127.0.0.1 kickplays.com
@@ -970,7 +966,28 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 se.123clk.info
 127.0.0.1 promo.bestcasino.com
 127.0.0.1 join.casino.com
-
+127.0.0.1 cdn2.inner-active.mobi
+127.0.0.1 search.spotxchange.com
+127.0.0.1 3086.content.Swrve.com
+127.0.0.1 cdn.branch.io
+127.0.0.1 app.adjust.com
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 plg2.yumenetworks.com
+127.0.0.1 static.subcdn.com
+127.0.0.1 2mdn.net
+127.0.0.1 s0.mdn.net
+127.0.0.1 gllto.glpals.com
+127.0.0.1 static.youappi.com
+127.0.0.1 daa.shuzilm.cn
+127.0.0.1 adx.hasmobi.net
+127.0.0.1 adt.shuzilm.cn
+127.0.0.1 3086.api.swrve.com
+127.0.0.1 ecommerce-go-api.yopeso.com
+127.0.0.1 api.cx-staging.com
+127.0.0.1 api.cx-proto0.com
+127.0.0.1 pings.conviva.com
+127.0.0.1 cws.conviva.com
+127.0.0.1 vendri.io
 
 
 ##VET ej###
@@ -1000,7 +1017,6 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 
 #http://emudek.net/descargar-cemu-the-legend-of-zelda-breath-of-the-wild-pc-cemu-iso-update-cemu-1-7-5.html
 127.0.0.1 cdn.adf.ly
-#127.0.0.1 adf.ly
 127.0.0.1 www.liveadexchanger.com
 127.0.0.1 velocecdn.com
 127.0.0.1 superfastcdn.com
@@ -1598,7 +1614,7 @@ Tiendeo.se
 127.0.0.1 n4403ad.doubleclick.net
 127.0.0.1 n479ad.doubleclick.net
 127.0.0.1 paypalssl.doubleclick.net
-209.244.0.3 pubads.g.doubleclick.net
+31.172.81.158 pubads.g.doubleclick.net
 127.0.0.1 s2.video.doubleclick.net
 127.0.0.1 survey.g.doubleclick.net
 127.0.0.1 anon.doubleclick.speedera.net
@@ -1639,8 +1655,6 @@ Tiendeo.se
 127.0.0.1 googleanalytics.com
 127.0.0.1 ssl.googleanalytics.com
 127.0.0.1 www.googleanalytics.com
-#127.0.0.1 ssl.googletagservices.com
-#127.0.0.1 googletagservices.com
 127.0.0.1 sassets.vevo.com
 127.0.0.1 m.v.fwmrm.net
 127.0.0.1 www.fwmrm.net
@@ -1649,7 +1663,7 @@ Tiendeo.se
 127.0.0.1 buttons.googlesyndication.com
 127.0.0.1 ytimg.googleusercontent.com
 127.0.0.1 html5shiv.googlecode.com
-127.0.0.1 chart.apis.google.com
+31.172.81.158 chart.apis.google.com
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 metric.gstatic.com
 127.0.0.1 ds.metric.gstatic.com
@@ -1929,7 +1943,7 @@ Tiendeo.se
 0.0.0.0 anetlt.tradedoubler.com
 0.0.0.0 anetse.tradedoubler.com
 0.0.0.0 citrix.tradedoubler.com
-209.244.0.3 clk.tradedoubler.com
+31.172.81.158 clk.tradedoubler.com
 0.0.0.0 clkax.tradedoubler.com
 0.0.0.0 clkde.tradedoubler.com
 0.0.0.0 clkuk.tradedoubler.com #https://financer.com/sv/kort/ikano-kort/redirect/
@@ -1961,7 +1975,7 @@ Tiendeo.se
 0.0.0.0 impno.tradedoubler.com
 0.0.0.0 imppl.tradedoubler.com
 0.0.0.0 impru.tradedoubler.com
-0.0.0.0 impse.tradedoubler.com
+31.172.81.158 impse.tradedoubler.com
 0.0.0.0 pf.tradedoubler.com
 0.0.0.0 pdt.tradedoubler.com
 0.0.0.0 publisher.tradedoubler.com
@@ -2035,7 +2049,6 @@ Tiendeo.se
 # [ADS] Youtube 2017
 
 127.0.0.1 2975c.v.fwmrm.net
-127.0.0.1 2mdn.net
 127.0.0.1 ad.youtube.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 dts.innovid.com
@@ -2087,13 +2100,15 @@ Tiendeo.se
 
 # [DownloadFiles] Savefrom.net
 
-209.244.0.3 ad.adriver.ru
+31.172.81.158 ad.adriver.ru
+127.0.0.1 inter1ads.com
+127.0.0.1 pusherism.com
 
 # [DownloadFiles] Solidfiles.com
 
 127.0.0.1 liveadexchanger.com
 127.0.0.1 www.onclickpulse.com
-209.244.0.3 cdn.sailfish.media
+31.172.81.158 cdn.sailfish.media
 0.0.0.0 nbriskerry.com
 
 # [DownloadFiles] Uploadocean.com
@@ -2440,7 +2455,7 @@ Tiendeo.se
 0.0.0.0 bn-01.adtomafusion.net
 127.0.0.1 fusion.dn.se
 127.0.0.1 x.klarnacdn.net
-209.244.0.3 adserver.cxad.cxense.com
+31.172.81.158 adserver.cxad.cxense.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 dmp.adform.net
 127.0.0.1 ondemand.klarna.com
@@ -2485,7 +2500,8 @@ Tiendeo.se
 
 0.0.0.0 delivery.adnuntius.com
 0.0.0.0 cdn.adnuntius.com
-209.244.0.3 widgets.boka.holiday
+127.0.0.1 cdn.cxense.com
+31.172.81.158 widgets.boka.holiday
 0.0.0.0 s3-eu-west-1.amazonaws.com
 
 # [News] Expressen.se
@@ -2494,7 +2510,7 @@ Tiendeo.se
 127.0.0.1 sync.adaptv.advertising.com
 127.0.0.1 dsp.adfarm1.adition.com
 127.0.0.1 ads.rubiconproject.com
-209.244.0.3 biowebb-data.s3.amazonaws.com
+31.172.81.158 biowebb-data.s3.amazonaws.com
 127.0.0.1 storyads.storymedia.se
 127.0.0.1 sting.de17a.com
 127.0.0.1 a.cdn-expressen.se
@@ -2555,7 +2571,7 @@ Tiendeo.se
 
 # [News] Mvt.se
 
-209.244.0.3 webbannons.ntm.eu
+31.172.81.158 webbannons.ntm.eu
 
 # [News] Nytimes.com/cooking.nytimes.com
 127.0.0.1 us-central1-nyt-ckgadmin-dev.cloudfunctions.net
@@ -2589,7 +2605,8 @@ Tiendeo.se
 127.0.0.1 e2.emediate.se
 127.0.0.1 eas4.emediate.eu
 127.0.0.1 sifomedia.nsd.se
-209.244.0.3 www.kuriren.eu
+31.172.81.158 www.kuriren.eu
+127.0.0.1 d.suntcontent.se
 
 # [News] Nyheter24.se
 
@@ -2643,7 +2660,7 @@ Tiendeo.se
 
 # [News] Nyteknik.se
 
-209.244.0.3 www.hmads.se
+31.172.81.158 www.hmads.se
 127.0.0.1 t.myvisitors.se
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 nbes.se
@@ -2837,7 +2854,7 @@ Tiendeo.se
 127.0.0.1 www.nbes.se
 127.0.0.1 backend.nbes.se
 127.0.0.1 rum-static.pingdom.net
-209.244.0.3 www.stadiumstage.com
+31.172.81.158 www.stadiumstage.com
 127.0.0.1 syndication.twitter.com
 
 # [WEB] Coupons.com
@@ -2859,7 +2876,7 @@ Tiendeo.se
 127.0.0.1 cdn-images.mailchimp.com
 127.0.0.1 dp.g.doubleclick.net
 127.0.0.1 images.smartname.com
-209.244.0.3 download.verticdn.com
+31.172.81.158 download.verticdn.com
 127.0.0.1 10xdownloads.com
 127.0.0.1 ww8.verticdn.com
 
@@ -3038,9 +3055,11 @@ Tiendeo.se
 
 # [WEB] Sears.com
 
-204.13.194.231 oascentral.sears.com
+#OLD#204.13.194.231 oascentral.sears.com
+31.172.81.158 oascentral.sears.com
 127.0.0.1 4719316.fls.doubleclick.net
 127.0.0.1 cat.hlserve.com
+127.0.0.1 pop.telluride.sears.com
 
 # [WEB] Shutterstock.com
 
@@ -3348,19 +3367,23 @@ Tiendeo.se
 127.0.0.1 onclickmax.com
 
 # [VIDEO] Putlocker.ac/.fm/.ist Sockshare.net
-
+.35.193.89.147 #Firewallblock
 127.0.0.1 cdn.engine.spotscenered.info
 127.0.0.1 asmedia.adsupplyssl.com
 127.0.0.1 www.u1trkqf.com
-127.0.0.1 engine.spotscenered.info
+31.172.81.158 engine.spotscenered.info
+31.172.81.158 35.193.89.147
+31.172.81.158 redirect.llnk.eu
+31.172.81.158 uno.win-now.co
 127.0.0.1 www.performanceadexchange.com
 127.0.0.1 u1trkqf.com
 127.0.0.1 redonetype.com
-127.0.0.1 serve.popads.net
+31.172.81.158 serve.popads.net
+31.172.81.158 constintptr.com
 127.0.0.1 tt1.openload.co
 127.0.0.1 cdn.engine.phn.doublepimp.com
-127.0.0.1 engine.phn.doublepimp.com
-127.0.0.1 syndication.exdynsrv.com
+31.172.81.158 engine.phn.doublepimp.com
+31.172.81.158 syndication.exdynsrv.com
 #127.0.0.1 thumb.oloadcdn.net
 127.0.0.1 propvideo.net
 127.0.0.1 jsc.mgid.com
@@ -3429,11 +3452,18 @@ Tiendeo.se
 0.0.0.0 toolfaster-8234239.pw
 
 # [VIDEO] Kinox.to / Seehd.ws
-
+https://www.kinos.to/Stream/Searching.html
+127.0.0.1 piguiqproxy.com
+31.172.81.158 jf71qh5v14.com
+31.172.81.158 pop.bid
+31.172.81.158 tabdevappff.cool
+127.0.0.1 onclickmega.com
+127.0.0.1 onclicksuper.com
+127.0.0.1 b.adexchangemachine.com
+127.0.0.1 c.adexchangemachine.com
 127.0.0.1 maxonclick.com
 127.0.0.1 adexchangedirect.com
 127.0.0.1 brightonclick.com
-
 127.0.0.1 www.bnserving.com
 127.0.0.1 www.predictiondisplay.com
 127.0.0.1 pl11799763.puserving.com
@@ -3441,7 +3471,7 @@ Tiendeo.se
 127.0.0.1 t1.streamango.com
 127.0.0.1 cm.mgid.com
 127.0.0.1 c.adskeeper.co.uk
-209.244.0.3 mg.adskeeper.co.uk
+31.172.81.158 mg.adskeeper.co.uk
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 servicer.adskeeper.co.uk
 127.0.0.1 cdn.adskeeper.co.uk
@@ -3526,11 +3556,44 @@ Tiendeo.se
 
 # [XXX] Efukt.com
 
-0.0.0.0 ssl-promo-m.bongacams.com
-0.0.0.0 ssl-i.bongacams.com
-0.0.0.0 tools.bongacams.com
-0.0.0.0 i2.bongacams.com
-0.0.0.0 i3.bongacams.com
+127.0.0.1 ssl-promo-m.bongacams.com
+127.0.0.1 ssl-i.bongacams.com
+127.0.0.1 tools.bongacams.com
+127.0.0.1 i2.bongacams.com
+127.0.0.1 i3.bongacams.com
+127.0.0.1 promo-bc.com
+127.0.0.1 db.promo-bc.com
+127.0.0.1 i.bongacash.com
+
+# [XXX] www.realgfporn.com
+#https://www.realgfporn.com/videos/crazy-eyes-got-too-much-fucked-cant-you-see-that---264790.html?utm_source=efukt
+127.0.0.1 adxserve.net
+127.0.0.1 st.adxxx.info
+127.0.0.1 ads.exosrv.com
+127.0.0.1 imlive.com
+127.0.0.1 main.exosrv.com
+127.0.0.1 exoclick.com
+127.0.0.1 ie7-js.googlecode.com
+127.0.0.1 seecontentdelivery.info
+127.0.0.1 ppbnewsupdate.info
+127.0.0.1 c.sharethis.mgr.consensu.org
+127.0.0.1 buttons-config.sharethis.com
+127.0.0.1 platform-api.sharethis.com
+31.172.81.158 mmofreegames.online
+31.172.81.158 emented.pro
+
+
+#***Kolla**
+
+#http://www.haihentai.com/perfect-tits-anime-teen-schoolgirl-uncensored-incest-sex-tube/
+127.0.0.1 static.trafficjunky.com
+127.0.0.1 cdn.popcash.net
+127.0.0.1 dcba.popcash.net
+127.0.0.1 localsexlookup.com
+127.0.0.1 impregnatemygf.com
+127.0.0.1 www.addtoany.com
+127.0.0.1 main.exoclick.com
+
 
 # [XXX] Motherless.com
 
@@ -3543,7 +3606,7 @@ Tiendeo.se
 0.0.0.0 syndication.traffichaus.com
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 secureimage.securedataimages.com
-209.244.0.3 adspaces.ero-advertising.com
+31.172.81.158 adspaces.ero-advertising.com
 127.0.0.1 data.eroadvertising.com
 
 # [XXX] Nudevista.com
@@ -3562,7 +3625,7 @@ Tiendeo.se
 
 # [XXX] Nuvidp.com
 
-0.0.0.0 syndication.exosrv.com
+31.172.81.158 syndication.exosrv.com
 0.0.0.0 main.exosrv.com
 0.0.0.0 ads.exosrv.com
 0.0.0.0 t.nuvidp.com
@@ -3571,7 +3634,7 @@ Tiendeo.se
 # [XXX] Pornfun.com
 
 127.0.0.1 rum-collector.pingdom.net
-127.0.0.1 syndication.exoclick.com
+31.172.81.158 syndication.exoclick.com
 127.0.0.1 kitbit.net
 127.0.0.1 front.facetz.net
 127.0.0.1 counter.yadro.ru
@@ -3584,31 +3647,38 @@ Tiendeo.se
 127.0.0.1 etahub.com
 127.0.0.1 cdne-st.redtubefiles.com
 127.0.0.1 doublepimpssl.com
-127.0.0.1 www.doublepimpssl.com
+31.172.81.158 www.doublepimpssl.com
 127.0.0.1 cdn1-smallimg.phncdn.com
 0.0.0.0 cp.abbp1.pw
 127.0.0.1 s2.userzoom.com
 127.0.0.1 vz-cdn.contentabc.com
 127.0.0.1 ht.redtube.com
-209.244.0.3 ads2.contentabc.com
+31.172.81.158 ads2.contentabc.com
 127.0.0.1 hw-cdn.contentabc.com
 
-# [XXX] Sunporno.com
 
+# [XXX] Sunporno.com
+#https://www.sunporno.com/videos/1355534/japanese-cutie-mei-wakana-is-eager-to-ride-a-dick
 127.0.0.1 a.o333o.com
 127.0.0.1 a.adnium.com
 127.0.0.1 i.adnium.com
-209.244.0.3 st.sunporno.com
+31.172.81.158 st.sunporno.com
 127.0.0.1 spots.fuckandcdn.com
+127.0.0.1 click.livejasmin.com
+127.0.0.1 click.jasmin.com
+127.0.0.1 pt.ptawe.com
+
 
 # [XXX] Voyeurhit.com
-
+#https://voyeurhit.com/videos/horny-peeper-voyeur-xxx-movie71534/
 127.0.0.1 pixcp.bangdom.com
-209.244.0.3 in.zog.link
-209.244.0.3 in3.zog.link
+31.172.81.158 in.zog.link
+31.172.81.158 in3.zog.link
 127.0.0.1 cdn1.traffichaus.com
 127.0.0.1 js.bulkhentai.com
 209.244.0.3 as.sexad.net
+127.0.0.1 data.ero-advertising.co
+127.0.0.1 go.ero-advertising.com
 127.0.0.1 t8.bangbrosnetwork.com
 
 # [XXX] Xhamster.com
