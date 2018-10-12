@@ -9,7 +9,6 @@ https://raw.githubusercontent.com/NN33NN/SwedenHost/master/hosts
 https://raw.githubusercontent.com/NN33NN/SwedenHost/master/Special127.0.0.1Ny.txt
 Total: 2830 Domains Blocked
 
-
 Github to host files:
 https://www.labnol.org/internet/free-file-hosting-github/29092/
 
@@ -25,3 +24,7 @@ Start: /jffs/scripts/amtm  or amtm
 Install Diversion:
 curl -Os https://diversion.ch/install && sh install
 Start: diversion
+
+Pxelserv Status:
+https://192.168.2.2/servstats
+http://192.168.2.2/servstats
