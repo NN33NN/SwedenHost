@@ -7,6 +7,7 @@ Total: 2614 Domains Blocked
 NYA
 https://raw.githubusercontent.com/NN33NN/SwedenHost/master/hosts
 https://raw.githubusercontent.com/NN33NN/SwedenHost/master/Special127.0.0.1Ny.txt
+Total: 2830 Domains Blocked
 
 
 Github to host files:
