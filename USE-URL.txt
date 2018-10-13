@@ -28,3 +28,5 @@ Start: diversion
 Pxelserv Status:
 https://192.168.2.2/servstats
 http://192.168.2.2/servstats
+CA: https://192.168.2.2/ca.crt
+https://192.168.2.2/ca.key
