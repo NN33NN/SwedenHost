@@ -1,15 +1,92 @@
 127.0.0.1 localhost #ForSystem apps
 ::1 localhost-ipv6 #ForSystem apps
 # Count lines: http://www.somacon.com/p568.php
-##ADS
+##ADS - Provider Test
 #https://www.quora.com/How-do-I-stop-seeing-ads-on-Google
 #http://www.youronlinechoices.com/se/dina-val
 #https://l3.evidon.com/site/425/3445/22?lang=en-us
+# http://optout.networkadvertising.org/
+#List of ADS providers:
+#https://vendorlist.consensu.org/vendorlist.json (open in firefox)
+
+
+##Måste kolla på
+###https://www36.zippyshare.com/v/UoFouSXr/file.html
+
+
+#http://jamalrullah.nextwapblog.com/vid/aydJnJfo3bw/android-kitkat-4-4-4-on-samsung-galaxy-5-gt-i5500.html
+0.0.0.0 adserver.adreactor.com
+0.0.0.0 nextwapblog.com
+0.0.0.0 code.jquery.com
+
+#http://www.mediafire.com/download/a1sphc0f1rcz4rb/gapps-kk442-20140225-sdext-v2.0.zip
+31.172.81.158 engine.addroplet.com
+
+#tre.se
+0.0.0.0 az416426.vo.msecnd.net
+
+#https://www.sammobile.com/firmwares/galaxy-c7/SM-C7000/
+0.0.0.0 api.pushbird.com
+0.0.0.0 cdn.pushbird.com
+0.0.0.0 pushbird.com
+0.0.0.0 static.digidip.net
+0.0.0.0 sammobile.pushbird.com
+.pushbird.com
+
+#https://www.theverge.com/forums
+#https://www.theverge.com/reviews
+#https://www.theverge.com/2018/10/1/17914550/acer-predator-x27-144hz-4k-gaming-monitor-review
+0.0.0.0 yt3.ggpht.com #Youtube thingy
+0.0.0.0 concertads-configs.vox-cdn.com
+0.0.0.0 cdn.concert.io
+0.0.0.0 sofia.trustx.org
+0.0.0.0 tlx.3lift.com
+0.0.0.0 sbnationbidder-d.openx.net
+0.0.0.0 optimize-stats.voxmedia.com
+0.0.0.0 mb.moatads.com
+0.0.0.0 sejs.moatads.com
+0.0.0.0 eus.rubiconproject.com
+0.0.0.0 adfarm.mediaplex.com
+0.0.0.0 log.outbrainimg.com
+
+#TOP5 BROWSERS
+#https://www.youtube.com/watch?v=y2WTBi6gb0c
+
+#TEST https://www.youtube.com/watch?reload=9&reload=9&v=9EvONGlrYk4
+.ds.metric.gstatic.com
+0.0.0.0 id.google.com
+0.0.0.0 cdnjs.cloudflare.com
+
+
+[news] WWW.wsj.com
+0.0.0.0 sts3.wsj.net
+0.0.0.0 segment-data.zqtk.net
+0.0.0.0 static.analytics.artirix.com
+
+#www.reddit.com
+#https://www.reddit.com/r/windows/comments/7cdpx3/ms_edge_extension_like_noscript/
+0.0.0.0 styles.redditmedia.com
+0.0.0.0 gateway.reddit.com
+0.0.0.0 www.redditmedia.com
+0.0.0.0 c.aaxads.com
+0.0.0.0 aaxdetect.com
+0.0.0.0 l.aaxads.com
+0.0.0.0 alb.reddit.com
+
+#https://www.oberlo.com/blog/youtube-ads-beginners-launch-first-campaign
+0.0.0.0 adserver.oberlo.cloud
+0.0.0.0 app.oberlo.com
+0.0.0.0 b.frstre.com
+0.0.0.0 beacon.tapfiliate.com
+0.0.0.0 static.tapfiliate.com
+0.0.0.0 v.shopify.com
+0.0.0.0 cdn.shopify.com
 
 #http://irq5.io/2012/12/10/hacking-functionality-into-asuswrt-routers/
 #https://www.site24x7.com/find-ip-address-of-web-site.html
 #---Pixel--Servers ###http://get-site-ip.com/###
 #sync.bumlam.com (white pixel) 31.172.81.158 Works 31.172.81.159
+#Kommer i från http://adsniper.ru/  ca.crt
 #browsers.support  (White screen) https://browsers.support/get-subscription.html
 #https://load77.exelator.com/pixel.gif
 #https://csync.viralgains.com/sync?state=11&prevstate=10
@@ -52,6 +129,29 @@ sync.bumlam.com pagead2.googlesyndication.com
 #https://ip8.com/webrtc-test
 127.0.0.1 autocookie.org
 
+
+
+#http://optout.networkadvertising.org/
+127.0.0.1 cdn.pubmatic.com
+
+
+#Hemnet.se
+127.0.0.1 ads.playground.xyz
+127.0.0.1 cm.eyereturn.com
+127.0.0.1 csyn.cxense.com
+127.0.0.1 id.rlcdn.com
+127.0.0.1 idpix.media6degrees.com
+127.0.0.1 magnetic.t.domdex.com
+127.0.0.1 match.bnmla.com
+127.0.0.1 match.prod.bidr.io
+127.0.0.1 match.rundsp.com
+127.0.0.1 pmp.mxptint.net
+127.0.0.1 pubmatic-match.dotomi.com
+127.0.0.1 rtb.adentifi.com
+127.0.0.1 rtb.gumgum.com
+127.0.0.1 simage4.pubmatic.com
+
+
 #http://n4g.com/
 127.0.0.1 mad-docs.azurewebsites.net
 127.0.0.1 cdn.connatix.com
@@ -66,6 +166,146 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 slckg-kqe2e.ads.tremorhub.com
 127.0.0.1 slckg-lyoc5.ads.tremorhub.com
 .ads.tremorhub.com
+
+# http://www.youronlinechoices.com/se/dina-val
+#http://www.youronlinechoices.com/
+127.0.0.1 cs.atdmt.com
+127.0.0.1 guce.oath.com
+127.0.0.1 optout.helios.ligatus.com
+127.0.0.1 optout.mookie1.com
+127.0.0.1 privacy.mynsystems.com
+127.0.0.1 prmgr.a3cloud.net
+127.0.0.1 selfservice.plista.com
+127.0.0.1 www.mathtag.com
+127.0.0.1 a.intentmedia.net
+127.0.0.1 ad-choices.spot.im
+127.0.0.1 ad.vi-tag.net
+127.0.0.1 ads.programattik.com
+127.0.0.1 aimfar.solution.weborama.fr
+127.0.0.1 all.orfr.adgtw.orangeads.fr
+127.0.0.1 api.choice.bing.com
+127.0.0.1 api.choice.live.com
+127.0.0.1 api.choice.microsoft.com
+127.0.0.1 api.choice.msn.com
+127.0.0.1 cdn.amgdgt.com
+127.0.0.1 choice.microsoft.com
+127.0.0.1 cookie.ucg.smart-dmp.com
+127.0.0.1 de17a.com
+127.0.0.1 edaa.sharethis.com
+127.0.0.1 et.twyn.com
+127.0.0.1 eu-sonar.sociomantic.com
+127.0.0.1 euoptout.mookie1.com
+127.0.0.1 feed.4wnet.com
+127.0.0.1 fld.vmmpxl.com
+127.0.0.1 fps.mynsystems.com
+127.0.0.1 g.live.com
+127.0.0.1 go.affec.tv
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 guce.adap.tv
+127.0.0.1 guce.adaptv.advertising.com
+127.0.0.1 guce.adtech.de
+127.0.0.1 guce.adtechjp.com
+127.0.0.1 guce.adtechus.com
+127.0.0.1 guce.advertising.com
+127.0.0.1 guce.convertro.com
+127.0.0.1 guce.nexage.com
+127.0.0.1 guce.tacoda.at.atwola.com
+127.0.0.1 guce.yahoo.com
+127.0.0.1 info.criteo.com
+127.0.0.1 insight.fonecta.fi
+127.0.0.1 o.bluekai.com
+127.0.0.1 oba.uimserv.net
+127.0.0.1 opt-out.zdbb.net
+127.0.0.1 opt-out.ziffdavis.com
+127.0.0.1 opt.semasio.net
+127.0.0.1 optout.addthis.com
+127.0.0.1 optout.agkn.com
+127.0.0.1 optout.cdnwidget.com
+127.0.0.1 optout.crwdcntrl.net
+127.0.0.1 optout.exelator.com
+127.0.0.1 optout.intellitxt.com
+127.0.0.1 optout.jaduda.com
+127.0.0.1 optout.netmng.com
+127.0.0.1 optout.outbrain.com
+127.0.0.1 optout.taboola.com
+127.0.0.1 optout.tynt.com
+127.0.0.1 optout.vmweb.net
+127.0.0.1 optout.yieldoptimizer.com
+127.0.0.1 partner.knorex.com
+127.0.0.1 pix.impdesk.com
+127.0.0.1 pixel.everesttech.net
+127.0.0.1 pixel.sojern.com
+127.0.0.1 po.st
+127.0.0.1 pool.admedo.com
+127.0.0.1 privacy.himediads.com
+127.0.0.1 privacy.nuggad.net
+127.0.0.1 privacy.tapad.com
+127.0.0.1 privacy.teads.tv
+127.0.0.1 privacy.tidaltv.com
+127.0.0.1 r.254a.com
+127.0.0.1 r.scoota.co
+127.0.0.1 r1.zemanta.com
+127.0.0.1 red.vtracy.de
+127.0.0.1 rtb.adgrx.com
+127.0.0.1 s.cpx.to
+127.0.0.1 servedby.ipromote.com
+127.0.0.1 tag.leadplace.fr
+127.0.0.1 tr.brand-display.com
+127.0.0.1 track.adform.net #lllll
+127.0.0.1 tracking.emerse.com
+127.0.0.1 tracking.publicidees.com
+127.0.0.1 trk.adbutter.net
+127.0.0.1 turboadv.com
+127.0.0.1 u.openx.net
+127.0.0.1 ups.emetriq.de
+127.0.0.1 usucmweb.dotomi.com
+127.0.0.1 veads.veinteractive.com
+127.0.0.1 white.mynsystems.com
+127.0.0.1 www.audiencemanager.de
+127.0.0.1 www.hlserve.com
+127.0.0.1 www.infectiousmedia.com
+127.0.0.1 www.leiki.com
+127.0.0.1 www.rlcdn.com
+127.0.0.1 www.smartadserver.com
+127.0.0.1 www.wearemiq.com
+127.0.0.1 yoc.optout.redirectingat.com
+127.0.0.1 yoc.optout.skimresources.com
+127.0.0.1 you.visualdna.com
+
+#https://l3.evidon.com/site/425/3445/22?lang=en-us
+127.0.0.1 optout.evidon.com
+127.0.0.1 a.netmng.com
+127.0.0.1 clearstream.tv
+127.0.0.1 consumer.krxd.net
+127.0.0.1 domdex.com
+127.0.0.1 dsp.logly.co.jp
+127.0.0.1 i.w55c.net
+127.0.0.1 optout.mxptint.net
+127.0.0.1 optout.prod.bidr.io
+127.0.0.1 p.liadm.com
+127.0.0.1 rtb.sitescout.com
+127.0.0.1 sync.im-apps.net
+127.0.0.1 tag.clrstm.com
+127.0.0.1 www.acuityads.com
+127.0.0.1 www.aggregateknowledge.com
+127.0.0.1 www.clearstream.tv
+127.0.0.1 www.lijit.com
+127.0.0.1 www.valassisdigital.com
+
+# https://sourceforge.net/projects/asuswrt-merlin/files/
+127.0.0.1 analytics.slashdotmedia.com
+127.0.0.1 ap.lijit.com 
+127.0.0.1 audit.quantcast.mgr.consensu.org
+127.0.0.1 d3tglifpd8whs6.cloudfront.net
+127.0.0.1 dfp.bizx.info
+127.0.0.1 dmx.districtm.io
+127.0.0.1 match.taboola.com
+127.0.0.1 p4-a3weruhjsbecu-nwddtrmxt4w6j7m7-840550-i1-v6exp3.ds.metric.gstatic.com
+127.0.0.1 pixel-sync.sitescout.com
+127.0.0.1 rtb.4finance.com
+127.0.0.1 rtb.mfadsrvr.com
+127.0.0.1 server.exposebox.com
+127.0.0.1 www.storygize.net
 
 #https://www.releases.com/p/fast-striker
 127.0.0.1 ecdn.firstimpression.io
@@ -112,12 +352,27 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 e2ertt.com
 127.0.0.1 perf.cdnads.com
 
+#http://downloadmirror.co/Wvw/C7000ZCU2BRB1_C7000CHC2BRB1_CHC.zip
+0.0.0.0 cdn1.developermedia.com
+0.0.0.0 cdn2.developermedia.com
+0.0.0.0 apps.developermedia.com
+
+#http://www.shopzilla.com/digital-cameras/402/products
+0.0.0.0 advertising.bizrate.com
+0.0.0.0 s.cxt.ms
+0.0.0.0 connexity.net
 
 #http://corneey.com/wL0hdd
-127.0.0.1 rizk.com
-127.0.0.1 rotumal.com
+#http://sh.st/UcvRT
+127.0.0.1 go.onclasrv.com
+127.0.0.1 lpo.mediaonspot.com
+127.0.0.1 ww2.sh.st
+127.0.0.1 d3ud741uvs727m.cloudfront.net
+31.172.81.158 rizk.com
+31.172.81.158 rotumal.com
 127.0.0.1 mt.rtmark.net
 31.172.81.158 ads.shorte.st
+127.0.0.1 analytics.shorte.st
 127.0.0.1 static.shorte.st
 127.0.0.1 sax.peakonspot.com
 127.0.0.1 d3ud741uvs727m.cloudfront.net
@@ -777,7 +1032,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 cdn-us.air.tv
 127.0.0.1 event-listener.air.tv
 127.0.0.1 embed.air.tv
-127.0.0.1 cdn.rawgit.com
+0.0.0.0 cdn.rawgit.com
 127.0.0.1 sri.jsintegrity.com
 127.0.0.1 stat.komoona.com
 127.0.0.1 s.komoona.com
@@ -798,8 +1053,8 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 pixel.s3xified.com
 127.0.0.1 sync.adotmob.com
 127.0.0.1 sync.ipredictive.com
-127.0.0.1 sync.bumlam.com
-127.0.0.1 sync3.adsniper.ru
+#127.0.0.1 sync.bumlam.com ##33
+#127.0.0.1 sync3.adsniper.ru ##33
 127.0.0.1 usync.nexage.com
 127.0.0.1 lb.statsevent.com
 127.0.0.1 prebid.adnxs.com
@@ -1195,8 +1450,8 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 
 
 #askvg.com
-127.0.0.1 adservice.google.se
-127.0.0.1 adservice.google.com
+0.0.0.0 adservice.google.se
+0.0.0.0 adservice.google.com
 
 # metro.se
 127.0.0.1 aka-cdn-ns.adtech.de
@@ -1676,6 +1931,7 @@ Tiendeo.se
 127.0.0.1 adwords.google.com
 127.0.0.1 clients.l.google.com
 127.0.0.1 googleadapis.l.google.com
+127.0.0.1 a1089.d.akamai.net
 127.0.0.1 googlesyndication.com
 127.0.0.1 google-analytics.com
 127.0.0.1 www.google-analytics.com
@@ -2042,7 +2298,7 @@ Tiendeo.se
 
 # [ADS] Yandex.ru
 
-127.0.0.1 mc.yandex.ru
+0.0.0.0 mc.yandex.ru
 127.0.0.1 an.yandex.ru
 127.0.0.1 yandex.st
 
@@ -3430,6 +3686,8 @@ Tiendeo.se
 127.0.0.1 o.addthis.com
 127.0.0.1 cw.addthis.com
 127.0.0.1 su.addthis.com
+127.0.0.1 s8.addthis.com
+127.0.0.1 ds-s7.addthis.com.edgekey.net
 127.0.0.1 s7.addthis.com
 127.0.0.1 s4.histats.com
 127.0.0.1 e.dtscout.com
@@ -3570,6 +3828,7 @@ https://www.kinos.to/Stream/Searching.html
 127.0.0.1 adxserve.net
 127.0.0.1 st.adxxx.info
 127.0.0.1 ads.exosrv.com
+127.0.0.1 yvk8gxz2.ab1n.net
 127.0.0.1 imlive.com
 127.0.0.1 main.exosrv.com
 127.0.0.1 exoclick.com
