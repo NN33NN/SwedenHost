@@ -9,10 +9,39 @@
 #List of ADS providers:
 #https://vendorlist.consensu.org/vendorlist.json (open in firefox)
 
+#http://activetect.net/-60928UYKF/7g8X?rndad=1353355499-1540154416
+0.0.0.0 d1nmxiiewlx627.cloudfront.net
+31.172.81.158 s1-adfly.com
 
 ##Måste kolla på
 ###https://www36.zippyshare.com/v/UoFouSXr/file.html
+https://www83.zippyshare.com/v/cwWzpMB1/file.html
+0.0.0.0 rosemand.pro
+31.172.81.158 p232207.clksite.com
+31.172.81.158 rtbvideobox.com
+31.172.81.158 www.maxonclick.com
+0.0.0.0 d10lumateci472.cloudfront.net
+0.0.0.0 qcontentdelivery.info
+0.0.0.0 arrarcontentdelivery.info
+0.0.0.0 prequire.info
+0.0.0.0 ipreparty.info
+0.0.0.0 ministedik.info
+0.0.0.0 imgg-cdn.adskeeper.co.uk
+0.0.0.0 imgg-cdn.mgid.com
+0.0.0.0 xml.ppc.buzz
+31.172.81.158 pushmobilenews.com
+0.0.0.0 fingahvf.top
+0.0.0.0 pl14704306.pvclouds.com
+0.0.0.0 gz06x5tqlj.com
+0.0.0.0 zippydownload.pro
+.pvclouds.com
+.clksite.com
 
+
+
+#https://shell.boxwares.com/Download.aspx?L=3241
+0.0.0.0 widget.replain.cc
+0.0.0.0 0-edge-chat.facebook.com
 
 #http://jamalrullah.nextwapblog.com/vid/aydJnJfo3bw/android-kitkat-4-4-4-on-samsung-galaxy-5-gt-i5500.html
 0.0.0.0 adserver.adreactor.com
@@ -120,6 +149,7 @@ api.facebook.com
 graph.facebook.com
 127.0.0.1 an.facebook.com
 127.0.0.1 developers.facebook.com
+##scontent-arn2-1.xx.fbcdn.net/v/t1.0-0/q85/s350x350/29573226_1843873535911747_7532097488964766313_n.jpg
 
 
 31.172.81.158 googleads.g.doubleclick.net
@@ -319,25 +349,25 @@ sync.bumlam.com pagead2.googlesyndication.com
 
 
 #https://allfreeworld2u.blogspot.com/2018/09/microsoft-office-2016-professional-plus.html
-127.0.0.1 g27zkdvsxl.com
-127.0.0.1 mybestmv.com
-127.0.0.1 ie8eamus.com
-127.0.0.1 4c7og3qcob.com
-127.0.0.1 dgafgadsgkjg.top
-127.0.0.1 native.propellerads.com
-127.0.0.1 i62e2b4mfy.com
-127.0.0.1 n.pc1ads.com
-127.0.0.1 tdt2.user-api.com
-127.0.0.1 cdn.user-api.com
-127.0.0.1 r.remarketingpixel.com
-127.0.0.1 push-notifications.top
-127.0.0.1 p226975.mycdn.co
-127.0.0.1 p226975.clksite.com
-127.0.0.1 soujoobafoo.com
-127.0.0.1 beta.mybestmv.com
-127.0.0.1 www.pcmclks.com
-127.0.0.1 resources.blogblog.com
-127.0.0.1 ekoatchooze.com
+31.172.81.158 g27zkdvsxl.com
+31.172.81.158 mybestmv.com
+31.172.81.158 ie8eamus.com
+31.172.81.158 4c7og3qcob.com
+31.172.81.158 dgafgadsgkjg.top
+31.172.81.158 native.propellerads.com
+31.172.81.158 i62e2b4mfy.com
+31.172.81.158 n.pc1ads.com
+31.172.81.158 tdt2.user-api.com
+31.172.81.158 cdn.user-api.com
+31.172.81.158 r.remarketingpixel.com
+31.172.81.158 push-notifications.top
+31.172.81.158 p226975.mycdn.co
+31.172.81.158 p226975.clksite.com
+31.172.81.158 soujoobafoo.com
+31.172.81.158 beta.mybestmv.com
+31.172.81.158 www.pcmclks.com
+31.172.81.158 resources.blogblog.com
+31.172.81.158 ekoatchooze.com
 .mycdn.co
 
 #https://www.file-upload.com/9j2bw0ha3781
@@ -409,7 +439,7 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 photos-ugc.l.googleusercontent.com
 127.0.0.1 dart.l.doubleclick.net
 .eu-west-1.elb.amazonaws.com
-0.0.0.0 youtu.be
+##0.0.0.0 youtu.be https://youtu.be/glCSADGFkFw
 0.0.0.0 host.youtube.com
 0.0.0.0 mx.youtube.com
 0.0.0.0 admin.youtube.com
@@ -2716,7 +2746,7 @@ Tiendeo.se
 127.0.0.1 dmp.adform.net
 127.0.0.1 ondemand.klarna.com
 127.0.0.1 js-agent.newrelic.com
-127.0.0.1 bam.nr-data.net
+0.0.0.0 bam.nr-data.net
 127.0.0.1 cdn.mouseflow.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 ums.adtech.de
