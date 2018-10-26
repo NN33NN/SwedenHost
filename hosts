@@ -3,6 +3,7 @@
 # Count lines: http://www.somacon.com/p568.php
 #Cash: https://shrinkearn.com/
 ##ADS - Provider Test
+Ny OPTOUT 2018: https://preferences-mgr.truste.com/?pid=forbes01
 #https://www.quora.com/How-do-I-stop-seeing-ads-on-Google
 #http://www.youronlinechoices.com/se/dina-val
 #https://l3.evidon.com/site/425/3445/22?lang=en-us
@@ -2880,7 +2881,7 @@ Tiendeo.se
 127.0.0.1 sifomedia.tidningsnatet.se
 127.0.0.1 ues.mmcloud.se
 127.0.0.1 bidder.criteo.com
-127.0.0.1 static.criteo.net
+0.0.0.0 static.criteo.net
 
 # [News] Helagotland.se
 
@@ -2927,7 +2928,7 @@ Tiendeo.se
 127.0.0.1 ct.pinterest.com
 127.0.0.1 et.nytimes.com
 127.0.0.1 messaging-notifications.api.nytimes.com
-127.0.0.1 contextual.media.net
+0.0.0.0 contextual.media.net
 127.0.0.1 typeface.nyt.com
 127.0.0.1 geoip.newsdev.nytimes.com
 127.0.0.1 rec.api.nytimes.com
@@ -3252,7 +3253,11 @@ Tiendeo.se
 127.0.0.1 4606178.fls.doubleclick.net
 
 # [WEB] Forbes.com
-
+#https://www.forbes.com/sites/jasonevangelho/2018/10/23/sorry-windows-10-has-yet-another-file-deleting-bug-that-microsoft-missed/#7555a7b46d8e
+#https://i.forbesimg.com/ng2/c9f783e341d408fa231d.vendors.js
+127.0.0.1 g.co
+0.0.0.0 adservex.media.net
+#0.0.0.0 cdn.embedly.com
 127.0.0.1 s.mnet-ad.net
 
 # [WEB] Forum.ru-board.com
