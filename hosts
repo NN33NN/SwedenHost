@@ -1,6 +1,7 @@
 127.0.0.1 localhost #ForSystem apps
 ::1 localhost-ipv6 #ForSystem apps
 # Count lines: http://www.somacon.com/p568.php
+#Cash: https://shrinkearn.com/
 ##ADS - Provider Test
 #https://www.quora.com/How-do-I-stop-seeing-ads-on-Google
 #http://www.youronlinechoices.com/se/dina-val
@@ -8,21 +9,71 @@
 # http://optout.networkadvertising.org/
 #List of ADS providers:
 #https://vendorlist.consensu.org/vendorlist.json (open in firefox)
+#White screen Only for port 80
+#185.26.230.136:80 (does not work if long url)ariane.abtasty.com https: timeout long time OLD:31.172.81.158
+
+#http://www.technicalmicky.com/2018/09/EFT-Dongle-v1.4.0-Cracked-With-Loader-Free-Download.html
+31.172.81.158 keyrolan.com
+31.172.81.158 proxappdom.cool
+
+#DNS-Router atk
+0.0.0.0 0gyenb54-324c8a009517fc8b42970ce9fabeb19dd485aa9f-mob.d.aa.online-metrix.net
+0.0.0.0 0gyenb54-779e64c990faf8578086c9322009462f1ee9afdd-mob.d.aa.online-metrix.net
+.online-metrix.net
+
+#https://forums.hardwarezone.com.sg/internet-bandwidth-networking-clinic-4/%5Bmaylyns-review%5D-asus-rt-ac87u-4781419-271.html
+0.0.0.0 adtag.sphdigital.com
+
+#https://www.overclock.net/forum/18049-network-hardware/1605759-n66u-router-loosing-connection.html
+0.0.0.0 fundingchoices.google.com
+0.0.0.0 contributor.google.com
+0.0.0.0 cdn.threadloom.com
+
+#http://linkshrink.net/75dexS
+0.0.0.0 betclick.hs.llnwd.net
+0.0.0.0 d.la1-c1-frf.salesforceliveagent.com
+0.0.0.0 sportapi.begmedia.com
+0.0.0.0 begmedia.blob.core.windows.net
+0.0.0.0 dcinfos.abtasty.com
+0.0.0.0 ariane.abtasty.com
+0.0.0.0 try.abtasty.com
+0.0.0.0 webresources.begmedia.com
+0.0.0.0 wlbetclic.adsrv.eacdn.com
+31.172.81.158 xml.trafficmoose.com
+31.172.81.158 q8eqh.top
+31.172.81.158 r.remarketingpixel.com
+31.172.81.158 navilinkext.cool
+
+
+Kolla
+https://www.techspot.com/downloads/6086-samsung-smart-switch.html
+https://www.filehorse.com/download-samsung-smart-switch/
+
 
 #http://activetect.net/-60928UYKF/7g8X?rndad=1353355499-1540154416
+#http://activetect.net/-36721EDWX/33BiX?rndad=1353338400-1540305976
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
+0.0.0.0 djz9es32qen64.cloudfront.net
 31.172.81.158 s1-adfly.com
+185.26.230.136 varielcontentdelivery.info
+185.26.230.136 ncontentdelivery.info
+31.172.81.158 redirect2719.ws
+#31.172.81.158 activetect.net #Download server
+31.172.81.158 pushwhy.com
+31.172.81.158 basepush.com
+31.172.81.158 pushame.com
+.ncontentdelivery.info
 
 ##Måste kolla på
 ###https://www36.zippyshare.com/v/UoFouSXr/file.html
 https://www83.zippyshare.com/v/cwWzpMB1/file.html
 0.0.0.0 rosemand.pro
 31.172.81.158 p232207.clksite.com
-31.172.81.158 rtbvideobox.com
-31.172.81.158 www.maxonclick.com
-0.0.0.0 d10lumateci472.cloudfront.net
-0.0.0.0 qcontentdelivery.info
-0.0.0.0 arrarcontentdelivery.info
+185.26.230.136 rtbvideobox.com
+185.26.230.136 www.maxonclick.com
+31.172.81.158 d10lumateci472.cloudfront.net
+185.26.230.136 qcontentdelivery.info
+185.26.230.136 arrarcontentdelivery.info
 0.0.0.0 prequire.info
 0.0.0.0 ipreparty.info
 0.0.0.0 ministedik.info
@@ -130,7 +181,7 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 google.f.bez1fd google.f.LmvwCb
 
 
-
+0.0.0.0 fbcdn-sphotos-g-a.akamaihd.net
 127.0.0.1 m.facebook.com
 127.0.0.1 .facebook.com
 127.0.0.1 
@@ -153,6 +204,8 @@ graph.facebook.com
 
 
 31.172.81.158 googleads.g.doubleclick.net
+#185.26.230.136 
+https://linux.101hacks.com/unix/crond/
 #Check http://www.linksysinfo.org/index.php?threads/asus-rt-n66u-low-nvram.37500/
 sync.bumlam.com pagead2.googlesyndication.com
 
@@ -359,7 +412,6 @@ sync.bumlam.com pagead2.googlesyndication.com
 31.172.81.158 n.pc1ads.com
 31.172.81.158 tdt2.user-api.com
 31.172.81.158 cdn.user-api.com
-31.172.81.158 r.remarketingpixel.com
 31.172.81.158 push-notifications.top
 31.172.81.158 p226975.mycdn.co
 31.172.81.158 p226975.clksite.com
@@ -417,7 +469,7 @@ sync.bumlam.com pagead2.googlesyndication.com
 
 #https://nyafilmerhd.com/
 127.0.0.1 uptobranding.com
-31.172.81.158 speednetwork14.adk2x.com
+185.26.230.136 speednetwork14.adk2x.com
 31.172.81.158 .meddelande.org #(block subs)
 31.172.81.158 free-movies.xsf5w89sa9.top #(block subs)
 31.172.81.158 auiviilbp2.com
@@ -3721,7 +3773,7 @@ Tiendeo.se
 127.0.0.1 s7.addthis.com
 127.0.0.1 s4.histats.com
 127.0.0.1 e.dtscout.com
-127.0.0.1 go.pub2srv.com
+31.172.81.158 go.pub2srv.com
 127.0.0.1 track.sitetag.us
 127.0.0.1 www.adnigma.com
 127.0.0.1 n-cdn.areyouahuman.com
