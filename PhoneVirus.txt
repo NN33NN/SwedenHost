@@ -1,0 +1,63 @@
+
+
+#PhoneVirus
+## 0.0.0.0 ie3wisa4.com
+## 0.0.0.0 newstarads.com
+0.0.0.0 pushinnotify.com
+0.0.0.0 rt4626.ariocroft.com
+0.0.0.0 ariocroft.com
+0.0.0.0 1y.googlo.co
+0.0.0.0 googlo.co
+0.0.0.0 n08h4uphxazo6.megcm.xyz
+0.0.0.0 megcm.xyz
+0.0.0.0 v5.time2notification.com
+0.0.0.0 time2notification.com
+0.0.0.0 hjpr.directlinkkpush.com
+0.0.0.0 directlinkkpush.com
+0.0.0.0 androidnotif.com
+0.0.0.0 nlu0.nuclearlytu.info
+0.0.0.0 nuclearlytu.info
+0.0.0.0 sfamc.special-promotions.online
+0.0.0.0 special-promotions.online
+0.0.0.0 www.predictiondexchange.com
+0.0.0.0 gm.whatsaappp.com
+0.0.0.0 whatsaappp.com
+0.0.0.0 k3.news-subscribe.com
+0.0.0.0 ob.news-subscribe.com
+0.0.0.0 news-subscribe.com
+0.0.0.0 traffic.focuusing.com
+0.0.0.0 focuusing.com
+0.0.0.0 www.money-now-from-crypto.xyz
+0.0.0.0 96y0.funnwebs.com
+0.0.0.0 funnwebs.com
+0.0.0.0 uno.win-now.co
+0.0.0.0 win-now.co
+0.0.0.0 bu.yahoo-news.co
+0.0.0.0 yahoo-news.co
+0.0.0.0 rx42.4ipda.com
+0.0.0.0 4ipda.com
+0.0.0.0 9f.check-now.net
+0.0.0.0 check-now.net
+0.0.0.0 your.infodelivery.site
+0.0.0.0 infodelivery.site
+0.0.0.0 www.nuggitgames.com
+
+#**UW_Block filter
+.ariocroft.com
+.googlo.co
+.megcm.xyz
+.time2notification.com
+.directlinkkpush.com
+.nuclearlytu.info
+.special-promotions.online
+.whatsaappp.com
+.news-subscribe.com
+.focuusing.com
+.funnwebs.com
+.win-now.co
+.yahoo-news.co
+.4ipda.com
+.check-now.net
+.infodelivery.site
+
+

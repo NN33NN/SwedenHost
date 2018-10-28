@@ -13,9 +13,114 @@ Ny OPTOUT 2018: https://preferences-mgr.truste.com/?pid=forbes01
 #White screen Only for port 80
 #185.26.230.136:80 (does not work if long url)ariane.abtasty.com https: timeout long time OLD:31.172.81.158
 
+
+#https://download.cnet.com/360-Total-Security/3000-2239_4-76145154.html
+0.0.0.0 s.yimg.com
+0.0.0.0 dw.cbsi.com
+0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 js-sec.indexww.com
+0.0.0.0 som.cbsi.com
+0.0.0.0 cdn.cast.upload.cnet.com
+0.0.0.0 cdn.optimizely.com
+0.0.0.0 tags.tiqcdn.com
+0.0.0.0 cbsi.demdex.net
+0.0.0.0 z.moatads.com
+0.0.0.0 dpm.demdex.net
+0.0.0.0 cdn.viglink.com
+0.0.0.0 www.everestjs.net
+0.0.0.0 cdn.taboola.com
+31.172.81.158 schema.org
+0.0.0.0 a.fdlstatic.com
+0.0.0.0 a1.fdlstatic.com
+0.0.0.0 a2.fdlstatic.com
+#0.0.0.0 a3.fdlstatic.com
+0.0.0.0 tags.tiqcdn.com
+0.0.0.0 i.i.cbsi.com
+0.0.0.0 vidtech.cbsinteractive.com
+
+#PhoneVirus
+## 31.172.81.158 ie3wisa4.com
+## 31.172.81.158 newstarads.com
+31.172.81.158 pushinnotify.com
+31.172.81.158 rt4626.ariocroft.com
+31.172.81.158 ariocroft.com
+31.172.81.158 1y.googlo.co
+31.172.81.158 googlo.co
+31.172.81.158 n08h4uphxazo6.megcm.xyz
+31.172.81.158 megcm.xyz
+31.172.81.158 v5.time2notification.com
+31.172.81.158 time2notification.com
+31.172.81.158 hjpr.directlinkkpush.com
+31.172.81.158 directlinkkpush.com
+31.172.81.158 androidnotif.com
+31.172.81.158 nlu0.nuclearlytu.info
+31.172.81.158 nuclearlytu.info
+31.172.81.158 sfamc.special-promotions.online
+31.172.81.158 special-promotions.online
+31.172.81.158 www.predictiondexchange.com
+31.172.81.158 gm.whatsaappp.com
+31.172.81.158 whatsaappp.com
+31.172.81.158 k3.news-subscribe.com
+31.172.81.158 ob.news-subscribe.com
+31.172.81.158 news-subscribe.com
+31.172.81.158 traffic.focuusing.com
+31.172.81.158 focuusing.com
+31.172.81.158 www.money-now-from-crypto.xyz
+31.172.81.158 96y0.funnwebs.com
+31.172.81.158 funnwebs.com
+31.172.81.158 uno.win-now.co
+31.172.81.158 win-now.co
+31.172.81.158 bu.yahoo-news.co
+31.172.81.158 yahoo-news.co
+31.172.81.158 rx42.4ipda.com
+31.172.81.158 4ipda.com
+31.172.81.158 9f.check-now.net
+31.172.81.158 check-now.net
+31.172.81.158 your.infodelivery.site
+31.172.81.158 infodelivery.site
+31.172.81.158 www.nuggitgames.com
+
+#**UW_Block filter
+.ariocroft.com
+.googlo.co
+.megcm.xyz
+.time2notification.com
+.directlinkkpush.com
+.nuclearlytu.info
+.special-promotions.online
+.whatsaappp.com
+.news-subscribe.com
+.focuusing.com
+.funnwebs.com
+.win-now.co
+.yahoo-news.co
+.4ipda.com
+.check-now.net
+.infodelivery.site
+
+#https://www.techspot.com/downloads/6086-samsung-smart-switch.html
+#https://www.ziffdavis.com/
+0.0.0.0 coordinatedcub.com
+0.0.0.0 cdn.static.zdbb.net
+0.0.0.0 walker.zdbb.net
+0.0.0.0 zdbb.net
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 vendorlist.consensu.org
+0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 static.quantcast.mgr.consensu.org
+0.0.0.0 static.adziff.com
+0.0.0.0 cdn.nsstatic.com
+0.0.0.0 cdn.nsstatic.net
+0.0.0.0 g.pcmag.com
+0.0.0.0 gurgle.zdbb.net
+
 #http://www.technicalmicky.com/2018/09/EFT-Dongle-v1.4.0-Cracked-With-Loader-Free-Download.html
 31.172.81.158 keyrolan.com
 31.172.81.158 proxappdom.cool
+
+#https://theendivechronicles.com/cat-emoticons.html
+0.0.0.0 c.statcounter.com
+0.0.0.0 www.statcounter.com
 
 #DNS-Router atk
 0.0.0.0 0gyenb54-324c8a009517fc8b42970ce9fabeb19dd485aa9f-mob.d.aa.online-metrix.net
@@ -45,10 +150,19 @@ Ny OPTOUT 2018: https://preferences-mgr.truste.com/?pid=forbes01
 31.172.81.158 r.remarketingpixel.com
 31.172.81.158 navilinkext.cool
 
+#https://uploadfiles.io/
+0.0.0.0 stickssheep.com
+0.0.0.0 dna8twue3dlxq.cloudfront.net
+0.0.0.0 source.unsplash.com
+0.0.0.0 tranquilside.com
 
-Kolla
-https://www.techspot.com/downloads/6086-samsung-smart-switch.html
-https://www.filehorse.com/download-samsung-smart-switch/
+#https://files.fm/u/qtn9zdf7
+0.0.0.0 gtlv.hit.gemius.pl
+0.0.0.0 ls.hit.gemius.pl
+0.0.0.0 googlecm.hit.gemius.pl
+0.0.0.0 fv2.failiem.lv
+0.0.0.0 ag.innovid.com
+0.0.0.0 support.google.com #Metric
 
 
 #http://activetect.net/-60928UYKF/7g8X?rndad=1353355499-1540154416
@@ -98,7 +212,6 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 #http://jamalrullah.nextwapblog.com/vid/aydJnJfo3bw/android-kitkat-4-4-4-on-samsung-galaxy-5-gt-i5500.html
 0.0.0.0 adserver.adreactor.com
 0.0.0.0 nextwapblog.com
-0.0.0.0 code.jquery.com
 
 #http://www.mediafire.com/download/a1sphc0f1rcz4rb/gapps-kk442-20140225-sdext-v2.0.zip
 31.172.81.158 engine.addroplet.com
@@ -136,8 +249,6 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 #TEST https://www.youtube.com/watch?reload=9&reload=9&v=9EvONGlrYk4
 .ds.metric.gstatic.com
 0.0.0.0 id.google.com
-0.0.0.0 cdnjs.cloudflare.com
-
 
 [news] WWW.wsj.com
 0.0.0.0 sts3.wsj.net
@@ -284,7 +395,6 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 fps.mynsystems.com
 127.0.0.1 g.live.com
 127.0.0.1 go.affec.tv
-127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 guce.adap.tv
 127.0.0.1 guce.adaptv.advertising.com
 127.0.0.1 guce.adtech.de
@@ -1296,7 +1406,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 1lniu-yllm6.ads.tremorhub.com
 127.0.0.1 static.pub-ecommerce.crunchyroll.com
 #Chromecast crunchyroll
-127.0.0.1 5fd74.v.fwmrm.net
+127.0.0.1 5fd74.v.fwmrm.net #Must be blocked in router
 127.0.0.1 singlewomenmeet.com
 127.0.0.1 d3p2b5qewrnsyv.cloudfront.net
 127.0.0.1 kickplays.com
@@ -3477,6 +3587,7 @@ Tiendeo.se
 
 127.0.0.1 fusion.adtoma.com
 127.0.0.1 se-01.adtomafusion.net
+0.0.0.0 tv4-trailers.b17g.net
 
 # [WEB] Waves.com
 

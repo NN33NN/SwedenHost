@@ -49,6 +49,7 @@ play.googleapis.com #Google Playbutik Mobil
 android.clients.google.com #GoogleDrive Upload files MobPhone
 apis.google.com #Google.hangout.com + Youtube This restores the "g-hovercard"
 
+
 imasdk.googleapis.com #Player/Video at zdnet.com
 clients2.google.com #Chrome Plugin error message saying "An error has occurred: Download interrupted" pops up.
 tools.google.com #Chrome update problems, aren't blocked
@@ -94,12 +95,18 @@ orange.fruity.pw #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
 images-na.ssl-images-amazon.com #Bilder på https://www.amazon.com
 api.cxense.com #ystadsallehanda.se Rekomenderat för dej
 track.adform.net #Klickar på ads redirection tex https://mitti.se/
+quantcast.mgr.consensu.org #Sourceforge.net Cookie inorder to download files
+static.quantcast.mgr.consensu.org #Sourceforge.net Cookie inorder to download files
+vendorlist.consensu.org #Sourceforge.net Cookie inorder to download files
+api.quantcast.mgr.consensu.org #Sourceforge.net Cookie inorder to download files
 
 img1.ak.crunchyroll.com #Chruncyroll
 i.ytimg.com #Youtube
 mx1.youtube.com #Youtube
 mx0.youtube.com #Youtube
 cdn.syndication.twimg.com #TWITTER Feed på Websida Bild.de
+code.jquery.com #Upload does not work uploadfiles.io
+cdnjs.cloudflare.com #Fuckup https://ww3.rongdat.info/cute-cat-emoticons-gif/
 
 easylist.club #AD-BLOCK DETECTION: Sockshare.net
 media.trafficjunky.net #AD-BLOCK DETECTION: Redtube.com
