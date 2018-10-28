@@ -1,4 +1,12 @@
 ##Nya Ej i Host filen
+0.0.0.0 notification-browser.com
+0.0.0.0 brucelead.com
+0.0.0.0 pnr2145.brucelead.com
+0.0.0.0 bestadbid.com
+0.0.0.0 darvorn.com
+0.0.0.0 newsherb.info
+0.0.0.0 my.rtmark.net
+
 0.0.0.0 nagt1.apusapps.com
 0.0.0.0 cdn.hasmobi.net
 #0.0.0.0 star.c10r.facebook.com  <- Vet ej
