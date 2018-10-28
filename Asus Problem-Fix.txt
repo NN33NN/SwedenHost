@@ -1,0 +1,28 @@
+Auto ping in every sec:
+dns.msftncsi.com
+
+SSH into router, then typ:
+
+nvram show | sort | more
+nvram show | grep dns_probe
+dns_probe_host=dns.msftncsi.com
+size: 60724 bytes (4812 left)
+dns_probe_content=131.107.255.255 112.4.20.71 fd3e:4f5a:5b81::1
+
+
+nvram show | grep dns_probe_content
+nvram show | grep dns_probe_host
+nvram show | grep dns_delay_round
+
+Use FIX:
+nvram set dns_probe_content=127.0.0.1
+nvram set dns_probe_host=""
+nvram commit
+reboot
+
+https://www.reddit.com/r/pihole/comments/5nkjfp/excessive_requests_to_dnsmsftncsicom_for_asus/
+
+https://www.snbforums.com/threads/constant-unwanted-traffic-to-dns-msftncsi-com-from-rt-ac66u.35367/
+
+
+https://www.google.com/search?q=asus+dns.msftncsi.com&oq=asus+dns.msftncsi.com&aqs=chrome..69i57j69i61.1671j0j4&sourceid=chrome&ie=UTF-8
