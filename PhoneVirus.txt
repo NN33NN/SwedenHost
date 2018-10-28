@@ -1,6 +1,19 @@
-
+##Nya Ej i Host filen
+0.0.0.0 nagt1.apusapps.com
+0.0.0.0 cdn.hasmobi.net
+#0.0.0.0 star.c10r.facebook.com  <- Vet ej
+0.0.0.0 dppjoczqcxkv0.cloudfront.net
+0.0.0.0 yanyne.online
+0.0.0.0 midas.apusapps.com
+0.0.0.0 s.apusapps.com
+0.0.0.0 det.hasmobi.net
+0.0.0.0 sbiz.apusapps.com
+0.0.0.0 dcc.shuzilm.cn
+0.0.0.0 sbiz.subcdn.com
+0.0.0.0 hbk.shuzilm.cn
 
 #PhoneVirus
+## 0.0.0.0 ogrovom.xyz
 ## 0.0.0.0 ie3wisa4.com
 ## 0.0.0.0 newstarads.com
 0.0.0.0 pushinnotify.com
