@@ -1,0 +1,147 @@
+##Nya Ej i Host filen
+# Count lines: http://www.somacon.com/p568.php
+#https://raw.githubusercontent.com/NN33NN/SwedenHost/master/PhoneVirus3.txt
+
+0.0.0.0 duapps-website.gshifen.com
+0.0.0.0 cdn-adn.rayjump.com
+0.0.0.0 cdn-adn-foreign.rayjump.com
+0.0.0.0 de01.smardroid.com
+0.0.0.0 mblapi.ssl2.duapps.com
+0.0.0.0 cdn.webnottify.com
+0.0.0.0 api.applink.site
+0.0.0.0 creation.conversation-memory.com 
+0.0.0.0 media.rsconf.online
+0.0.0.0 rutipansouls.info #Weirdpage
+0.0.0.0 pushedwebnews.com
+0.0.0.0 static.pushedwebnews.com
+0.0.0.0 o12zs3u2n.com
+0.0.0.0 star.c10r.facebook.com #<- Vet ej
+0.0.0.0 star-mini.c10r.facebook.com
+0.0.0.0 tracking.perfecttoolmedia.com
+0.0.0.0 sv.magicred.com
+0.0.0.0 online.magicred.com
+0.0.0.0 gamesrv1.magicred.com
+0.0.0.0 www.magicred.com
+0.0.0.0 download.gamesrv1.com
+0.0.0.0 fnc.aspireglobal.com
+0.0.0.0 record.eshkol.com
+0.0.0.0 asgwebapi.gameserver1-mt.com
+0.0.0.0 info.magicred.com
+0.0.0.0 d3tpuxked45kzt.cloudfront.net
+0.0.0.0 dispatch.look.io
+
+0.0.0.0 newsherb.info
+0.0.0.0 gurfv.pro
+0.0.0.0 track.special-offers.online
+0.0.0.0 special-offers.online
+0.0.0.0 ocio.leadzu.com
+0.0.0.0 pefwfw.pro
+0.0.0.0 dadbab.info
+0.0.0.0 xl-trk.com
+0.0.0.0 mlacloop.info
+0.0.0.0 pomerous.info
+0.0.0.0 csoku.peerclicktrk.com
+0.0.0.0 eu2.hottracker.biz
+0.0.0.0 feed.notifications.press
+0.0.0.0 dg2gly3g6yxtc.cloudfront.net
+0.0.0.0 just.ninjaonly.com
+0.0.0.0 mangellor-chardence.com
+0.0.0.0 new.modernaffiliates.com
+0.0.0.0 diraqi-offastics.com
+0.0.0.0 avgcheckerforsoft.com
+0.0.0.0 xml.leoyard.com
+0.0.0.0 junnify.xml.ak-is2.net
+0.0.0.0 kurlichan.com
+0.0.0.0 mobile5shop.com
+0.0.0.0 www.modulepush.com
+0.0.0.0 redirect.youtrackdomain.com
+0.0.0.0 mobiletrk.click-now.today
+0.0.0.0 peerclick.trafficmanager.net
+0.0.0.0 rus1.hottracker.biz
+0.0.0.0 trustednotice.news
+0.0.0.0 4c7og3qcob.com
+0.0.0.0 scango.pro
+0.0.0.0 meddelande.org
+0.0.0.0 yanyne.online
+0.0.0.0 notification-browser.com
+0.0.0.0 brucelead.com
+0.0.0.0 pnr2145.brucelead.com
+0.0.0.0 bestadbid.com
+0.0.0.0 darvorn.com
+0.0.0.0 my.rtmark.net
+0.0.0.0 nagt1.apusapps.com
+0.0.0.0 cdn.hasmobi.net
+0.0.0.0 dppjoczqcxkv0.cloudfront.net
+0.0.0.0 midas.apusapps.com
+0.0.0.0 s.apusapps.com
+0.0.0.0 det.hasmobi.net
+0.0.0.0 sbiz.apusapps.com
+0.0.0.0 dcc.shuzilm.cn
+0.0.0.0 sbiz.subcdn.com
+0.0.0.0 hbk.shuzilm.cn
+
+#PhoneVirus
+## 0.0.0.0 mdory.space
+## 0.0.0.0 ogrovom.xyz
+## 0.0.0.0 ie3wisa4.com
+## 0.0.0.0 newstarads.com
+0.0.0.0 pushinnotify.com
+0.0.0.0 rt4626.ariocroft.com
+0.0.0.0 ariocroft.com
+0.0.0.0 1y.googlo.co
+0.0.0.0 googlo.co
+0.0.0.0 n08h4uphxazo6.megcm.xyz
+0.0.0.0 megcm.xyz
+0.0.0.0 v5.time2notification.com
+0.0.0.0 time2notification.com
+0.0.0.0 hjpr.directlinkkpush.com
+0.0.0.0 directlinkkpush.com
+0.0.0.0 androidnotif.com
+0.0.0.0 nlu0.nuclearlytu.info
+0.0.0.0 nuclearlytu.info
+0.0.0.0 sfamc.special-promotions.online
+0.0.0.0 special-promotions.online
+0.0.0.0 www.predictiondexchange.com
+0.0.0.0 gm.whatsaappp.com
+0.0.0.0 whatsaappp.com
+0.0.0.0 k3.news-subscribe.com
+0.0.0.0 ob.news-subscribe.com
+0.0.0.0 news-subscribe.com
+0.0.0.0 traffic.focuusing.com
+0.0.0.0 focuusing.com
+0.0.0.0 www.money-now-from-crypto.xyz
+0.0.0.0 96y0.funnwebs.com
+0.0.0.0 funnwebs.com
+0.0.0.0 uno.win-now.co
+0.0.0.0 win-now.co
+0.0.0.0 bu.yahoo-news.co
+0.0.0.0 yahoo-news.co
+0.0.0.0 rx42.4ipda.com
+0.0.0.0 4ipda.com
+0.0.0.0 9f.check-now.net
+0.0.0.0 check-now.net
+0.0.0.0 your.infodelivery.site
+0.0.0.0 infodelivery.site
+0.0.0.0 www.nuggitgames.com
+
+#**UW_Block filter
+ariocroft.com #PhoneVirus
+googlo.co #PhoneVirus
+megcm.xyz #PhoneVirus
+time2notification.com #PhoneVirus
+directlinkkpush.com #PhoneVirus
+nuclearlytu.info #PhoneVirus
+special-promotions.online #PhoneVirus
+whatsaappp.com #PhoneVirus
+news-subscribe.com #PhoneVirus
+focuusing.com #PhoneVirus
+funnwebs.com #PhoneVirus
+win-now.co #PhoneVirus
+yahoo-news.co #PhoneVirus
+4ipda.com #PhoneVirus
+check-now.net #PhoneVirus
+infodelivery.site #PhoneVirus
+brucelead.com #PhoneVirus
+leadzu.com #PhoneVirus
+
+
