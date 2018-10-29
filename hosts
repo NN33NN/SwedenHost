@@ -13,12 +13,73 @@ Ny OPTOUT 2018: https://preferences-mgr.truste.com/?pid=forbes01
 #White screen Only for port 80
 #185.26.230.136:80 (does not work if long url)ariane.abtasty.com https: timeout long time OLD:31.172.81.158
 
+Fortsätt:
+https://www.scarymommy.com/i-dont-like-being-a-mother/
+https://pi-hole.net/pages-to-test-ad-blocking-performance/
+
+
+#https://www.prevention.com/food-nutrition/a20499756/20-super-healthy-smoothie-recipes/
+0.0.0.0 iabmap.evidon.com
+
+#https://thepioneerwoman.com/cooking/pws_chex_party_mix/
+0.0.0.0 stats.wp.com
+0.0.0.0 www.statcounter.com
+0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
+0.0.0.0 sheknows-affiliate.t.domdex.com
+0.0.0.0 ads.blogherads.com
+0.0.0.0 catrg.peer39.com
+0.0.0.0 peer39.com
+0.0.0.0 tagan.adlightning.com
+0.0.0.0 widget-prime.rafflecopter.com
+
+
+#https://sleepingshouldbeeasy.com/
+#https://sleepingshouldbeeasy.com/2018/10/18/how-to-prepare-for-twins/
+0.0.0.0 ads.adthrive.com
+0.0.0.0 cafemedia-d.openx.net
+0.0.0.0 apex.go.sonobi.com
+0.0.0.0 js.center.io
+0.0.0.0 my.leadpages.net
+0.0.0.0 api.leadpages.io
+0.0.0.0 static.leadpages.net
+0.0.0.0 api.convertkit.com
+0.0.0.0 cdn.convertkit.com
+#0.0.0.0 convertkit.s3.amazonaws.com
+31.172.81.158 forms.convertkit.com
+31.172.81.158 sumomethumbs-140a.kxcdn.com
+31.172.81.158 sumomewelcomemat-140a.kxcdn.com
+0.0.0.0 load.sumo.com
+0.0.0.0 sumo.b-cdn.net
+0.0.0.0 sumo.com
+
+
+#https://www.bl.ink/features/
+0.0.0.0 blink.refersion.com
+0.0.0.0 secure.gaug.es
+
+
+#https://www.wired.com/story/google-android-9-pie/
+0.0.0.0 cdn.accelerator.arsdev.net
+0.0.0.0 segmentation.condenastdigital.com
+0.0.0.0 infinityid.condenastdigital.com
+0.0.0.0 capture.condenastdigital.com
+0.0.0.0 pixel.condenastdigital.com
+##www.gq.com
+0.0.0.0 static.bam-x.com
+0.0.0.0 skimresources.com
+0.0.0.0 4d.condenastdigital.com
+
+
+
+#https://matome.naver.jp/
+0.0.0.0 im.ov.yahoo.co.jp
+0.0.0.0 yads.yjtag.yahoo.co.jp
+0.0.0.0 yads.c.yimg.jp
 
 #https://download.cnet.com/360-Total-Security/3000-2239_4-76145154.html
 0.0.0.0 s.yimg.com
 0.0.0.0 dw.cbsi.com
 0.0.0.0 mtrx.go.sonobi.com
-0.0.0.0 js-sec.indexww.com
 0.0.0.0 som.cbsi.com
 0.0.0.0 cdn.cast.upload.cnet.com
 0.0.0.0 cdn.optimizely.com
@@ -39,6 +100,7 @@ Ny OPTOUT 2018: https://preferences-mgr.truste.com/?pid=forbes01
 0.0.0.0 vidtech.cbsinteractive.com
 
 #PhoneVirus
+## 31.172.81.158 ogrovom.xyz
 ## 31.172.81.158 ie3wisa4.com
 ## 31.172.81.158 newstarads.com
 31.172.81.158 pushinnotify.com
@@ -981,7 +1043,7 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 use.typekit.net
 127.0.0.1 p.typekit.net
 127.0.0.1 performance.typekit.net
-127.0.0.1 s0.wp.com
+
 
 #https://apkpure.com/upday-news-for-samsung/de.axelspringer.yana/download?from=details
 127.0.0.1 a.apkpure.com
@@ -3043,7 +3105,7 @@ Tiendeo.se
 127.0.0.1 geoip.newsdev.nytimes.com
 127.0.0.1 rec.api.nytimes.com
 127.0.0.1 tagx.nytimes.com
-127.0.0.1 js-sec.indexww.com
+0.0.0.0 js-sec.indexww.com
 
 # [News] Nordic.businessinsider.com
 

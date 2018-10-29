@@ -1,6 +1,7 @@
 ##Nya Ej i Host filen
 # Count lines: http://www.somacon.com/p568.php
 #https://raw.githubusercontent.com/NN33NN/SwedenHost/master/PhoneVirus3.txt
+nrcapi.ssl2.duapps.com
 
 0.0.0.0 duapps-website.gshifen.com
 0.0.0.0 cdn-adn.rayjump.com
