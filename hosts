@@ -17,6 +17,23 @@ Fortsätt:
 https://www.scarymommy.com/i-dont-like-being-a-mother/
 https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
+#https://www.scarymommy.com/i-dont-like-being-a-mother/
+0.0.0.0 seg.ad.gt
+0.0.0.0 a.ad.gt
+0.0.0.0 p.ad.gt
+0.0.0.0 pixels.ad.gt
+0.0.0.0 somespider-ash.gscontxt.net
+0.0.0.0 adserver.pressboard.ca
+0.0.0.0 storage.cloud.kargo.com
+
+##www.gq.com
+0.0.0.0 wms.assoc-amazon.com
+
+#http://forum.youmobile.org/
+#http://forum.youmobile.org/downloads/Galaxy_C7_SMC7000601_CHC-30064
+0.0.0.0 www.feedgrabbr.com
+0.0.0.0 adtag.technoratimedia.com
+0.0.0.0 ad-cdn.technoratimedia.com
 
 #https://www.prevention.com/food-nutrition/a20499756/20-super-healthy-smoothie-recipes/
 0.0.0.0 iabmap.evidon.com
@@ -64,7 +81,6 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 pixel.condenastdigital.com
-##www.gq.com
 0.0.0.0 static.bam-x.com
 0.0.0.0 skimresources.com
 0.0.0.0 4d.condenastdigital.com
@@ -2124,7 +2140,7 @@ Tiendeo.se
 127.0.0.1 n4403ad.doubleclick.net
 127.0.0.1 n479ad.doubleclick.net
 127.0.0.1 paypalssl.doubleclick.net
-31.172.81.158 pubads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net #Ej 31.172.81.158 frågar om cert https://www.scarymommy.com/i-dont-like-being-a-mother/
 127.0.0.1 s2.video.doubleclick.net
 127.0.0.1 survey.g.doubleclick.net
 127.0.0.1 anon.doubleclick.speedera.net
@@ -2926,7 +2942,7 @@ Tiendeo.se
 127.0.0.1 experience.tinypass.com
 127.0.0.1 www.i.matheranalytics.com
 127.0.0.1 pa.rxthdr.com
-127.0.0.1 s.ntv.io
+0.0.0.0 s.ntv.io
 127.0.0.1 js.matheranalytics.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 t.brand-server.com
@@ -3660,7 +3676,7 @@ Tiendeo.se
 127.0.0.1 a.adroll.com
 127.0.0.1 b.adroll.com
 127.0.0.1 d.adroll.com
-127.0.0.1 static.chartbeat.com
+0.0.0.0 static.chartbeat.com
 127.0.0.1 img.en25.com
 127.0.0.1 api.demandbase.com
 127.0.0.1 platform.linkedin.com
@@ -3730,7 +3746,7 @@ Tiendeo.se
 127.0.0.1 go3.adversal.com
 127.0.0.1 ad.afy11.net
 127.0.0.1 udmserve.net
-127.0.0.1 live.sekindo.com
+0.0.0.0 live.sekindo.com
 127.0.0.1 cdn.doubleverify.com
 127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 video.sekindo.com
@@ -3778,7 +3794,7 @@ Tiendeo.se
 127.0.0.1 cdn.viglink.com
 127.0.0.1 js.indexww.com
 127.0.0.1 api.viglink.com
-127.0.0.1 cdn-gl.imrworldwide.com
+0.0.0.0 cdn-gl.imrworldwide.com
 127.0.0.1 geo-um.btrll.com
 127.0.0.1 image2.pubmatic.com
 127.0.0.1 bh.contextweb.com

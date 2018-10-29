@@ -48,7 +48,7 @@ talk.google.com #Google-login
 play.googleapis.com #Google Playbutik Mobil
 android.clients.google.com #GoogleDrive Upload files MobPhone
 apis.google.com #Google.hangout.com + Youtube This restores the "g-hovercard"
-
+content.jwplatform.com #www.scarymommy.com/how-to-handle-poison-ivy/
 
 imasdk.googleapis.com #Player/Video at zdnet.com
 clients2.google.com #Chrome Plugin error message saying "An error has occurred: Download interrupted" pops up.
@@ -108,6 +108,7 @@ cdn.syndication.twimg.com #TWITTER Feed på Websida Bild.de
 code.jquery.com #Upload does not work uploadfiles.io
 cdnjs.cloudflare.com #Fuckup https://ww3.rongdat.info/cute-cat-emoticons-gif/
 
+s3.amazonaws.com #Amazon Github Laddar upp filer där.
 easylist.club #AD-BLOCK DETECTION: Sockshare.net
 media.trafficjunky.net #AD-BLOCK DETECTION: Redtube.com
 acdn.adnxs.com #AD-BLOCK DETECTION: Bild.de ev SVD.se
@@ -115,3 +116,6 @@ acdn.adnxs.com #AD-BLOCK DETECTION: Bild.de ev SVD.se
 maxcdn.bootstrapcdn.com AD-BLOCK DETECTION: Seehd.ws
 ping.chartbeat.net #BBC Sport app in the UK
 s2.n4g.com #Web n4g.com -vanligsida bilder + endel ads
+dp8hsntg6do36.cloudfront.net #Video Server för flera sidor pitchfork.com, www.brides.com
+
+track.avtrk2manage.com #https://goo.gl/JXZLXE click download
