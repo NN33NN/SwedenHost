@@ -12,10 +12,44 @@ Ny OPTOUT 2018: https://preferences-mgr.truste.com/?pid=forbes01
 #https://vendorlist.consensu.org/vendorlist.json (open in firefox)
 #White screen Only for port 80
 #185.26.230.136:80 (does not work if long url)ariane.abtasty.com https: timeout long time OLD:31.172.81.158
+commank.pro <- Pixel server CHECK
+https://aruljohn.com/hostname2ip.html <- lab
 
 Fortsätt:
-https://www.scarymommy.com/i-dont-like-being-a-mother/
 https://pi-hole.net/pages-to-test-ad-blocking-performance/
+
+#https://pcforalla.idg.se/
+31.172.81.158 google-sv.lojalaanvandaresgavor.club
+
+#https://whatismyipaddress.com/hostname-ip
+0.0.0.0 a.pub.network
+
+
+#https://adnow.com/
+#notification.premium-news.me
+0.0.0.0 st-n.ads1-adnow.com
+0.0.0.0 st-n.ads2-adnow.com
+0.0.0.0 st-n.ads3-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st-n.ads5-adnow.com
+0.0.0.0 n.ads1-adnow.com
+0.0.0.0 n.ads2-adnow.com
+0.0.0.0 n.ads3-adnow.com
+0.0.0.0 n.ads4-adnow.com
+0.0.0.0 n.ads5-adnow.com
+0.0.0.0 eventtracking.omarsys.com
+0.0.0.0 wikipediapush.com
+
+#www.chattaochmer.com
+0.0.0.0 track.themadtrcker.com
+0.0.0.0 a.adult-love.space
+
+#http://www.romantika.name/v2/smtp-smart-host-setup-postfix-snow-leopard/
+0.0.0.0 chitika.net
+0.0.0.0 scripts.chitika.net
+0.0.0.0 izearanks.com
+0.0.0.0 mm.chitika.net
+31.172.81.158 images.chitika.net
 
 #https://www.scarymommy.com/i-dont-like-being-a-mother/
 0.0.0.0 seg.ad.gt
