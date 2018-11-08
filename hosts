@@ -18,12 +18,77 @@ https://aruljohn.com/hostname2ip.html <- lab
 Fortsätt:
 https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
+
+#https://mashable.com/2015/12/20/ted-cruz-christian-conservatives/?europe=true&utm_cid=hp-hh-pri#7JdhZGuKHuqU
+#0.0.0.0 a.amz.mshcdn.com
+0.0.0.0 st.mashable.com
+0.0.0.0 e2e-static.zdcommerce.io
+0.0.0.0 horizon.sailthru.com
+0.0.0.0 e2e.mashable.com
+0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 ak.sail-horizon.com
+0.0.0.0 cdn.static.zdbb.net
+
+
+
 #https://pcforalla.idg.se/
 31.172.81.158 google-sv.lojalaanvandaresgavor.club
+0.0.0.0 ax.idg.se
+0.0.0.0 ai.idg.se
+#0.0.0.0 gx.idg.se #Cookie ok
+0.0.0.0 static.chartbeat.com
+
 
 #https://whatismyipaddress.com/hostname-ip
 0.0.0.0 a.pub.network
 
+0.0.0.0 sb.l.google.com
+0.0.0.0 nexus-long-poller-a.intercom.io
+
+#Spam
+31.172.81.158 vshred.com
+0.0.0.0 tag.getdrip.com
+0.0.0.0 s.pinimg.com
+0.0.0.0 de14.zopim.com
+0.0.0.0 v2.zopim.com
+31.172.81.158 web.norstatsurveys.com
+31.172.81.158 cup.cab
+31.172.81.158 www.cooppoang.com
+0.0.0.0 oinkclick.host
+0.0.0.0 app.clickpigs.com
+31.172.81.158 www.primaryrent.com
+
+
+#http://www.lakartidningen.se/Klinik-och-vetenskap/Klinisk-oversikt/2016/04/Allergenspecifik-immunterapi-ger-langvarig-symtomlindring/
+#https://www.allergia.se/framsteg-i-behandling-av-pollenallergi/
+0.0.0.0 d3rxaij56vjege.cloudfront.net
+0.0.0.0 d226aj4ao1t61q.cloudfront.net
+0.0.0.0 d24n15hnbwhuhn.cloudfront.net
+0.0.0.0 trackcmp.net
+0.0.0.0 astmaochallergifrbundet.activehosted.com
+0.0.0.0 ac.activehosted.com
+0.0.0.0 pixel.cdnwidget.com
+0.0.0.0 cdnwidget.com
+.activehosted.com
+0.0.0.0 activehosted.com
+#astmaochallergifrbundet.activehosted.com
+0.0.0.0 static.zdassets.com
+0.0.0.0 activecampaigninc.zendesk.com
+0.0.0.0 vinsanityshred.zendesk.com
+0.0.0.0 ekr.zdassets.com
+0.0.0.0 assets.zendesk.com
+0.0.0.0 ws.sharethis.com
+
+#getambassador.com
+0.0.0.0 cdn.getambassador.com
+0.0.0.0 snap.licdn.com
+0.0.0.0 fg8vvsvnieiv3ej16jby.litix.io
+0.0.0.0 pipedream.wistia.com
+0.0.0.0 distillery.wistia.com
+0.0.0.0 js.hs-analytics.net
+
+#http://www.funbeat.se/discussion/show.aspx?ThreadID=276565
+31.172.81.158 sifomedia.sportsverige.se
 
 #https://adnow.com/
 #notification.premium-news.me
@@ -150,9 +215,110 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 0.0.0.0 vidtech.cbsinteractive.com
 
 #PhoneVirus
-## 31.172.81.158 ogrovom.xyz
-## 31.172.81.158 ie3wisa4.com
-## 31.172.81.158 newstarads.com
+31.172.81.158 mdory.space
+31.172.81.158 yanyne.online
+31.172.81.158 ogrovom.xyz
+31.172.81.158 ie3wisa4.com
+31.172.81.158 commank.pro
+31.172.81.158 news-subscribe.com
+31.172.81.158 trustednotice.news
+31.172.81.158 newstarads.com
+31.172.81.158 nrcapi.ssl2.duapps.com
+31.172.81.158 lanmost.com
+31.172.81.158 cpdatec.com
+31.172.81.158 whateveryf.info
+31.172.81.158 blastnotificationx.com
+31.172.81.158 ecfwg.xyz
+31.172.81.158 websnewsdate.com
+31.172.81.158 fzgd772zev.pw
+31.172.81.158 zy.news-subscribe.com 
+31.172.81.158 as.fzgd772zev.pw
+31.172.81.158 t.net-as1.stream
+31.172.81.158 a.net-dg13.stream
+31.172.81.158 notification.premium-news.me
+31.172.81.158 a.audienceline.com
+31.172.81.158 b.audienceline.com
+31.172.81.158 audienceline.com
+31.172.81.158 vlwcmgb48.ecfwg.xyz
+31.172.81.158 rnewsr.com
+31.172.81.158 trixtraff.com
+31.172.81.158 free-gift.xyz
+31.172.81.158 duapps-website.gshifen.com
+31.172.81.158 cdn-adn.rayjump.com
+31.172.81.158 cdn-adn-foreign.rayjump.com
+31.172.81.158 de01.smardroid.com
+31.172.81.158 mblapi.ssl2.duapps.com
+31.172.81.158 cdn.webnottify.com
+31.172.81.158 api.applink.site
+31.172.81.158 creation.conversation-memory.com 
+31.172.81.158 media.rsconf.online
+31.172.81.158 rutipansouls.info #Weirdpage
+31.172.81.158 pushedwebnews.com
+31.172.81.158 static.pushedwebnews.com
+31.172.81.158 o12zs3u2n.com
+31.172.81.158 star.c10r.facebook.com #<- Vet ej
+31.172.81.158 star-mini.c10r.facebook.com
+31.172.81.158 tracking.perfecttoolmedia.com
+31.172.81.158 sv.magicred.com
+31.172.81.158 online.magicred.com
+31.172.81.158 gamesrv1.magicred.com
+31.172.81.158 www.magicred.com
+31.172.81.158 download.gamesrv1.com
+31.172.81.158 fnc.aspireglobal.com
+31.172.81.158 record.eshkol.com
+31.172.81.158 asgwebapi.gameserver1-mt.com
+31.172.81.158 info.magicred.com
+31.172.81.158 d3tpuxked45kzt.cloudfront.net
+31.172.81.158 dispatch.look.io
+31.172.81.158 newsherb.info
+31.172.81.158 gurfv.pro
+31.172.81.158 track.special-offers.online
+31.172.81.158 special-offers.online
+31.172.81.158 ocio.leadzu.com
+31.172.81.158 pefwfw.pro
+31.172.81.158 dadbab.info
+31.172.81.158 xl-trk.com
+31.172.81.158 mlacloop.info
+31.172.81.158 pomerous.info
+31.172.81.158 csoku.peerclicktrk.com
+31.172.81.158 eu2.hottracker.biz
+31.172.81.158 feed.notifications.press
+31.172.81.158 dg2gly3g6yxtc.cloudfront.net
+31.172.81.158 just.ninjaonly.com
+31.172.81.158 mangellor-chardence.com
+31.172.81.158 new.modernaffiliates.com
+31.172.81.158 diraqi-offastics.com
+31.172.81.158 avgcheckerforsoft.com
+31.172.81.158 xml.leoyard.com
+31.172.81.158 junnify.xml.ak-is2.net
+31.172.81.158 kurlichan.com
+31.172.81.158 mobile5shop.com
+31.172.81.158 www.modulepush.com
+31.172.81.158 redirect.youtrackdomain.com
+31.172.81.158 mobiletrk.click-now.today
+31.172.81.158 peerclick.trafficmanager.net
+31.172.81.158 rus1.hottracker.biz
+31.172.81.158 trustednotice.news
+31.172.81.158 4c7og3qcob.com
+31.172.81.158 scango.pro
+31.172.81.158 meddelande.org
+31.172.81.158 yanyne.online
+31.172.81.158 notification-browser.com
+31.172.81.158 brucelead.com
+31.172.81.158 pnr2145.brucelead.com
+31.172.81.158 bestadbid.com
+31.172.81.158 darvorn.com
+31.172.81.158 my.rtmark.net
+31.172.81.158 nagt1.apusapps.com
+31.172.81.158 cdn.hasmobi.net
+31.172.81.158 dppjoczqcxkv0.cloudfront.net
+31.172.81.158 midas.apusapps.com
+31.172.81.158 s.apusapps.com
+31.172.81.158 det.hasmobi.net
+31.172.81.158 sbiz.apusapps.com
+31.172.81.158 dcc.shuzilm.cn
+31.172.81.158 sbiz.subcdn.com
+31.172.81.158 hbk.shuzilm.cn
 31.172.81.158 pushinnotify.com
 31.172.81.158 rt4626.ariocroft.com
 31.172.81.158 ariocroft.com
@@ -191,24 +357,6 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 31.172.81.158 your.infodelivery.site
 31.172.81.158 infodelivery.site
 31.172.81.158 www.nuggitgames.com
-
-#**UW_Block filter
-.ariocroft.com
-.googlo.co
-.megcm.xyz
-.time2notification.com
-.directlinkkpush.com
-.nuclearlytu.info
-.special-promotions.online
-.whatsaappp.com
-.news-subscribe.com
-.focuusing.com
-.funnwebs.com
-.win-now.co
-.yahoo-news.co
-.4ipda.com
-.check-now.net
-.infodelivery.site
 
 #https://www.techspot.com/downloads/6086-samsung-smart-switch.html
 #https://www.ziffdavis.com/
@@ -1028,7 +1176,7 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 account.bonnier.news
 127.0.0.1 campaigner.dn.se
 #127.0.0.1 cdn01.dn-static.se
-127.0.0.1 www.w3.org
+31.172.81.158 www.w3.org
 
 #https://support.jwplayer.com/faqs/
 127.0.0.1 hn.inspectlet.com
@@ -3595,7 +3743,7 @@ Tiendeo.se
 127.0.0.1 tracker.bannerflow.com
 127.0.0.1 images.host.bannerflow.com
 127.0.0.1 adv.prisjakt.nu
-127.0.0.1 s1.adform.net
+0.0.0.0 s1.adform.net
 127.0.0.1 secure.adnxs.com
 127.0.0.1 vcdn.adnxs.com
 127.0.0.1 cdn.adnxs.com
@@ -3997,8 +4145,8 @@ Tiendeo.se
 127.0.0.1 cw.addthis.com
 127.0.0.1 su.addthis.com
 127.0.0.1 s8.addthis.com
-127.0.0.1 ds-s7.addthis.com.edgekey.net
-127.0.0.1 s7.addthis.com
+0.0.0.0 ds-s7.addthis.com.edgekey.net
+0.0.0.0 s7.addthis.com
 127.0.0.1 s4.histats.com
 127.0.0.1 e.dtscout.com
 31.172.81.158 go.pub2srv.com
