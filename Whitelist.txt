@@ -25,7 +25,12 @@ odb.outbrain.com  #Edition.cnn.com Play video, shows rekommend videos can be rem
 staticxx.facebook.com #FB -Vet ej
 
 cached-images.bonnier.news #DN
-s3.eu-west-1.amazonaws.com #Bilder kommer här ifrån-Absolut Vodka
+
+
+s3.eu-west-1.amazonaws.com #Bilder kommer här ifrån-Absolut Vodka&
+s3-eu-west-1.amazonaws.com #www.reumatikerforbundet.org
+
+
 encrypted-tbn0.gstatic.com #GoogleBilderSearch
 
 clients2.google.com
@@ -118,4 +123,6 @@ ping.chartbeat.net #BBC Sport app in the UK
 s2.n4g.com #Web n4g.com -vanligsida bilder + endel ads
 dp8hsntg6do36.cloudfront.net #Video Server för flera sidor pitchfork.com, www.brides.com
 
+v.jwpcdn.com #Aftonbladet
 track.avtrk2manage.com #https://goo.gl/JXZLXE click download
+cdn.shopify.com #blendjet.com

@@ -19,15 +19,84 @@ Fortsätt:
 https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
 
+##Ccleaner licences
+##Google Adds
+##Spotfy Adds
+##Adobe Potoshop Licences
+##Corel Draw Licences
+##All Products of Piriform (Driver booster, ccleaner, Advanced SystemCare etc...)
+##Skype Adds
+##Bitcoins mining Adds
+##Browser Adds and more
+127.0.0.1 coin-hive.com
+127.0.0.1 sd.iobit.com
+127.0.0.1 apps.skype.com
+127.0.0.1 asc.iobit.com
+127.0.0.1 asc55.iobit.com
+127.0.0.1 pf.iobit.com
+127.0.0.1 idb.iobit.com
+127.0.0.1 is360.iobit.com
+127.0.0.1 iunins.iobit.com
+
+127.0.0.1 secure.piriform.com
+127.0.0.1 secure.piriform.com/*
+127.0.0.1 license.piriform.com
+
+127.0.0.1 product.corel.com
+
+127.0.0.1 209-34-83-73.ood.opsource.net
+127.0.0.1 3dns-1.adobe.com
+127.0.0.1 3dns-4.adobe.com
+127.0.0.1 3dns2.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 t3dns.adobe.com
+127.0.0.1 tpractivate.adobe.newoa
+
+127.0.0.1 CRL.VERISIGN.NET.*
+127.0.0.1 dposoft.net
+127.0.0.1 live.rads.msn.com
+127.0.0.1 rad.msn.com
+127.0.0.1 ac3.msn.com
+
+127.0.0.1 pagead3.googlesyndication.com
+127.0.0.1 redirector.gvt1.com
+
+127.0.0.1 tss-geotrust-crl.thawte.com
+127.0.0.1 wwis-dubc1-vip*
+
+
+#https://blendjet.com/
+0.0.0.0 tracking.ghostmonitor.com
+0.0.0.0 loox.io
+0.0.0.0 tr.snapchat.com
+0.0.0.0 cdn.ghostmonitor.com
+0.0.0.0 chimpstatic.com
+
+#https://www.4shared.com/file/rgz_8d1yca/host.html
+0.0.0.0 adserver-e7.com
+0.0.0.0 epomads2.4shared.com
+0.0.0.0 www.adspleen.com
+0.0.0.0 misdem.pro
+0.0.0.0 www.advinapps.com
+0.0.0.0 stat-rock.com
+0.0.0.0 pushanert.com
+0.0.0.0 www.jscount.com
+
+#https://www.theregister.co.uk/2018/10/29/hacked_brain_implants/
+0.0.0.0 ps.l.admedo.com
+0.0.0.0 pj.l.admedo.com
+0.0.0.0 obs.cheqzone.com
+0.0.0.0 ob.cheqzone.com
+
+
 #https://mashable.com/2015/12/20/ted-cruz-christian-conservatives/?europe=true&utm_cid=hp-hh-pri#7JdhZGuKHuqU
 #0.0.0.0 a.amz.mshcdn.com
 0.0.0.0 st.mashable.com
 0.0.0.0 e2e-static.zdcommerce.io
 0.0.0.0 horizon.sailthru.com
 0.0.0.0 e2e.mashable.com
-0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 ak.sail-horizon.com
-0.0.0.0 cdn.static.zdbb.net
 
 
 
@@ -35,9 +104,6 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 31.172.81.158 google-sv.lojalaanvandaresgavor.club
 0.0.0.0 ax.idg.se
 0.0.0.0 ai.idg.se
-#0.0.0.0 gx.idg.se #Cookie ok
-0.0.0.0 static.chartbeat.com
-
 
 #https://whatismyipaddress.com/hostname-ip
 0.0.0.0 a.pub.network
@@ -47,6 +113,12 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
 #Spam
 31.172.81.158 vshred.com
+31.172.81.158 gogool.com
+31.172.81.158 ww1.gogool.com
+31.172.81.158 bgtrk.com
+31.172.81.158 use.dauid-iep.com
+31.172.81.158 use.photios-raj.com
+31.172.81.158 sarah.runtnc.net
 0.0.0.0 tag.getdrip.com
 0.0.0.0 s.pinimg.com
 0.0.0.0 de14.zopim.com
@@ -57,6 +129,8 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 0.0.0.0 oinkclick.host
 0.0.0.0 app.clickpigs.com
 31.172.81.158 www.primaryrent.com
+31.172.81.158 misdem.pro
+31.172.81.158 nextoptim.com
 
 
 #http://www.lakartidningen.se/Klinik-och-vetenskap/Klinisk-oversikt/2016/04/Allergenspecifik-immunterapi-ger-langvarig-symtomlindring/
@@ -195,7 +269,6 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 0.0.0.0 s.yimg.com
 0.0.0.0 dw.cbsi.com
 0.0.0.0 mtrx.go.sonobi.com
-0.0.0.0 som.cbsi.com
 0.0.0.0 cdn.cast.upload.cnet.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 tags.tiqcdn.com
@@ -210,7 +283,6 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 0.0.0.0 a1.fdlstatic.com
 0.0.0.0 a2.fdlstatic.com
 #0.0.0.0 a3.fdlstatic.com
-0.0.0.0 tags.tiqcdn.com
 0.0.0.0 i.i.cbsi.com
 0.0.0.0 vidtech.cbsinteractive.com
 
@@ -298,11 +370,8 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 31.172.81.158 mobiletrk.click-now.today
 31.172.81.158 peerclick.trafficmanager.net
 31.172.81.158 rus1.hottracker.biz
-31.172.81.158 trustednotice.news
-31.172.81.158 4c7og3qcob.com
 31.172.81.158 scango.pro
 31.172.81.158 meddelande.org
-31.172.81.158 yanyne.online
 31.172.81.158 notification-browser.com
 31.172.81.158 brucelead.com
 31.172.81.158 pnr2145.brucelead.com
@@ -340,7 +409,6 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 31.172.81.158 whatsaappp.com
 31.172.81.158 k3.news-subscribe.com
 31.172.81.158 ob.news-subscribe.com
-31.172.81.158 news-subscribe.com
 31.172.81.158 traffic.focuusing.com
 31.172.81.158 focuusing.com
 31.172.81.158 www.money-now-from-crypto.xyz
@@ -380,7 +448,6 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
 #https://theendivechronicles.com/cat-emoticons.html
 0.0.0.0 c.statcounter.com
-0.0.0.0 www.statcounter.com
 
 #DNS-Router atk
 0.0.0.0 0gyenb54-324c8a009517fc8b42970ce9fabeb19dd485aa9f-mob.d.aa.online-metrix.net
@@ -532,7 +599,6 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 0.0.0.0 beacon.tapfiliate.com
 0.0.0.0 static.tapfiliate.com
 0.0.0.0 v.shopify.com
-0.0.0.0 cdn.shopify.com
 
 #http://irq5.io/2012/12/10/hacking-functionality-into-asuswrt-routers/
 #https://www.site24x7.com/find-ip-address-of-web-site.html
@@ -554,7 +620,7 @@ google.f.bez1fd google.f.LmvwCb
 
 
 0.0.0.0 fbcdn-sphotos-g-a.akamaihd.net
-127.0.0.1 m.facebook.com
+#127.0.0.1 m.facebook.com
 127.0.0.1 .facebook.com
 127.0.0.1 
 127.0.0.1 scontent.xx.fbcdn.net
@@ -818,7 +884,6 @@ sync.bumlam.com pagead2.googlesyndication.com
 #http://corneey.com/wL0hdd
 #http://sh.st/UcvRT
 127.0.0.1 go.onclasrv.com
-127.0.0.1 lpo.mediaonspot.com
 127.0.0.1 ww2.sh.st
 127.0.0.1 d3ud741uvs727m.cloudfront.net
 31.172.81.158 rizk.com
@@ -828,7 +893,6 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 analytics.shorte.st
 127.0.0.1 static.shorte.st
 127.0.0.1 sax.peakonspot.com
-127.0.0.1 d3ud741uvs727m.cloudfront.net
 127.0.0.1 lpo.mediaonspot.com
 127.0.0.1 ww2.corneey.com
 
@@ -1184,7 +1248,6 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 abm.listenloop.com
 127.0.0.1 cdn.bizible.com
 127.0.0.1 ads.bitsngo.net
-127.0.0.1 s.adroll.com
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 www.googletagmanager.com
@@ -1276,7 +1339,7 @@ sync.bumlam.com pagead2.googlesyndication.com
 
 
 ###Bild.de
-127.0.0.1 aka-cdn.adtech.de
+0.0.0.0 aka-cdn.adtech.de
 127.0.0.1 cdn.adrtx.net
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 8468614.fls.doubleclick.net
@@ -1959,7 +2022,6 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 0.0.0.0 saa.cbsi.com
 0.0.0.0 som.cbsi.com
 0.0.0.0 cnet-1.disqus.com
-0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 urs.cnet.com
@@ -3858,6 +3920,7 @@ Tiendeo.se
 127.0.0.1 a.adroll.com
 127.0.0.1 b.adroll.com
 127.0.0.1 d.adroll.com
+127.0.0.1 s.adroll.com
 0.0.0.0 static.chartbeat.com
 127.0.0.1 img.en25.com
 127.0.0.1 api.demandbase.com
@@ -4088,7 +4151,6 @@ Tiendeo.se
 31.172.81.158 engine.spotscenered.info
 31.172.81.158 35.193.89.147
 31.172.81.158 redirect.llnk.eu
-31.172.81.158 uno.win-now.co
 127.0.0.1 www.performanceadexchange.com
 127.0.0.1 u1trkqf.com
 127.0.0.1 redonetype.com
@@ -4137,7 +4199,6 @@ Tiendeo.se
 127.0.0.1 p56793.mycdn.com
 127.0.0.1 www.rpjgaazsdfa.bid
 127.0.0.1 rpjgaazsdfa.bid
-127.0.0.1 go.onclasrv.com
 127.0.0.1 s10.histats.com
 127.0.0.1 m.addthisedge.com
 127.0.0.1 m.addthis.com

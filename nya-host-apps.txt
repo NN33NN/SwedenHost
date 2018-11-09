@@ -1,0 +1,45 @@
+##Ccleaner licences
+##Google Adds
+##Spotfy Adds
+##Adobe Potoshop Licences
+##Corel Draw Licences
+##All Products of Piriform (Driver booster, ccleaner, Advanced SystemCare etc...)
+##Skype Adds
+##Bitcoins mining Adds
+##Browser Adds and more
+127.0.0.1 coin-hive.com
+127.0.0.1 sd.iobit.com
+127.0.0.1 apps.skype.com
+127.0.0.1 asc.iobit.com
+127.0.0.1 asc55.iobit.com
+127.0.0.1 pf.iobit.com
+127.0.0.1 idb.iobit.com
+127.0.0.1 is360.iobit.com
+127.0.0.1 iunins.iobit.com
+
+127.0.0.1 secure.piriform.com
+127.0.0.1 secure.piriform.com/*
+127.0.0.1 license.piriform.com
+
+127.0.0.1 product.corel.com
+
+127.0.0.1 209-34-83-73.ood.opsource.net
+127.0.0.1 3dns-1.adobe.com
+127.0.0.1 3dns-4.adobe.com
+127.0.0.1 3dns2.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 t3dns.adobe.com
+127.0.0.1 tpractivate.adobe.newoa
+
+127.0.0.1 CRL.VERISIGN.NET.*
+127.0.0.1 dposoft.net
+127.0.0.1 live.rads.msn.com
+127.0.0.1 rad.msn.com
+127.0.0.1 ac3.msn.com
+
+127.0.0.1 pagead3.googlesyndication.com
+127.0.0.1 redirector.gvt1.com
+
+127.0.0.1 tss-geotrust-crl.thawte.com
+127.0.0.1 wwis-dubc1-vip*
