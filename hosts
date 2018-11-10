@@ -15,9 +15,57 @@ Ny OPTOUT 2018: https://preferences-mgr.truste.com/?pid=forbes01
 commank.pro <- Pixel server CHECK
 https://aruljohn.com/hostname2ip.html <- lab
 
-Fortsätt:
+Forts?tt:
 https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
+
+#---------NYA
+#https://pureinfotech.com/windows-10-redstone-4-version-1803-new-features/
+0.0.0.0 forms.mailmunch.co
+0.0.0.0 a.mailmunch.co
+0.0.0.0 analytics.mailmunch.co
+0.0.0.0 k.intellitxt.com
+0.0.0.0 vibrant.mgr.consensu.org
+#https://borncity.com/win/2018/05/02/windows-10-v1803-update-creates-a-new-oem-partition/
+0.0.0.0 ssl-vg03.met.vgwort.de
+https://clk.icu/raTE
+0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
+0.0.0.0 s10.histats.com
+0.0.0.0 baconaces.pro
+0.0.0.0 vulevision.info
+0.0.0.0 spouscontentdelivery.info
+0.0.0.0 housineschard.info
+31.172.81.158 j9j6l.top
+
+#www1.123movies.solar
+31.172.81.158 iphxs.win2nite.com
+31.172.81.158 bodelen.com
+31.172.81.158 cd-cont.com
+31.172.81.158 clckads.org
+31.172.81.158 fortpush.com
+31.172.81.158 tharbadir.com
+31.172.81.158 kaishist.top
+31.172.81.158 wirenth.com
+31.172.81.158 gaitheed.com
+31.172.81.158 sv.reimageplus.com
+31.172.81.158 ssl2anyone3.com
+31.172.81.158 tracking.revimedia.com
+31.172.81.158 links.services.disqus.com
+
+#https://openload.co/f/XCVqalTIA2U/AppNee.com.CCleaner.Busi.v5.48.Portable.FR.7z/
+0.0.0.0 go.padstm.com
+0.0.0.0 jsc.mgid.com
+0.0.0.0 uod2quk646.com
+0.0.0.0 tt2.openload.co
+31.172.81.158 www.getfun-stuff.com
+31.172.81.158 www.uod2quk646.com
+
+#Cookies
+0.0.0.0 adverts.creativemark.co.uk
+0.0.0.0 mobileadtrading.com
+
+
+#---------NYA
 
 ##Ccleaner licences
 ##Google Adds
@@ -506,7 +554,7 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 31.172.81.158 pushame.com
 .ncontentdelivery.info
 
-##Måste kolla på
+##M?ste kolla p?
 ###https://www36.zippyshare.com/v/UoFouSXr/file.html
 https://www83.zippyshare.com/v/cwWzpMB1/file.html
 0.0.0.0 rosemand.pro
@@ -604,7 +652,7 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 #https://www.site24x7.com/find-ip-address-of-web-site.html
 #---Pixel--Servers ###http://get-site-ip.com/###
 #sync.bumlam.com (white pixel) 31.172.81.158 Works 31.172.81.159
-#Kommer i från http://adsniper.ru/  ca.crt
+#Kommer i fr?n http://adsniper.ru/  ca.crt
 #browsers.support  (White screen) https://browsers.support/get-subscription.html
 #https://load77.exelator.com/pixel.gif
 #https://csync.viralgains.com/sync?state=11&prevstate=10
@@ -1041,8 +1089,8 @@ sync.bumlam.com pagead2.googlesyndication.com
 
 
 # 1[SPECIAL]
-127.0.0.1 auth.dn.se #Påslagen full access till läsa text till senaste nyheterna samt bloggar. Slå AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
-127.0.0.1 login.di.se #Påslagen full access till weekend.di.se.Slå AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
+127.0.0.1 auth.dn.se #P?slagen full access till l?sa text till senaste nyheterna samt bloggar. Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
+127.0.0.1 login.di.se #P?slagen full access till weekend.di.se.Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
 
 #DN: https://www.dn.se/ekonomi/elon-musk-stams-for-vilseledande-information/
 31.172.81.158 kampanj.dn.se
@@ -1481,7 +1529,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 #*****(Kolla om videoplayern har pause stop och play)
 #http://123watchfree.co/episode/devil-s-bargain-127.0.0.1 6746168/watching.html
 127.0.0.1 live.rezync.com
-127.0.0.1 .coinhive.com #Spärra sub domäner
+127.0.0.1 .coinhive.com #Sp?rra sub dom?ner
 127.0.0.1 ws022.coinhive.com 
 127.0.0.1 boudja.com
 127.0.0.1 milleonid.com
@@ -1496,8 +1544,8 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 loadercdn.com
 127.0.0.1 6a2adb496b8951e.com
 127.0.0.1 defpush.com
-127.0.0.1 .piguiqproxy.com #Spärra alla subdomainer
-127.0.0.1 .amgload.net #Spärra alla domäner
+127.0.0.1 .piguiqproxy.com #Sp?rra alla subdomainer
+127.0.0.1 .amgload.net #Sp?rra alla dom?ner
 127.0.0.1 stream-1-2.loadshare.org #Kill Ads in video
 127.0.0.1 stream-3-2.loadshare.org #Kill ads in video
 
@@ -2007,7 +2055,7 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 #127.0.0.1 cdn.cxpublic.com
 127.0.0.1 rscdn.cxense.com
 127.0.0.1 dowjones.cms.cxense.com
-127.0.0.1 a248.e.akamai.net #cxense går dit
+127.0.0.1 a248.e.akamai.net #cxense g?r dit
 
 #Winsupersite.com
 127.0.0.1 static-arn2-1.xx.fbcdn.net
@@ -2052,7 +2100,7 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 127.0.0.1 p.static.ads-twitter.com
 127.0.0.1 ad.adsrvr.org
 127.0.0.1 ads.unibet.com
-#127.0.0.1 online.adservicemedia.dk #kLICKA PÅ REMEMBERCARD http://www.kreditkort-listan.se/
+#127.0.0.1 online.adservicemedia.dk #kLICKA P? REMEMBERCARD http://www.kreditkort-listan.se/
 127.0.0.1 lpb-unibet-com.bannerflow.netdna-cdn.com
 127.0.0.1 ads.performates.com
 127.0.0.1 n56adshostnet.com
@@ -2384,7 +2432,7 @@ Tiendeo.se
 127.0.0.1 n4403ad.doubleclick.net
 127.0.0.1 n479ad.doubleclick.net
 127.0.0.1 paypalssl.doubleclick.net
-0.0.0.0 pubads.g.doubleclick.net #Ej 31.172.81.158 frågar om cert https://www.scarymommy.com/i-dont-like-being-a-mother/
+0.0.0.0 pubads.g.doubleclick.net #Ej 31.172.81.158 fr?gar om cert https://www.scarymommy.com/i-dont-like-being-a-mother/
 127.0.0.1 s2.video.doubleclick.net
 127.0.0.1 survey.g.doubleclick.net
 127.0.0.1 anon.doubleclick.speedera.net
@@ -3192,7 +3240,7 @@ Tiendeo.se
 127.0.0.1 t.brand-server.com
 127.0.0.1 www.npttech.com
 
-# [News] DI.se <- Tillgång till premium text samt weekend delen.
+# [News] DI.se <- Tillg?ng till premium text samt weekend delen.
 
 127.0.0.1 comcluster.cxense.com
 127.0.0.1 p1cluster.cxense.com
@@ -3202,7 +3250,7 @@ Tiendeo.se
 127.0.0.1 pixel.glimr.io
 127.0.0.1 di-se.c.richmetrics.com
 
-# [News] DN.se <- Tillgång till premie text samt bloggar.
+# [News] DN.se <- Tillg?ng till premie text samt bloggar.
 
 127.0.0.1 hittahem.table.core.windows.net
 127.0.0.1 s0-cdn.hittahem.se
@@ -3470,7 +3518,7 @@ Tiendeo.se
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 anonymousdemographics.com
 
-# [News] Se&Hör-seoghoer.dk
+# [News] Se&H?r-seoghoer.dk
 
 127.0.0.1 4636907.fls.doubleclick.net
 127.0.0.1 server.adformdsp.net
@@ -3559,7 +3607,7 @@ Tiendeo.se
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 0.0.0.0 wes.df.telemetry.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com.nsat­c.net
+0.0.0.0 telecommand.telemetry.microsoft.com.nsat?c.net
 0.0.0.0 wes.df.telemetry.microsoft.comnet
 
 # [Program ADS] Skype
