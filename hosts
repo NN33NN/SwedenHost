@@ -20,6 +20,12 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
 
 #---------NYA
+
+
+Vet ej
+track.adtraction.com
+https://www.enkelteknik.se/andra-och-lagg-till-saker-i-datorns-hosts-fil (troligen whitelist för man ska kunna klicka på annons)
+
 #https://pureinfotech.com/windows-10-redstone-4-version-1803-new-features/
 0.0.0.0 forms.mailmunch.co
 0.0.0.0 a.mailmunch.co
