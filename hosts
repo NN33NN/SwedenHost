@@ -20,11 +20,50 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
 
 #---------NYA
+#https://try.digitalocean.com/businesses/
+0.0.0.0 builder-assets.unbounce.com
+0.0.0.0 marketing.nyc3.cdn.digitaloceanspaces.com
 
+0.0.0.0 hasubscribe.com
+.hasubscribe.com
+#https://www.handydryers.co.uk/sterillo.html
+0.0.0.0 secure.statcounter.com
+0.0.0.0 ict.infinity-tracking.net
 
-Vet ej
-track.adtraction.com
-https://www.enkelteknik.se/andra-och-lagg-till-saker-i-datorns-hosts-fil (troligen whitelist för man ska kunna klicka på annons)
+#https://www.express.co.uk/
+#https://www.express.co.uk/news/uk/1043846/remembrance-sunday-2018-queen-royals-tribute-british-legion-s-festival
+0.0.0.0 consent.cmp.oath.com
+0.0.0.0 service.cmp.oath.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 api.ipify.org
+0.0.0.0 metrics.brightcove.com
+0.0.0.0 publisher-assets.spot.im
+0.0.0.0 www.spot.im
+0.0.0.0 pix.spot.im
+0.0.0.0 tcheck.outbrainimg.com
+0.0.0.0 eventlog.outbrain.com
+0.0.0.0 ovp.iris.tv
+0.0.0.0 c2.u5c93.com
+0.0.0.0 ping.chartbeat.net
+0.0.0.0 recirculation.spot.im
+0.0.0.0 launcher.spot.im
+0.0.0.0 dynamic-cdn.spot.im
+0.0.0.0 spotops.spot.im
+0.0.0.0 vjs.zencdn.net
+#https://www.familyminded.com/s/celeb-couples-with-major-age-differences-50dac89107af4ec0?utm_campaign=agedifferences-d31d9fca741c4b76&utm_medium=cpc&utm_source=out&utm_term=Northern+%26+Shell_Express+%28Express+Newspapers+Ltd%29
+0.0.0.0 ib.3lift.com
+0.0.0.0 granitemedia-d.openx.net
+
+https://www.breakit.se/
+0.0.0.0 cdn.advisible.com
+
+https://swedroid.se/
+0.0.0.0 consent.cookiebot.com
+0.0.0.0 consentcdn.cookiebot.com
+
+#Vet ej
+0.0.0.0 track.adtraction.com
+#https://www.enkelteknik.se/andra-och-lagg-till-saker-i-datorns-hosts-fil (troligen whitelist för man ska kunna klicka på annons)
 
 #https://pureinfotech.com/windows-10-redstone-4-version-1803-new-features/
 0.0.0.0 forms.mailmunch.co
@@ -1623,8 +1662,8 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 pixel.s3xified.com
 127.0.0.1 sync.adotmob.com
 127.0.0.1 sync.ipredictive.com
-#127.0.0.1 sync.bumlam.com ##33
-#127.0.0.1 sync3.adsniper.ru ##33
+127.0.0.1 sync.bumlam.com ##33
+127.0.0.1 sync3.adsniper.ru ##33
 127.0.0.1 usync.nexage.com
 127.0.0.1 lb.statsevent.com
 127.0.0.1 prebid.adnxs.com
