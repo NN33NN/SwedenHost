@@ -20,6 +20,60 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
 
 #---------NYA
+Whitelist: yt3.ggpht.com #https://www.youtube.com/watch?reload=9&v=NH2PhXYvrWs
+i1.ytimg.com #https://my.webfaction.com/
+pixel.everesttech.net #Googlesearch ad klick
+click.adrecord.com #https://aktiekunskap.nu/category/aktier-nyborjare/
+
+#https://aktiekunskap.nu/category/aktier-nyborjare/
+0.0.0.0 graphics.adrecord.com
+
+#nordea.se
+0.0.0.0 policy.cookiereports.com
+
+#www.swedbank.se
+0.0.0.0 imp.nowinteract.com
+0.0.0.0 imp1.nowinteract.com
+0.0.0.0 imp2.nowinteract.com
+0.0.0.0 stat.swedbank.se
+
+#www.skandia.se
+0.0.0.0 skandiabanken.d1.sc.omtrdc.net
+0.0.0.0 dl.episerver.net
+
+#www.ig.com
+0.0.0.0 4283606.fls.doubleclick.net
+0.0.0.0 4157917.fls.doubleclick.net
+0.0.0.0 iggroup.demdex.net
+
+#Avanza Flik nyheter
+0.0.0.0 publish.ne.cision.com
+
+#SPAM
+#https://qismy.life/73CB099D?clickid=8940c3c57da64bddabf7aadcbc97ca4c&subid=3415&sourceid=
+31.172.81.158 eteppy.com
+31.172.81.158 win.stack-prizes01.com
+31.172.81.158 play.leadzupc.com
+31.172.81.158 play.superlzpre.com
+31.172.81.158 cname.superlzland.com
+31.172.81.158 img.mobusi.com
+31.172.81.158 www.g33ktr4ck.com
+
+#https://www.ikort.se/f%C3%B6rbetalda-kort/
+0.0.0.0 tm.tradetracker.net
+#https://www.allalån.se/
+#0.0.0.0 www.xn--allaln-mua.se
+
+
+#******Problem*******
+#https://forums.hardwarezone.com.sg/eat-drink-man-woman-16/
+31.172.81.158 assets.hardwarezone.com
+31.172.81.158 dp.image-gmkt.com
+31.172.81.158 www.qoo10.sg
+
+#https://www.malwarebytes.com/
+0.0.0.0 ciuvo.com
+
 #https://try.digitalocean.com/businesses/
 0.0.0.0 builder-assets.unbounce.com
 0.0.0.0 marketing.nyc3.cdn.digitaloceanspaces.com
@@ -636,7 +690,7 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 #http://www.mediafire.com/download/a1sphc0f1rcz4rb/gapps-kk442-20140225-sdext-v2.0.zip
 31.172.81.158 engine.addroplet.com
 
-#tre.se
+#tre.se 180.se
 0.0.0.0 az416426.vo.msecnd.net
 
 #https://www.sammobile.com/firmwares/galaxy-c7/SM-C7000/
@@ -711,7 +765,7 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 #https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 google.f.bez1fd google.f.LmvwCb
 
-
+0.0.0.0 l.facebook.com
 0.0.0.0 fbcdn-sphotos-g-a.akamaihd.net
 #127.0.0.1 m.facebook.com
 127.0.0.1 .facebook.com
@@ -729,6 +783,7 @@ connect.facebook.net
 api.facebook.com
 127.0.0.1 api-read.facebook.com
 graph.facebook.com
+0.0.0.0 b-graph.facebook.com
 127.0.0.1 an.facebook.com
 127.0.0.1 developers.facebook.com
 ##scontent-arn2-1.xx.fbcdn.net/v/t1.0-0/q85/s350x350/29573226_1843873535911747_7532097488964766313_n.jpg
@@ -846,7 +901,7 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 optout.yieldoptimizer.com
 127.0.0.1 partner.knorex.com
 127.0.0.1 pix.impdesk.com
-127.0.0.1 pixel.everesttech.net
+##127.0.0.1 pixel.everesttech.net #Whitelist googlesearch ad klick
 127.0.0.1 pixel.sojern.com
 127.0.0.1 po.st
 127.0.0.1 pool.admedo.com
@@ -2121,7 +2176,7 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 0.0.0.0 iicbsi-a.akamaihd.net
 
 # [Blandat]
-127.0.0.1 z-m.c10r.facebook.com
+0.0.0.0 z-m.c10r.facebook.com
 127.0.0.1 www.networkadvertising.org
 127.0.0.1 track-eu.adformnet.akadns.net
 127.0.0.1 click.affiliaxe.com
