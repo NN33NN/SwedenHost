@@ -13,6 +13,8 @@ Ny OPTOUT 2018: https://preferences-mgr.truste.com/?pid=forbes01
 #White screen Only for port 80
 #185.26.230.136:80 (does not work if long url)ariane.abtasty.com https: timeout long time OLD:31.172.81.158
 commank.pro <- Pixel server CHECK
+ekoatchooze.com <- Pixel server CHECK
+209.244.0.3 <- Spin no webpage
 https://aruljohn.com/hostname2ip.html <- lab
 
 Forts?tt:
@@ -24,6 +26,54 @@ Whitelist: yt3.ggpht.com #https://www.youtube.com/watch?reload=9&v=NH2PhXYvrWs
 i1.ytimg.com #https://my.webfaction.com/
 pixel.everesttech.net #Googlesearch ad klick
 click.adrecord.com #https://aktiekunskap.nu/category/aktier-nyborjare/
+s3-eu-west-1.amazonaws.com https://se.readly.com/
+
+
+#Putlocker.VIP
+0.0.0.0 cdn.engine.addroplet.com
+0.0.0.0 pushno.com
+31.172.81.158 ethikuma.link
+0.0.0.0 ad.bitmedia.io
+0.0.0.0 cs.bitmedia.io
+0.0.0.0 cdn.bitmedia.io
+0.0.0.0 static.bitmedia.io
+0.0.0.0 img.123data.ru
+0.0.0.0 123music.to
+31.172.81.158 ad.a-ads.com
+31.172.81.158 a.ad-sys.com
+31.172.81.158 4dsbanner.net
+0.0.0.0 ekoatchooze.com
+31.172.81.158 goolgepro.com
+31.172.81.158 upsmiutac55.site
+31.172.81.158 vip-flirtbooks.com
+31.172.81.158 nsbacking.com
+.nsbacking.com
+
+31.172.81.158 www.megdexchange.com
+0.0.0.0 earn-bitcoins.net
+http://earn-bitcoins.net/
+https://putlocker.vip/film/g-force-17255/
+https://putlocker.vip/film/nothing-to-hide-26893/watching.html?ep=2168171v2
+https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=1435744
+
+#https://www.meds.se/#apotea.se
+0.0.0.0 adtr.io
+0.0.0.0 widget.imbox.io
+0.0.0.0 widget-launcher.imbox.io
+0.0.0.0 triggers-v2.imbox.io
+0.0.0.0 files.imbox.io
+0.0.0.0 apiv2.imbox.io
+0.0.0.0 ssl.imbox.se
+0.0.0.0 cx.atdmt.com
+
+#Blocket.se
+0.0.0.0 logs2.xiti.com
+
+#www.apotekhjartat.se
+0.0.0.0 cdn.raygun.io
+0.0.0.0 api.raygun.io
+0.0.0.0 targetp.emsecure.net
+
 
 #https://aktiekunskap.nu/category/aktier-nyborjare/
 0.0.0.0 graphics.adrecord.com
@@ -67,9 +117,9 @@ click.adrecord.com #https://aktiekunskap.nu/category/aktier-nyborjare/
 
 #******Problem*******
 #https://forums.hardwarezone.com.sg/eat-drink-man-woman-16/
-31.172.81.158 assets.hardwarezone.com
-31.172.81.158 dp.image-gmkt.com
-31.172.81.158 www.qoo10.sg
+#31.172.81.158 assets.hardwarezone.com
+#31.172.81.158 dp.image-gmkt.com
+#31.172.81.158 www.qoo10.sg
 
 #https://www.malwarebytes.com/
 0.0.0.0 ciuvo.com
@@ -1918,13 +1968,21 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 127.0.0.1 d3ahinqqx1dy5v.cloudfront.net
 
 # http://bc.vc/qXvFWZG
-127.0.0.1 popmajor.com
-127.0.0.1 track.bcvc.mobi
-127.0.0.1 widgets.amung.us
-127.0.0.1 whos.amung.us
-127.0.0.1 go.bcvc.mobi
-127.0.0.1 t.dtscout.com
-127.0.0.1 dtscout.rtb.adx1.com
+0.0.0.0 popmajor.com
+0.0.0.0 www.modulepush.com
+#0.0.0.0 bcvcrdr.xyz
+0.0.0.0 track.bcvc.mobi
+0.0.0.0 widgets.amung.us
+0.0.0.0 wpformb.com
+0.0.0.0 www.dnckawxatc.com
+0.0.0.0 whos.amung.us
+0.0.0.0 go.bcvc.mobi
+0.0.0.0 t.dtscout.com
+0.0.0.0 www.hibids10.com
+0.0.0.0 use.melanthios-avi.com
+0.0.0.0 dtscout.rtb.adx1.com
+31.172.81.158 ixtmbdajhvimtv.com
+31.172.81.158 www.performanceonclick.com
 
 #http://shink.me/AEkxL
 127.0.0.1 adsrvmedia.adk2.co
@@ -3421,7 +3479,7 @@ Tiendeo.se
 0.0.0.0 cdn.adnuntius.com
 127.0.0.1 cdn.cxense.com
 31.172.81.158 widgets.boka.holiday
-0.0.0.0 s3-eu-west-1.amazonaws.com
+#0.0.0.0 s3-eu-west-1.amazonaws.com #https://se.readly.com/
 
 # [News] Expressen.se
 
@@ -4241,7 +4299,7 @@ Tiendeo.se
 127.0.0.1 wsp.steepto.com
 127.0.0.1 wsp.mgid.com
 127.0.0.1 c.mgid.com
-127.0.0.1 go.oclasrv.com
+31.172.81.158 go.oclasrv.com
 127.0.0.1 615b68cc9c8528e.com
 127.0.0.1 katie.tnctrx.com
 127.0.0.1 dt.spamanalyst.com
