@@ -149,3 +149,5 @@ secure-ds.serving-sys.com #Wifog(via bs.serving-sys.com.. )
 gcdn.2mdn.net #Wifog(via bid.g.. )
 c.2mdn.net #Wifog.com reklam Media funktion
 googleadapis.l.google.com #Wifog via bid.g.doubleclick.net
+
+vidtech.cbsinteractive.com #ZDNet player

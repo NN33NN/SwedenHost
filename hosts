@@ -27,6 +27,8 @@ i1.ytimg.com #https://my.webfaction.com/
 pixel.everesttech.net #Googlesearch ad klick
 click.adrecord.com #https://aktiekunskap.nu/category/aktier-nyborjare/
 
+#Extra
+#0.0.0.0 www.googletagmanager.com #Tror den fuckar upp Cookies
 
 #Wifog.com
 #127.0.0.1 des.smartclip.net #DN.se
@@ -519,7 +521,7 @@ https://clk.icu/raTE
 0.0.0.0 a2.fdlstatic.com
 #0.0.0.0 a3.fdlstatic.com
 0.0.0.0 i.i.cbsi.com
-0.0.0.0 vidtech.cbsinteractive.com
+#0.0.0.0 vidtech.cbsinteractive.com #ZDNet player
 
 #PhoneVirus
 31.172.81.158 mdory.space
@@ -4229,7 +4231,7 @@ Tiendeo.se
 # [WEB] Zdnet.com
 127.0.0.1 cbsinteractive.hb.omtrdc.net
 127.0.0.1 inqlnfvog763mmf771rou737u.litix.io
-#127.0.0.1 www.googletagservices.com #Video
+0.0.0.0 www.googletagservices.com
 127.0.0.1 secure-us.imrworldwide.com
 127.0.0.1 ads.zdnet.com
 127.0.0.1 ads.ztod.com
