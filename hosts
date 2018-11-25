@@ -4230,7 +4230,7 @@ Tiendeo.se
 # [WEB] Zdnet.com
 127.0.0.1 cbsinteractive.hb.omtrdc.net
 127.0.0.1 inqlnfvog763mmf771rou737u.litix.io
-127.0.0.1 www.googletagservices.com
+#127.0.0.1 www.googletagservices.com #Video
 127.0.0.1 secure-us.imrworldwide.com
 127.0.0.1 ads.zdnet.com
 127.0.0.1 ads.ztod.com
