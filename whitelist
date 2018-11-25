@@ -6,51 +6,54 @@ ad-emea.doubleclick.net #GoogleSearch Ad-click
 ad-server.one.com #GoogleSearch Ad-click
 pixel.everesttech.net #GoogleSearch Ad-click
 bs.serving-sys.com #GoogleSearch Ad-click
+ad.doubleclick.net #GoogleSearch Ad-click
 clickserve.dartsearch.net #GoogleSearch Ad-click
 clickserve.eu.dartsearch.net #GoogleSearch Ad-click
 clickserve.uk.dartsearch.net #GoogleSearch Ad-click
 clickserve.us2.dartsearch.net #GoogleSearch Ad-click
-pagead2.googlesyndication.com #apkmirror thing + SNBforum
-odb.outbrain.com #Apkmirror thing
-staticxx.facebook.com #FB
+encrypted-tbn3.gstatic.com #GoogleSearch Ad-click Bilder
+encrypted-tbn2.gstatic.com #GoogleSearch Ad-click Bilder
+pagead2.googlesyndication.com #apkmirror thing + SNBforum + msguides.com
+paid.outbrain.com #Links on edition.cnn.com (video)
+traffic.outbrain.com #Links on edition.cnn.com (video)
+images.outbrain.com #Edition.cnn.com Sport/Style/Health etc
+storage.outbrain.com #Edition.cnn.com Sport/Style/Health etc
+widgets.outbrain.com #Edition.cnn.com Sport/Style/Health etc
+odb.outbrain.com  #Edition.cnn.com Play video, shows rekommend videos can be removed from whitelist
+staticxx.facebook.com #FB -Vet ej
 cached-images.bonnier.news #DN
-s3.eu-west-1.amazonaws.com #Bilder kommer här ifrån-Absolut Vodka
+s3.eu-west-1.amazonaws.com #Bilder kommer här ifrån-Absolut Vodka&
+s3-eu-west-1.amazonaws.com #www.reumatikerforbundet.org https://se.readly.com/ 
 encrypted-tbn0.gstatic.com #GoogleBilderSearch
 clients2.google.com
 clients3.google.com
 clients4.google.com
 login.live.com #MS Outlook
-clients.l.google.com #Google-login
 appsitemsuggest-pa.clients6.google.com #Google-login
-ogs.google.com #Google-login
 lh2.l.google.com #Google-login
 lh3.google.com #Google-login
-csi.gstatic.com #Google-login
 clients6.google.com #Google-login
 www.gstatic.com #Google-login + Restore Google icons on webpage + Capita for webpage login
 gstatic.com #Google This restores Account elements
-#googleadapis.l.google.com #Vet ej Google login
 drive.google.com #Google-login
 accounts-cctld.l.google.com #Google-login
-www3.l.google.com #Google-login
 plus.l.google.com #Google-login
 googlehosted.l.googleusercontent.com #Google-login
 talk.google.com #Google-login
 play.googleapis.com #Google Playbutik Mobil
 android.clients.google.com #GoogleDrive Upload files MobPhone
 apis.google.com #Google.hangout.com + Youtube This restores the "g-hovercard"
-www.google-analytics.com #Video button on page #Mesosphere.com
+content.jwplatform.com #www.scarymommy.com/how-to-handle-poison-ivy/
 imasdk.googleapis.com #Player/Video at zdnet.com
 clients2.google.com #Chrome Plugin error message saying "An error has occurred: Download interrupted" pops up.
 tools.google.com #Chrome update problems, aren't blocked
 dl.google.com #Chrome update problems, aren't blocked
-r6---sn-uxaxovg-5gok.gvt1.com #CHROME N G-Drive
+gvt1.com #CHROME N G-Drive
 redirector.gvt1.com #CHROME N G-Drive
 ssl.gstatic.com #Prevents loading Google Drive contents + Restore Google icons on webpage
 ajax.googleapis.com Problem to confirm cookies toolbar -filmtipset.se, webpage waves.com does not show **Orsakar google annonser på tradera.com
 fonts.googleapis.com #Fonts for webpage
 fonts.gstatic.com #Fonts for webpage
-www.googletagservices.com #Problem to load pictures, dayviews.com/hanssonfh/493934660/ ZDNET.com Video does not play http://www.zdnet.com
 docs.google.com #Google Docs
 mtalk.google.com #Google Cloud Messaging
 clients2.googleusercontent.com #Google Vet ej
@@ -68,21 +71,54 @@ lh3.ggpht.com #Google Cache Bilder
 lh4.ggpht.com #Google Cache Bilder
 lh5.ggpht.com #Google Cache Bilder
 lh6.ggpht.com #Google Cache Bilder
+cex.io # BITCOIN Exchange
+sjs.bizographics.com #Laddar Väldigt segt support sidan https://support.jwplayer.com/faqs/
+cdn.jsdelivr.net #PLAYER plejmo.com/sv
+c.evidon.com #PLAYER: ZDNET.COM
+s0.2mdn.net #PLAYER: ZDNET.COM
+imasdk.googleapis.com #PLAYER: ZDNET.COM
 ssl.p.jwpcdn.com #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
 orange.fruity.pw #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
-cex.io # BITCOIN Exchange
-maxcdn.bootstrapcdn.com #Ad-block detection Seehd.ws
-cdn.syndication.twimg.com #TWITTER embeded i websida syns ej:  http://bpungdom.se/?firstRef
-sjs.bizographics.com #Laddar Väldigt segt support sidan https://support.jwplayer.com/faqs/
-cdn1.smartadserver.com #Ad-block detection Bild.de
-cdn.jsdelivr.net #Player
+images-na.ssl-images-amazon.com #Bilder på https://www.amazon.com
 api.cxense.com #ystadsallehanda.se Rekomenderat för dej
-easylist.club #Ad-block detection Sockshare.net
-media.trafficjunky.net #Ad-block detection Redtube.com
-# www.googleapis.com #Chrome vet ej 
-#spclient.wg.spotify.com #Spotify vet ej
-#pubads.g.doubleclick.net #NBC Player detects as ad-block
-#tpc.googlesyndication.com #NBC Player detects as ad-block
-#accounts.google.com #Google Vet ej
-#accounts.google.se #Google Vet ej
-#clients5.google.com #Vet ej Ser ut att ladda ads
+track.adform.net #Klickar på ads redirection tex https://mitti.se/
+quantcast.mgr.consensu.org #Sourceforge.net Cookie inorder to download files
+static.quantcast.mgr.consensu.org #Sourceforge.net Cookie inorder to download files
+vendorlist.consensu.org #Sourceforge.net Cookie inorder to download files
+api.quantcast.mgr.consensu.org #Sourceforge.net Cookie inorder to download files
+img1.ak.crunchyroll.com #Chruncyroll
+i.ytimg.com #Youtube
+mx1.youtube.com #Youtube
+mx0.youtube.com #Youtube
+cdn.syndication.twimg.com #TWITTER Feed på Websida Bild.de
+code.jquery.com #Upload does not work uploadfiles.io
+cdnjs.cloudflare.com #Fuckup https://ww3.rongdat.info/cute-cat-emoticons-gif/
+s3.amazonaws.com #Amazon Github Laddar upp filer där.
+easylist.club #AD-BLOCK DETECTION: Sockshare.net
+media.trafficjunky.net #AD-BLOCK DETECTION: Redtube.com
+acdn.adnxs.com #AD-BLOCK DETECTION: Bild.de ev SVD.se
+maxcdn.bootstrapcdn.com AD-BLOCK DETECTION: Seehd.ws
+ping.chartbeat.net #BBC Sport app in the UK
+s2.n4g.com #Web n4g.com -vanligsida bilder + endel ads
+dp8hsntg6do36.cloudfront.net #Video Server för flera sidor pitchfork.com, www.brides.com
+yt3.ggpht.com #https://www.youtube.com/watch?reload=9&v=NH2PhXYvrWs
+i1.ytimg.com #https://my.webfaction.com/
+click.adrecord.com #https://aktiekunskap.nu/category/aktier-nyborjare/
+track.adtraction.com #klicka rabattkoder https://www.aftonbladet.se/rabattkod/tretti.se#promo-41211
+v.jwpcdn.com #Aftonbladet
+track.avtrk2manage.com #https://goo.gl/JXZLXE click download
+cdn.shopify.com #blendjet.com
+m.facebook.com # FB-Mobile
+static.ts.360.com #Fix Total360 webpage
+des.smartclip.net #Wifog.com reklam funktion
+ad.sxp.smartclip.net #Wifog.com reklam funktion
+bs.serving-sys.com #Wifog.com reklam funktion
+bid.g.doubleclick.net #Wifog.com reklam funktion
+track.adform.net #Wifog.com reklam funktion
+search.spotxchange.com #Wifog.com reklam funktion
+s1.adform.net #Wifog.com reklam funktion
+cdn.flashtalking.com #Wifog.com reklam Media funktion
+secure-ds.serving-sys.com #Wifog(via bs.serving-sys.com.. )
+gcdn.2mdn.net #Wifog(via bid.g.. )
+c.2mdn.net #Wifog.com reklam Media funktion
+googleadapis.l.google.com #Wifog via bid.g.doubleclick.net

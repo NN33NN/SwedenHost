@@ -28,7 +28,7 @@ cached-images.bonnier.news #DN
 
 
 s3.eu-west-1.amazonaws.com #Bilder kommer här ifrån-Absolut Vodka&
-s3-eu-west-1.amazonaws.com #www.reumatikerforbundet.org
+s3-eu-west-1.amazonaws.com #www.reumatikerforbundet.org https://se.readly.com/ 
 
 
 encrypted-tbn0.gstatic.com #GoogleBilderSearch
@@ -123,6 +123,29 @@ ping.chartbeat.net #BBC Sport app in the UK
 s2.n4g.com #Web n4g.com -vanligsida bilder + endel ads
 dp8hsntg6do36.cloudfront.net #Video Server för flera sidor pitchfork.com, www.brides.com
 
+yt3.ggpht.com #https://www.youtube.com/watch?reload=9&v=NH2PhXYvrWs
+i1.ytimg.com #https://my.webfaction.com/
+
+click.adrecord.com #https://aktiekunskap.nu/category/aktier-nyborjare/
+track.adtraction.com #klicka rabattkoder https://www.aftonbladet.se/rabattkod/tretti.se#promo-41211
+
 v.jwpcdn.com #Aftonbladet
 track.avtrk2manage.com #https://goo.gl/JXZLXE click download
 cdn.shopify.com #blendjet.com
+
+m.facebook.com # FB-Mobile
+static.ts.360.com #Fix Total360 webpage
+
+des.smartclip.net #Wifog.com reklam funktion
+ad.sxp.smartclip.net #Wifog.com reklam funktion
+bs.serving-sys.com #Wifog.com reklam funktion
+bid.g.doubleclick.net #Wifog.com reklam funktion
+track.adform.net #Wifog.com reklam funktion
+search.spotxchange.com #Wifog.com reklam funktion
+s1.adform.net #Wifog.com reklam funktion
+
+cdn.flashtalking.com #Wifog.com reklam Media funktion
+secure-ds.serving-sys.com #Wifog(via bs.serving-sys.com.. )
+gcdn.2mdn.net #Wifog(via bid.g.. )
+c.2mdn.net #Wifog.com reklam Media funktion
+googleadapis.l.google.com #Wifog via bid.g.doubleclick.net
