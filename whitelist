@@ -25,6 +25,7 @@ cached-images.bonnier.news #DN
 s3.eu-west-1.amazonaws.com #Bilder kommer här ifrån-Absolut Vodka&
 s3-eu-west-1.amazonaws.com #www.reumatikerforbundet.org https://se.readly.com/ 
 encrypted-tbn0.gstatic.com #GoogleBilderSearch
+encrypted-tbn1.gstatic.com #Icons google result tips https://cdon.se/hem-tradgard/vitt-ryggstod-battre-hallning-smartor-i-rygg-nacke-p41037996
 clients2.google.com
 clients3.google.com
 clients4.google.com
@@ -122,3 +123,5 @@ secure-ds.serving-sys.com #Wifog(via bs.serving-sys.com.. )
 gcdn.2mdn.net #Wifog(via bid.g.. )
 c.2mdn.net #Wifog.com reklam Media funktion
 googleadapis.l.google.com #Wifog via bid.g.doubleclick.net
+vidtech.cbsinteractive.com #ZDNet player
+jwpltx.com #Putlocker.vip Player

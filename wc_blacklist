@@ -8,7 +8,6 @@ us-west-1.elb.amazonaws.com #Amazon
 s3-eu-central-1.amazonaws.com #Amazon
 S3-us-east-1.amazonaws.com #Amazon
 S3-us-west-1.amazonaws.com #Amazon
-us-east-1.amazonaws.com #Amazon
 us-west-1.amazonaws.com #Amazon
 ariocroft.com #PhoneVirus
 googlo.co #PhoneVirus
@@ -35,3 +34,4 @@ blastnotificationx.com #PhoneVirus
 ecfwg.xyz #PhoneVirus
 websnewsdate.com #PhoneVirus
 fzgd772zev.pw #PhoneVirus
+safelinks.protection.outlook.com #Outlook
