@@ -22,13 +22,56 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
 
 #---------NYA
-Whitelist: yt3.ggpht.com #https://www.youtube.com/watch?reload=9&v=NH2PhXYvrWs
-i1.ytimg.com #https://my.webfaction.com/
-pixel.everesttech.net #Googlesearch ad klick
-click.adrecord.com #https://aktiekunskap.nu/category/aktier-nyborjare/
+Whitelist:
+#127.0.0.1 encrypted-tbn1.gstatic.com #Icons https://cdon.se/hem-tradgard/vitt-ryggstod-battre-hallning-smartor-i-rygg-nacke-p41037996
 
 #Extra
 #0.0.0.0 www.googletagmanager.com #Tror den fuckar upp Cookies
+
+#http://bidace.com/150.html
+#https://www.foodbeast.com/news/
+hoomans-static.foodbeast.com
+karma.mdpcdn.com
+pixel.carambo.la
+cdata.carambo.la
+inimage.carambo.la
+#https://mashable.com/?europe=true
+logging.carambo.la
+analytics.carambo.la
+cdn.ziffstatic.com
+https://www.wunderground.com/
+sodc.wunderground.com
+sp.wunderground.com #vet ej
+#https://www.imore.com/win-your-very-own-bb-8-remote-control-star-wars-mini-droid-imore
+cdn.pushwoosh.com
+429c5-1d5d6.api.pushwoosh.com
+passport.mobilenations.com
+#https://www.ibtimes.com/amid-successful-holiday-season-retailers-shoppers-look-last-minute-deals-super-2233805
+w.graphiq.com #privace popup
+api.privacy-center.org
+sdk.privacy-center.org
+api.engage.im
+cdn.feeds.ibt.com
+feed.engage.im
+img.engage.im
+s.fqtag.com
+***** Ej kollat**
+#https://ape-asset-tag.timeinc.com/v0/article?url=http://time.com/4160565/drones-registration-numbers-faa/
+timeinc går till:https://www.meredith.com/marketing-capabilities/video-production
+
+https://servicer.idealmedia.com/168323
+
+https://a.amz.mshcdn.com/assets/advertisement-05dc9dd632adb4df020fc426e931cbf5c678486fac51ea65ff563a9f577dc7bc.js
+
+
+
+
+*****Ej kollat**
+
+
+#https://www.channelnewsasia.com/news/technology/11-11-singles-day-sale-qoo10-lazada-shopee-taobao-10891424
+0.0.0.0 login.mediacorp.sg
+0.0.0.0 s.po.st
 
 #Wifog.com
 #127.0.0.1 des.smartclip.net #DN.se
@@ -144,6 +187,7 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 #SPAM
 #https://qismy.life/73CB099D?clickid=8940c3c57da64bddabf7aadcbc97ca4c&subid=3415&sourceid=
 31.172.81.158 eteppy.com
+31.172.81.158 ngegovering.info
 31.172.81.158 win.stack-prizes01.com
 31.172.81.158 play.leadzupc.com
 31.172.81.158 play.superlzpre.com
@@ -275,9 +319,9 @@ https://clk.icu/raTE
 127.0.0.1 is360.iobit.com
 127.0.0.1 iunins.iobit.com
 
-127.0.0.1 secure.piriform.com
-127.0.0.1 secure.piriform.com/*
-127.0.0.1 license.piriform.com
+#127.0.0.1 secure.piriform.com
+#127.0.0.1 secure.piriform.com/*
+#127.0.0.1 license.piriform.com
 
 127.0.0.1 product.corel.com
 
@@ -1346,7 +1390,6 @@ sync.bumlam.com pagead2.googlesyndication.com
 #Extra
 127.0.0.1 adssettings.google.com
 127.0.0.1 schema.org
-127.0.0.1 encrypted-tbn1.gstatic.com
 127.0.0.1 notifications.google.com
 127.0.0.1 clients5.google.com
 127.0.0.1 feedads.googleadservices.com
@@ -2168,7 +2211,7 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 127.0.0.1 cdn.video.playwire.com
 
 #https://www.gizbot.com/mobile/news/nokia-3310-3g-variant-late-september-early-october-launch-price-release-043233.html
-127.0.0.1 widget.crowdynews.com
+0.0.0.0 widget.crowdynews.com
 127.0.0.1 vuukle.com
 127.0.0.1 static.clmbtech.com
 127.0.0.1 ade.clmbtech.com
@@ -2675,14 +2718,14 @@ Tiendeo.se
 
 # [ADS] Google
 
-127.0.0.1 video-ad-stats.googlesyndication.com
+0.0.0.0 video-ad-stats.googlesyndication.com
 127.0.0.1 adservices.google.com
 127.0.0.1 adwords.google.com
 127.0.0.1 clients.l.google.com
 127.0.0.1 a1089.d.akamai.net
-127.0.0.1 googlesyndication.com
-127.0.0.1 google-analytics.com
-127.0.0.1 www.google-analytics.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
 127.0.0.1 imageads.googleadservices.com 
 127.0.0.1 imageads1.googleadservices.com
 127.0.0.1 imageads2.googleadservices.com
@@ -2696,7 +2739,7 @@ Tiendeo.se
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
-127.0.0.1 ssl.google-analytics.com
+0.0.0.0 ssl.google-analytics.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 www-google-analytics.l.google.com
 127.0.0.1 www-googletagmanager.l.google.com
@@ -4690,4 +4733,4 @@ https://www.kinos.to/Stream/Searching.html
 # [XXX] Xvideos.com
 
 127.0.0.1 media.trafficfactory.biz
-127.0.0.1 rpc-php.trafficfactory.biz
+127.0.0.1 rpc-php.trafficfactory.biz                               
