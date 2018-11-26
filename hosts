@@ -23,7 +23,7 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
 #---------NYA
 Whitelist:
-#127.0.0.1 encrypted-tbn1.gstatic.com #Icons https://cdon.se/hem-tradgard/vitt-ryggstod-battre-hallning-smartor-i-rygg-nacke-p41037996
+
 
 #Extra
 #0.0.0.0 www.googletagmanager.com #Tror den fuckar upp Cookies
@@ -4380,7 +4380,7 @@ Tiendeo.se
 
 # [VIDEO] Kissanime.me/.ru
 
-127.0.0.1 jwpltx.com
+#127.0.0.1 jwpltx.com
 127.0.0.1 usermatch.krxd.net
 127.0.0.1 ads.2mdnsys.com
 127.0.0.1 p191.atemda.com
@@ -4733,4 +4733,4 @@ https://www.kinos.to/Stream/Searching.html
 # [XXX] Xvideos.com
 
 127.0.0.1 media.trafficfactory.biz
-127.0.0.1 rpc-php.trafficfactory.biz                               
+127.0.0.1 rpc-php.trafficfactory.biz                               
