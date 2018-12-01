@@ -28,44 +28,56 @@ Whitelist:
 #Extra
 #0.0.0.0 www.googletagmanager.com #Tror den fuckar upp Cookies
 
+#Amazone
+0.0.0.0 mads.amazon-adsystem.com
+#YOUTUBE test
+172.217.1.46 manifest.googlevideo.com
+
 #http://bidace.com/150.html
 #https://www.foodbeast.com/news/
 hoomans-static.foodbeast.com
-karma.mdpcdn.com
-pixel.carambo.la
-cdata.carambo.la
-inimage.carambo.la
-#https://mashable.com/?europe=true
-logging.carambo.la
-analytics.carambo.la
-cdn.ziffstatic.com
+0.0.0.0 karma.mdpcdn.com
+0.0.0.0 pixel.carambo.la
+0.0.0.0 cdata.carambo.la
+0.0.0.0 inimage.carambo.la
+0.0.0.0 logging.carambo.la
+0.0.0.0 analytics.carambo.la
+0.0.0.0 cdn.ziffstatic.com
 https://www.wunderground.com/
-sodc.wunderground.com
-sp.wunderground.com #vet ej
+0.0.0.0 sodc.wunderground.com
+0.0.0.0 sp.wunderground.com #vet ej
 #https://www.imore.com/win-your-very-own-bb-8-remote-control-star-wars-mini-droid-imore
-cdn.pushwoosh.com
-429c5-1d5d6.api.pushwoosh.com
-passport.mobilenations.com
+0.0.0.0 cdn.pushwoosh.com
+0.0.0.0 429c5-1d5d6.api.pushwoosh.com
+0.0.0.0 passport.mobilenations.com
 #https://www.ibtimes.com/amid-successful-holiday-season-retailers-shoppers-look-last-minute-deals-super-2233805
-w.graphiq.com #privace popup
-api.privacy-center.org
-sdk.privacy-center.org
-api.engage.im
-cdn.feeds.ibt.com
-feed.engage.im
-img.engage.im
-s.fqtag.com
+0.0.0.0 api.privacy-center.org
+0.0.0.0 sdk.privacy-center.org
+0.0.0.0 api.engage.im
+0.0.0.0 cdn.feeds.ibt.com
+0.0.0.0 feed.engage.im
+0.0.0.0 img.engage.im
+0.0.0.0 s.fqtag.com
 ***** Ej kollat**
-#https://ape-asset-tag.timeinc.com/v0/article?url=http://time.com/4160565/drones-registration-numbers-faa/
-timeinc går till:https://www.meredith.com/marketing-capabilities/video-production
+#http://time.com/4160565/drones-registration-numbers-faa/
+0.0.0.0 ape-asset-tag.timeinc.com #timeinc is meredith.com
 
 https://servicer.idealmedia.com/168323
-
-https://a.amz.mshcdn.com/assets/advertisement-05dc9dd632adb4df020fc426e931cbf5c678486fac51ea65ff563a9f577dc7bc.js
-
+0.0.0.0 servicer.idealmedia.com
 
 
 
+Video funkar ej https://mashable.com/video/ai-portraits-celebrity-doppelganger/?europe=true&utm_cid=sv-nextup-right#2PncgppESkq3
+#BBC.com
+0.0.0.0 edigitalsurvey.com
+0.0.0.0survey.effectivemeasure.net
+0.0.0.0cookie-oven.api.bbc.co.uk
+0.0.0.0 detect-survey.effectivemeasure.net
+0.0.0.0 t.effectivemeasure.net
+0.0.0.0 emp.bbci.co.uk
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
+0.0.0.0 me-ssl.effectivemeasure.net
+#0.0.0.0 nav.files.bbci.co.uk
 *****Ej kollat**
 
 
@@ -183,6 +195,7 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 
 #Avanza Flik nyheter
 0.0.0.0 publish.ne.cision.com
+0.0.0.0 4436512.fls.doubleclick.net
 
 #SPAM
 #https://qismy.life/73CB099D?clickid=8940c3c57da64bddabf7aadcbc97ca4c&subid=3415&sourceid=
@@ -234,7 +247,6 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 ovp.iris.tv
 0.0.0.0 c2.u5c93.com
-0.0.0.0 ping.chartbeat.net
 0.0.0.0 recirculation.spot.im
 0.0.0.0 launcher.spot.im
 0.0.0.0 dynamic-cdn.spot.im
@@ -372,17 +384,20 @@ https://clk.icu/raTE
 
 
 #https://mashable.com/2015/12/20/ted-cruz-christian-conservatives/?europe=true&utm_cid=hp-hh-pri#7JdhZGuKHuqU
-#0.0.0.0 a.amz.mshcdn.com
+
 0.0.0.0 st.mashable.com
 0.0.0.0 e2e-static.zdcommerce.io
 0.0.0.0 horizon.sailthru.com
 0.0.0.0 e2e.mashable.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 content.jwplatform.com #alla ads
 
 
 
 #https://pcforalla.idg.se/
 31.172.81.158 google-sv.lojalaanvandaresgavor.club
+31.172.81.158 v7.notification-browser.com
+31.172.81.158 mobile3073.prizesforanybody64.life
 0.0.0.0 ax.idg.se
 0.0.0.0 ai.idg.se
 
@@ -826,6 +841,15 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 
 #tre.se 180.se
 0.0.0.0 az416426.vo.msecnd.net
+0.0.0.0 sis.jpush.io
+0.0.0.0 s.jpush.cn
+0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 smartcall.edge.hiyaapi.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
+0.0.0.0 android.l.google.com
+
 
 #https://www.sammobile.com/firmwares/galaxy-c7/SM-C7000/
 0.0.0.0 api.pushbird.com
@@ -904,7 +928,8 @@ google.f.bez1fd google.f.LmvwCb
 #127.0.0.1 m.facebook.com
 127.0.0.1 .facebook.com
 127.0.0.1 
-127.0.0.1 scontent.xx.fbcdn.net
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 external.xx.fbcdn.net
 31.172.81.158 staticxx.facebook.com
 #127.0.0.1 static.xx.fbcdn.net #Fuckar FB sidan
 connect.facebook.net
@@ -1321,14 +1346,28 @@ sync.bumlam.com pagead2.googlesyndication.com
 
 
 # 1[SPECIAL]
-127.0.0.1 auth.dn.se #P?slagen full access till l?sa text till senaste nyheterna samt bloggar. Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
+#127.0.0.1 auth.dn.se #P?slagen full access till l?sa text till senaste nyheterna samt bloggar. Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
 127.0.0.1 login.di.se #P?slagen full access till weekend.di.se.Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
 
 #DN: https://www.dn.se/ekonomi/elon-musk-stams-for-vilseledande-information/
 31.172.81.158 kampanj.dn.se
 31.172.81.158 di.insplanet.com
 #52.84.213.218 di.insplanet.com
+#0.0.0.0 jsconsole.com
+#0.0.0.0 t.co
 
+#Mrkoll.se
+0.0.0.0 track.adtraction.com #BlocksADS#klicka rabattkoder https://www.aftonbladet.se/rabattkod/tretti.se#promo-41211
+
+#Mail.com #https://www.openx.com/
+0.0.0.0 one-and-one-d.openx.net
+0.0.0.0 ssl-munchkin.marketo.net
+0.0.0.0 app-sjl.marketo.com
+0.0.0.0 4234560.fls.doubleclick.net
+0.0.0.0 tag.demandbase.com
+0.0.0.0 api.company-target.com
+0.0.0.0 d.company-target.com
+0.0.0.0 js.ui-portal.de
 
 
 #SvTPlay
@@ -1516,8 +1555,8 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 afs.googleusercontent.com
 
 #DN FIx-PAYWALL https://www.dn.se/nyheter/varlden/spindelvav-tacker-enorm-yta-i-grekland/
-127.0.0.1 account.bonnier.news
-127.0.0.1 campaigner.dn.se
+#127.0.0.1 account.bonnier.news
+0.0.0.0 campaigner.dn.se
 #127.0.0.1 cdn01.dn-static.se
 31.172.81.158 www.w3.org
 
@@ -1709,7 +1748,11 @@ ir.ebaystatic.com
 #http://www.lakartidningen.se/Klinik-och-vetenskap/Fallbeskrivning/2014/03/Botulism-ar-en-behandlingsbar-mycket-sallsynt-forgiftning/
 
 #https://m.theepochtimes.com/uplift/man-sees-kangaroo-hopping-after-him-so-he-suddenly-turns-kneels-then-mind-blowing-thing-occurs_2434512.html
-127.0.0.1 entitlements.jwplayer.com
+#https://m.theepochtimes.com/supreme-court-may-allow-apple-app-store-class-action-lawsuit-to-proceed_2724480.html
+0.0.0.0 ad.theepochtimes.com
+0.0.0.0 query.petametrics.com
+0.0.0.0 cdn.petametrics.com
+0.0.0.0 4979777.fls.doubleclick.net
 
 #AdAway #https://github.com/AdAway/AdAway/issues/959
 127.0.0.1 ants.vn
@@ -1916,7 +1959,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 
 ##SL APP
 127.0.0.1 stockholm-commute.appspot.com
-127.0.0.1 app-measurement.com
+0.0.0.0 app-measurement.com
 127.0.0.1 portal.fb.com
 127.0.0.1 stats.jpush.cn
 127.0.0.1 people-pa.googleapis.com
@@ -2368,7 +2411,7 @@ https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 127.0.0.1 5d457.v.fwmrm.net
 127.0.0.1 5d0b6.v.fwmrm.net
 127.0.0.1 router.infolinks.com
-127.0.0.1 munchkin.marketo.net
+0.0.0.0 munchkin.marketo.net
 127.0.0.1 640-wsz-165.mktoresp.com
 127.0.0.1 cdn.segment.com
 .mktoresp.com
@@ -2415,7 +2458,6 @@ Metro.se
 127.0.0.1 ps-adinfo.egslb.aol.com
 127.0.0.1 adinfo.aol.com
 127.0.0.1 geo.moatads.com
-127.0.0.1 t.appsflyer.com
 127.0.0.1 apx.moatads.com
 127.0.0.1 s-jsonp.moatads.com
 127.0.0.1 core.adunity.com
@@ -2714,7 +2756,7 @@ Tiendeo.se
 31.172.81.158 chart.apis.google.com
 127.0.0.1 metric.gstatic.com
 127.0.0.1 ds.metric.gstatic.com
-127.0.0.1 csi.gstatic.com
+0.0.0.0 csi.gstatic.com
 
 # [ADS] Google
 
@@ -2952,12 +2994,12 @@ Tiendeo.se
 127.0.0.1 www.images.taboola.com
 127.0.0.1 us-u.openx.net
 127.0.0.1 www.us-u.openx.net
-127.0.0.1 api.taboola.com
+0.0.0.0 api.taboola.com
 127.0.0.1 www.api.taboola.com
 127.0.0.1 api-s2s-emea.taboola.com
 127.0.0.1 c2.taboola.com
 127.0.0.1 www.c2.taboola.com
-127.0.0.1 cdn.taboola.com
+0.0.0.0 cdn.taboola.com
 127.0.0.1 www.cdn.taboola.com
 127.0.0.1 urc.taboolasyndication.com
 127.0.0.1 www.urc.taboolasyndication.com
@@ -3103,7 +3145,6 @@ Tiendeo.se
 127.0.0.1 pixel.moatads.com
 127.0.0.1 rtd.tubemogul.com
 127.0.0.1 s.innovid.com
-#127.0.0.1 s.youtube.com #Stream stuter
 #127.0.0.1 www.youtube-nocookie.com #https://www.telerik.com/download/fiddler
 127.0.0.1 youtube-nocookie.com
 
@@ -3356,7 +3397,8 @@ Tiendeo.se
 
 127.0.0.1 realtime.services.disqus.com
 127.0.0.1 wsss.lockerdome.com
-127.0.0.1 sb.scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com.edgekey.net
 127.0.0.1 static.addtoany.com
 127.0.0.1 cdn2.lockerdomecdn.com
 127.0.0.1 cdn1.lockerdomecdn.com
@@ -3614,20 +3656,30 @@ Tiendeo.se
 31.172.81.158 webbannons.ntm.eu
 
 # [News] Nytimes.com/cooking.nytimes.com
+0.0.0.0 rtd-tm.everesttech.net
+0.0.0.0 conv-tm.everesttech.net
+0.0.0.0 va.v.liveperson.net
+0.0.0.0 lptag.liveperson.net
+0.0.0.0 lpcdn.lpsnmedia.net
+0.0.0.0 accdn.lpsnmedia.net
+0.0.0.0 collectors.sumologic.com
+
+
+
 127.0.0.1 us-central1-nyt-ckgadmin-dev.cloudfunctions.net
 127.0.0.1 lookaside.facebook.com
 127.0.0.1 typeface.nytimes.com
 127.0.0.1 content.api.nytimes.com
 127.0.0.1 a1.nyt.com
-127.0.0.1 meter-svc.nytimes.com
+0.0.0.0 meter-svc.nytimes.com
 127.0.0.1 samizdat-graphql.nytimes.com
-127.0.0.1 a.nytimes.com
-127.0.0.1 mwcm.nyt.com
+0.0.0.0 a.nytimes.com
+#0.0.0.0 mwcm.nyt.com #test 2018-11-27 to get https://www.nytimes.com/subscription/inyt/lp8U87J.html?campaignId=7UXFY&gclid=EAIaIQobChMI4oSnsLvz3gIVAbDtCh2LjA-SEAAYASAAEgKvffD_BwE
 127.0.0.1 Media.net
 127.0.0.1 cdn.optimizely.com
 127.0.0.1 logx.optimizely.com
 127.0.0.1 ct.pinterest.com
-127.0.0.1 et.nytimes.com
+0.0.0.0 et.nytimes.com
 127.0.0.1 messaging-notifications.api.nytimes.com
 0.0.0.0 contextual.media.net
 127.0.0.1 typeface.nyt.com
@@ -4028,7 +4080,7 @@ Tiendeo.se
 127.0.0.1 trackbar.navigator-lxa.mail.com
 127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 logger.navigator-lxa.mail.com
-127.0.0.1 us.wa.ui-portal.com #Get premium
+0.0.0.0 us.wa.ui-portal.com #Get premium
 #127.0.0.1 js.ui-portal.de #Get premium
 #127.0.0.1 img.ui-portal.de
 
@@ -4142,7 +4194,6 @@ Tiendeo.se
 
 127.0.0.1 axdget-sync.nuggad.ne
 127.0.0.1 trase.nuggad.net
-127.0.0.1 cdn.ravenjs.com
 127.0.0.1 cdn.getblueshift.com
 127.0.0.1 browser-update.org
 127.0.0.1 ads.google.com
