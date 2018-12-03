@@ -845,11 +845,56 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 0.0.0.0 s.jpush.cn
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 smartcall.edge.hiyaapi.com
+0.0.0.0 d2ubx2mpeq0x2u.cloudfront.net
+0.0.0.0 android.l.google.com
+0.0.0.0 googlehosted.l.googleusercontent.com
+#0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 cloudconfig.googleapis.com
+0.0.0.0 astat.bugly.qq.com
+0.0.0.0 astat-bugly-tgw4l.mig.tencent-cloud.net
+0.0.0.0 delna76eiyecm.cloudfront.net
+0.0.0.0 web-video-caster-firebase.firebaseio.com
+0.0.0.0 detector.apptornado.com
+0.0.0.0 detector2.apptornado.com
+
 0.0.0.0 events.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
-0.0.0.0 android.l.google.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 statsgoogle.appsflyer.com
+#0.0.0.0 www.supersonicads.com #HyperHero Daimon
+#0.0.0.0 supersonicads-a.akamaihd.net #HyperHero Daimon
+#0.0.0.0 ua.supersonicads.com #HyperHero Daimon
+#0.0.0.0 init.supersonicads.com #HyperHero Daimon
+#0.0.0.0 rv-gateway.supersonicads.com #HyperHero Daimon
+0.0.0.0 supersonicads-a.akamaihd.net.edgesuite.net
+0.0.0.0 a1170.dscd.akamai.net
+0.0.0.0 outcome.supersonicads.com
+0.0.0.0 click-haproxy.supersonicads.com
+0.0.0.0 tag-mediation.supersonic.com
+0.0.0.0 ow-gateway.supersonicads.com
+0.0.0.0 pixel-tracking.sonic-us.supersonicads.com
+0.0.0.0 supersonic.com
+0.0.0.0 logs.supersonic.com
+0.0.0.0 supersonicads-a.akamaihd.net.edgesuite.net
+0.0.0.0 a1170.dscd.akamai.net
+0.0.0.0 ebl-1523412249.eu-west-1.elb.amazonaws.com
 
+0.0.0.0 e.tapdb.net
+0.0.0.0 mblapi.ssl2.duapps.com
+0.0.0.0 nrcapi.ssl2.duapps.com
+0.0.0.0 www.ssacdn.com
+0.0.0.0 vid.springserve.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 easytomessage.com
+
+Liz:
+0.0.0.0 inquers.com
+0.0.0.0 homeros-zep.com
+0.0.0.0 xml.clickredirection.com
+0.0.0.0 clickredirection.com
+0.0.0.0 holbrooked.top
+0.0.0.0 xalyk-api.apusapps.com
 
 #https://www.sammobile.com/firmwares/galaxy-c7/SM-C7000/
 0.0.0.0 api.pushbird.com
@@ -2005,7 +2050,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 events.aerserv.com
 127.0.0.1 debug.aerserv.com
 127.0.0.1 e.crashlytics.com
-127.0.0.1 ads.api.vungle.com
+0.0.0.0 ads.api.vungle.com
 127.0.0.1 sdk.adincube.com
 127.0.0.1 mpx.mopub.com
 127.0.0.1 analytics.mopub.com
@@ -2796,7 +2841,7 @@ Tiendeo.se
 127.0.0.1 ad.mo.doubleclick.net
 127.0.0.1 doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 pagead.l.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 pagead46.l.doubleclick.net
@@ -3834,7 +3879,7 @@ Tiendeo.se
 
 # [News] Time.com
 
-127.0.0.1 z.moatads.com
+0.0.0.0 z.moatads.com
 127.0.0.1 my.hellobar.com
 127.0.0.1 8027935.fls.doubleclick.net
 
