@@ -1,5 +1,9 @@
 127.0.0.1 localhost #ForSystem apps
 ::1 localhost-ipv6 #ForSystem apps
+****MERG with
+https://github.com/bjornstar/hosts/blob/master/hosts****
+#https://www.bukefalos.se/ (googleads.g.doubleclick.net)
+#  https://mxtoolbox.com/DNSLookup.aspx
 # Count lines: http://www.somacon.com/p568.php
 #Cash: https://shrinkearn.com/
 ##ADS - Provider Test
@@ -17,6 +21,42 @@ commank.pro <- Pixel server CHECK
 ekoatchooze.com <- Pixel server CHECK
 209.244.0.3 <- Spin no webpage
 https://aruljohn.com/hostname2ip.html <- lab
+####***********DNS*********####
+# pagead2.googlesyndication.com
+# pagead46.l.doubleclick.net
+# https://dnsdumpster.com/
+# https://api.hackertarget.com/reverseiplookup/?q=216.58.217.130
+####***********DNS*********####
+
+
+0.0.0.0 45.79.12.201
+0.0.0.0 45.79.12.0
+0.0.0.0 eqix-da1.google.com
+0.0.0.0 108.170.252.130
+0.0.0.0 216.239.63.207
+0.0.0.0 209.85.249.50
+0.0.0.0 216.239.40.133
+0.0.0.0 216.239.48.30
+0.0.0.0 216.239.50.96
+0.0.0.0 108.170.246.65
+0.0.0.0 72.14.237.23
+0.0.0.0 iad23s43-in-f2.1e100.net
+
+#pagead46.l.doubleclick.net
+0.0.0.0 45.79.12.202
+0.0.0.0 45.79.12.6
+0.0.0.0 45.79.12.8
+0.0.0.0 108.170.240.210
+0.0.0.0 216.239.63.251
+0.0.0.0 209.85.240.17
+0.0.0.0 216.239.40.131
+0.0.0.0 216.239.48.7
+0.0.0.0 216.239.63.233
+0.0.0.0 108.170.246.1
+0.0.0.0 216.239.54.205
+0.0.0.0 iad30s08-in-f130.1e100.net
+0.0.0.0 iad30s08-in-f2.1e100.net
+
 
 ##AD Network top 10 https://www.problogbooster.com/2016/04/Best-Google-Adsense-Alternatives-CPM-Ad-Networks-High-Paying-Cost-Per-Impression-CPC-PPC-Publisher-Bloggers-Programs-To-Make-Money-Online-From-Blog.html
 
@@ -33,11 +73,96 @@ Whitelist:
 172.217.1.46 manifest.googlevideo.com
 0.0.0.0 p2-mupiednesy7ja-uxlqvdod3lispchc-if-v6exp3-v4.metric.gstatic.com
 0.0.0.0 clients1.google.com
-0.0.0.0 pagead2.googlesyndication.com #bara test
+#0.0.0.0 pagead2.googlesyndication.com #bara test
 31.172.81.158 172.217.161.174 # hkg07s29
 31.172.81.158 172.217.31.238 # YT nslookup manifest
 31.172.81.158 216.58.199.110 # hkg07s22
 31.172.81.158 216.58.220.206 # del01s08
+
+
+0.0.0.0 corp.google.com
+0.0.0.0 borg.google.com
+#https://www.totalmediasolutions.com/register-to-adx/
+0.0.0.0 www.clickcease.com
+
+#http://www.alternativ.nu/ (g.dubbleclick.com)
+0.0.0.0 cse.google.se
+
+#https://www.familjeliv.se
+#https://www.familjeliv.se/forum/thread/75154085-ar-det-onodigt-mycket-reklam-har
+#https://s1.adform.net/banners/scripts/adx.js
+#0.0.0.0 track.adform.net
+#0.0.0.0 s1.adform.net
+0.0.0.0 tracking.adviralmedia.com
+
+0.0.0.0 pagead46.l.doubleclick.net
+
+#https://www.alltforforaldrar.se
+0.0.0.0 d11j2g8hmtmh4u.cloudfront.net
+
+
+
+#http://nitroflare.com/view/E01E19EE0BF5AD0/WinPE10_8_Sergei_Strelec_x86_x64_2018.09.20_English.part3.rar
+31.172.81.158 www.nanoadexchange.com
+.nextyourcontent.com
+31.172.81.158  nextyourcontent.com
+0.0.0.0 servedby.pixfuture.net
+#rapidgator.net
+0.0.0.0 shield.sitelock.com
+
+#www.foretagande.se
+0.0.0.0 quietube.com
+0.0.0.0 tweetmic.com
+0.0.0.0 tmic.fm
+0.0.0.0 media4.fjarnet.net
+0.0.0.0 embed.break.com
+0.0.0.0 dailymotion.com
+0.0.0.0 hexagon-analytics.com
+0.0.0.0 www.gametrailers.com
+0.0.0.0 video.google.com
+0.0.0.0 wwwstatic.megavideo.com
+0.0.0.0 metacafe.com
+0.0.0.0 vids.myspace.com
+0.0.0.0 flash.revver.com
+0.0.0.0 revver.com
+0.0.0.0 video.rutube.ru
+
+#https://rutube.ru/
+#https://yastatic.net/pcode/adfox/loader.js
+0.0.0.0 yastatic.net
+0.0.0.0 an.yandex.ru
+0.0.0.0 ads.adfox.ru
+0.0.0.0 amc.yandex.ru
+0.0.0.0 http-check-headers.yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 counter.yadro.ru
+0.0.0.0 gaua.hit.gemius.pl
+0.0.0.0 top-fwz1.mail.ru
+0.0.0.0 www.tns-counter.ru
+0.0.0.0 kraken.rambler.ru
+
+#https://www.dailymotion.com/us
+0.0.0.0 fb.me
+0.0.0.0 pebed.dm-event.net
+0.0.0.0 webed.dm-event.net
+0.0.0.0 public-prod-dspcookiematching.dmxleo.com
+0.0.0.0 sync.tidaltv.com
+0.0.0.0 gu.dyntrk.com
+
+#https://lifehacker.com/
+0.0.0.0 secure-dcr.imrworldwide.com
+0.0.0.0 static.scroll.com
+0.0.0.0 connect.scroll.com
+0.0.0.0 x.kinja-static.com
+0.0.0.0 tag.mtrcs.samba.tv
+0.0.0.0 pixel.mtrcs.samba.tv
+0.0.0.0 static.chartbeat.com ##Vet Ej ***Kolla
+
+#https://www.univision.com/
+0.0.0.0 js.adsrvr.org
+0.0.0.0 a01.korrelate.net
+0.0.0.0 5321212.fls.doubleclick.net
+
 
 #https://dnsdumpster.com/#
 ##ad.doubleclick.net##
@@ -229,7 +354,7 @@ Video funkar ej https://mashable.com/video/ai-portraits-celebrity-doppelganger/?
 .nsbacking.com
 0.0.0.0 pto.ptawe.com
 
-31.172.81.158 www.megdexchange.com
+
 0.0.0.0 earn-bitcoins.net
 http://earn-bitcoins.net/
 https://putlocker.vip/film/g-force-17255/
@@ -290,6 +415,8 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 31.172.81.158 cname.superlzland.com
 31.172.81.158 img.mobusi.com
 31.172.81.158 www.g33ktr4ck.com
+31.172.81.158 jsmcrjmp.com
+31.172.81.158 engine.phn.doublepimp.com
 
 #https://www.ikort.se/f%C3%B6rbetalda-kort/
 0.0.0.0 tm.tradetracker.net
@@ -645,7 +772,6 @@ https://clk.icu/raTE
 0.0.0.0 yads.c.yimg.jp
 
 #https://download.cnet.com/360-Total-Security/3000-2239_4-76145154.html
-0.0.0.0 s.yimg.com
 0.0.0.0 dw.cbsi.com
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 cdn.cast.upload.cnet.com
@@ -1358,6 +1484,7 @@ https://an.facebook.com/v2/placementbid.json
 
 
 31.172.81.158 googleads.g.doubleclick.net
+#(https://www.bukefalos.se/)
 #185.26.230.136 
 https://linux.101hacks.com/unix/crond/
 #Check http://www.linksysinfo.org/index.php?threads/asus-rt-n66u-low-nvram.37500/
@@ -1617,7 +1744,7 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 rtb.openx.net
 127.0.0.1 e.nexac.com
 
-#https://nyafilmerhd.com/
+#https://nyafilmerhd.com/ Nyafilmer.com
 127.0.0.1 uptobranding.com
 185.26.230.136 speednetwork14.adk2x.com
 31.172.81.158 .meddelande.org #(block subs)
@@ -1625,6 +1752,34 @@ sync.bumlam.com pagead2.googlesyndication.com
 31.172.81.158 auiviilbp2.com
 31.172.81.158 d3et.superxtrme.com
 31.172.81.158 xsvrz.com
+31.172.81.158 www.megdexchange.com
+0.0.0.0 biasdo.com
+0.0.0.0 rotator.promokrot.com
+0.0.0.0 i.checkru.net
+0.0.0.0 livestatisc.com
+31.172.81.158 signup.leekmedia.net
+31.172.81.158 signup.iambmedia.com
+31.172.81.158 www2.iambmedia.com
+0.0.0.0 tracker.jawcloud.co
+
+#https://tvline.com/
+0.0.0.0 load.instinctiveads.com
+0.0.0.0 instinctiveads.com
+0.0.0.0 loadr.exelator.com
+0.0.0.0 stats.mezzobit.com
+0.0.0.0 plugin.mediavoice.com
+0.0.0.0 s.swiftypecdn.com
+0.0.0.0 cc.swiftype.com
+0.0.0.0 sdk.streamrail.com
+0.0.0.0 vast-logger.streamrail.net
+0.0.0.0 developers.streamrail.com
+0.0.0.0 ssp.streamrail.net
+0.0.0.0 304207300.log.optimizely.com
+
+
+#https://www.entrepreneur.com/
+0.0.0.0 www.stack-sonar.com
+0.0.0.0 api.stack-sonar.com
 
 
 #Youtube https://www.youtube.com/watch?reload=9&v=Td9iGvjyFjc
@@ -1789,7 +1944,7 @@ PIXEL-SERVERS
 127.0.0.1 svt.d3.sc.omtrdc.net
 127.0.0.1 svt.demdex.net
 127.0.0.1 ma291-r.analytics.edgekey.net
-127.0.0.1 79423.analytics.edgekey.net
+0.0.0.0 79423.analytics.edgekey.net
 127.0.0.1 ma79-r.analytics.edgesuite.net
 
 
@@ -2989,7 +3144,7 @@ Tiendeo.se
 
 127.0.0.1 fls-na.amazon-adsystem.com
 127.0.0.1 fls-eu.amazon-adsystem.com
-127.0.0.1 z-na.amazon-adsystem.com
+0.0.0.0 z-na.amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
@@ -3252,7 +3407,7 @@ Tiendeo.se
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 127.0.0.1 adclick.g.doublecklick.net
-127.0.0.1 pagead46.l.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
 
 # [ADS] Google Youtube
 
@@ -3978,7 +4133,7 @@ Tiendeo.se
 127.0.0.1 ad.360yield.com
 0.0.0.0 adserver.adtech.de
 127.0.0.1 ads.creative-serving.com
-127.0.0.1 ib.adnxs.com
+0.0.0.0 ib.adnxs.com
 127.0.0.1 ms-ads-statistics-master.servicebus.windows.net
 127.0.0.1 dn-se.c.richmetrics.com
 0.0.0.0 dco.smartclip.net
@@ -3994,7 +4149,7 @@ Tiendeo.se
 127.0.0.1 x.klarnacdn.net
 31.172.81.158 adserver.cxad.cxense.com
 127.0.0.1 static.ads-twitter.com
-127.0.0.1 dmp.adform.net
+0.0.0.0 dmp.adform.net
 127.0.0.1 ondemand.klarna.com
 127.0.0.1 js-agent.newrelic.com
 0.0.0.0 bam.nr-data.net
@@ -4043,7 +4198,7 @@ Tiendeo.se
 # [News] Expressen.se
 
 127.0.0.1 se.ads.justpremium.com
-127.0.0.1 sync.adaptv.advertising.com
+0.0.0.0 sync.adaptv.advertising.com
 127.0.0.1 ads.rubiconproject.com
 31.172.81.158 biowebb-data.s3.amazonaws.com
 127.0.0.1 storyads.storymedia.se
@@ -4452,7 +4607,7 @@ Tiendeo.se
 127.0.0.1 eas8.emediate.eu
 127.0.0.1 api.innomdc.com
 127.0.0.1 scomcluster.cxense.com
-127.0.0.1 scdn.cxense.com
+0.0.0.0 scdn.cxense.com
 127.0.0.1 sp1cluster.cxense.com
 127.0.0.1 tr.apsislead.com
 127.0.0.1 4606178.fls.doubleclick.net
@@ -4590,7 +4745,7 @@ Tiendeo.se
 # [WEB] PS4news.com
 
 127.0.0.1 ads.stickyadstv.com
-127.0.0.1 a.tribalfusion.com
+0.0.0.0 a.tribalfusion.com
 127.0.0.1 rp.gwallet.com
 
 # [WEB] Scloud.ws
@@ -4668,7 +4823,7 @@ Tiendeo.se
 127.0.0.1 www.insticator.com
 127.0.0.1 a.theoutplay.com
 127.0.0.1 wapi.theoutplay.com
-127.0.0.1 secure.quantserve.com
+0.0.0.0 secure.quantserve.com
 127.0.0.1 pixel.quantserve.com
 
 # [WEB] TV.nu
@@ -4779,7 +4934,7 @@ Tiendeo.se
 127.0.0.1 cbsinteractive.hb.omtrdc.net
 127.0.0.1 inqlnfvog763mmf771rou737u.litix.io
 0.0.0.0 www.googletagservices.com
-127.0.0.1 secure-us.imrworldwide.com
+0.0.0.0 secure-us.imrworldwide.com
 127.0.0.1 ads.zdnet.com
 127.0.0.1 ads.ztod.com
 127.0.0.1 ps.ns-cdn.com
@@ -5087,7 +5242,7 @@ https://www.kinos.to/Stream/Searching.html
 127.0.0.1 adsby.bidtheatre.com
 127.0.0.1 delivery.swid.switchads.com
 127.0.0.1 partners.tremorhub.com
-127.0.0.1 tapestry.tapad.com
+0.0.0.0 tapestry.tapad.com
 127.0.0.1 t.ztsrv.com
 127.0.0.1 cdn.ztsrv.com
 127.0.0.1 nqs.nice264.com
@@ -5111,7 +5266,7 @@ https://www.kinos.to/Stream/Searching.html
 #https://www.realgfporn.com/videos/crazy-eyes-got-too-much-fucked-cant-you-see-that---264790.html?utm_source=efukt
 127.0.0.1 adxserve.net
 127.0.0.1 st.adxxx.info
-127.0.0.1 ads.exosrv.com
+31.172.81.158 ads.exosrv.com
 127.0.0.1 yvk8gxz2.ab1n.net
 127.0.0.1 imlive.com
 127.0.0.1 main.exosrv.com
@@ -5137,13 +5292,22 @@ https://www.kinos.to/Stream/Searching.html
 127.0.0.1 www.addtoany.com
 127.0.0.1 main.exoclick.com
 
+#https://www.crazyshit.com/cnt/medias/62855-how-to-fuck-like-a-legitimate-alpha-male
+0.0.0.0 trafforsrv.com
+0.0.0.0 reactads.engine.adglare.net
+0.0.0.0 www.heroesofrpg.com
+0.0.0.0 ofrsrv.com
+0.0.0.0 offaces-butional.com
+0.0.0.0 x4i6u4n6.ssl.hwcdn.net
+31.172.81.158 cradver.livejasmin.com
+31.172.81.158 crptentry.com
 
 # [XXX] Motherless.com
 
 127.0.0.1 ads.exoclick.com
 127.0.0.1 cdn.tsyndicate.com
 127.0.0.1 pxl.tsyndicate.com
-127.0.0.1 tsyndicate.com
+31.172.81.158 tsyndicate.com
 127.0.0.1 cdn1ht.traffichaus.com
 127.0.0.1 secure.medleyads.com
 0.0.0.0 syndication.traffichaus.com
