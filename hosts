@@ -1,7 +1,21 @@
 127.0.0.1 localhost #ForSystem apps
 ::1 localhost-ipv6 #ForSystem apps
+
+###****AD-BLOCKERS***###
+https://chrome.google.com/webstore/detail/adblocker-for-chrome-noad/alplpnakfeabeiebipdmaenpmbgknjce
+https://chrome.google.com/webstore/detail/ublocker-1-adblock-tool-f/adkfgdipgpojicddmeecncgapbomhjjl
+###****AD-BLOCKERS***###
+
+# -----#Search JS: |.com|.net|.org|.jp|.xyz| media |mobi |.io |.fr|.mx|.kr|.de/|.pl/|.tr/|
+###----https://github.com/prebid/Prebid.js/releases
+#https://www.npmjs.com/~prebid
+
+
 ****MERG with
-https://github.com/bjornstar/hosts/blob/master/hosts****
+https://github.com/bjornstar/hosts/blob/master/hosts
+https://gist.github.com/gklka/146893383b690d219b2a
+
+****
 #https://www.bukefalos.se/ (googleads.g.doubleclick.net)
 #  https://mxtoolbox.com/DNSLookup.aspx
 # Count lines: http://www.somacon.com/p568.php
@@ -30,7 +44,7 @@ https://aruljohn.com/hostname2ip.html <- lab
 Kolla!  icapabloidsety.club testa ssl pixel serv annars block
 ####***********DNS*********####
 
-
+0.0.0.0 acdn.adnxs.com #Kolla SVD.se och bild.de
 0.0.0.0 45.79.12.201
 0.0.0.0 45.79.12.0
 0.0.0.0 eqix-da1.google.com
@@ -78,6 +92,10 @@ Whitelist:
 0.0.0.0 ec085753c6800d06bad5-096f6fbbfa4c5ce92e6b47d5d3016722.ssl.cf5.rackcdn.com
 #icapabloidsety.club
 
+#Junk Trackers
+0.0.0.0 static.woopra.com
+0.0.0.0 internettraffic.click
+
 
 #Peppa pig
 #https://www.youtube.com/watch?v=W9JbqgenXUE
@@ -97,7 +115,7 @@ Whitelist:
 0.0.0.0 www.clickcease.com
 
 #http://www.alternativ.nu/ (g.dubbleclick.com)
-0.0.0.0 cse.google.se
+#0.0.0.0 cse.google.se
 
 #https://www.familjeliv.se
 #https://www.familjeliv.se/forum/thread/75154085-ar-det-onodigt-mycket-reklam-har
@@ -116,7 +134,7 @@ Whitelist:
 #http://nitroflare.com/view/E01E19EE0BF5AD0/WinPE10_8_Sergei_Strelec_x86_x64_2018.09.20_English.part3.rar
 31.172.81.158 www.nanoadexchange.com
 .nextyourcontent.com
-31.172.81.158  nextyourcontent.com
+31.172.81.158 nextyourcontent.com
 0.0.0.0 servedby.pixfuture.net
 #rapidgator.net
 0.0.0.0 shield.sitelock.com
@@ -229,20 +247,57 @@ Whitelist:
 0.0.0.0 conf.international.baidu.com
 
 #https://www.twitch.tv/apophis01
+https://www.twitch.tv/videos/350943485
+https://www.twitch.tv/selmygaming
+https://github.com/pixeltris/TwitchAdBlock
 #https://player.twitch.tv/?volume=0.5&!muted&channel=apophis01
 #AmazoneVideoAdshttps://d2v02itv0y9u9t.cloudfront.net/dist/0.0.3/v6s.js
+0.0.0.0 player.twitch.tv ######ADS
+0.0.0.0 d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
+#https://www.twitch.tv/mdubz
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 twitch.amazon.com
-0.0.0.0 xt.streamlabs.com
-0.0.0.0 d3aqoihi2n8ty8.cloudfront.net
 0.0.0.0 prod.entry.video-ads.a2z.com
 0.0.0.0 science-output.s3.amazonaws.com
-0.0.0.0 pubsub-edge.twitch.tv
-0.0.0.0 supervisor.ext-twitch.tv
+0.0.0.0 xt.streamlabs.com
+0.0.0.0 wi08ebtatdc7oj83wtl9uxwz807l8b.ext-twitch.tv
+0.0.0.0 extension-files.twitch.tv
+0.0.0.0 polyfill.twitchsvc.net
+0.0.0.0 spade.twitch.tv
 0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 countess.twitch.tv
+#0.0.0.0 pubsub-edge.twitch.tv
+0.0.0.0 supervisor.ext-twitch.tv
+####0.0.0.0 usher.ttvnw.net
+#20.0.0.0 gql.twitch.tv
+0.0.0.0 sentinel.twitchsvc.net
+#20.0.0.0 usher.ttvnw.net
+0.0.0.0 pubsub-edge.twitch.tv
+https://www.twitch.tv/videos/350078900
 
-0.0.0.0 usher.ttvnw.net
-0.0.0.0 cvp.twitch.tv
+0.0.0.0 places-dsn.algolia.net
+0.0.0.0 p2-use-1.algolia.net
+0.0.0.0 places-1.algolianet.com
+0.0.0.0 places-de-1.algolia.net
+0.0.0.0 places-2.algolianet.com
+0.0.0.0 places-de-2.algolia.net
+0.0.0.0 static.54.54.251.148.clients.your-server.de
+0.0.0.0 places-3.algolianet.com
+0.0.0.0 places-de-3.algolia.net
+0.0.0.0 static.136.2.9.176.clients.your-server.de
+0.0.0.0 docs.apollostack.com
+0.0.0.0 xluo134hor-3.algolianet.com
+0.0.0.0 xluo134hor-2.algolianet.com
+0.0.0.0 xluo134hor-1.algolianet.com
+0.0.0.0 xluo134hor-dsn.algolia.net
+
+#perimeterx.net https://www.duolingo.com/
+0.0.0.0 collector-px2003.perimeterx.net
+0.0.0.0 collector-pxasqjfz9w.perimeterx.net
+0.0.0.0 client.perimeterx.net
+0.0.0.0 app-sj13.marketo.com
+0.0.0.0 expaperiperimeterxdev.112.2o7.net
+0.0.0.0 settings.luckyorange.net
 
 #Extra
 #0.0.0.0 www.googletagmanager.com #Tror den fuckar upp Cookies
@@ -302,7 +357,7 @@ Video funkar ej https://mashable.com/video/ai-portraits-celebrity-doppelganger/?
 
 #https://www.channelnewsasia.com/news/technology/11-11-singles-day-sale-qoo10-lazada-shopee-taobao-10891424
 0.0.0.0 login.mediacorp.sg
-0.0.0.0 s.po.st
+#0.0.0.0 s.po.st #Share FB
 
 #Wifog.com
 #127.0.0.1 des.smartclip.net #DN.se
@@ -950,8 +1005,9 @@ https://clk.icu/raTE
 0.0.0.0 zdbb.net
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 vendorlist.consensu.org
-0.0.0.0 quantcast.mgr.consensu.org
-0.0.0.0 static.quantcast.mgr.consensu.org
+#0.0.0.0 quantcast.mgr.consensu.org #Test for auto download: https://sourceforge.net/projects/asuswrt-merlin/files/RT-AC68U/Release/RT-AC68U_384.8_2.zip/download
+
+#0.0.0.0 static.quantcast.mgr.consensu.org
 0.0.0.0 static.adziff.com
 0.0.0.0 cdn.nsstatic.com
 0.0.0.0 cdn.nsstatic.net
@@ -1123,12 +1179,15 @@ sdk.out.usbla.net
 
 
 #https://www.problogbooster.com/
-#https://cdn.stat-rock.com/player/pb/1.18.0.js
+0.0.0.0 metrics.nt.vc
 0.0.0.0 live.demand.supply
 0.0.0.0 api.demand.supply
+#https://cdn.stat-rock.com/player/pb/1.18.0.js
+#Search JS: |.com|.net|.org|.jp|.xyz| media |mobi |.io |.fr|.mx|.kr|.de/|.pl/|.tr/|
+#https://a.fsdn.com/con/js/sftheme/vendor/bizx-prebid.js?1544561302
 0.0.0.0 www.increaserev.com
 0.0.0.0 cdn.ad.plus
-0.0.0.0 cdn.stat-rock.com
+#0.0.0.0 cdn.stat-rock.com
 0.0.0.0 prebid.org
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 currency.prebid.org
@@ -1146,11 +1205,12 @@ sdk.out.usbla.net
 0.0.0.0 adxcg.net
 .omnitagjs.com
 0.0.0.0 omnitagjs.com
+0.0.0.0 hb-api-usa02.omnitagjs.com
+0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 loggerhead.omnitagjs.com
 0.0.0.0 tracking.omnitagjs.com
 0.0.0.0 tag-dyn.omnitagjs.com
 0.0.0.0 fosb-static.omnitagsb.com
-0.0.0.0 metrics.nt.vc
 0.0.0.0 gum.criteo.com
 0.0.0.0 cdn-static.liverail.com
 0.0.0.0 cdn.ampproject.org
@@ -1179,13 +1239,20 @@ sdk.out.usbla.net
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dsp.bnmla.com
 0.0.0.0 ads.us.e-planning.net
+0.0.0.0 ads.eu.e-planning.net
 0.0.0.0 pool.fair-trademedia.com
-0.0.0.0 se.search.etargetnet.com
+0.0.0.0 cz.search.etargetnet.com
+0.0.0.0 eu.search.etargetnet.com
+0.0.0.0 bg.search.etargetnet.com
+0.0.0.0 sk.search.etargetnet.com
+0.0.0.0 hu.search.etargetnet.com
+0.0.0.0 pool.search.etargetnet.com
 .search.etargetnet.com
 0.0.0.0 search.etargetnet.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 ad-tag.inner-active.mobi
+0.0.0.0 vast-events.inner-active.mobi
 0.0.0.0 rtb.gambid.io
 0.0.0.0 s.gamoshi.io
 0.0.0.0 px.adhigh.net
@@ -1199,6 +1266,7 @@ sdk.out.usbla.net
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 as-sec.casalemedia.com
+0.0.0.0 as.casalemedia.com
 0.0.0.0 connect.interactiveoffers.com
 0.0.0.0 k.r66net.com
 0.0.0.0 bid.videostep.com
@@ -1238,6 +1306,7 @@ sdk.out.usbla.net
 0.0.0.0 canary.quantserve.com
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 resize-ssp.elasticad.net
+0.0.0.0 sdev.sspqns.com
 0.0.0.0 s.sspqns.com
 0.0.0.0 app.readpeak.com
 0.0.0.0 ac.realvu.net
@@ -1247,12 +1316,16 @@ sdk.out.usbla.net
 .creativecdn.com
 0.0.0.0 creativecdn.com
 0.0.0.0 ams.creativecdn.com
+0.0.0.0 us.creativecdn.com
+0.0.0.0 eu.creativecdn.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
+0.0.0.0 adv.rubiconproject.com
 0.0.0.0 hb.sekindo.com
 0.0.0.0 e.serverbid.com
 0.0.0.0 i.connectad.io
 0.0.0.0 cdn.connectad.io
+0.0.0.0 connected-by.connectad.io
 0.0.0.0 s.zkcdn.net
 0.0.0.0 b.sharethrough.com
 0.0.0.0 btlr.sharethrough.com
@@ -1278,14 +1351,47 @@ sdk.out.usbla.net
 0.0.0.0 prebid.nininin.com
 0.0.0.0 static.nininin.com
 0.0.0.0 t.visx.net
-0.0.0.0 stats.adplayer.pro
-
+0.0.0.0 hb.emxdgt.com
+0.0.0.0 hb.nexage.com
+0.0.0.0 edba.brealtime.com
+0.0.0.0 biddr.brealtime.com
+0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 adserver-eu.adtech.advertising.com
+0.0.0.0 adserver-as.adtech.advertising.com
+0.0.0.0 tag.adkernel.com
+0.0.0.0 dsp.xapads.com
+0.0.0.0 player.adtelligent.com
+0.0.0.0 hb.adtelligent.com
+0.0.0.0 rtb.d.adup-tech.com
+0.0.0.0 bidder.mamrtb.com
+0.0.0.0 p.ato.mx
+0.0.0.0 x.fidelity-media.com
+0.0.0.0 hb.gammaplatform.com
+0.0.0.0 ads.gx1as.com
+0.0.0.0 as.innity.com
+0.0.0.0 pre.ads.justpremium.com
+0.0.0.0 mg-bid.optimatic.com
+0.0.0.0 piohbdisp.hb.adx1.com
+0.0.0.0 qcx.quantserve.com
+0.0.0.0 realvu.com
+0.0.0.0 bidding.rtbdemand.com
+0.0.0.0 hb.aralego.com
+0.0.0.0 cdn.aralego.com
+0.0.0.0 sync.aralego.com
+0.0.0.0 z2.zedo.com
+0.0.0.0 d3.zedo.com
+0.0.0.0 tt3.zedo.com
+0.0.0.0 inv-nets.admixer.net
+0.0.0.0 hbarxs.adxcg.net
+0.0.0.0 hbarx.adxcg.net
+0.0.0.0 hbps.adxcg.net
+0.0.0.0 hbp.adxcg.net
+0.0.0.0 cdn.adxcg.net
+0.0.0.0 prebid.media.net
 0.0.0.0 player.mediabong.net
-#https://adblockplus.org/forum/viewtopic.php?t=21165
 0.0.0.0 player.mediabong.com
 0.0.0.0 supply.nl.weborama.fr
 0.0.0.0 engine.widespace.com
-#acdn.adnxs.com
 0.0.0.0 prebid.xendiz.com
 0.0.0.0 advsync.com
 0.0.0.0 i.yldbt.com
@@ -1296,7 +1402,19 @@ sdk.out.usbla.net
 0.0.0.0 analytics-prebid.yuktamedia.com
 0.0.0.0 d3.zedo.com
 0.0.0.0 tt3.zedo.com
+0.0.0.0 ad.sara.media
+0.0.0.0 bidder.rtk.io
+0.0.0.0 sync.rtk.io
+0.0.0.0 demand.connectad.io
+0.0.0.0 connectad.io
+0.0.0.0 dmx.districtm.io
+0.0.0.0 rtb.gambid.io
+0.0.0.0 s.gamoshi.io
+0.0.0.0 api.pubwise.io
+0.0.0.0 hbevents.1rx.io
+0.0.0.0 tag.1rx.io
 #https://github.com/disconnectme/disconnect-tracking-protection/issues/5#
+#https://adblockplus.org/forum/viewtopic.php?t=21165
 
 #Ports: 8080":"8443"
 
@@ -1310,6 +1428,47 @@ https?\:\/\/(?:www\.)?ya(?:ndex\.(?:com|net)?\.?(?:asia|mobi|org
 https?\:\/\/(?:www\.)?ya(?:ndex\.(?:com|net)?\.?(?:asia|mobi|org
 https?\:\/\/(?:www\.)?ya(?:ndex\.(?:com|net)?\.?(?:asia|mobi|org
 https://www.yandex.com.mobi
+
+
+#https://adblockplus.org/forum/viewtopic.php?t=21165
+#https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-son-immunite-parlementaire_1322391.html
+##static.lexpress.fr
+0.0.0.0 cstatic.weborama.fr
+0.0.0.0 expressroulartaanalytics.solution.weborama.fr
+0.0.0.0 lexpansion.lexpress.fr
+0.0.0.0 zm5d.lexpress.fr
+0.0.0.0 tracking-afr.dvetech.fr
+0.0.0.0 tag.audience.acpm.fr
+0.0.0.0 cookie-matching.mediarithmics.com
+0.0.0.0 events.mediarithmics.com
+0.0.0.0 static.mediarithmics.com
+0.0.0.0 manager.tagcommander.com
+0.0.0.0 ssl.commander1.com
+0.0.0.0 commander1.com
+0.0.0.0 engage.commander1.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 secure.quantserve.com
+0.0.0.0 edge.quantserve.com
+0.0.0.0 segapi.quantserve.com
+0.0.0.0 sandbox.tinypass.com
+0.0.0.0 buy.tinypass.com
+0.0.0.0 experience.tinypass.com
+0.0.0.0 cdn.amplitude.com
+0.0.0.0 cdn.tagcommander.com
+0.0.0.0 d24n15hnbwhuhn.cloudfront.net
+0.0.0.0 bei.nuggad.net
+0.0.0.0 c2.taboola.com
+0.0.0.0 ew3.io
+0.0.0.0 weborama.fr
+0.0.0.0 cstatic.weborama.fr
+0.0.0.0 wam.solution.weborama.fr
+0.0.0.0 logs.xiti.com
+0.0.0.0 asqexpress.nuggad.net
+0.0.0.0 mv.outbrain.com
+0.0.0.0 libs.outbrain.com
+0.0.0.0 widgetmonitor.outbrain.com
+0.0.0.0 manager.commander1.com
+#0.0.0.0 static.lexpress.fr
 
 #Viafree
 #https://www.viafree.se/program/reality/lailaland/sasong-2/avsnitt-8
@@ -1332,6 +1491,7 @@ ad.sxp.smartclip.net -Wifog
 https://mitti.se/nyheter/doms-stenkastning-ubg/?omrade=upplandsbro
 0.0.0.0 static-se.plista.com
 0.0.0.0 farm-se.plista.com
+0.0.0.0 stats.adplayer.pro
 
 
 Liz:
@@ -1490,7 +1650,7 @@ graph.facebook.com
 
 0.0.0.0 fbsbx.com
 https://an.facebook.com/v2/placementbid.json
-127.0.0.1 developers.facebook.com
+0.0.0.0 developers.facebook.com #Ads (https://connect.facebook.net/en_US/fbevents.js)
 ##scontent-arn2-1.xx.fbcdn.net/v/t1.0-0/q85/s350x350/29573226_1843873535911747_7532097488964766313_n.jpg
 
 
@@ -1511,7 +1671,7 @@ sync.bumlam.com pagead2.googlesyndication.com
 
 
 #Hemnet.se
-127.0.0.1 ads.playground.xyz
+0.0.0.0 ads.playground.xyz
 127.0.0.1 cm.eyereturn.com
 127.0.0.1 csyn.cxense.com
 127.0.0.1 id.rlcdn.com
@@ -1609,7 +1769,7 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 pix.impdesk.com
 ##127.0.0.1 pixel.everesttech.net #Whitelist googlesearch ad klick
 127.0.0.1 pixel.sojern.com
-127.0.0.1 po.st
+##127.0.0.1 po.st #Share FB https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-son-immunite-parlementaire_1322391.html
 127.0.0.1 pool.admedo.com
 127.0.0.1 privacy.himediads.com
 127.0.0.1 privacy.nuggad.net
@@ -1629,7 +1789,7 @@ sync.bumlam.com pagead2.googlesyndication.com
 127.0.0.1 tracking.publicidees.com
 127.0.0.1 trk.adbutter.net
 127.0.0.1 turboadv.com
-127.0.0.1 u.openx.net
+0.0.0.0 u.openx.net
 127.0.0.1 ups.emetriq.de
 127.0.0.1 usucmweb.dotomi.com
 127.0.0.1 veads.veinteractive.com
@@ -2316,12 +2476,12 @@ b-api.facebook.com
 #m.ebay.com sponsor links
 #https://www.ebay.com/itm/Samsung-Galaxy-S9-SM-G960-64GB-Midnight-Black-Unlocked/162983064134?epid=243315735&hash=item25f28c3246:g:floAAOSwpQ1axK4X
 127.0.0.1 connect.ebay.com
-rover.ebay.com
+
 cart.payments.ebay.com
 ir.ebaystatic.com
 #https://www.ebay.com/itm/Absolut-Vodka-Collector-Bottle-Los-Angeles-with-Tag-2008/263819765871?hash=item3d6ce2286f:g:fR8AAOSw1zpbTR6j
 ir.ebaystatic.com
-0.0.0.0 rover.ebay.com
+#0.0.0.0 rover.ebay.com #Behövs för email utskick, kuna klicka länk till ebay
 
 #http://m.videostory.dkn.tv/life/teen-surprises-mom-cut-dreads-9-years-one-look-shes-tears.html
 
@@ -2456,7 +2616,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 conf.xpanama.net
 127.0.0.1 invocation.combotag.com
 127.0.0.1 serve2.combotag.com
-127.0.0.1 eu-u.openx.net
+0.0.0.0 eu-u.openx.net
 127.0.0.1 pixel2.combotag.com
 127.0.0.1 pixel.reactrmod.com
 127.0.0.1 px.powerlinks.com
@@ -3115,6 +3275,8 @@ Tiendeo.se
 127.0.0.1 pro.bannerflow.com
 127.0.0.1 scripts.host.bannerflow.com
 127.0.0.1 cdn.stickyadstv.com
+0.0.0.0 stats.tiendeo.se
+0.0.0.0 push.tiendeo.com
 
 # [ADS] Adinfuse
 
@@ -3324,8 +3486,8 @@ Tiendeo.se
 127.0.0.1 n479ad.doubleclick.net
 127.0.0.1 paypalssl.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net #Ej 31.172.81.158 fr?gar om cert https://www.scarymommy.com/i-dont-like-being-a-mother/
-127.0.0.1 s2.video.doubleclick.net
-127.0.0.1 survey.g.doubleclick.net
+0.0.0.0 s2.video.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
 127.0.0.1 anon.doubleclick.speedera.net
 127.0.0.1 doubleclick.ne.jp
 127.0.0.1 www3.doubleclick.net
@@ -3618,8 +3780,8 @@ Tiendeo.se
 127.0.0.1 api-s2s-emea.taboola.com
 127.0.0.1 c2.taboola.com
 127.0.0.1 www.c2.taboola.com
-0.0.0.0 cdn.taboola.com
-127.0.0.1 www.cdn.taboola.com
+#11110.0.0.0 cdn.taboola.com
+#127.0.0.1 www.cdn.taboola.com
 127.0.0.1 urc.taboolasyndication.com
 127.0.0.1 www.urc.taboolasyndication.com
 127.0.0.1 taboola.com.edgekey.net
@@ -3976,7 +4138,7 @@ Tiendeo.se
 
 # [News] 24uppsala.se
 
-127.0.0.1 adx.adform.net
+0.0.0.0 adx.adform.net
 127.0.0.1 i.ctnsnet.com
 127.0.0.1 cm.adform.net
 
@@ -4021,7 +4183,7 @@ Tiendeo.se
 127.0.0.1 static.addtoany.com
 127.0.0.1 cdn2.lockerdomecdn.com
 127.0.0.1 cdn1.lockerdomecdn.com
-127.0.0.1 api.adsnative.com
+0.0.0.0 api.adsnative.com
 127.0.0.1 bevo-eu-west-1.adsnative.com
 127.0.0.1 disqusads.com
 127.0.0.1 ssp.lkqd.net
@@ -4119,10 +4281,10 @@ Tiendeo.se
 127.0.0.1 buy.tinypass.com
 127.0.0.1 experience.tinypass.com
 127.0.0.1 www.i.matheranalytics.com
-127.0.0.1 pa.rxthdr.com
+0.0.0.0 pa.rxthdr.com
 0.0.0.0 s.ntv.io
 127.0.0.1 js.matheranalytics.com
-127.0.0.1 ap.lijit.com
+0.0.0.0 ap.lijit.com
 127.0.0.1 t.brand-server.com
 127.0.0.1 www.npttech.com
 
@@ -4141,7 +4303,7 @@ Tiendeo.se
 127.0.0.1 hittahem.table.core.windows.net
 127.0.0.1 s0-cdn.hittahem.se
 127.0.0.1 assets.bonad.io
-127.0.0.1 ad.360yield.com
+0.0.0.0 ad.360yield.com
 0.0.0.0 adserver.adtech.de
 127.0.0.1 ads.creative-serving.com
 0.0.0.0 ib.adnxs.com
@@ -4914,13 +5076,13 @@ Tiendeo.se
 127.0.0.1 exch.quantserve.com
 127.0.0.1 ads.yahoo.com
 127.0.0.1 na.ads.yahoo.com
-127.0.0.1 pixel.adsafeprotected.com
+0.0.0.0 pixel.adsafeprotected.com
 127.0.0.1 rudy.adsnative.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 us.adserver.yahoo.com
 127.0.0.1 beap-bc.yahoo.com
 127.0.0.1 ir2.beap.gemini.yahoo.com
-127.0.0.1 c.deployads.com
+0.0.0.0 c.deployads.com
 127.0.0.1 go3.adversal.com
 127.0.0.1 ad.afy11.net
 127.0.0.1 udmserve.net
