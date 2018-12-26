@@ -1,5 +1,30 @@
-127.0.0.1 localhost #ForSystem apps
-::1 localhost-ipv6 #ForSystem apps
+#127.0.0.1 localhost #ForSystem apps
+#::1 localhost-ipv6 
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost #maybe removed
+::1 ip6-localhost
+::1 localhost-ipv6 #For "Spotify connect" Then spotify app saw my sonos speakers as spotify connect devices. https://github.com/AdAway/AdAway/issues/1009
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
 
 ###****AD-BLOCKERS***###
 https://chrome.google.com/webstore/detail/adblocker-for-chrome-noad/alplpnakfeabeiebipdmaenpmbgknjce
@@ -14,6 +39,11 @@ https://chrome.google.com/webstore/detail/ublocker-1-adblock-tool-f/adkfgdipgpoj
 ****MERG with
 https://github.com/bjornstar/hosts/blob/master/hosts
 https://gist.github.com/gklka/146893383b690d219b2a
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+Vet ej:
+https://github.com/StevenBlack/hosts/blob/master/readme.md
+https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 
 ****
 #https://www.bukefalos.se/ (googleads.g.doubleclick.net)
@@ -42,7 +72,7 @@ https://aruljohn.com/hostname2ip.html <- lab
 # https://dnsdumpster.com/
 # https://api.hackertarget.com/reverseiplookup/?q=216.58.217.130
 
-Kolla!  icapabloidsety.club testa ssl pixel serv annars block
+
 ####***********DNS*********####
 
 0.0.0.0 acdn.adnxs.com #Kolla SVD.se och bild.de
@@ -83,6 +113,158 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
 #---------NYA
 Whitelist:
+#https://release-apk.com/
+
+
+#https://dropapk.com/ox0hk28mtmz9
+0.0.0.0 www.mttyfwtvyumc.com
+0.0.0.0 www.dfujqyjifvoe.com
+0.0.0.0 tut-64.com
+0.0.0.0 mediaoaktree.com
+0.0.0.0 meapk.com
+#https://douploads.com/q3z9rm0zqtmu
+0.0.0.0 pushnest.com
+#31.172.81.158
+ej pushwhy.com
+ej pushame.com
+ej my.rtmark.net
+ej bodelen.com
+#https://2speed.net/file/8D705EB38C36
+#https://upload4earn.org/p0msfnc7sjvz
+31.172.81.158 lh3.googleusercontent.com #download image from google
+0.0.0.0 dxprljqoay4rt.cloudfront.net
+0.0.0.0 d1n3tk65esqc4k.cloudfront.net
+0.0.0.0 trothko.com
+0.0.0.0 deathereclother.info
+0.0.0.0 asinartisationy.info
+0.0.0.0 etrabandidlo.club
+#https://uploadbuzz.org/ffzhm3hf18w6
+0.0.0.0 organicalews.info
+.notabenemessage.com
+#https://uploadev.com/kuo923gmiiwj
+0.0.0.0 tensitionschoo.club
+0.0.0.0 1warie.com
+http://speed4up.com/l4xssbhacef4
+0.0.0.0 static.zotabox.com
+https://uploadocean.com/uewk8de86gk1
+31.172.81.158 kotaroyalliving.com
+#http://marketvzlom.ru/load/notify-amp-fitness-for-amazfitver725build652apk/146-1-0-24490
+0.0.0.0 marketvzlom.at.ua
+0.0.0.0 ddnk.advertur.ru
+0.0.0.0 cache.betweendigital.com
+0.0.0.0 ads.betweendigital.com
+0.0.0.0 testing.betweendigital.com
+0.0.0.0 www.tns-counter.ru
+0.0.0.0 www.gekywqwky.com
+0.0.0.0 www.llgvjtkg.com
+0.0.0.0 myhappy-news.com
+0.0.0.0 pb.adsteroid.pro
+0.0.0.0 api.adsteroid.pro
+0.0.0.0 lk.adsteroid.pro
+0.0.0.0 dsp.adsteroid.pro
+0.0.0.0 qa.adsteroid.pro
+0.0.0.0 dev.adsteroid.pro
+0.0.0.0 www.adsteroid.pro
+0.0.0.0 adsteroid.pro
+0.0.0.0 cdn.sendpulse.com
+#https://upload.ac/paocl9xhf6hn
+0.0.0.0 mediapeartree.com
+
+
+
+
+
+
+#https://www.wordstream.com/
+0.0.0.0 cdn.omniconvert.com
+0.0.0.0 app.omniconvert.com
+0.0.0.0 app-sji.marketo.com
+#wordstream-files-prod.s3.amazonaws.com
+0.0.0.0 content-partnersbadge-pa.googleapis.com
+#https://www.omniconvert.com
+0.0.0.0 io.innertrends.com
+0.0.0.0 innertrends.s3.amazonaws.com
+0.0.0.0 s3-us-west-2.amazonaws.com
+0.0.0.0 sjrtp5-cdn.marketo.com
+0.0.0.0 metrics.api.drift.com
+0.0.0.0 static.hsappstatic.net
+0.0.0.0 api.hubspot.com
+0.0.0.0 app.hubspot.com
+0.0.0.0 api.hubspot.com
+0.0.0.0 cdn.iubenda.com
+0.0.0.0 js.usemessages.com
+0.0.0.0 hits-i.iubenda.com
+0.0.0.0 js.hs-scripts.com
+0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 a.quora.com
+0.0.0.0 q.quora.com
+0.0.0.0 sleeknotecustomerscripts.sleeknote.com
+0.0.0.0 sleeknotestaticcontent.sleeknote.com
+0.0.0.0 analytics.sleeknote.com
+0.0.0.0 js.intercomcdn.com
+0.0.0.0 widget.intercom.io
+0.0.0.0 heapanalytics.com
+0.0.0.0 leadsbridge.com
+0.0.0.0 secure.leadforensics.com
+0.0.0.0 tracker.leadforensics.com
+#https://www.marketo.com/ BLOCK DRIFT
+0.0.0.0 js.driftt.com
+0.0.0.0 rtp-static.marketo.com
+0.0.0.0 sjrtp5-cdn.marketo.com
+0.0.0.0 sjrtp5.marketo.com
+0.0.0.0 sjs.bizographics.com
+0.0.0.0 app-ab29.marketo.com
+0.0.0.0 micro.marketo.com
+0.0.0.0 customer.api.drift.com
+0.0.0.0 event.api.drift.com
+0.0.0.0 106918-18.live.api.drift.com
+0.0.0.0 106918-18.chat.api.drift.com
+0.0.0.0 metrics.api.drift.com
+0.0.0.0 api.intellimize.co
+#https://clearbit.com/
+0.0.0.0 reveal.clearbit.com
+0.0.0.0 segment.prod.bidr.io
+0.0.0.0 abm2.listenloop.com
+0.0.0.0 v2.listenloop.com
+0.0.0.0 tags.srv.stackadapt.com
+0.0.0.0 risk.clearbit.com
+0.0.0.0 logo.clearbit.com
+0.0.0.0 assets.ubembed.com
+0.0.0.0 ce6dc509e27b404fb6a59c83db881214.js.ubembed.com
+
+#http://woidestiny.com/
+#GoogleVideo Works
+
+0.0.0.0 feeds.bannerflow.com
+0.0.0.0 unibet.feeds.bannerflow.com
+0.0.0.0 tech.bannerflow.com
+0.0.0.0 pgg39j.marketing.bannerflow.com
+0.0.0.0 start.bannerflow.com
+0.0.0.0 waws-prod-db3-001.cloudapp.net
+0.0.0.0 ec2-52-0-16-118.compute-1.amazonaws.com
+
+#http://www.xtremetop100.com/mmorpg-mpog
+0.0.0.0 e0.extreme-dm.com
+0.0.0.0 t1.extreme-dm.com
+0.0.0.0 s2.gifyu.com
+0.0.0.0 img.imguh.com
+
+#www.isabellalowengrip.se
+#https://www.isabellalowengrip.se/wp-content/themes/seagal-editorial/assets/js/ads.js
+#https://www.isabellalowengrip.se/wp-content/plugins/seagal-plugin-dfp/src/showAds.js?ver=4.9.8
+0.0.0.0 bam.bonad.io
+0.0.0.0 video.unrulymedia.com
+0.0.0.0 stats3.unrulymedia.com
+0.0.0.0 cloud-video.unrulymedia.com
+0.0.0.0 all.unrulyx.unrulymedia.com
+0.0.0.0 silver.unrulymedia.com
+0.0.0.0 osmium.unrulymedia.com
+0.0.0.0 gold.unrulymedia.com
+0.0.0.0 copper.unrulymedia.com
+0.0.0.0 rhodium.unrulymedia.com
+0.0.0.0 mememachine.unrulymedia.com
+0.0.0.0 c.cintnetworks.com
+
 
 #https://www.medicalnewstoday.com/articles/319276.php
 0.0.0.0 notify.medicalnewstoday.com
@@ -452,6 +634,9 @@ https://shooshtime.com/videos/amateur/getting-it-in-his-tight-18-year-old-girlfr
 
 
 #https://dnsdumpster.com/#
+#domains.googlesyndication.com
+0.0.0.0 iad30s09-in-f162.1e100.net
+0.0.0.0 iad30s09-in-f2.1e100.net
 ##ad.doubleclick.net##
 0.0.0.0 iad30s09-in-f166.1e100.net
 0.0.0.0 iad30s09-in-f6.1e100.net
@@ -744,6 +929,23 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 31.172.81.158 t.frtyq.com
 31.172.81.158 sexpennyauctions.com
 31.172.81.158 always.restoring.club
+0.0.0.0 icapabloidsety.club
+31.172.81.158 earandmarketing.com
+31.172.81.158 camp.oatmealtheory.xyz
+31.172.81.158 singintinuedery.club
+.singintinuedery.club
+31.172.81.158 camera.childrenbutton.xyz
+31.172.81.158 href.li
+31.172.81.158 camp.oatmealtheory.xyz
+31.172.81.158 mobnootiffy.com
+31.172.81.158 2agshdqwvcqs.website
+31.172.81.158 ideafix.xyz
+31.172.81.158 static.91.102.69.159.clients.your-server.de
+31.172.81.158 ghoto-12.win
+31.172.81.158 woinvosndv.pw
+31.172.81.158 downloadaddon.icu
+31.172.81.158 mob1ledev1ces.com
+31.172.81.158 fileupload-4.xyz
 
 #https://www.ikort.se/f%C3%B6rbetalda-kort/
 0.0.0.0 tm.tradetracker.net
@@ -4449,7 +4651,6 @@ Tiendeo.se
 127.0.0.1 disqusads.com
 127.0.0.1 ssp.lkqd.net
 127.0.0.1 v.lkqd.net
-0.0.0.0 cse.google.com
 127.0.0.1 ad.lkqd.net
 127.0.0.1 ads37.vertamedia.com
 127.0.0.1 px.moatads.com

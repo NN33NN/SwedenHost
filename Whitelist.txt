@@ -166,3 +166,4 @@ s.yimg.com #www.flickr.com
 https://www.foodbeast.com/news/disneyland-holidays-2018/
 
 ssl.gstatic.com #Gmail icon-uppe i-vänster hörn
+cse.google.com #www.superstart.se google search
