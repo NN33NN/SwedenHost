@@ -113,6 +113,84 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 
 #---------NYA
 Whitelist:
+0.0.0.0 p.yotpo.com
+
+##FACEBOOK##
+#0.0.0.0 m.facebook.com
+#0.0.0.0 static.xx.fbcdn.net #Fuckar FB sidan
+connect.facebook.net
+facebook.net
+www.facebook.com
+api.facebook.com
+b-api.facebook.com
+graph.facebook.com
+https://an.facebook.com/v2/placementbid.json
+##scontent-arn2-1.xx.fbcdn.net/v/t1.0-0/q85/s350x350/29573226_1843873535911747_7532097488964766313_n.jpg
+
+###31.172.81.158 star.c10r.facebook.com #<- Vet ej
+###31.172.81.158 star-mini.c10r.facebook.com
+0.0.0.0 0-edge-chat.facebook.com
+#0.0.0.0 l.facebook.com Roliga klip som är delat/skickat via msger till mig
+0.0.0.0 fbcdn-sphotos-g-a.akamaihd.net
+0.0.0.0 .facebook.com
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 external.xx.fbcdn.net
+31.172.81.158 staticxx.facebook.com
+0.0.0.0 api.facebook.com
+0.0.0.0 connect.facebook.com
+0.0.0.0 edge-star-shv-01-arn2.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-01-arn2.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 z-m.c10r.facebook.com
+0.0.0.0 lookaside.facebook.com
+0.0.0.0 web.facebook.com
+0.0.0.0 business.facebook.com
+0.0.0.0 api-read.facebook.com
+###0.0.0.0 b-graph.facebook.com
+0.0.0.0 an.facebook.com #ads
+0.0.0.0 edge-star-shv-01-iad3.facebook.com
+0.0.0.0 edge-star-mini-shv-01-iad3.facebook.com
+0.0.0.0 static-arn2-1.xx.fbcdn.net
+0.0.0.0 static.ak.fbcdn.net
+0.0.0.0 portal.fb.com
+0.0.0.0 fb.me
+0.0.0.0 fbsbx.com
+0.0.0.0 developers.facebook.com #Ads (https://connect.facebook.net/en_US/fbevents.js)
+
+#https://www.ratsit.se
+#https://www.merinfo.se
+#https://www.birthday.se
+0.0.0.0 lwadm.com
+0.0.0.0 content.lwadm.com
+0.0.0.0 a.optmnstr.com
+0.0.0.0 a.optnmnstr.com
+0.0.0.0 api.optmnstr.com
+
+
+#klarna.se
+#res.cloudinary.com
+#0.0.0.0 ws-eu.pusher.com
+#0.0.0.0 sockjs-eu.pusher.com
+#0.0.0.0 sock53-eu.pusher.com
+0.0.0.0 sentry.io
+0.0.0.0 app-lon05.marketo.com
+0.0.0.0 5423504.fls.doubleclick.net
+0.0.0.0 jssdkcdns.mparticle.com
+
+#https://www.majorgeeks.com/files/details/visual_c_runtime_installer.html
+0.0.0.0 majorgeeks-d.openx.net
+0.0.0.0 route.carambo.la
+0.0.0.0 cdn.addnow.com
+0.0.0.0 app.addnow.com
+0.0.0.0 api.addnow.com
+0.0.0.0 cluster-na.cdnjquery.com
+0.0.0.0 delivery-europe-west-1.openx.net
+0.0.0.0 pbid.pro-market.net
+0.0.0.0 ads.pro-market.net
+0.0.0.0 ssl-i.cdn.openx.com
+31.172.81.158 cdn-images.mailchimp.com
+0.0.0.0 majorgeeks.us4.list-manage.com
+
 #https://release-apk.com/
 
 
@@ -131,7 +209,6 @@ ej my.rtmark.net
 ej bodelen.com
 #https://2speed.net/file/8D705EB38C36
 #https://upload4earn.org/p0msfnc7sjvz
-31.172.81.158 lh3.googleusercontent.com #download image from google
 0.0.0.0 dxprljqoay4rt.cloudfront.net
 0.0.0.0 d1n3tk65esqc4k.cloudfront.net
 0.0.0.0 trothko.com
@@ -171,7 +248,29 @@ https://uploadocean.com/uewk8de86gk1
 0.0.0.0 mediapeartree.com
 
 
+#https://www.thewindowsclub.com/chromecast-not-showing-up
+0.0.0.0 stormyachiever.com
+0.0.0.0 admiral.mgr.consensu.org
+0.0.0.0 d3hwh14livah35.cloudfront.net
 
+#https://www.ezoic.com/what-is-ezoic/
+0.0.0.0 track.attributionapp.com
+0.0.0.0 scripts.attributionapp.com
+0.0.0.0 ezoic.iljmp.com
+
+#pagead2.googlesyndication.com
+0.0.0.0 eqix-da1.google.com
+0.0.0.0 lga34s13-in-f4.1e100.net
+0.0.0.0 iad30s07-in-f2.1e100.net
+0.0.0.0 iad30s07-in-f226.1e100.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 iad30s21-in-f2.1e100.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 iad23s58-in-f2.1e100.net
+#www.googletagmanager.com
+0.0.0.0 iad30s08-in-f136.1e100.net
+0.0.0.0 iad30s08-in-f8.1e100.net
+0.0.0.0 iad23s59-in-f2.1e100.net
 
 
 
@@ -246,8 +345,14 @@ https://uploadocean.com/uewk8de86gk1
 #http://www.xtremetop100.com/mmorpg-mpog
 0.0.0.0 e0.extreme-dm.com
 0.0.0.0 t1.extreme-dm.com
-0.0.0.0 s2.gifyu.com
+31.172.81.158 s2.gifyu.com
 0.0.0.0 img.imguh.com
+
+#https://www.torrentdownloads.me/torrent/1659311244/begravda+i+sverige
+0.0.0.0 e2.extreme-dm.com
+0.0.0.0 milerenronbet.club
+0.0.0.0 smentcirrhoea.club
+0.0.0.0 outlookabsorb.com
 
 #www.isabellalowengrip.se
 #https://www.isabellalowengrip.se/wp-content/themes/seagal-editorial/assets/js/ads.js
@@ -611,7 +716,6 @@ https://shooshtime.com/videos/amateur/getting-it-in-his-tight-18-year-old-girlfr
 0.0.0.0 kraken.rambler.ru
 
 #https://www.dailymotion.com/us
-0.0.0.0 fb.me
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 webed.dm-event.net
 0.0.0.0 public-prod-dspcookiematching.dmxleo.com
@@ -946,6 +1050,13 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 31.172.81.158 downloadaddon.icu
 31.172.81.158 mob1ledev1ces.com
 31.172.81.158 fileupload-4.xyz
+31.172.81.158 www.microsoft.com-repair-windows.live
+31.172.81.158 lp.pctonics.com
+31.172.81.158 naganoadigei.com
+31.172.81.158 cyberlink.pro
+31.172.81.158 topvtop.net
+31.172.81.158 tasvjsmnegj.com
+31.172.81.158 qiheptnm80.com
 
 #https://www.ikort.se/f%C3%B6rbetalda-kort/
 0.0.0.0 tm.tradetracker.net
@@ -960,7 +1071,7 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 #31.172.81.158 www.qoo10.sg
 
 #https://www.malwarebytes.com/
-0.0.0.0 ciuvo.com
+#0.0.0.0 ciuvo.com #Kommer upp på:https://www.elgiganten.se/product/tv-bild/tv/UE65NU8005XXC/samsung-65-uhd-smart-tv-ue65nu8005?scid=2_EXT_PRICECOMP_PRISJAKT_EGAB och på prisjakt
 
 #https://try.digitalocean.com/businesses/
 0.0.0.0 builder-assets.unbounce.com
@@ -1362,8 +1473,6 @@ https://clk.icu/raTE
 31.172.81.158 pushedwebnews.com
 31.172.81.158 static.pushedwebnews.com
 31.172.81.158 o12zs3u2n.com
-31.172.81.158 star.c10r.facebook.com #<- Vet ej
-31.172.81.158 star-mini.c10r.facebook.com
 31.172.81.158 tracking.perfecttoolmedia.com
 31.172.81.158 sv.magicred.com
 31.172.81.158 online.magicred.com
@@ -1569,14 +1678,18 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 
 #https://shell.boxwares.com/Download.aspx?L=3241
 0.0.0.0 widget.replain.cc
-0.0.0.0 0-edge-chat.facebook.com
 
 #http://jamalrullah.nextwapblog.com/vid/aydJnJfo3bw/android-kitkat-4-4-4-on-samsung-galaxy-5-gt-i5500.html
 0.0.0.0 adserver.adreactor.com
 0.0.0.0 nextwapblog.com
 
 #http://www.mediafire.com/download/a1sphc0f1rcz4rb/gapps-kk442-20140225-sdext-v2.0.zip
+#http://www.mediafire.com/file/fa8yazdex89iu99/AppNee.com.Microsoft.NET.Framework.all.versions.in.one.package.v2018.07.11.7z/
 31.172.81.158 engine.addroplet.com
+31.172.81.158 2hanwriten.com
+0.0.0.0 mediafire-d.openx.net
+0.0.0.0 s.btstatic.com
+0.0.0.0 service.maxymiser.net
 
 #tre.se 180.se
 0.0.0.0 az416426.vo.msecnd.net
@@ -1592,7 +1705,6 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 0.0.0.0 d2ubx2mpeq0x2u.cloudfront.net
 0.0.0.0 android.l.google.com
 0.0.0.0 googlehosted.l.googleusercontent.com
-#0.0.0.0 lh3.googleusercontent.com
 0.0.0.0 cloudconfig.googleapis.com
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 astat-bugly-tgw4l.mig.tencent-cloud.net
@@ -1782,8 +1894,10 @@ sdk.out.usbla.net
 0.0.0.0 us.creativecdn.com
 0.0.0.0 eu.creativecdn.com
 0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 adv.rubiconproject.com
+0.0.0.0 rubicon.net
 0.0.0.0 hb.sekindo.com
 0.0.0.0 e.serverbid.com
 0.0.0.0 i.connectad.io
@@ -2088,33 +2202,7 @@ Liz:
 #https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 google.f.bez1fd google.f.LmvwCb
 
-0.0.0.0 l.facebook.com
-0.0.0.0 fbcdn-sphotos-g-a.akamaihd.net
-#127.0.0.1 m.facebook.com
-127.0.0.1 .facebook.com
-127.0.0.1 
-0.0.0.0 scontent.xx.fbcdn.net
-0.0.0.0 external.xx.fbcdn.net
-31.172.81.158 staticxx.facebook.com
-#127.0.0.1 static.xx.fbcdn.net #Fuckar FB sidan
-connect.facebook.net
-facebook.net
-cdn":"staticxx.facebook.com"
-www.facebook.com
-connect.facebook.net
-127.0.0.1 business.facebook.com
-api.facebook.com
-127.0.0.1 api-read.facebook.com
-graph.facebook.com
-0.0.0.0 b-graph.facebook.com
-0.0.0.0 an.facebook.com #ads
-0.0.0.0 edge-star-shv-01-iad3.facebook.com
-0.0.0.0 edge-star-mini-shv-01-iad3.facebook.com
 
-0.0.0.0 fbsbx.com
-https://an.facebook.com/v2/placementbid.json
-0.0.0.0 developers.facebook.com #Ads (https://connect.facebook.net/en_US/fbevents.js)
-##scontent-arn2-1.xx.fbcdn.net/v/t1.0-0/q85/s350x350/29573226_1843873535911747_7532097488964766313_n.jpg
 
 
 31.172.81.158 googleads.g.doubleclick.net
@@ -2122,7 +2210,7 @@ https://an.facebook.com/v2/placementbid.json
 #185.26.230.136 
 https://linux.101hacks.com/unix/crond/
 #Check http://www.linksysinfo.org/index.php?threads/asus-rt-n66u-low-nvram.37500/
-sync.bumlam.com pagead2.googlesyndication.com
+0.0.0.0 sync.bumlam.com
 
 #https://ip8.com/webrtc-test
 127.0.0.1 autocookie.org
@@ -2561,7 +2649,22 @@ sync.bumlam.com pagead2.googlesyndication.com
 PIXEL-SERVERS
 #http://ir.ebaystatic.com/ Noll
 
-31.172.81.158 track.adtraction.com #BlocksADS#klicka rabattkoder https://www.aftonbladet.se/rabattkod/tretti.se#promo-41211
+#31.172.81.158 track.adtraction.com #BlocksADS#klicka rabattkoder https://www.aftonbladet.se/rabattkod/tretti.se#promo-41211
+Refunder %rabatt
+0.0.0.0 api.adtraction.com
+0.0.0.0 secure.adtraction.com
+0.0.0.0 blogg.adtraction.com
+0.0.0.0 external.adtraction.com
+0.0.0.0 www.adtraction.com
+0.0.0.0 karmint.org
+0.0.0.0 xn--lntoppen-9za.com
+0.0.0.0 addtraction.com
+0.0.0.0 adtraction.biz
+0.0.0.0 adtraction.com
+0.0.0.0 adtraction.info
+0.0.0.0 adtraction.net
+0.0.0.0 adtraction.org
+
 
 #Mail.com #https://www.openx.com/
 0.0.0.0 one-and-one-d.openx.net
@@ -2905,10 +3008,6 @@ script.ioam.de/iam.js
 127.0.0.1 pixel.bild.de
 127.0.0.1 mab.chartbeat.com
 
-#Vet EJ#
-b-api.facebook.com
-127.0.0.1 api.facebook.com
-127.0.0.1 connect.facebook.com
 
 # APP samsung Upday
 127.0.0.1 .arn1.llnw.net
@@ -3065,7 +3164,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 rumble.com
 127.0.0.1 m2d.m2.ai
 127.0.0.1 client.reactrjs.com
-127.0.0.1 static.ak.fbcdn.net
 127.0.0.1 adserver.xpanama.net
 127.0.0.1 boredpanda-d.openx.net
 127.0.0.1 geoip.boredpanda.com
@@ -3150,8 +3248,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 #TubiTV
 127.0.0.1 ads.adrise.tv
 127.0.0.1 vid.pubmatic.com
-127.0.0.1 edge-star-shv-01-arn2.facebook.com
-127.0.0.1 edge-mqtt-mini-shv-01-arn2.facebook.com
 
 #MapMyWalk WildCard4 (VirtualHost)
 127.0.0.1 .compute-2.amazonaws.com
@@ -3162,8 +3258,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 ##SL APP
 127.0.0.1 stockholm-commute.appspot.com
 0.0.0.0 app-measurement.com
-127.0.0.1 portal.fb.com
-127.0.0.1 stats.jpush.cn
 127.0.0.1 people-pa.googleapis.com
 127.0.0.1 morrison-software.com
 127.0.0.1 mobile.pipe.aria.microsoft.com
@@ -3221,7 +3315,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 ip-api.com
 
 # [ANDROID APP] SL
-127.0.0.1 mqtt-mini.facebook.com
 127.0.0.1 service.game-mode.net
 127.0.0.1 static.ws-cdn.com
 127.0.0.1 sdk-controller.widespace.com
@@ -3249,7 +3342,24 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 1lniu-yllm6.ads.tremorhub.com
 127.0.0.1 static.pub-ecommerce.crunchyroll.com
 #Chromecast crunchyroll
-127.0.0.1 5fd74.v.fwmrm.net #Must be blocked in router
+0.0.0.0 5fd74.v.fwmrm.net #Must be blocked in router
+0.0.0.0 laxmvpdvip2.fwmrm.net
+0.0.0.0 longslb1.fwmrm.net
+0.0.0.0 nycgslb1.fwmrm.net
+0.0.0.0 NYCGSLB1.fwmrm.net
+0.0.0.0 svlgslb1.fwmrm.net
+0.0.0.0 SVLGSLB1.fwmrm.net
+0.0.0.0 amsgslb1.fwmrm.net
+0.0.0.0 ashgslb1.fwmrm.net
+0.0.0.0 laxgslb1.fwmrm.net
+0.0.0.0 g7.m.fwmrm.net
+
+0.0.0.0 segment.io
+0.0.0.0 spotxchange.com
+0.0.0.0 sa.etp-prod.com
+0.0.0.0 www.spotx.tv
+0.0.0.0 c1.rfihub.net
+
 127.0.0.1 singlewomenmeet.com
 127.0.0.1 d3p2b5qewrnsyv.cloudfront.net
 127.0.0.1 kickplays.com
@@ -3280,6 +3390,12 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 vendri.io
 
 
+#Viafree:
+0.0.0.0 nycgslb2.fwmrm.net
+0.0.0.0 ASHns1-ext1.fwmrm.net
+0.0.0.0 NYCns1-ext1.fwmrm.net
+0.0.0.0 g1.v.fwmrm.net
+0.0.0.0 a23-45-181-202.deploy.static.akamaitechnologies.com
 
 #https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 0.0.0.0 rs.gwallet.com
@@ -3575,7 +3691,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 127.0.0.1 a248.e.akamai.net #cxense g?r dit
 
 #Winsupersite.com
-127.0.0.1 static-arn2-1.xx.fbcdn.net
 127.0.0.1 og3i93vzhywk-a.akamaihd.net
 
 #Allabolag.se
@@ -3593,7 +3708,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 iicbsi-a.akamaihd.net
 
 # [Blandat]
-0.0.0.0 z-m.c10r.facebook.com
+
 127.0.0.1 www.networkadvertising.org
 127.0.0.1 track-eu.adformnet.akadns.net
 127.0.0.1 click.affiliaxe.com
@@ -4781,7 +4896,6 @@ Tiendeo.se
 127.0.0.1 leads.reco.se
 0.0.0.0 bn-01.adtomafusion.net
 127.0.0.1 fusion.dn.se
-127.0.0.1 x.klarnacdn.net
 31.172.81.158 adserver.cxad.cxense.com
 127.0.0.1 static.ads-twitter.com
 0.0.0.0 dmp.adform.net
@@ -4906,11 +5020,7 @@ Tiendeo.se
 0.0.0.0 lpcdn.lpsnmedia.net
 0.0.0.0 accdn.lpsnmedia.net
 0.0.0.0 collectors.sumologic.com
-
-
-
 127.0.0.1 us-central1-nyt-ckgadmin-dev.cloudfunctions.net
-127.0.0.1 lookaside.facebook.com
 127.0.0.1 typeface.nytimes.com
 127.0.0.1 content.api.nytimes.com
 127.0.0.1 a1.nyt.com
@@ -4990,7 +5100,6 @@ Tiendeo.se
 
 127.0.0.1 revive.nyheteridag.se
 127.0.0.1 dmp.datomik.com
-127.0.0.1 web.facebook.com
 
 # [News] Nyteknik.se
 
@@ -5311,6 +5420,10 @@ Tiendeo.se
 127.0.0.1 shopbop.sp1.convertro.com
 127.0.0.1 z-ecx.images-amazon.com
 127.0.0.1 fls-na.amazon.com
+0.0.0.0 db187550c7dkf.cloudfront.net
+0.0.0.0 www.zergnet.com
+0.0.0.0 ia.media-imdb.com
+0.0.0.0 images-na.ssl-images-amazon.com
 
 # [WEB] Koket.se
 
