@@ -167,3 +167,9 @@ https://www.foodbeast.com/news/disneyland-holidays-2018/
 
 ssl.gstatic.com #Gmail icon-uppe i-vänster hörn
 cse.google.com #www.superstart.se google search
+lh3.googleusercontent.com #img avatar messenger chat in gmail, Chrome plugin pictures.
+
+x.klarnacdn.net #Bilder på köp inloggad på klarna.se
+
+sme.expressen.se #instagram integretion
+precis.expressen.se #följande artiklar
