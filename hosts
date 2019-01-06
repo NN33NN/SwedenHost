@@ -70,6 +70,9 @@ https://trends.builtwith.com/websitelist/Prebid
 https://trends.builtwith.com/ads/Prebid
 ####*********AD-PAGE*******####
 #https://trends.builtwith.com/websitelist/Prebid/Historical
+#6000 AD SITES
+#http://c.evidon.com/sitenotice/vendorlist.js
+
 0.0.0.0 d28rh9vvmrd65v.cloudfront.net
 #PBhttps://www.fame10.com/
 0.0.0.0 bu0yhealth.com
@@ -109,6 +112,13 @@ https://trends.builtwith.com/ads/Prebid
 0.0.0.0 concourse-d.openx.net
 .openx.net
 #
+
+#https://www.thepiratebay.org/user/NickeNyfiken66/4/6
+#31.172.81.158 traffic.adxprtz.com
+#www.mypirate.org
+
+
+
 #Tydligen script på vem biddern är till de olika sidora#
 #https://acdn.adnxs.com/prebid/c/7045/pb.js
 0.0.0.0 www.kwwl.com
@@ -160,6 +170,68 @@ www.ktiv.com
 www.wdtv.com
 www.kitv.com
 www.kbtx.com
+
+#EVIDON -
+#c.evidon.com -Blocking detect
+#https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js
+#0.0.0.0 optoutapi.evidon.com
+#0.0.0.0 ec2-54-85-70-193.compute-1.amazonaws.com
+#0.0.0.0 l3.evidon.com
+#0.0.0.0 ec2-54-84-180-39.compute-1.amazonaws.com
+0.0.0.0 iabmap.evidon.com
+0.0.0.0 server-99-84-181-68.iad89.r.cloudfront.net
+#Hela AD listan
+#http://descargar.cnet.com/windows/
+#http://c.evidon.com/sitenotice/vendorlist.js
+
+#http://lostark.inven.co.kr/
+# upload2.inven.co.kr
+31.172.81.158 pds.inven.co.kr
+31.172.81.158 adn.inven.co.kr
+0.0.0.0 ads.inven.co.kr
+0.0.0.0 static.dable.io
+0.0.0.0 images.dable.io
+0.0.0.0 sp-api.dable.io
+0.0.0.0 api.dable.io
+
+#https://www.whathifi.com/news/lg-confirms-8k-oled-and-lcd-tvs-for-2019
+0.0.0.0 r.skimresources.com
+0.0.0.0 sync-jp.im-apps.net
+
+https://88mallonline.com/
+0.0.0.0 nexusmedia-ua.github.io
+0.0.0.0 fast.a.klaviyo.com
+0.0.0.0 static.klaviyo.com
+0.0.0.0 id.btdmp.com
+0.0.0.0 pre.000000.io
+0.0.0.0 gapi.beeketing.com
+0.0.0.0 sdk.beeketing.com
+0.0.0.0 track.customer.io
+0.0.0.0 az833648.vo.msecnd.net
+
+
+0.0.0.0 zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
+0.0.0.0 az1.qualtrics.com
+0.0.0.0 a248.e.akamai.net
+0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 img.qualtrics.com
+0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 f13b9be8b7851594e8da77ea2.litix.io
+
+#S.YIMG.COM
+#https://s.yimg.com/uv/dm/scripts/syndication.js
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 geo.yahoo.com
+
+
+#https://www.dansommer.se/
+#0.0.0.0 novasol-se.activehosted.com
+#0.0.0.0 d226aj4ao1t61q.cloudfront.net
+#0.0.0.0 d3rxaij56vjege.cloudfront.net
+
+#https://www.philips.se
+0.0.0.0 philipselectronicsne.tt.omtrdc.net
+0.0.0.0 philips.112.2o7.net
 
 #http://www.cracked.com/
 0.0.0.0 api.pymx5.com
@@ -237,6 +309,26 @@ https://an.facebook.com/v2/placementbid.json
 ###31.172.81.158 star-mini.c10r.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 #0.0.0.0 l.facebook.com Roliga klip som är delat/skickat via msger till mig
+
+0.0.0.0 our.intern.facebook.com
+0.0.0.0 fburl.com
+0.0.0.0 fbcdn.net
+0.0.0.0 fbsbx.com
+#workplace.com
+0.0.0.0 freebasics.com
+0.0.0.0 facebook.sg
+0.0.0.0 facebookcorewwwi.onion
+#workplace.com
+0.0.0.0 fbaddins.com #<- laddar bara
+0.0.0.0 edge-star-shv-01-waw1.facebook.com
+0.0.0.0 edge-video-shv-01-waw1.fbcdn.net
+0.0.0.0 video-waw1-1.xx.fbcdn.net
+0.0.0.0 accountkit.com
+#instagram.com
+0.0.0.0 origincache.facebook.com
+0.0.0.0 lookaside.internmc.facebook.com
+
+
 0.0.0.0 fbcdn-sphotos-g-a.akamaihd.net
 0.0.0.0 .facebook.com
 0.0.0.0 scontent.xx.fbcdn.net
