@@ -173,3 +173,7 @@ x.klarnacdn.net #Bilder på köp inloggad på klarna.se
 
 sme.expressen.se #instagram integretion
 precis.expressen.se #följande artiklar
+
+content.jwplatform.com #VIDEOPLAYER https://www.tmz.com/2019/01/06/chance-the-rapper-surviving-r-kelly-black-women/
+
+s3-us-west-1.amazonaws.com #truste.com

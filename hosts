@@ -117,6 +117,42 @@ https://trends.builtwith.com/ads/Prebid
 #31.172.81.158 traffic.adxprtz.com
 #www.mypirate.org
 
+https://www.babyshowertips.se/
+0.0.0.0 redistats.com
+0.0.0.0 www.adrecord.com
+
+
+#http://trendenser.se/
+0.0.0.0 newstats.blogg.se
+0.0.0.0 static.blogg.se
+0.0.0.0 s.apprl.com
+
+#https://www.irm-media.se/
+0.0.0.0 hello.staticstuff.net
+0.0.0.0 win.staticstuff.net
+#wix.com
+0.0.0.0 cdn.trackjs.com
+0.0.0.0 4382365.fls.doubleclick.net
+0.0.0.0 frog.wix.com
+#https://www.eskilstunaunited.se/nyheter/s%C3%A4songsstart-%C3%B6ppen-tr%C3%A4ning-1
+0.0.0.0 eurocookie.galilcloud.wixapps.net
+
+#http://www.tmz.com/#
+0.0.0.0 consent.truste.com
+
+#pagead2.googlesyndication.com
+0.0.0.0 216.239.54.111
+0.0.0.0 108.170.246.1
+0.0.0.0 216.239.63.236
+0.0.0.0 216.239.48.3
+0.0.0.0 216.239.40.119
+0.0.0.0 209.85.249.44
+0.0.0.0 108.170.228.79
+0.0.0.0 108.170.252.162
+0.0.0.0 45.79.12.8
+0.0.0.0 45.79.12.4
+0.0.0.0 45.79.12.201
+
 
 
 #Tydligen script på vem biddern är till de olika sidora#
@@ -194,6 +230,12 @@ www.kbtx.com
 0.0.0.0 sp-api.dable.io
 0.0.0.0 api.dable.io
 
+
+#https://digiday.com/media/is-this-the-worst-page-on-the-internet/
+0.0.0.0 c.lytics.io
+0.0.0.0 api.lytics.io
+0.0.0.0 secure.polldaddy.com
+
 #https://www.whathifi.com/news/lg-confirms-8k-oled-and-lcd-tvs-for-2019
 0.0.0.0 r.skimresources.com
 0.0.0.0 sync-jp.im-apps.net
@@ -217,6 +259,9 @@ https://88mallonline.com/
 0.0.0.0 img.qualtrics.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 f13b9be8b7851594e8da77ea2.litix.io
+
+#https://si.com/
+0.0.0.0 img.litix.io
 
 #S.YIMG.COM
 #https://s.yimg.com/uv/dm/scripts/syndication.js
@@ -517,7 +562,6 @@ https://uploadocean.com/uewk8de86gk1
 #http://www.xtremetop100.com/mmorpg-mpog
 0.0.0.0 e0.extreme-dm.com
 0.0.0.0 t1.extreme-dm.com
-31.172.81.158 s2.gifyu.com
 0.0.0.0 img.imguh.com
 #https://www.torrentdownloads.me/torrent/1659311244/begravda+i+sverige
 0.0.0.0 e2.extreme-dm.com
@@ -1093,6 +1137,8 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 0.0.0.0 publish.ne.cision.com
 0.0.0.0 4436512.fls.doubleclick.net
 #SPAM
+0.0.0.0 track.tkbo.com
+31.172.81.158 s.arclk.net
 #https://qismy.life/73CB099D?clickid=8940c3c57da64bddabf7aadcbc97ca4c&subid=3415&sourceid=
 31.172.81.158 eteppy.com
 31.172.81.158 ngegovering.info
@@ -1278,7 +1324,9 @@ https://clk.icu/raTE
 0.0.0.0 horizon.sailthru.com
 0.0.0.0 e2e.mashable.com
 0.0.0.0 ak.sail-horizon.com
-0.0.0.0 content.jwplatform.com #alla ads
+#0.0.0.0 a.amz.mshcdn.com #AD in the middle #Destroy webpage if blocked
+
+
 #https://pcforalla.idg.se/
 31.172.81.158 google-sv.lojalaanvandaresgavor.club
 31.172.81.158 v7.notification-browser.com
@@ -2481,9 +2529,11 @@ https://linux.101hacks.com/unix/crond/
 #0.0.0.0 jsconsole.com
 #0.0.0.0 t.co
 #Mrkoll.se
+#https://www.backpacking.se/
+#http://24sju.se/
 PIXEL-SERVERS
 #http://ir.ebaystatic.com/ Noll
-#31.172.81.158 track.adtraction.com #BlocksADS#klicka rabattkoder https://www.aftonbladet.se/rabattkod/tretti.se#promo-41211
+31.172.81.158 track.adtraction.com #BlocksADS#klicka rabattkoder https://www.aftonbladet.se/rabattkod/tretti.se#promo-41211
 Refunder %rabatt
 0.0.0.0 api.adtraction.com
 0.0.0.0 secure.adtraction.com
@@ -4812,7 +4862,6 @@ Tiendeo.se
 0.0.0.0 rules.quantcount.com
 0.0.0.0 rt3025.infolinks.com
 0.0.0.0 resources.infolinks.com
-0.0.0.0 cdn-images.mailchimp.com
 0.0.0.0 dp.g.doubleclick.net
 0.0.0.0 images.smartname.com
 31.172.81.158 download.verticdn.com
