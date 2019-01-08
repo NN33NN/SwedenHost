@@ -121,6 +121,24 @@ https://www.babyshowertips.se/
 0.0.0.0 redistats.com
 0.0.0.0 www.adrecord.com
 
+#https://www.delupe.se
+0.0.0.0 cat.nl.eu.criteo.com
+0.0.0.0 cas.criteo.com
+#https://www.delupe.se/new/template/shop_api/script/dist/all.123.js
+
+#www.allaannonser.se
+0.0.0.0 mtst.io
+0.0.0.0 197654070b0e4b05add9b2994aea3887.js.ubembed.com
+
+#https://billigamobilskydd.se
+0.0.0.0 d191y0yd6d0jy4.cloudfront.net
+0.0.0.0 cdn-sitegainer.com
+0.0.0.0 d1pna5l3xsntoj.cloudfront.net
+0.0.0.0 addwish.com
+0.0.0.0 cdn.addwish.com
+#https://cdn-sitegainer.com/sitegainer_5616492.js
+0.0.0.0 www.ttua.nu
+0.0.0.0 beacon.kodmyran.se
 
 #http://trendenser.se/
 0.0.0.0 newstats.blogg.se
@@ -846,10 +864,8 @@ https://shooshtime.com/videos/amateur/getting-it-in-his-tight-18-year-old-girlfr
 #0.0.0.0 cse.google.se
 #https://www.familjeliv.se
 #https://www.familjeliv.se/forum/thread/75154085-ar-det-onodigt-mycket-reklam-har
-#https://s1.adform.net/banners/scripts/adx.js
-#0.0.0.0 track.adform.net
-#0.0.0.0 s1.adform.net
 0.0.0.0 tracking.adviralmedia.com
+#0.0.0.0 delivery.youplay.se
 #https://www.alltforforaldrar.se
 0.0.0.0 d11j2g8hmtmh4u.cloudfront.net
 #http://nitroflare.com/view/E01E19EE0BF5AD0/WinPE10_8_Sergei_Strelec_x86_x64_2018.09.20_English.part3.rar
@@ -1050,6 +1066,7 @@ Video funkar ej https://mashable.com/video/ai-portraits-celebrity-doppelganger/?
 #0.0.0.0 cdn.flashtalking.com #Yahoo web
 #0.0.0.0 s1.adform.net #Prisjakt.nu
 #0.0.0.0 search.spotxchange.com #Chrunchyroll
+#http://s1.adform.net/banners/scripts/adx.js
 #0.0.0.0 track.adform.net #onlinechoises
 #0.0.0.0 ad.sxp.smartclip.net #Mobil ads
 0.0.0.0 eu2.madsone.com
@@ -1137,7 +1154,7 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 0.0.0.0 publish.ne.cision.com
 0.0.0.0 4436512.fls.doubleclick.net
 #SPAM
-0.0.0.0 track.tkbo.com
+31.172.81.158 track.tkbo.com
 31.172.81.158 s.arclk.net
 #https://qismy.life/73CB099D?clickid=8940c3c57da64bddabf7aadcbc97ca4c&subid=3415&sourceid=
 31.172.81.158 eteppy.com
@@ -1468,12 +1485,15 @@ https://clk.icu/raTE
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 cdn.cast.upload.cnet.com
 0.0.0.0 cdn.taboola.com
-31.172.81.158 schema.org
-0.0.0.0 a.fdlstatic.com
-0.0.0.0 a1.fdlstatic.com
-0.0.0.0 a2.fdlstatic.com
+#https://s.yimg.com/uq/syndication/yad.js
+0.0.0.0 admanager.yahoo.com
+0.0.0.0 syndication.streamads.yahoo.com
+#31.172.81.158 schema.org
+####0.0.0.0 a.fdlstatic.com
+####0.0.0.0 a1.fdlstatic.com
+###0.0.0.0 a2.fdlstatic.com
 #0.0.0.0 a3.fdlstatic.com
-0.0.0.0 i.i.cbsi.com
+###0.0.0.0 i.i.cbsi.com
 #0.0.0.0 vidtech.cbsinteractive.com #ZDNet player
 #PhoneVirus
 31.172.81.158 mdory.space
@@ -3462,7 +3482,8 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 cnet-1.disqus.com
 0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 collect.tealiumiq.com
-0.0.0.0 urs.cnet.com
+0.0.0.0 ec83cce4c209447a2af3d62f2.litix.io
+##0.0.0.0 urs.cnet.com #fixar video player
 0.0.0.0 iicbsi-a.akamaihd.net
 # [Blandat]
 0.0.0.0 www.networkadvertising.org
@@ -3587,6 +3608,7 @@ Metro.se
 #Msn.com Outlook.com
 0.0.0.0 prod.video.msn.com
 0.0.0.0 m.adnxs.com
+0.0.0.0 .adnxs.com
 0.0.0.0 adnxs.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 glb-ads.atwola.adtechus.com
@@ -5499,7 +5521,13 @@ https://www.kinos.to/Stream/Searching.html
 0.0.0.0 fwbntw.com
 0.0.0.0 7273e671a40fa9f0d3867d1098d5ac6e.fwbntw.com
 0.0.0.0 36f3776e5d1d89eed81547772a9d6a4f.fwbntw.com
-0.0.0.0 x99.nudevista.com
+31.172.81.158 x99.nudevista.com
+31.172.81.158 x98.nudevista.com
+31.172.81.158 x97.nudevista.com
+
+
+
+
 # [XXX] Nudevista.se
 0.0.0.0 hilltopads.net
 0.0.0.0 automoc.net
