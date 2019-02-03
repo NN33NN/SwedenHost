@@ -147,7 +147,7 @@ bs.serving-sys.com #Wifog.com reklam funktion
 bid.g.doubleclick.net #Wifog.com reklam funktion
 track.adform.net #Wifog.com reklam funktion
 search.spotxchange.com #Wifog.com reklam funktion
-s1.adform.net #Wifog.com reklam funktion #finns på www.alltforforaldrar.se www.familjeliv.se
+s1.adform.net #Wifog.com reklam funktion #finns på www.alltforforaldrar.se www.familjeliv.se www.viafree.se
 
 cdn.flashtalking.com #Wifog.com reklam Media funktion
 secure-ds.serving-sys.com #Wifog(via bs.serving-sys.com.. )
@@ -177,3 +177,10 @@ precis.expressen.se #följande artiklar
 content.jwplatform.com #VIDEOPLAYER https://www.tmz.com/2019/01/06/chance-the-rapper-surviving-r-kelly-black-women/
 
 s3-us-west-1.amazonaws.com #truste.com
+
+track.adtraction.com #Refunder Rabatt %, Finns en del reklam på websidor.
+clk.tradedoubler.com #Komupp på allaannonser när man klicka
+y.cdn-expressen.se #https://www.expressen.se/halsoliv/hogt-blodtryck-det-har-kan-du-gora-at-det/
+
+in-addr.arpa #SNBforum
+ip6.arpa #SNBforum
