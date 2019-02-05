@@ -1,5 +1,12 @@
 #Mkt ads http://www.scrollat.se/detta-hander-med-din-kropp-om-du-ater-agg-varje-dag/
 
+Whitelist:
+www.da-ads.com #https://www.deviantart.com/art/Awesome-Drops-Live-Wallpaper-394640354
+https://www.deviantart.com/z-design/art/AdvancedUI-Status-Screen-120947815
+#www.deviantart.com
+0.0.0.0 dapxl.com
+0.0.0.0 deviantart-d.openx.net
+
 #127.0.0.1 localhost #ForSystem apps
 #::1 localhost-ipv6
 ####TOOLS####
@@ -129,8 +136,6 @@ https://trends.builtwith.com/ads/Prebid
 0.0.0.0 tap2-cdn.rubiconproject.com
 0.0.0.0 pr.ybp.yahoo.com
 0.0.0.0 s1.adformdsp.net
-0.0.0.0 s1.adform.net
-0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 soundwave.bnmla.com
 0.0.0.0 cdn8.emediate.eu
 0.0.0.0 ad-audit.tubemogul.com
@@ -146,7 +151,6 @@ https://trends.builtwith.com/ads/Prebid
 0.0.0.0 logger.clubpenguin.com
 0.0.0.0 vpc.altitude-arena.com
 0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 search.spotxchange.com
 0.0.0.0 ad4.liverail.com
 0.0.0.0 fpdownload.adobe.com
 0.0.0.0 log.data.disney.com
@@ -198,7 +202,6 @@ https://trends.builtwith.com/ads/Prebid
 0.0.0.0 cluster-us.cdnjquery.com
 0.0.0.0 api.monetizer101.com
 https://static.h-bid.com/prebid/1.15.0-pre/prebid.js
-0.0.0.0 acdn.adnxs.com
 #an.facebook.com
 0.0.0.0 ads.reddit.com
 0.0.0.0 static.h-bid.com
@@ -2196,7 +2199,6 @@ https://www.yandex.com.mobi
 0.0.0.0 m2.feiwei.tv
 0.0.0.0 5489533.fls.doubleclick.net
 0.0.0.0 i2-jzbngaccfthscplbziqybcxobnpqzo.init.cedexis-0.0.0.0 radar.net
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 gcdn.2mdn.net
 des.smartclip.net -Wifog
