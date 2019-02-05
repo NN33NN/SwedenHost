@@ -1,71 +1,4 @@
-
 #Mkt ads http://www.scrollat.se/detta-hander-med-din-kropp-om-du-ater-agg-varje-dag/
-
-#https://www.techrepublic.com/article/the-10-easiest-programming-languages-to-learn/
-#https://c.evidon.com/sitenotice/vendorlist.js
-#https://www.techrepublic.com/article/the-10-easiest-programming-languages-to-learn/
-0.0.0.0 ocmva2sa06emb4d8c9l2q3cg9.litix.io
-
-#https://www.hitta.se/kartan!~59.35010,17.96580,13z/tr!i=JaPZsRtS
-0.0.0.0 iliuspicda-a.akamaihd.net
-
-#https://www.upload.ee/files/7931578/UltraISO_Portable_9.7.1.3519_Multilingual.exe.html
-0.0.0.0 serving.bepolite.eu
-0.0.0.0 static.bepolite.eu
-0.0.0.0 kampaaniad.optibet.ee
-#https://www.tradeadexchange.com/a/display.php?r=188447
-0.0.0.0 www.tradeadexchange.com
-0.0.0.0 campaign.liflandaffiliates.com
-
-#https://www.makeuseof.com/tag/easiest-programming-languages-beginners/
-0.0.0.0 cluster-us.cdnjquery.com
-0.0.0.0 optimized-by.rubiconproject.com
-0.0.0.0 api.monetizer101.com
-0.0.0.0 ads.rubiconproject.com
-0.0.0.0 www.stack-sonar.com
-https://static.h-bid.com/prebid/1.15.0-pre/prebid.js
-0.0.0.0 adserver-us.adtech.advertising.com
-0.0.0.0 adserver-eu.adtech.advertising.com
-0.0.0.0 adserver-as.adtech.advertising.com
-0.0.0.0 hb.nexage.com
-0.0.0.0 acdn.adnxs.com
-0.0.0.0 cdn.ampproject.org
-#an.facebook.com
-0.0.0.0 i.connectad.io
-0.0.0.0 cdn.connectad.io
-0.0.0.0 hbevents.1rx.io
-0.0.0.0 tag.1rx.io
-0.0.0.0 web.hb.ad.cpe.dotomi.com
-0.0.0.0 currency.prebid.org
-0.0.0.0 prebid.org
-0.0.0.0 x.fidelity-media.com
-0.0.0.0 ad.360yield.com
-0.0.0.0 as-sec.casalemedia.com
-0.0.0.0 as.casalemedia.com
-0.0.0.0 pre.ads.justpremium.com
-0.0.0.0 lockerdome.com
-0.0.0.0 prebid.adnxs.com
-0.0.0.0 prebid-server.rubiconproject.com
-0.0.0.0 hbopenbid.pubmatic.com
-0.0.0.0 ads.pubmatic.com
-0.0.0.0 ads.reddit.com
-0.0.0.0 bid.contextweb.com
-0.0.0.0 bh.contextweb.com
-0.0.0.0 fastlane.rubiconproject.com
-0.0.0.0 fastlane-adv.rubiconproject.com
-0.0.0.0 eus.rubiconproject.com
-0.0.0.0 hb.sekindo.com
-0.0.0.0 apex.go.sonobi.com
-0.0.0.0 ap.lijit.com
-
-0.0.0.0 static.h-bid.com
-0.0.0.0 www.anrdoezrs.net
-
-
-
-
-
-
 
 #127.0.0.1 localhost #ForSystem apps
 #::1 localhost-ipv6
@@ -104,7 +37,7 @@ https://chrome.google.com/webstore/detail/ublocker-1-adblock-tool-f/adkfgdipgpoj
 ###----https://github.com/prebid/Prebid.js/releases
 #https://www.npmjs.com/~prebid
 ****MERG with
-#björn
+#bj?rn
 https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 #255
 https://gist.github.com/gklka/146893383b690d219b2a
@@ -187,6 +120,89 @@ https://trends.builtwith.com/ads/Prebid
 0.0.0.0 concourse-d.openx.net
 .openx.net
 #
+#https://c.evidon.com/sitenotice/vendorlist.js
+#https://www.techrepublic.com/article/the-10-easiest-programming-languages-to-learn/
+0.0.0.0 ocmva2sa06emb4d8c9l2q3cg9.litix.io
+
+#Nya Blandat från Chrome cashe
+0.0.0.0 c.betrad.com
+0.0.0.0 tap2-cdn.rubiconproject.com
+0.0.0.0 pr.ybp.yahoo.com
+0.0.0.0 s1.adformdsp.net
+0.0.0.0 s1.adform.net
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 soundwave.bnmla.com
+0.0.0.0 cdn8.emediate.eu
+0.0.0.0 ad-audit.tubemogul.com
+0.0.0.0 promotion.aliexpress.com
+0.0.0.0 vast.yashi.com
+0.0.0.0 log.adap.tv
+0.0.0.0 adm.fwmrm.net
+0.0.0.0 5bb3d.v.fwmrm.net
+0.0.0.0 log.adaptv.advertising.com
+0.0.0.0 directory.clubpenguin.com
+0.0.0.0 img1.catalog.video.msn.com
+0.0.0.0 playtime.tubemogul.com
+0.0.0.0 logger.clubpenguin.com
+0.0.0.0 vpc.altitude-arena.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 search.spotxchange.com
+0.0.0.0 ad4.liverail.com
+0.0.0.0 fpdownload.adobe.com
+0.0.0.0 log.data.disney.com
+0.0.0.0 sync.doubleverify.com
+0.0.0.0 qlog.adap.tv
+0.0.0.0 capture.apps-dev.net-results.com
+0.0.0.0 c.cdnma.com
+0.0.0.0 oasc00454.247realmedia.com
+0.0.0.0 de-glibhippo.a.videoplaza.tv
+0.0.0.0 ib.mookie1.com
+0.0.0.0 global.ib-ibi.com
+0.0.0.0 liverail2waycm-atl.netmng.com
+0.0.0.0 pix04.revsci.net
+0.0.0.0 usersync.yashi.com
+0.0.0.0 navdmp.com
+0.0.0.0 tarse.tradedoubler.com
+0.0.0.0 aka.spotxcdn.com
+0.0.0.0 l2.visiblemeasures.com
+0.0.0.0 track.eyeviewads.com
+0.0.0.0 vox-static.liverail.com
+0.0.0.0 s.moatads.com
+0.0.0.0 t4.liverail.com
+0.0.0.0 sync.zenoviaexchange.com
+0.0.0.0 liverail.sync.go.sonobi.com
+0.0.0.0 cm.dpclk.com
+0.0.0.0 cti.w55c.net
+0.0.0.0 cdnma.com
+0.0.0.0 rtb.metrigo.com
+0.0.0.0 tap.rubiconproject.com
+0.0.0.0 cdn.spotxchange.com
+0.0.0.0 cdnsl.memeglobal.com
+0.0.0.0 cdn3.doubleverify.com
+0.0.0.0 sync.adap.tv
+0.0.0.0 cdn.tt.omtrdc.net
+0.0.0.0 sy.eu.angsrvr.com
+0.0.0.0 rtbcc.fyber.com
+0.0.0.0 tr.prospecteye.com
+0.0.0.0 pixel.jumptap.com
+#https://www.hitta.se/kartan!~59.35010,17.96580,13z/tr!i=JaPZsRtS
+0.0.0.0 iliuspicda-a.akamaihd.net
+#https://www.upload.ee/files/7931578/UltraISO_Portable_9.7.1.3519_Multilingual.exe.html
+0.0.0.0 serving.bepolite.eu
+0.0.0.0 static.bepolite.eu
+0.0.0.0 kampaaniad.optibet.ee
+#https://www.tradeadexchange.com/a/display.php?r=188447
+0.0.0.0 www.tradeadexchange.com
+0.0.0.0 campaign.liflandaffiliates.com
+#https://www.makeuseof.com/tag/easiest-programming-languages-beginners/
+0.0.0.0 cluster-us.cdnjquery.com
+0.0.0.0 api.monetizer101.com
+https://static.h-bid.com/prebid/1.15.0-pre/prebid.js
+0.0.0.0 acdn.adnxs.com
+#an.facebook.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 static.h-bid.com
+0.0.0.0 www.anrdoezrs.net
 #https://vetusware.com/download/Mini-Windows%203.11/?id=12609
 0.0.0.0 epnt.ebay.com
 #https://openpirate.org/
@@ -194,7 +210,7 @@ https://trends.builtwith.com/ads/Prebid
 #https://pirateproxy.live/
 0.0.0.0 cdn.mn1nm.com
 #https://www.thepiratebay.org/user/NickeNyfiken66/4/6
-#Kolla mer på#
+#Kolla mer p?#
 31.172.81.158 traffic.adxprtz.com
 0.0.0.0 cdn-102.statdynamic.com
 0.0.0.0 cdn-103.statdynamic.com
@@ -211,8 +227,6 @@ https://trends.builtwith.com/ads/Prebid
 #Prebidee#
 0.0.0.0 cz.creativecdn.com
 0.0.0.0 se.creativecdn.com
-
-
 #https://www.zive.cz/bleskovky/vzhled-windows-xp-pro-windows-311/sc-4-a-116204/?showforum=1
 #https://www.zive.cz/bleskovky/vzhled-windows-xp-pro-windows-311/sc-4-a-116204/default.aspx
 0.0.0.0 a.blesk.cz
@@ -224,21 +238,16 @@ https://trends.builtwith.com/ads/Prebid
 0.0.0.0 img.cncenter.cz
 0.0.0.0 hb.adscale.de
 0.0.0.0 js.adscale.de
-
 #0.0.0.0 cnc.cdn.dopc.cz #Websida layout fuckar upp sig
 ##31.172.81.158 d49-a.sdn.szn.cz
 #https://www.zive.cz/QAI3ip7qAm-CmbX8Yv_FOCFPe0PbwQA/hb/prebid/v1/prebid.js prebid.js v1.31.0
-
 https://www.zive.cz/WMI3ip7qAm-CmbX8Yv_FOCFPe0PbwWM/hb/prebid/v1/prebid.js
 ##0.0.0.0 pixel.cpex.cz
-
 #Notice ad-block##
 #https://www.eurogamer.net/articles/2015-12-11-dariusburst-chronicle-saviours-review
-
 SPAM:
 winningdays.xyz
 phastoag.com
-
 ##0.0.0.0 www.googletagmanager.com
 #https://avmania.e15.cz/10-nejocekavanejsich-sci-fi-a-akcnich-filmu-roku-2019#part=1
 https://avmania.e15.cz/QANN5DrHbcUCXtOG_X37ojvWjwZ8wQA/hb/prebid/v1/prebid.js
@@ -246,13 +255,11 @@ https://avmania.e15.cz/QANN5DrHbcUCXtOG_X37ojvWjwZ8wQA/hb/prebid/v1/prebid.js
 ##0.0.0.0 cz-gmtdmp.mookie1.com
 ##0.0.0.0 ucet.ostium.cz
 ##0.0.0.0 player.zive.cz
-#Fort sätt med Prebiden#
+#Fort s?tt med Prebiden#
 kolla prebid efter mookie1 ucet.ostium.cz och https://cdn.mookie1.com/containr.js
 https://player.zive.cz/embed/5472593?pre=om&mag=11AV
-
 #https://www.maria-online.com/information/article.php?lg=sv&q=Sveriges_d%C3%B6dbok
 0.0.0.0 www.templatehelp.com
-
 #https://1337x.to/search/windows+95/1/
 0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 runmewivel.com
@@ -353,7 +360,7 @@ https://www.babyshowertips.se/
 0.0.0.0 108.170.228.79
 0.0.0.0 108.170.252.162
 0.0.0.0 45.79.12.4
-#Tydligen script på vem biddern är till de olika sidora#
+#Tydligen script p? vem biddern ?r till de olika sidora#
 #https://acdn.adnxs.com/prebid/c/7045/pb.js
 0.0.0.0 www.kwwl.com
 www.fox28.com
@@ -520,12 +527,16 @@ www.facebook.com
 api.facebook.com
 b-api.facebook.com
 graph.facebook.com
+static.ak.facebook.com
+s-static.ak.facebook.com
+fbcdn-video-m-a.akamaihd.net
+fbcdn-video-f-a.akamaihd.net
 https://an.facebook.com/v2/placementbid.json
 ##scontent-arn2-1.xx.fbcdn.net/v/t1.0-0/q85/s350x350/29573226_1843873535911747_7532097488964766313_n.jpg
 ###31.172.81.158 star.c10r.facebook.com #<- Vet ej
 ###31.172.81.158 star-mini.c10r.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
-#0.0.0.0 l.facebook.com Roliga klip som är delat/skickat via msger till mig
+#0.0.0.0 l.facebook.com Roliga klip som ?r delat/skickat via msger till mig
 0.0.0.0 our.intern.facebook.com
 0.0.0.0 fburl.com
 0.0.0.0 fbcdn.net
@@ -1356,7 +1367,7 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 31.172.81.158 qiheptnm80.com
 #https://www.ikort.se/f%C3%B6rbetalda-kort/
 0.0.0.0 tm.tradetracker.net
-#https://www.allalån.se/
+#https://www.allal?n.se/
 #0.0.0.0 www.xn--allaln-mua.se
 #******Problem*******
 #https://forums.hardwarezone.com.sg/eat-drink-man-woman-16/
@@ -1364,7 +1375,7 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 #31.172.81.158 dp.image-gmkt.com
 #31.172.81.158 www.qoo10.sg
 #https://www.malwarebytes.com/
-#0.0.0.0 ciuvo.com #Kommer upp på:https://www.elgiganten.se/product/tv-bild/tv/UE65NU8005XXC/samsung-65-uhd-smart-tv-ue65nu8005?scid=2_EXT_PRICECOMP_PRISJAKT_EGAB och på prisjakt
+#0.0.0.0 ciuvo.com #Kommer upp p?:https://www.elgiganten.se/product/tv-bild/tv/UE65NU8005XXC/samsung-65-uhd-smart-tv-ue65nu8005?scid=2_EXT_PRICECOMP_PRISJAKT_EGAB och p? prisjakt
 #https://try.digitalocean.com/businesses/
 0.0.0.0 builder-assets.unbounce.com
 0.0.0.0 marketing.nyc3.cdn.digitaloceanspaces.com
@@ -1399,7 +1410,7 @@ https://www.breakit.se/
 https://swedroid.se/
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consentcdn.cookiebot.com
-#https://www.enkelteknik.se/andra-och-lagg-till-saker-i-datorns-hosts-fil (troligen whitelist för man ska kunna klicka på annons)
+#https://www.enkelteknik.se/andra-och-lagg-till-saker-i-datorns-hosts-fil (troligen whitelist f?r man ska kunna klicka p? annons)
 #https://pureinfotech.com/windows-10-redstone-4-version-1803-new-features/
 0.0.0.0 forms.mailmunch.co
 0.0.0.0 a.mailmunch.co
@@ -3063,7 +3074,7 @@ script.ioam.de/iam.js
 cart.payments.ebay.com
 #https://www.ebay.com/itm/Absolut-Vodka-Collector-Bottle-Los-Angeles-with-Tag-2008/263819765871?hash=item3d6ce2286f:g:fR8AAOSw1zpbTR6j
 ir.ebaystatic.com
-#0.0.0.0 rover.ebay.com #Behövs för email utskick, kuna klicka länk till ebay
+#0.0.0.0 rover.ebay.com #Beh?vs f?r email utskick, kuna klicka l?nk till ebay
 #http://m.videostory.dkn.tv/life/teen-surprises-mom-cut-dreads-9-years-one-look-shes-tears.html
 #http://www.lakartidningen.se/Klinik-och-vetenskap/Fallbeskrivning/2014/03/Botulism-ar-en-behandlingsbar-mycket-sallsynt-forgiftning/
 #https://m.theepochtimes.com/uplift/man-sees-kangaroo-hopping-after-him-so-he-suddenly-turns-kneels-then-mind-blowing-thing-occurs_2434512.html
@@ -4749,7 +4760,6 @@ Tiendeo.se
 31.172.81.158 spel.expressen.se
 #https://www.expressen.se/premium/halsa/detta-hander-i-kroppen-nar-du-slutar-att-dricka-alkohol/
 0.0.0.0 h.online-metrix.net
-
 0.0.0.0 se.ads.justpremium.com
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 ads.rubiconproject.com
