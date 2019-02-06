@@ -1,11 +1,13 @@
 #Mkt ads http://www.scrollat.se/detta-hander-med-din-kropp-om-du-ater-agg-varje-dag/
 
-Whitelist:
-www.da-ads.com #https://www.deviantart.com/art/Awesome-Drops-Live-Wallpaper-394640354
-https://www.deviantart.com/z-design/art/AdvancedUI-Status-Screen-120947815
 #www.deviantart.com
 0.0.0.0 dapxl.com
 0.0.0.0 deviantart-d.openx.net
+31.172.81.158 www.devianrart.com
+31.172.81.158 devianrart.com
+31.172.81.158 btprmnav.com
+31.172.81.158 rtbstream.com
+31.172.81.158 mobluckywinnings.icu
 
 #127.0.0.1 localhost #ForSystem apps
 #::1 localhost-ipv6
@@ -131,7 +133,7 @@ https://trends.builtwith.com/ads/Prebid
 #https://www.techrepublic.com/article/the-10-easiest-programming-languages-to-learn/
 0.0.0.0 ocmva2sa06emb4d8c9l2q3cg9.litix.io
 
-#Nya Blandat från Chrome cashe
+#Nya Blandat fr?n Chrome cashe
 0.0.0.0 c.betrad.com
 0.0.0.0 tap2-cdn.rubiconproject.com
 0.0.0.0 pr.ybp.yahoo.com
