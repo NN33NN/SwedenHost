@@ -7,8 +7,8 @@ us-east-1.elb.amazonaws.com #Amazon
 us-west-1.elb.amazonaws.com #Amazon
 s3-eu-central-1.amazonaws.com #Amazon
 S3-us-east-1.amazonaws.com #Amazon
-S3-us-west-1.amazonaws.com #Amazon
 us-west-1.amazonaws.com #Amazon
+eu-west-1.compute.amazonaws.com #Amazon
 ariocroft.com #PhoneVirus
 googlo.co #PhoneVirus
 megcm.xyz #PhoneVirus
