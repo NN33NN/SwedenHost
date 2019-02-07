@@ -525,6 +525,10 @@ Whitelist:
 ##FACEBOOK##
 #0.0.0.0 m.facebook.com
 #0.0.0.0 static.xx.fbcdn.net #Fuckar FB sidan
+#0.0.0.0 scontent.xx.fbcdn.net #Facebook messenger
+#0.0.0.0 stats.jpush.cn #Facebook messenger
+0.0.0.0 apis.google.com
+0.0.0.0 plus.l.google.com
 connect.facebook.net
 facebook.net
 facebook.com
@@ -559,7 +563,6 @@ https://an.facebook.com/v2/placementbid.json
 0.0.0.0 lookaside.internmc.facebook.com
 0.0.0.0 fbcdn-sphotos-g-a.akamaihd.net
 0.0.0.0 .facebook.com
-0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 external.xx.fbcdn.net
 31.172.81.158 staticxx.facebook.com
 0.0.0.0 api.facebook.com
@@ -1915,7 +1918,6 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 sis.jpush.io
 0.0.0.0 s.jpush.cn
-0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.pusher.com
 0.0.0.0 ws.pusherapp.com
 0.0.0.0 js.pusher.com
