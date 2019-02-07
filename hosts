@@ -9,6 +9,16 @@
 31.172.81.158 rtbstream.com
 31.172.81.158 mobluckywinnings.icu
 
+#https://computer.howstuffworks.com/internet/social-networking/information/get-rid-of-ads-on-facebook.htm
+0.0.0.0 cdn.stuff.com
+0.0.0.0 glogger.stuff.com
+0.0.0.0 s.flocdn.com
+0.0.0.0 d1bk6lwzdwelz0.cloudfront.net
+0.0.0.0 analytics.tout.com
+0.0.0.0 player.tout.com
+#https://computer.howstuffworks.com/internet/social-networking/information/facebook-safety-check-feature-connects-people-orlando-attack.htm
+
+
 #127.0.0.1 localhost #ForSystem apps
 #::1 localhost-ipv6
 ####TOOLS####
