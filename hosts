@@ -3,6 +3,15 @@
 #https://212.124.115.233  Self signed Cert
 #212.124.115.233 googleads.g.doubleclick.net
 #******************************
+
+##https://en.softonic.com/solutions/what-are-the-best-alternatives-to-putlocker
+#https://www.streamlikers.com/run-the-race/
+31.172.81.158 digital-world1.com
+31.172.81.158 bestbook-library.com
+31.172.81.158 qnirnqfvi.com
+31.172.81.158 crsrva24yz9s0.com
+31.172.81.158 qmiiqzfk.com
+
 #https://www.forbes.com/consent/?toURL=https://www.forbes.com/under30/list/2019/europe/
 #Whitelist consent.truste.com
 0.0.0.0 prefmgr-cookie.truste-svc.net
@@ -1570,7 +1579,7 @@ https://clk.icu/raTE
 31.172.81.158 links.services.disqus.com
 #https://openload.co/f/XCVqalTIA2U/AppNee.com.CCleaner.Busi.v5.48.Portable.FR.7z/
 0.0.0.0 go.padstm.com
-0.0.0.0 uod2quk646.com
+31.172.81.158 uod2quk646.com
 0.0.0.0 tt2.openload.co
 31.172.81.158 www.getfun-stuff.com
 31.172.81.158 www.uod2quk646.com
