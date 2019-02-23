@@ -187,6 +187,9 @@ ip6.arpa #SNBforum
 www.da-ads.com #www.deviantart.com
 scontent.xx.fbcdn.net #Facebook messenger
 
+stats.jpush.cn # Messenger
+platform.twitter.com #För Tweet knapp på sidor
+
 consent.truste.com #Forbes
 consent.trustarc.com #Forbes
 consent-pref.trustarc.com #Forbes
