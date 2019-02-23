@@ -7,6 +7,25 @@
 #https://all-free-download.com/free-vector/download/website-buttons-icons-design-with-shiny-colored-shapes_6823222.html
 31.172.81.158 shutterstock.7eer.net
 
+#https://www.tittapavideon.se/video/17655/de-vita-halvmanarna-som-finns-pa-dina-naglarna-avslojar-om-ditt-halsotillstand?utm_source=fb&utm_medium=EVERGREEN&utm_term=17655
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 api.dailymotion.com
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 www8.smartadserver.com
+0.0.0.0 api.ipify.org
+0.0.0.0 cdn.stickyadstv.com
+0.0.0.0 r.sascdn.com
+0.0.0.0 ced.sascdn.com
+0.0.0.0 prg.smartadserver.com
+0.0.0.0 ad.360yield.com
+0.0.0.0 trends.revcontent.com
+0.0.0.0 ad.impactify.io
+0.0.0.0 ad.impactify.it
+0.0.0.0 impactify.io
+0.0.0.0 ads.adaptv.advertising.com
+0.0.0.0 video-ads.rubiconproject.com
+0.0.0.0 ads.stickyadstv.com
+0.0.0.0 api.dmcdn.net
 
 #douploads.com/users/Therain
 31.172.81.158 11fileupload-3.xyz
@@ -32,7 +51,7 @@
 31.172.81.158 qmiiqzfk.com
 
 #https://www.forbes.com/consent/?toURL=https://www.forbes.com/under30/list/2019/europe/
-#Whitelist consent.truste.com
+
 0.0.0.0 prefmgr-cookie.truste-svc.net
 0.0.0.0 fast.forbes.com
 0.0.0.0 nai.sharethis.com
@@ -54,7 +73,6 @@
 0.0.0.0 api.b2c.com
 #https://www.online-tech-tips.com/free-software-downloads/combine-text-files/
 0.0.0.0 snigelweb-com.videoplayerhub.com
-#0.0.0.0 players.brightcove.net Till Whitelist
 0.0.0.0 trinitymirror.grapeshot.co.uk
 0.0.0.0 www.ok.co.uk
 0.0.0.0 cdn.my.northernandshell.co.uk
@@ -620,8 +638,6 @@ https://88mallonline.com/
 #https://www.hostelworld.com/
 0.0.0.0 wcs.naver.net
 0.0.0.0 webresint.tt.omtrdc.net
-#0.0.0.0 consent.trustarc.com
-#0.0.0.0 consent-pref.trustarc.com
 https://www.naver.com/
 0.0.0.0 nv.veta.naver.com
 0.0.0.0 s.pstatic.net
@@ -652,7 +668,6 @@ https://www.naver.com/
 ##AD Network top 10 https://www.problogbooster.com/2016/04/Best-Google-Adsense-Alternatives-CPM-Ad-Networks-High-Paying-Cost-Per-Impression-CPC-PPC-Publisher-Bloggers-Programs-To-Make-Money-Online-From-Blog.html
 Forts?tt:
 https://pi-hole.net/pages-to-test-ad-blocking-performance/
-Whitelist:
 0.0.0.0 p.yotpo.com
 ##FACEBOOK##
 #0.0.0.0 m.facebook.com
@@ -2571,9 +2586,8 @@ https://linux.101hacks.com/unix/crond/
 0.0.0.0 optout.yieldoptimizer.com
 0.0.0.0 partner.knorex.com
 0.0.0.0 pix.impdesk.com
-##0.0.0.0 pixel.everesttech.net #Whitelist googlesearch ad klick
 0.0.0.0 pixel.sojern.com
-##0.0.0.0 po.st #Share FB https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-son-immunite-parlementaire_1322391.html
+https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-son-immunite-parlementaire_1322391.html
 0.0.0.0 pool.admedo.com
 0.0.0.0 privacy.himediads.com
 0.0.0.0 privacy.nuggad.net
@@ -4845,7 +4859,6 @@ Tiendeo.se
 0.0.0.0 d2lv4zbk7v5f93.cloudfront.net
 0.0.0.0 www.ugdturner.com
 0.0.0.0 ips-invite.iperceptions.com
-#0.0.0.0 consent.truste.com
 0.0.0.0 a.visualrevenue.com
 0.0.0.0 metrics.cnn.com
 0.0.0.0 a.postrelease.com

@@ -186,3 +186,9 @@ in-addr.arpa #SNBforum
 ip6.arpa #SNBforum
 www.da-ads.com #www.deviantart.com
 scontent.xx.fbcdn.net #Facebook messenger
+
+consent.truste.com #Forbes
+consent.trustarc.com #Forbes
+consent-pref.trustarc.com #Forbes
+
+players.brightcove.net #https://www.online-tech-tips.com/free-software-downloads/combine-text-files/
