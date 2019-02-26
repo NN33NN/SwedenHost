@@ -27,7 +27,7 @@ staticxx.facebook.com #FB -Vet ej
 cached-images.bonnier.news #DN
 
 
-s3.eu-west-1.amazonaws.com #Bilder kommer hÃ¤r ifrÃ¥n-Absolut Vodka&
+s3.eu-west-1.amazonaws.com #Bilder kommer här ifrån-Absolut Vodka&
 s3-eu-west-1.amazonaws.com #www.reumatikerforbundet.org https://se.readly.com/ 
 
 
@@ -63,7 +63,7 @@ dl.google.com #Chrome update problems, aren't blocked
 gvt1.com #CHROME N G-Drive
 redirector.gvt1.com #CHROME N G-Drive
 ssl.gstatic.com #Prevents loading Google Drive contents + Restore Google icons on webpage
-ajax.googleapis.com Problem to confirm cookies toolbar -filmtipset.se, webpage waves.com does not show **Orsakar google annonser pÃ¥ tradera.com
+ajax.googleapis.com Problem to confirm cookies toolbar -filmtipset.se, webpage waves.com does not show **Orsakar google annonser på tradera.com
 
 fonts.googleapis.com #Fonts for webpage
 fonts.gstatic.com #Fonts for webpage
@@ -91,16 +91,16 @@ lh5.ggpht.com #Google Cache Bilder
 lh6.ggpht.com #Google Cache Bilder
 cex.io # BITCOIN Exchange
 
-sjs.bizographics.com #Laddar VÃ¤ldigt segt support sidan https://support.jwplayer.com/faqs/
+sjs.bizographics.com #Laddar Väldigt segt support sidan https://support.jwplayer.com/faqs/
 cdn.jsdelivr.net #PLAYER plejmo.com/sv
 c.evidon.com #PLAYER: ZDNET.COM
 s0.2mdn.net #PLAYER: ZDNET.COM
 imasdk.googleapis.com #PLAYER: ZDNET.COM
 ssl.p.jwpcdn.com #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
 orange.fruity.pw #JWPLAYER: https://hdonline.eu/movie/the-titan-2018/?ep=6
-images-na.ssl-images-amazon.com #Bilder pÃ¥ https://www.amazon.com
-api.cxense.com #ystadsallehanda.se Rekomenderat fÃ¶r dej
-track.adform.net #Klickar pÃ¥ ads redirection tex https://mitti.se/
+images-na.ssl-images-amazon.com #Bilder på https://www.amazon.com
+api.cxense.com #ystadsallehanda.se Rekomenderat för dej
+track.adform.net #Klickar på ads redirection tex https://mitti.se/
 quantcast.mgr.consensu.org #Sourceforge.net Cookie inorder to download files
 static.quantcast.mgr.consensu.org #Sourceforge.net Cookie inorder to download files
 vendorlist.consensu.org #Sourceforge.net Cookie inorder to download files
@@ -110,11 +110,11 @@ img1.ak.crunchyroll.com #Chruncyroll
 i.ytimg.com #Youtube
 mx1.youtube.com #Youtube
 mx0.youtube.com #Youtube
-cdn.syndication.twimg.com #TWITTER Feed pÃ¥ Websida Bild.de
+cdn.syndication.twimg.com #TWITTER Feed på Websida Bild.de
 code.jquery.com #Upload does not work uploadfiles.io
 cdnjs.cloudflare.com #Fuckup https://ww3.rongdat.info/cute-cat-emoticons-gif/
 
-s3.amazonaws.com #Amazon Github Laddar upp filer dÃ¤r.
+s3.amazonaws.com #Amazon Github Laddar upp filer där.
 easylist.club #AD-BLOCK DETECTION: Sockshare.net
 media.trafficjunky.net #AD-BLOCK DETECTION: Redtube.com
 acdn.adnxs.com #AD-BLOCK DETECTION: Bild.de ev SVD.se
@@ -122,7 +122,7 @@ acdn.adnxs.com #AD-BLOCK DETECTION: Bild.de ev SVD.se
 maxcdn.bootstrapcdn.com AD-BLOCK DETECTION: Seehd.ws
 ping.chartbeat.net #BBC Sport app in the UK
 s2.n4g.com #Web n4g.com -vanligsida bilder + endel ads
-dp8hsntg6do36.cloudfront.net #Video Server fÃ¶r flera sidor pitchfork.com, www.brides.com
+dp8hsntg6do36.cloudfront.net #Video Server för flera sidor pitchfork.com, www.brides.com
 
 yt3.ggpht.com #https://www.youtube.com/watch?reload=9&v=NH2PhXYvrWs
 i1.ytimg.com #https://my.webfaction.com/
@@ -147,7 +147,7 @@ bs.serving-sys.com #Wifog.com reklam funktion
 bid.g.doubleclick.net #Wifog.com reklam funktion
 track.adform.net #Wifog.com reklam funktion
 search.spotxchange.com #Wifog.com reklam funktion
-s1.adform.net #Wifog.com reklam funktion #finns pÃ¥ www.alltforforaldrar.se www.familjeliv.se www.viafree.se
+s1.adform.net #Wifog.com reklam funktion #finns på www.alltforforaldrar.se www.familjeliv.se www.viafree.se
 
 cdn.flashtalking.com #Wifog.com reklam Media funktion
 secure-ds.serving-sys.com #Wifog(via bs.serving-sys.com.. )
@@ -160,26 +160,26 @@ vidtech.cbsinteractive.com #ZDNet player
 jwpltx.com #Putlocker.vip Player
 cdn.ravenjs.com #Fix instagram 
 
-fls-na.amazon.com #AmazonMobApp,kanske oxÃ¥ mads.amazon-adsystem.com
-fls-eu.amazon.co.uk #AmazonMobApp,kanske oxÃ¥ mads.amazon-adsystem.com
+fls-na.amazon.com #AmazonMobApp,kanske oxå mads.amazon-adsystem.com
+fls-eu.amazon.co.uk #AmazonMobApp,kanske oxå mads.amazon-adsystem.com
 s.yimg.com #www.flickr.com
 https://www.foodbeast.com/news/disneyland-holidays-2018/
 
-ssl.gstatic.com #Gmail icon-uppe i-vÃ¤nster hÃ¶rn
+ssl.gstatic.com #Gmail icon-uppe i-vänster hörn
 cse.google.com #www.superstart.se google search
 lh3.googleusercontent.com #img avatar messenger chat in gmail, Chrome plugin pictures.
 
-x.klarnacdn.net #Bilder pÃ¥ kÃ¶p inloggad pÃ¥ klarna.se
+x.klarnacdn.net #Bilder på köp inloggad på klarna.se
 
 sme.expressen.se #instagram integretion
-precis.expressen.se #fÃ¶ljande artiklar
+precis.expressen.se #följande artiklar
 
 content.jwplatform.com #VIDEOPLAYER https://www.tmz.com/2019/01/06/chance-the-rapper-surviving-r-kelly-black-women/
 
 s3-us-west-1.amazonaws.com #truste.com
 
-track.adtraction.com #Refunder Rabatt %, Finns en del reklam pÃ¥ websidor.
-clk.tradedoubler.com #Komupp pÃ¥ allaannonser nÃ¤r man klicka
+track.adtraction.com #Refunder Rabatt %, Finns en del reklam på websidor.
+clk.tradedoubler.com #Komupp på allaannonser när man klicka
 y.cdn-expressen.se #https://www.expressen.se/halsoliv/hogt-blodtryck-det-har-kan-du-gora-at-det/
 
 in-addr.arpa #SNBforum
@@ -188,11 +188,11 @@ www.da-ads.com #www.deviantart.com
 scontent.xx.fbcdn.net #Facebook messenger
 
 stats.jpush.cn # Messenger
-platform.twitter.com #FÃ¶r Tweet knapp pÃ¥ sidor
+platform.twitter.com #För Tweet knapp på sidor
 
 consent.truste.com #Forbes
 consent.trustarc.com #Forbes
 consent-pref.trustarc.com #Forbes
 
 players.brightcove.net #https://www.online-tech-tips.com/free-software-downloads/combine-text-files/
-apis.google.com #Google Drive fÃ¶rhandsvisning
+apis.google.com #Google Drive förhandsvisning
