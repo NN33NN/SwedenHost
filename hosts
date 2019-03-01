@@ -11,9 +11,38 @@ Java: convolvedgbjldi.xyz
 FB Messenger: https://msgnw.dist-app.com/ac.html?c=ac&cid=2303611&subid=15511427161404728037024127792185370
 #*******************
 
+#31.172.81.158 track.adtraction.com #BlocksADS#klicka rabattkoder via Refunder Greatlife.se
+
 ##Easylist
 #https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
+https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 
+#https://www.tomsguide.com/us/pictures-story/565-best-adblockers-privacy-extensions.html
+0.0.0.0 assets.purch.com
+0.0.0.0 privacy.purch.com
+0.0.0.0 pixel.servebom.com
+0.0.0.0 iris.tomsguide.com
+0.0.0.0 search-api.fie.future.net.uk
+0.0.0.0 gizmos.future-fie-assets.co.uk
+
+#http://convert2mp3.net/
+0.0.0.0 pushimer.com
+0.0.0.0 pushgaga.com
+0.0.0.0 haupsoti.net
+0.0.0.0 cegludse.net
+0.0.0.0 pushdusk.com
+0.0.0.0 pushbaddy.com
+0.0.0.0 pushbasic.com
+0.0.0.0 server.cpmstar.com
+
+#https://douploads.com/q3z9rm0zqtmu
+0.0.0.0 pushnest.com
+0.0.0.0 pushwhy.com
+
+#https://www.thewatchcartoononline.tv/
+0.0.0.0 c.gumgum.com
+0.0.0.0 static.cliipa.com
+0.0.0.0 st.bebi.com
 
 #http://35.225.234.73/NjQxMjg3NjA5Mjg2LzY0MTI4OTkxMjg5My8wdTYxYm40cWph
 #https://uploadmp4.com/embed/7ec818fcf6e941ad
@@ -21,6 +50,7 @@ FB Messenger: https://msgnw.dist-app.com/ac.html?c=ac&cid=2303611&subid=15511427
 31.172.81.158 elp.search4musix.com
 31.172.81.158 free.videodownloadconverter.com
 31.172.81.158 msgnw.dist-app.com
+31.172.81.158 play.bitcasino.io
 31.172.81.158 lp.searchdimension.com
 31.172.81.158 www.easypdfcombine.com
 31.172.81.158 www.dailyfunnyworld.com
@@ -54,6 +84,9 @@ FB Messenger: https://msgnw.dist-app.com/ac.html?c=ac&cid=2303611&subid=15511427
 0.0.0.0 d13jhr4vol1304.cloudfront.net
 
 
+#https://www.corren.se/nyheter/
+0.0.0.0 digital.ntm.eu
+0.0.0.0 ssl.survey.webstatus.v2.userneeds.dk
 
 #https://zbporn.com/
 31.172.81.158 trmnsite.com
@@ -836,13 +869,6 @@ https://an.facebook.com/v2/placementbid.json
 0.0.0.0 tut-64.com
 0.0.0.0 mediaoaktree.com
 0.0.0.0 meapk.com
-#https://douploads.com/q3z9rm0zqtmu
-0.0.0.0 pushnest.com
-#31.172.81.158
-ej pushwhy.com
-ej pushame.com
-ej my.rtmark.net
-ej bodelen.com
 #https://2speed.net/file/8D705EB38C36
 #https://upload4earn.org/p0msfnc7sjvz
 0.0.0.0 dxprljqoay4rt.cloudfront.net
@@ -3004,7 +3030,7 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 #http://24sju.se/
 PIXEL-SERVERS
 #http://ir.ebaystatic.com/ Noll
-31.172.81.158 track.adtraction.com #BlocksADS#klicka rabattkoder https://www.aftonbladet.se/rabattkod/tretti.se#promo-41211
+https://www.aftonbladet.se/rabattkod/tretti.se#promo-41211
 Refunder %rabatt
 0.0.0.0 api.adtraction.com
 0.0.0.0 secure.adtraction.com
@@ -5434,7 +5460,7 @@ Tiendeo.se
 #0.0.0.0 img.ui-portal.de
 # [WEB] Mmorpg.com
 0.0.0.0 secure.leadback.advertising.com
-0.0.0.0 server.cpmstar.com
+31.172.81.158 server.cpmstar.com
 0.0.0.0 media.fastclick.net
 0.0.0.0 media.msg.dotomi.com
 0.0.0.0 www.adswithsalt.com
@@ -5504,10 +5530,10 @@ Tiendeo.se
 # [WEB] Swisscom.ch
 0.0.0.0 6929871.fls.doubleclick.net
 0.0.0.0 6902279.fls.doubleclick.net
-0.0.0.0 5994599.fls.doubleclick.ne
+0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 r.adserver01.de
 # [WEB] Tradera.com
-0.0.0.0 axdget-sync.nuggad.ne
+0.0.0.0 axdget-sync.nuggad.net
 0.0.0.0 trase.nuggad.net
 0.0.0.0 cdn.getblueshift.com
 0.0.0.0 browser-update.org

@@ -1,0 +1,54 @@
+Även ad-block detection:
+http://www.tidningenproffs.se/wp-content/plugins/wppas/templates/js/advertising.js?ver=4.9.5
+
+<!-- Ads on this site are served by WP PRO Advertising System - All In One Ad Manager 5.3.2 - wordpress-advertising.com -->
+https://codecanyon.net/item/wp-pro-advertising-system-all-in-one-ad-manager/269693
+
+Finns på sida:
+http://www.tidningenproffs.se/nyhet/2019/02/joakims-ben-laker-inte-men-forsakringskassan-sager-att-han-kan-arbeta/
+
+Dessa plugin filer:
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/templates/js/wppas.min.js?ver=4.9.5
+
+http://www.tidningenproffs.se/?wppaszoneid=104
+
+http://www.tidningenproffs.se/?wppaszoneid=139
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/public/assets/js/vbc/jquery.wppas.vbc.min.js?ver=5.3.2
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/templates/js/advertising.js?ver=4.9.5
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/templates/js/jquery.cookie.js
+
+http://www.tidningenproffs.se/?wppaszoneid=92
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/public/assets/js/dom-to-image.js?ver=5.3.2
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/public/assets/js/vbc/jquery-ui-effects.min.js?ver=5.3.2
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/public/assets/css/vbc/wppas_vbc_bnr.css?ver=5.3.2
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/public/assets/js/vbc/AjaxUpload.js?ver=4.9.5
+
+https://www.googletagmanager.com/gtag/js?id=UA-3743974-2
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/templates/css/wppas_custom_css.css?ver=4.9.5
+
+http://www.tidningenproffs.se/?wppaszoneid=38396
+
+http://www.tidningenproffs.se/?wppaszoneid=143
+
+http://www.tidningenproffs.se/?wppaszoneid=264
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/public/assets/js/vbc/postscribe.min.js?ver=5.3.2
+
+http://www.tidningenproffs.se/wp-content/plugins/wppas/templates/css/wppas.min.css?ver=5.3.2
+
+
+Block the shit:
+Block youtube plus WP super ads:
+https://chrome.google.com/webstore/detail/adblocker-for-chrome-noad/alplpnakfeabeiebipdmaenpmbgknjce
+
+Facebook
+https://chrome.google.com/webstore/detail/ad-blocker-for-facebook/kinpgphmiekapnpbmobneleaiemkefag?hl=en
