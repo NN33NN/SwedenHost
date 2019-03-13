@@ -9,6 +9,9 @@
 #https://s3.us-east-2.amazonaws.com/brtesc/ww/index.html
 Java: convolvedgbjldi.xyz 
 FB Messenger: https://msgnw.dist-app.com/ac.html?c=ac&cid=2303611&subid=15511427161404728037024127792185370
+
+Google Domains:
+https://github.com/scoobydom0/pihole-google/commit/b9888f68c05d27246112635e5dd6d94f553328d6
 #*******************
 
 #31.172.81.158 track.adtraction.com #BlocksADS#klicka rabattkoder via Refunder Greatlife.se
@@ -23,6 +26,9 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 js.braintreegateway.com
 0.0.0.0 static.getclicky.com
 0.0.0.0 in.getclicky.com
+
+#skonahem.se
+0.0.0.0 ds-aksb-a.akamaihd.net
 
 #https://www.theguardian.com/international
 0.0.0.0 elb.the-ozone-project.com
@@ -179,8 +185,7 @@ https://forums.lanik.us/viewtopic.php?f=62&t=42665
 0.0.0.0 ig0nr8hhhb.com
 31.172.81.158 b4.solarporn.net
 
-#https://all-free-download.com/free-vector/download/website-buttons-icons-design-with-shiny-colored-shapes_6823222.html
-31.172.81.158 shutterstock.7eer.net
+
 
 #https://www.tittapavideon.se/video/17655/de-vita-halvmanarna-som-finns-pa-dina-naglarna-avslojar-om-ditt-halsotillstand?utm_source=fb&utm_medium=EVERGREEN&utm_term=17655
 0.0.0.0 imasdk.googleapis.com
@@ -526,6 +531,7 @@ https://trends.builtwith.com/ads/Prebid
 0.0.0.0 www.tradeadexchange.com
 0.0.0.0 campaign.liflandaffiliates.com
 #https://www.makeuseof.com/tag/easiest-programming-languages-beginners/
+0.0.0.0 api.stacksocial.com
 0.0.0.0 cluster-us.cdnjquery.com
 0.0.0.0 api.monetizer101.com
 https://static.h-bid.com/prebid/1.15.0-pre/prebid.js
@@ -2272,12 +2278,12 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 statsgoogle.appsflyer.com
-#0.0.0.0 www.supersonicads.com #HyperHero Daimon
-#0.0.0.0 supersonicads-a.akamaihd.net #HyperHero Daimon
-#0.0.0.0 ua.supersonicads.com #HyperHero Daimon
-#0.0.0.0 init.supersonicads.com #HyperHero Daimon
-#0.0.0.0 rv-gateway.supersonicads.com #HyperHero Daimon
-sdk.out.usbla.net
+0.0.0.0 www.supersonicads.com #HyperHero Daimon
+0.0.0.0 supersonicads-a.akamaihd.net #HyperHero Daimon
+0.0.0.0 ua.supersonicads.com #HyperHero Daimon
+0.0.0.0 init.supersonicads.com #HyperHero Daimon
+0.0.0.0 rv-gateway.supersonicads.com #HyperHero Daimon
+0.0.0.0 sdk.out.usbla.net
 0.0.0.0 outcome.supersonicads.com
 0.0.0.0 click-haproxy.supersonicads.com
 0.0.0.0 tag-mediation.supersonic.com
