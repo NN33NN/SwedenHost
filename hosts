@@ -30,6 +30,57 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 #skonahem.se
 0.0.0.0 ds-aksb-a.akamaihd.net
 
+#http://annonswebb.mittmedia.se/op/
+0.0.0.0 pxl.upsales.com
+0.0.0.0 img.upsales.com
+
+#op.se www.ltz.se
+#https://www.op.se/logga-in/nya-agare-till-kedjehus-i-ostersund-prislappen-3-800-000-kronor
+0.0.0.0 op.ecsanalytics.com
+0.0.0.0 uesng.mmcloud.se
+0.0.0.0 mittmedia.ecsanalytics.com
+0.0.0.0 na.ecsanalytics.com
+0.0.0.0 helahalsingland.ecsanalytics.com
+0.0.0.0 st.ecsanalytics.com
+0.0.0.0 salaallehanda.ecsanalytics.com
+0.0.0.0 avestatidning.ecsanalytics.com
+0.0.0.0 arbetarbladet.ecsanalytics.com
+0.0.0.0 lt.ecsanalytics.com
+0.0.0.0 norrteljetidning.ecsanalytics.com
+0.0.0.0 hockeypuls.ecsanalytics.com
+0.0.0.0 tidningenharjedalen.ecsanalytics.com
+0.0.0.0 dalademokraten.ecsanalytics.com
+0.0.0.0 bblat.ecsanalytics.com
+0.0.0.0 24blekinge.ecsanalytics.com
+0.0.0.0 24varberg.ecsanalytics.com
+0.0.0.0 24ystad.ecsanalytics.com
+0.0.0.0 24kalmar.ecsanalytics.com
+0.0.0.0 24helsingborg.ecsanalytics.com
+0.0.0.0 24halmstad.ecsanalytics.com
+0.0.0.0 24nybro.ecsanalytics.com
+0.0.0.0 24kristianstad.ecsanalytics.com
+0.0.0.0 24malmo.ecsanalytics.com
+0.0.0.0 24emmaboda.ecsanalytics.com
+0.0.0.0 24uppsala.ecsanalytics.com
+0.0.0.0 24trelleborg.ecsanalytics.com
+0.0.0.0 24oland.ecsanalytics.com
+0.0.0.0 nynashamnsposten.ecsanalytics.com
+0.0.0.0 bandypuls.ecsanalytics.com
+0.0.0.0 vlt.ecsanalytics.com
+0.0.0.0 fagersta-posten.ecsanalytics.com
+0.0.0.0 dt.ecsanalytics.com
+0.0.0.0 lanstidningensodertalje.ecsanalytics.com
+0.0.0.0 allehanda.ecsanalytics.com
+
+#https://www.doktorn.com/
+0.0.0.0 api.getlevelten.com
+0.0.0.0 apitest.getlevelten.com
+
+
+#https://zeijersborger.se
+0.0.0.0 app.wishloop.com
+0.0.0.0 app.3ng.io
+
 #https://www.theguardian.com/international
 0.0.0.0 elb.the-ozone-project.com
 0.0.0.0 secure-dcr.imrworldwide.com
@@ -2892,6 +2943,7 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 rtb.openx.net
 0.0.0.0 e.nexac.com
 #https://nyafilmerhd.com/ Nyafilmer.com
+
 31.172.81.158 signup.urareplay.com
 31.172.81.158 look.djfiln.com
 31.172.81.158 go2.get-promotion.ru
@@ -2905,6 +2957,13 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 31.172.81.158 pixel.safe-installation.com
 31.172.81.158 aff-online.com
 31.172.81.158 mmwebhandler.aff-online.com
+31.172.81.158 franecki.net
+31.172.81.158 voastauz.net
+0.0.0.0 wauzoust.com
+0.0.0.0 install.getsportscore.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 gmpg.org
+0.0.0.0 cdn.siteswithcontent.com
 
 0.0.0.0 djfiln.com
 0.0.0.0 uptobranding.com
