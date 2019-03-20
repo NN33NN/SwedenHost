@@ -3167,12 +3167,19 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 dev.youtube.com
 0.0.0.0 home.youtube.com
 # 1[SPECIAL]
-#0.0.0.0 auth.dn.se #P?slagen full access till l?sa text till senaste nyheterna samt bloggar. Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
+0.0.0.0 auth.dn.se #P?slagen full access till l?sa text till senaste nyheterna samt bloggar. Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
 0.0.0.0 login.di.se #P?slagen full access till weekend.di.se.Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
 0.0.0.0 csp-ssl.screen9.com
 0.0.0.0 csp.screen9.com
 
 #DN: https://www.dn.se/ekonomi/elon-musk-stams-for-vilseledande-information/
+
+#https://www.dn.se/kultur-noje/utstallning-av-skriet-sammanfaller-med-brexit-en-slump/
+0.0.0.0 content.dn.se
+
+#Låst artikel:
+#https://www.dn.se/nyheter/varlden/nej-vi-finlandare-ar-inte-det-minsta-lyckliga/
+
 31.172.81.158 kampanj.dn.se
 31.172.81.158 di.insplanet.com
 #52.84.213.218 di.insplanet.com
