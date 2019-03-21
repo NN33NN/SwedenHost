@@ -30,6 +30,21 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 a11701662245.cdn-pci.optimizely.com
 0.0.0.0 87rxrdob-7ddadddb809422f76f31e1c4e86b268ddfebc353-am1.d.aa.onl
 31.172.81.158 main.dynsrvazh.com
+0.0.0.0 api.fusepowered.com
+0.0.0.0 ads.fusepowered.com
+0.0.0.0 sdk.iad-03.appboy.com
+0.0.0.0 pasta.esfile.duapps.com
+0.0.0.0 tj.youzanyun.com #Vet ej
+0.0.0.0 api3.openairinfo.org #Vet ej
+0.0.0.0 kin-bi.appspot.com
+0.0.0.0 horizon-kin-ecosystem.kininfrastructure.com
+0.0.0.0 facemap.foldlife.net
+0.0.0.0 eu.mobhey.com
+0.0.0.0 eu-usage.ime.cootek.com
+0.0.0.0 by.uservoice.com
+0.0.0.0 ads.tremorhub.com
+0.0.0.0 analytics.ff.avast.com
+
 
 #https://www.kiplinger.com/
 0.0.0.0 analytics.myfinance.com
@@ -123,7 +138,6 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 #Tabort (Whitelist) imasdk.googleapis.com från hostfile
 #Lägg till i Whitelist
 cdn.ampproject.org #Fixa amp länkar i mobilen
-gllto.glpals.com #GPS server
 youtube-ui.l.google.com #Youtube thing
 plus.l.google.com
 # Kolla: https://productforums.google.com/forum/#!topic/play/yNFWTUIwX1A
@@ -205,7 +219,6 @@ https://forums.lanik.us/viewtopic.php?f=62&t=42665
 0.0.0.0 ig0nr8hhhb.com
 31.172.81.158 b4.solarporn.net
 #https://www.tittapavideon.se/video/17655/de-vita-halvmanarna-som-finns-pa-dina-naglarna-avslojar-om-ditt-halsotillstand?utm_source=fb&utm_medium=EVERGREEN&utm_term=17655
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 api.dailymotion.com
 0.0.0.0 r.sascdn.com
 0.0.0.0 ad.impactify.io
@@ -853,7 +866,7 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 ##FACEBOOK##
 #0.0.0.0 m.facebook.com
 #0.0.0.0 static.xx.fbcdn.net #Fuckar FB sidan, (många websidor kopplas till denna)
-#0.0.0.0 scontent.xx.fbcdn.net #Facebook messenger
+#scontent.xx.fbcdn.net #Facebook messenger
 #0.0.0.0 stats.jpush.cn #Facebook messenger
 #0.0.0.0 external.xx.fbcdn.net #Facebook Market
 #0.0.0.0 apis.google.com #Google Drive förhandsvisning
