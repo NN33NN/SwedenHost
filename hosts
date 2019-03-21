@@ -3,23 +3,18 @@
 #https://212.124.115.233  Self signed Cert
 #212.124.115.233 googleads.g.doubleclick.net
 #******************************
-
 #**********War sida
 #https://s3.us-east-2.amazonaws.com/brtesc/ww/install.html
 #https://s3.us-east-2.amazonaws.com/brtesc/ww/index.html
-Java: convolvedgbjldi.xyz 
+Java: convolvedgbjldi.xyz
 FB Messenger: https://msgnw.dist-app.com/ac.html?c=ac&cid=2303611&subid=15511427161404728037024127792185370
-
 Google Domains:
 https://github.com/scoobydom0/pihole-google/commit/b9888f68c05d27246112635e5dd6d94f553328d6
 #*******************
-
 #31.172.81.158 track.adtraction.com #BlocksADS#klicka rabattkoder via Refunder Greatlife.se
-
 ##Easylist
 #https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
-
 #https://openpirate.org/torrent/28169062/Adobe_Illustrator_CC_2019_v23.0.1_PreCracked
 0.0.0.0 www.powr.io
 0.0.0.0 blockchain.info
@@ -27,13 +22,33 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 static.getclicky.com
 0.0.0.0 in.getclicky.com
 
+#Phone
+0.0.0.0 3kxrt0l29e.execute-api.us-east-1.amazonaws.com
+0.0.0.0 8202550.fls.doubleclick.net
+0.0.0.0 a.cdn.intentmedia.net
+0.0.0.0 a.optmstr.com
+0.0.0.0 a11701662245.cdn-pci.optimizely.com
+0.0.0.0 87rxrdob-7ddadddb809422f76f31e1c4e86b268ddfebc353-am1.d.aa.onl
+31.172.81.158 main.dynsrvazh.com
+
+#https://www.kiplinger.com/
+0.0.0.0 analytics.myfinance.com
+0.0.0.0 markets-uat.morningstar.com
+0.0.0.0 cdn.keywee.co
+0.0.0.0 pixel.keywee.co
+0.0.0.0 kiplinger.112.2o7.net
+0.0.0.0 www.myfinance.com
+31.172.81.158 www.dianomi.com
+
+#https://www.zive.cz/bleskovky/vzhled-windows-xp-pro-windows-311/sc-4-a-116204/default.aspx
+#https://www.morningstar.com/
+#content.aimatch.com
+
 #skonahem.se
 0.0.0.0 ds-aksb-a.akamaihd.net
-
 #http://annonswebb.mittmedia.se/op/
 0.0.0.0 pxl.upsales.com
 0.0.0.0 img.upsales.com
-
 #op.se www.ltz.se
 #https://www.op.se/logga-in/nya-agare-till-kedjehus-i-ostersund-prislappen-3-800-000-kronor
 0.0.0.0 op.ecsanalytics.com
@@ -71,59 +86,31 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 dt.ecsanalytics.com
 0.0.0.0 lanstidningensodertalje.ecsanalytics.com
 0.0.0.0 allehanda.ecsanalytics.com
-
 #https://www.doktorn.com/
 0.0.0.0 api.getlevelten.com
 0.0.0.0 apitest.getlevelten.com
-
-
 #https://zeijersborger.se
 0.0.0.0 app.wishloop.com
 0.0.0.0 app.3ng.io
-
 #https://www.theguardian.com/international
 0.0.0.0 elb.the-ozone-project.com
-0.0.0.0 secure-dcr.imrworldwide.com
 0.0.0.0 secure-au.imrworldwide.com
-0.0.0.0 cdn.adsafeprotected.com
-0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 static-au.plista.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 interactive.guim.co.uk
-
 #https://www.theverge.com/2018/8/23/17773180/microsoft-windows-95-app-download-features
 #0.0.0.0 auth.voxmedia.com
 0.0.0.0 altfarm.mediaplex.com
 #0.0.0.0 phonograph2.voxmedia.com
-0.0.0.0 optimize-stats.voxmedia.com
 #0.0.0.0 cdn.vox-cdn.com
-0.0.0.0 cdn.krxd.net
 #Prebid: https://cdn.vox-cdn.com/packs/concert_ads-f8aabebf7055a0515825.js
-0.0.0.0 console.appnexus.com
-0.0.0.0 yummy.consumable.com
-0.0.0.0 e.serverbid.com
 0.0.0.0 sync.serverbid.com
-0.0.0.0 prebid.adnxs.com
-0.0.0.0 as-sec.casalemedia.com
-0.0.0.0 as.casalemedia.com
-0.0.0.0 fastlane.rubiconproject.com
-0.0.0.0 fastlane-adv.rubiconproject.com
-0.0.0.0 eus.rubiconproject.com
-0.0.0.0 tlx.3lift.com
-0.0.0.0 ib.3lift.com
-0.0.0.0 u.openx.net
-0.0.0.0 sofia.trustx.org
-
-
-
-
 #********************************
 #https://www.onhaxa.com/
 0.0.0.0 pushazam.com
 0.0.0.0 netoopscodes.googlecode.com
 0.0.0.0 cotchaug.com
 #0.0.0.0 yt3.ggpht.com #Youtube
-
 #http://swarife.com/3jiw
 0.0.0.0 d63a3au5lqmtu.cloudfront.net
 31.172.81.158 maranhesduve.club
@@ -131,7 +118,6 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 31.172.81.158 serve.paradisesummer.xyz
 31.172.81.158 agreensdistra.info
 31.172.81.158 get.cryptobrowser.site
-
 #Does not play
 #https://www.zdnet.com/article/windows-this-sneaky-cryptominer-hides-behind-taskbar-even-after-you-exit-browser/
 #Tabort (Whitelist) imasdk.googleapis.com från hostfile
@@ -141,13 +127,7 @@ gllto.glpals.com #GPS server
 youtube-ui.l.google.com #Youtube thing
 plus.l.google.com
 # Kolla: https://productforums.google.com/forum/#!topic/play/yNFWTUIwX1A
-
-
-
 #******************************************
-
-
-
 #https://www.tomsguide.com/us/pictures-story/565-best-adblockers-privacy-extensions.html
 0.0.0.0 assets.purch.com
 0.0.0.0 privacy.purch.com
@@ -155,7 +135,6 @@ plus.l.google.com
 0.0.0.0 iris.tomsguide.com
 0.0.0.0 search-api.fie.future.net.uk
 0.0.0.0 gizmos.future-fie-assets.co.uk
-
 #http://convert2mp3.net/
 0.0.0.0 pushimer.com
 0.0.0.0 pushgaga.com
@@ -165,16 +144,12 @@ plus.l.google.com
 0.0.0.0 pushbaddy.com
 0.0.0.0 pushbasic.com
 0.0.0.0 server.cpmstar.com
-
 #https://douploads.com/q3z9rm0zqtmu
 0.0.0.0 pushnest.com
 0.0.0.0 pushwhy.com
-
 #https://www.thewatchcartoononline.tv/
 0.0.0.0 c.gumgum.com
 0.0.0.0 static.cliipa.com
-0.0.0.0 st.bebi.com
-
 #http://35.225.234.73/NjQxMjg3NjA5Mjg2LzY0MTI4OTkxMjg5My8wdTYxYm40cWph
 #https://uploadmp4.com/embed/7ec818fcf6e941ad
 31.172.81.158 tracker936-1510221406.us-east-1.elb.amazonaws.com
@@ -202,7 +177,6 @@ plus.l.google.com
 31.172.81.158 peevopoy.com
 31.172.81.158 0.nextyourcontent.com
 31.172.81.158 s3.us-east-2.amazonaws.com
-31.172.81.158 glumtitu.net
 31.172.81.158 35.225.234.73
 31.172.81.158 velocitycdn.com
 31.172.81.158 newlandinfo.info
@@ -213,12 +187,9 @@ plus.l.google.com
 0.0.0.0 fbcdn2.com
 0.0.0.0 eventraliaclinental.info
 0.0.0.0 d13jhr4vol1304.cloudfront.net
-
-
 #https://www.corren.se/nyheter/
 0.0.0.0 digital.ntm.eu
 0.0.0.0 ssl.survey.webstatus.v2.userneeds.dk
-
 #https://zbporn.com/
 31.172.81.158 trmnsite.com
 31.172.81.158 45eijvhgj2.com
@@ -227,44 +198,25 @@ plus.l.google.com
 0.0.0.0 allmygreatlife.com
 0.0.0.0 us-pxl.trafficstars.com
 0.0.0.0 mygoodlives.com
-
-
 https://forums.lanik.us/viewtopic.php?f=62&t=42665
 #http://mangovideo.pw/
 #https://mangovideo.pw/videos/13964/female-doctors-3/
 0.0.0.0 syndicpop.com
 0.0.0.0 ig0nr8hhhb.com
 31.172.81.158 b4.solarporn.net
-
-
-
 #https://www.tittapavideon.se/video/17655/de-vita-halvmanarna-som-finns-pa-dina-naglarna-avslojar-om-ditt-halsotillstand?utm_source=fb&utm_medium=EVERGREEN&utm_term=17655
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 api.dailymotion.com
-0.0.0.0 pixel.quantserve.com
-0.0.0.0 www8.smartadserver.com
-0.0.0.0 api.ipify.org
-0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 r.sascdn.com
-0.0.0.0 ced.sascdn.com
-0.0.0.0 prg.smartadserver.com
-0.0.0.0 ad.360yield.com
-0.0.0.0 trends.revcontent.com
 0.0.0.0 ad.impactify.io
 0.0.0.0 ad.impactify.it
 0.0.0.0 impactify.io
-0.0.0.0 ads.adaptv.advertising.com
-0.0.0.0 video-ads.rubiconproject.com
-0.0.0.0 ads.stickyadstv.com
 0.0.0.0 api.dmcdn.net
-
 #douploads.com/users/Therain
 31.172.81.158 11fileupload-3.xyz
 31.172.81.158 bestresultmob1le.com
 31.172.81.158 www.reimageplus.com
 31.172.81.158 oiaosindec5.sit
-31.172.81.158 crsrva24yz9s0.com
-31.172.81.158 bestbook-library.com
 31.172.81.158 collecting.click
 31.172.81.158 www.oinqqbzs.com
 #http://4downfiles.org/users/THERAIN
@@ -272,7 +224,6 @@ https://forums.lanik.us/viewtopic.php?f=62&t=42665
 0.0.0.0 www.tricsdqejmu.com
 0.0.0.0 maccleaner3.r.worldssl.net
 31.172.81.158 nfkd2ug8d9.com
-
 ##https://en.softonic.com/solutions/what-are-the-best-alternatives-to-putlocker
 #https://www.streamlikers.com/run-the-race/
 31.172.81.158 digital-world1.com
@@ -280,9 +231,7 @@ https://forums.lanik.us/viewtopic.php?f=62&t=42665
 31.172.81.158 qnirnqfvi.com
 31.172.81.158 crsrva24yz9s0.com
 31.172.81.158 qmiiqzfk.com
-
 #https://www.forbes.com/consent/?toURL=https://www.forbes.com/under30/list/2019/europe/
-
 0.0.0.0 prefmgr-cookie.truste-svc.net
 0.0.0.0 fast.forbes.com
 0.0.0.0 nai.sharethis.com
@@ -618,7 +567,7 @@ https://static.h-bid.com/prebid/1.15.0-pre/prebid.js
 #https://www.zive.cz/bleskovky/vzhled-windows-xp-pro-windows-311/sc-4-a-116204/default.aspx
 0.0.0.0 a.blesk.cz
 0.0.0.0 go.eu.bbelements.com
-0.0.0.0 content.aimatch.com
+31.172.81.158 content.aimatch.com
 0.0.0.0 spir.hit.gemius.pl
 0.0.0.0 sk.adocean.pl
 0.0.0.0 delivery.performax.cz
@@ -2943,7 +2892,6 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 rtb.openx.net
 0.0.0.0 e.nexac.com
 #https://nyafilmerhd.com/ Nyafilmer.com
-
 31.172.81.158 signup.urareplay.com
 31.172.81.158 look.djfiln.com
 31.172.81.158 go2.get-promotion.ru
@@ -2964,7 +2912,6 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 connect.facebook.net
 0.0.0.0 gmpg.org
 0.0.0.0 cdn.siteswithcontent.com
-
 0.0.0.0 djfiln.com
 0.0.0.0 uptobranding.com
 0.0.0.0	googletagmanager.com
@@ -3171,15 +3118,11 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 login.di.se #P?slagen full access till weekend.di.se.Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
 0.0.0.0 csp-ssl.screen9.com
 0.0.0.0 csp.screen9.com
-
 #DN: https://www.dn.se/ekonomi/elon-musk-stams-for-vilseledande-information/
-
 #https://www.dn.se/kultur-noje/utstallning-av-skriet-sammanfaller-med-brexit-en-slump/
 0.0.0.0 content.dn.se
-
 #Låst artikel:
 #https://www.dn.se/nyheter/varlden/nej-vi-finlandare-ar-inte-det-minsta-lyckliga/
-
 31.172.81.158 kampanj.dn.se
 31.172.81.158 di.insplanet.com
 #52.84.213.218 di.insplanet.com
@@ -4165,7 +4108,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 fp1.cdn.stickyadstv.com.akadns.net
 0.0.0.0 adserverams.adtech.de
 0.0.0.0 sync.smartadserver.com
-0.0.0.0 axdget-sync.nuggad.net
 0.0.0.0 server.seadform.net
 #Mesosphere.com
 0.0.0.0 app.pageproofer.com
@@ -5127,7 +5069,6 @@ Tiendeo.se
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 ima3vpaid.appspot.com
 0.0.0.0 video-ads.rubiconproject.com
-0.0.0.0 www.dianomi.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 data.dianomi.com
 0.0.0.0 segment-data-us-east.zqtk.net
