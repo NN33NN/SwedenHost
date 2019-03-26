@@ -22,6 +22,9 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 static.getclicky.com
 0.0.0.0 in.getclicky.com
 
+#http://icd.internetmedicin.se/diagnos/F323
+31.172.81.158 imlogin.se
+
 #Phone
 0.0.0.0 3kxrt0l29e.execute-api.us-east-1.amazonaws.com
 0.0.0.0 8202550.fls.doubleclick.net
@@ -3221,7 +3224,7 @@ Refunder %rabatt
 0.0.0.0 tag.aticdn.net
 #Extra
 0.0.0.0 adssettings.google.com
-0.0.0.0 schema.org
+#0.0.0.0 schema.org #Test chromecast cryncyrol
 0.0.0.0 notifications.google.com
 0.0.0.0 clients5.google.com
 0.0.0.0 feedads.googleadservices.com
@@ -3673,7 +3676,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 insights.hotjar.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 merit.soliditet.se
-0.0.0.0 api.amplitude.com
 0.0.0.0 rollouts.api.ua.com
 0.0.0.0 mobilesync.api.ua.com
 0.0.0.0 uarun-mobile.api.ua.com
@@ -3762,6 +3764,12 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 mysagagame.com
 0.0.0.0 3086.content.swrve.com
 #http://www.crunchyroll.com/dragon-ball-super/episode-124-the-fiercely-overwhelming-assault-gohans-last-stand-760337
+0.0.0.0 api.amplitude.com
+0.0.0.0 dev.appboy.com
+0.0.0.0 sondheim.appboy.com
+0.0.0.0 static.crunchyroll.com
+0.0.0.0 static.vrv.co
+0.0.0.0 testonly.conviva.com
 
 0.0.0.0 ads.intergi.com
 0.0.0.0 ads.aerserv.com
