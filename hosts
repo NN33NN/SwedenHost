@@ -25,6 +25,15 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 #http://icd.internetmedicin.se/diagnos/F323
 31.172.81.158 imlogin.se
 
+
+#https://www.seehdwatchmovie.com/movies/how-to-train-your-dragon-3-the-hidden-world-full-hd-watch/
+0.0.0.0 greedseed.world
+0.0.0.0 mc.webvisor.org
+0.0.0.0 adsco.re
+0.0.0.0 c.adsco.re
+31.172.81.158 www.onclicksuper.com
+
+
 #Phone
 0.0.0.0 3kxrt0l29e.execute-api.us-east-1.amazonaws.com
 0.0.0.0 8202550.fls.doubleclick.net
@@ -866,69 +875,8 @@ https://www.naver.com/
 Forts?tt:
 https://pi-hole.net/pages-to-test-ad-blocking-performance/
 0.0.0.0 p.yotpo.com
-##FACEBOOK##
-#0.0.0.0 m.facebook.com
-#0.0.0.0 static.xx.fbcdn.net #Fuckar FB sidan, (många websidor kopplas till denna)
-#scontent.xx.fbcdn.net #Facebook messenger
-#0.0.0.0 stats.jpush.cn #Facebook messenger
-#0.0.0.0 external.xx.fbcdn.net #Facebook Market
-#0.0.0.0 apis.google.com #Google Drive förhandsvisning
-0.0.0.0 plus.l.google.com
-connect.facebook.net
-facebook.net
-facebook.com
-www.facebook.com
-api.facebook.com
-b-api.facebook.com
-graph.facebook.com
-static.ak.facebook.com
-s-static.ak.facebook.com
-fbcdn-video-m-a.akamaihd.net
-fbcdn-video-f-a.akamaihd.net
-https://an.facebook.com/v2/placementbid.json
-##scontent-arn2-1.xx.fbcdn.net/v/t1.0-0/q85/s350x350/29573226_1843873535911747_7532097488964766313_n.jpg
-###31.172.81.158 star.c10r.facebook.com #<- Vet ej
-###31.172.81.158 star-mini.c10r.facebook.com
-0.0.0.0 0-edge-chat.facebook.com
-#0.0.0.0 l.facebook.com Roliga klip som ?r delat/skickat via msger till mig
-0.0.0.0 our.intern.facebook.com
-0.0.0.0 fburl.com
-0.0.0.0 fbcdn.net
-0.0.0.0 freebasics.com
-0.0.0.0 facebook.sg
-0.0.0.0 facebookcorewwwi.onion
 #workplace.com
-0.0.0.0 fbaddins.com #<- laddar bara
-0.0.0.0 edge-star-shv-01-waw1.facebook.com
-0.0.0.0 edge-video-shv-01-waw1.fbcdn.net
-0.0.0.0 video-waw1-1.xx.fbcdn.net
 0.0.0.0 accountkit.com
-#instagram.com
-0.0.0.0 origincache.facebook.com
-0.0.0.0 lookaside.internmc.facebook.com
-0.0.0.0 fbcdn-sphotos-g-a.akamaihd.net
-0.0.0.0 .facebook.com
-31.172.81.158 staticxx.facebook.com
-0.0.0.0 api.facebook.com
-0.0.0.0 connect.facebook.com
-0.0.0.0 edge-star-shv-01-arn2.facebook.com
-0.0.0.0 edge-mqtt-mini-shv-01-arn2.facebook.com
-0.0.0.0 mqtt-mini.facebook.com
-0.0.0.0 z-m.c10r.facebook.com
-0.0.0.0 lookaside.facebook.com
-0.0.0.0 web.facebook.com
-0.0.0.0 business.facebook.com
-0.0.0.0 api-read.facebook.com
-###0.0.0.0 b-graph.facebook.com
-0.0.0.0 an.facebook.com #ads
-0.0.0.0 edge-star-shv-01-iad3.facebook.com
-0.0.0.0 edge-star-mini-shv-01-iad3.facebook.com
-0.0.0.0 static-arn2-1.xx.fbcdn.net
-0.0.0.0 static.ak.fbcdn.net
-0.0.0.0 portal.fb.com
-0.0.0.0 fb.me
-0.0.0.0 fbsbx.com
-0.0.0.0 developers.facebook.com #Ads (https://connect.facebook.net/en_US/fbevents.js)
 #https://www.ratsit.se
 #https://www.merinfo.se
 #https://www.birthday.se
@@ -2925,7 +2873,6 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 31.172.81.158 voastauz.net
 0.0.0.0 wauzoust.com
 0.0.0.0 install.getsportscore.com
-0.0.0.0 connect.facebook.net
 0.0.0.0 gmpg.org
 0.0.0.0 cdn.siteswithcontent.com
 0.0.0.0 djfiln.com
@@ -3433,6 +3380,7 @@ Refunder %rabatt
 0.0.0.0 script.ioam.de
 script.ioam.de/iam.js
 0.0.0.0 console.appnexus.com
+0.0.0.0 wiki.appnexus.com
 0.0.0.0 www.appnexus.com
 0.0.0.0 71i.nuggad.net
 .nuggad.net
@@ -3768,7 +3716,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 dev.appboy.com
 0.0.0.0 sondheim.appboy.com
 0.0.0.0 static.crunchyroll.com
-0.0.0.0 static.vrv.co
+#0.0.0.0 static.vrv.co
 0.0.0.0 testonly.conviva.com
 
 0.0.0.0 ads.intergi.com
@@ -5506,7 +5454,7 @@ Tiendeo.se
 # [WEB] Eniro.se
 0.0.0.0 tileversion.eniro.com
 0.0.0.0 a248.e.akamai.net
-0.0.0.0 s3.eu-central-1.amazonaws.com
+0.0.0.0 cdn.digitrust.mgr.consensu.org
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 swebanalytics.eniro.se
 0.0.0.0 eas8.emediate.eu
@@ -6068,7 +6016,7 @@ https://www.kinos.to/Stream/Searching.html
 0.0.0.0 tools.bongacams.com
 0.0.0.0 i2.bongacams.com
 0.0.0.0 i3.bongacams.com
-0.0.0.0 promo-bc.com
+31.172.81.158 promo-bc.com
 0.0.0.0 db.promo-bc.com
 0.0.0.0 i.bongacash.com
 # [XXX] www.realgfporn.com
