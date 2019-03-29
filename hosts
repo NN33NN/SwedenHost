@@ -25,6 +25,14 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 #http://icd.internetmedicin.se/diagnos/F323
 31.172.81.158 imlogin.se
 
+#https://www.google.com/amp/s/www.dignited.com/31577/asus-launches-10-gigabit-tri-band-802-11ax-router/amp/
+0.0.0.0 batraim.com
+0.0.0.0 www.mtn.co.ug
+
+#https://mobilanyheter.net/2019/03/27/chromecast-darfor-ska-du-undvika-att-kopa-den-just-nu/
+0.0.0.0 assets.strossle.com
+0.0.0.0 steadfastsystem.com
+0.0.0.0 example.com
 
 #https://www.seehdwatchmovie.com/movies/how-to-train-your-dragon-3-the-hidden-world-full-hd-watch/
 0.0.0.0 greedseed.world
