@@ -29,10 +29,25 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 batraim.com
 0.0.0.0 www.mtn.co.ug
 
+#https://www.dx.com/
+0.0.0.0 www.mainadv.com
+0.0.0.0 secureaud.solocpm.com
+0.0.0.0 clk.solocpm.com
+0.0.0.0 analyselog.dx.com
+
+#http://se.laowl.com/hunden-hittas-gratande-vid-hennes-dode-husse
+0.0.0.0 notedmedia.se
+0.0.0.0 traffic.feedremedy.com
+
+
 #https://mobilanyheter.net/2019/03/27/chromecast-darfor-ska-du-undvika-att-kopa-den-just-nu/
 0.0.0.0 assets.strossle.com
 0.0.0.0 steadfastsystem.com
 0.0.0.0 example.com
+
+#https://monetizepros.com/display-advertising/11-sites-that-effectively-use-in-content-ads/
+0.0.0.0 manychat.com
+0.0.0.0 tag.getdrip.com
 
 #https://www.seehdwatchmovie.com/movies/how-to-train-your-dragon-3-the-hidden-world-full-hd-watch/
 0.0.0.0 greedseed.world
@@ -840,8 +855,9 @@ https://88mallonline.com/
 #https://knowledgedish.com/
 0.0.0.0 serving.ascendmedia.ca
 0.0.0.0 thor.rtk.io
-0.0.0.0 quantcast.mgr.consensu.org
-0.0.0.0 static.quantcast.mgr.consensu.org
+#0.0.0.0 quantcast.mgr.consensu.org
+#0.0.0.0 static.quantcast.mgr.consensu.org
+#0.0.0.0 vendorlist.consensu.org
 0.0.0.0 rtkio-d.openx.net
 #Prebid 1.26.0
 #https://serving.ascendmedia.ca/6jdL/D56V_ZPSS/jita.js?dfp=1
@@ -2125,7 +2141,6 @@ https://clk.icu/raTE
 0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 walker.zdbb.net
 0.0.0.0 zdbb.net
-0.0.0.0 vendorlist.consensu.org
 #0.0.0.0 quantcast.mgr.consensu.org #Test for auto download: https://sourceforge.net/projects/asuswrt-merlin/files/RT-AC68U/Release/RT-AC68U_384.8_2.zip/download
 #0.0.0.0 static.quantcast.mgr.consensu.org
 0.0.0.0 static.adziff.com
