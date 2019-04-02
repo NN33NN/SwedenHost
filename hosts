@@ -2,6 +2,10 @@
 #***********Intressant**********
 #https://212.124.115.233  Self signed Cert
 #212.124.115.233 googleads.g.doubleclick.net
+
+https://github.com/jerryn70/GoodbyeAds
+https://github.com/anudeepND/blacklist
+
 #******************************
 #**********War sida
 #https://s3.us-east-2.amazonaws.com/brtesc/ww/install.html
@@ -21,6 +25,16 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 js.braintreegateway.com
 0.0.0.0 static.getclicky.com
 0.0.0.0 in.getclicky.com
+
+****Kolla**
+https://megaman.fandom.com/wiki/Rockman_7_Famicom
+**Kolla**TRACKERS*
+#http://mediadiscovery.net/
+0.0.0.0 mcdp-nydc1.outbrain.com
+
+#https://en.wikipedia.org/wiki/List_of_SNK_games
+0.0.0.0 meta.wikimedia.org
+0.0.0.0 sstatic1.histats.com
 
 #http://icd.internetmedicin.se/diagnos/F323
 31.172.81.158 imlogin.se
