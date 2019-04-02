@@ -26,15 +26,29 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 static.getclicky.com
 0.0.0.0 in.getclicky.com
 
-****Kolla**
-https://megaman.fandom.com/wiki/Rockman_7_Famicom
-**Kolla**TRACKERS*
-#http://mediadiscovery.net/
+
+#https://megaman.fandom.com/wiki/Rockman_7_Famicom
+#https://megaman.fandom.com/wiki/Sigma
+31.172.81.158 mediadiscovery.net
 0.0.0.0 mcdp-nydc1.outbrain.com
+0.0.0.0 wikia-d.openx.net
+0.0.0.0 beacon.wikia-services.com
+0.0.0.0 www.fastly-insights.com
+0.0.0.0 dnt.qualaroo.com
+0.0.0.0 services.fandom.com
+
+
+
+#https://www.gamesradar.com/warhammer-chaosbane-ps4-preview//
+0.0.0.0 widgets.fie-data.co.uk
+0.0.0.0 gizmos.future-price.co.uk
+0.0.0.0 gamesradar-gb.gamesradar.com
 
 #https://en.wikipedia.org/wiki/List_of_SNK_games
 0.0.0.0 meta.wikimedia.org
 0.0.0.0 sstatic1.histats.com
+31.172.81.158 blogoutnow.mobi
+31.172.81.158 bodloster.com
 
 #http://icd.internetmedicin.se/diagnos/F323
 31.172.81.158 imlogin.se
@@ -324,7 +338,6 @@ https://forums.lanik.us/viewtopic.php?f=62&t=42665
 #https://itstillworks.com/protect-dvd-being-copied-1751.html
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 g.jwpsrv.com
-0.0.0.0 content.jwplatform.com
 #http://www.star-force.com/solutions/optical-disc-protection/
 0.0.0.0 node219.jivosite.com
 0.0.0.0 api.jivosite.com'
