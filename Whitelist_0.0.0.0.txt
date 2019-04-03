@@ -1,0 +1,216 @@
+0.0.0.0 www.msftncsi.com
+0.0.0.0 dns.msftncsi.com
+0.0.0.0 msftncsi.com
+
+0.0.0.0 www.googleadservices.com
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ad-server.one.com
+0.0.0.0 pixel.everesttech.net
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 clickserve.dartsearch.net
+0.0.0.0 clickserve.eu.dartsearch.net
+0.0.0.0 clickserve.uk.dartsearch.net
+0.0.0.0 clickserve.us2.dartsearch.net
+0.0.0.0 encrypted-tbn3.gstatic.com
+0.0.0.0 encrypted-tbn2.gstatic.com
+0.0.0.0 pagead2.googlesyndication.com
+
+0.0.0.0 paid.outbrain.com
+0.0.0.0 traffic.outbrain.com
+0.0.0.0 images.outbrain.com
+0.0.0.0 storage.outbrain.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 odb.outbrain.com
+0.0.0.0 staticxx.facebook.com
+
+0.0.0.0 cached-images.bonnier.news
+
+
+0.0.0.0 s3.eu-west-1.amazonaws.com
+0.0.0.0 s3-eu-west-1.amazonaws.com
+
+
+0.0.0.0 encrypted-tbn0.gstatic.com
+0.0.0.0 encrypted-tbn1.gstatic.com
+
+0.0.0.0 clients2.google.com
+0.0.0.0 clients3.google.com
+0.0.0.0 clients4.google.com
+
+0.0.0.0 login.live.com
+
+0.0.0.0 appsitemsuggest-pa.clients6.google.com
+0.0.0.0 lh2.l.google.com
+0.0.0.0 lh3.google.com
+0.0.0.0 clients6.google.com
+0.0.0.0 www.gstatic.com
+0.0.0.0 gstatic.com
+0.0.0.0 drive.google.com
+0.0.0.0 accounts-cctld.l.google.com
+0.0.0.0 plus.l.google.com
+0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 talk.google.com
+0.0.0.0 play.googleapis.com
+0.0.0.0 android.clients.google.com
+0.0.0.0 apis.google.com0.0.0.0 #Google.hangout.com
+0.0.0.0 content.jwplatform.com
+
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 clients2.google.com
+0.0.0.0 tools.google.com
+0.0.0.0 dl.google.com
+0.0.0.0 gvt1.com
+0.0.0.0 redirector.gvt1.com
+0.0.0.0 ssl.gstatic.com
+0.0.0.0 ajax.googleapis.com
+
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.gstatic.com
+
+
+0.0.0.0 docs.google.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 clients2.googleusercontent.com
+0.0.0.0 clientservices.googleapis.com
+0.0.0.0 translate.googleapis.com
+0.0.0.0 clients4.google.com
+0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 clients1.google.com
+
+0.0.0.0 redirector.gvt1.com
+0.0.0.0 drive-thirdparty.googleusercontent.com
+
+0.0.0.0 appsitemsuggest-pa.clients6.google.com
+
+0.0.0.0 lh1.ggpht.com
+0.0.0.0 lh2.ggpht.com
+0.0.0.0 lh3.ggpht.com
+0.0.0.0 lh4.ggpht.com
+0.0.0.0 lh5.ggpht.com
+0.0.0.0 lh6.ggpht.com
+0.0.0.0 cex.io
+
+0.0.0.0 sjs.bizographics.com
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 c.evidon.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 ssl.p.jwpcdn.com
+0.0.0.0 orange.fruity.pw
+0.0.0.0 images-na.ssl-images-amazon.com
+0.0.0.0 api.cxense.com
+0.0.0.0 track.adform.net
+0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 static.quantcast.mgr.consensu.org
+0.0.0.0 vendorlist.consensu.org
+0.0.0.0 api.quantcast.mgr.consensu.org
+
+0.0.0.0 img1.ak.crunchyroll.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 mx1.youtube.com
+0.0.0.0 mx0.youtube.com
+0.0.0.0 cdn.syndication.twimg.com
+0.0.0.0 code.jquery.com
+0.0.0.0 cdnjs.cloudflare.com
+
+0.0.0.0 s3.amazonaws.com
+0.0.0.0 easylist.club
+0.0.0.0 media.trafficjunky.net
+0.0.0.0 acdn.adnxs.com
+
+0.0.0.0 maxcdn.bootstrapcdn.com
+0.0.0.0 ping.chartbeat.net
+0.0.0.0 s2.n4g.com
+0.0.0.0 dp8hsntg6do36.cloudfront.net
+
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 android.clients.google.com
+
+
+0.0.0.0 click.adrecord.com
+
+
+0.0.0.0 v.jwpcdn.com
+0.0.0.0 track.avtrk2manage.com
+0.0.0.0 cdn.shopify.com
+
+0.0.0.0 m.facebook.com
+0.0.0.0 static.ts.360.com
+
+0.0.0.0 des.smartclip.net
+0.0.0.0 ad.sxp.smartclip.net
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 track.adform.net
+0.0.0.0 search.spotxchange.com
+0.0.0.0 s1.adform.net
+
+0.0.0.0 cdn.flashtalking.com
+0.0.0.0 secure-ds.serving-sys.com
+0.0.0.0 gcdn.2mdn.net
+0.0.0.0 c.2mdn.net
+0.0.0.0 googleadapis.l.google.com
+0.0.0.0 s.youtube.com
+0.0.0.0 mssl.fwmrm.net
+0.0.0.0 vidtech.cbsinteractive.com
+0.0.0.0 jwpltx.com
+0.0.0.0 cdn.ravenjs.com
+
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 fls-eu.amazon.co.uk
+0.0.0.0 s.yimg.com
+
+
+0.0.0.0 ssl.gstatic.com
+0.0.0.0 cse.google.com
+0.0.0.0 lh3.googleusercontent.com
+
+0.0.0.0 x.klarnacdn.net
+
+0.0.0.0 sme.expressen.se
+0.0.0.0 precis.expressen.se
+
+0.0.0.0 content.jwplatform.com
+
+0.0.0.0 s3-us-west-1.amazonaws.com
+
+0.0.0.0 track.adtraction.com
+0.0.0.0 clk.tradedoubler.com
+0.0.0.0 y.cdn-expressen.se
+
+0.0.0.0 in-addr.arpa
+0.0.0.0 ip6.arpa
+0.0.0.0 www.da-ads.com
+0.0.0.0 scontent.xx.fbcdn.net
+
+0.0.0.0 stats.jpush.cn
+0.0.0.0 platform.twitter.com
+
+0.0.0.0 consent.truste.com
+0.0.0.0 consent.trustarc.com
+0.0.0.0 consent-pref.trustarc.com
+
+0.0.0.0 players.brightcove.net
+0.0.0.0 apis.google.com
+0.0.0.0 cdn.ampproject.org
+0.0.0.0 clk.tradedoubler.com
+0.0.0.0 gllto.glpals.com
+youtube-ui.l.google.com#Youtube***Kanske0.0.0.0 inte
+googlevideo.com#Youtube
+youtube-nocookie.com#Youtube0.0.0.0 ***Kanske0.0.0.0 inte
+youtube.com#Youtube
+ytimg.com#Youtube
+ytmg.com#Youtube
+0.0.0.0 ytimg.l.google.com
+0.0.0.0 ytstatic.l.google.com
+
+0.0.0.0 segment.io
+0.0.0.0 api.segment.io
+0.0.0.0 cdn.segment.io
+0.0.0.0 sa.etp-prod.com
+
+0.0.0.0 s3.eu-central-1.amazonaws.com
