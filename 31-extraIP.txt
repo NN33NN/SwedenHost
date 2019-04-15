@@ -7,7 +7,7 @@
 0.0.0.0 www.maxonclick.com
 0.0.0.0 as.sexad.net
 0.0.0.0 haggilder.com
-0.0.0.0 meddelande.org
+0.0.0.0 .meddelande.org
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 11fileupload-3.xyz
 0.0.0.0 1y.googlo.co
@@ -61,7 +61,9 @@
 0.0.0.0 bgtrk.com
 0.0.0.0 biowebb-data.s3.amazonaws.com
 0.0.0.0 blastnotificationx.com
+0.0.0.0 blogoutnow.mobi
 0.0.0.0 bodelen.com
+0.0.0.0 bodloster.com
 0.0.0.0 bonus365.site
 0.0.0.0 brucelead.com
 0.0.0.0 btprmnav.com
@@ -145,7 +147,7 @@
 0.0.0.0 fortpush.com
 0.0.0.0 franecki.net
 0.0.0.0 free-gift.xyz
-0.0.0.0 free-movies.xsf5w89sa9.top #(block subs)
+0.0.0.0 free-movies.xsf5w89sa9.top
 0.0.0.0 free.flightsearchapp.com
 0.0.0.0 free.fromdoctopdf.com
 0.0.0.0 free.videodownloadconverter.com
@@ -222,6 +224,7 @@
 0.0.0.0 meddelande.org
 0.0.0.0 media.go2speed.org
 0.0.0.0 media.rsconf.online
+0.0.0.0 mediadiscovery.net
 0.0.0.0 medianewpage.com
 0.0.0.0 megcm.xyz
 0.0.0.0 mg.adskeeper.co.uk
@@ -444,6 +447,7 @@
 0.0.0.0 x98.nudevista.com
 0.0.0.0 x99.nudevista.com
 0.0.0.0 xl-trk.com
+0.0.0.0 xml.adservme.com
 0.0.0.0 xml.leoyard.com
 0.0.0.0 xml.trafficmoose.com
 0.0.0.0 xsvrz.com
