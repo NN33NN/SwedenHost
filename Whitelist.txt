@@ -196,3 +196,22 @@ consent-pref.trustarc.com #Forbes
 
 players.brightcove.net #https://www.online-tech-tips.com/free-software-downloads/combine-text-files/
 apis.google.com #Google Drive förhandsvisning
+cdn.ampproject.org #Fixa amp länkar i mobilen
+clk.tradedoubler.com #Pricerunner klick
+gllto.glpals.com #GPS server
+youtube-ui.l.google.com #Youtube***Kanske inte
+googlevideo.com #Youtube
+youtube-nocookie.com #Youtube ***Kanske inte
+youtube.com #Youtube
+ytimg.com #Youtube
+ytmg.com #Youtube
+ytimg.l.google.com #Google Play Music + Youtube
+ytstatic.l.google.com #Google Play Music + Youtube
+
+segment.io #Chrunchyroll
+api.segment.io #Chrunchyroll
+cdn.segment.io #Chrunchyroll
+sa.etp-prod.com #Chrunchyroll
+
+s3.eu-central-1.amazonaws.com #https://www.eurolotto.com/en/lotto/powerball
+postmediamontrealgazette2.files.wordpress.com #https://montrealgazette.com/

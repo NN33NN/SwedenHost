@@ -37,7 +37,21 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 dnt.qualaroo.com
 0.0.0.0 services.fandom.com
 
+#https://www.google.com/amp/s/www.xda-developers.com/holey-light-samsung-galaxy-s10-s10e-s10plus-hole-punch-notification-led/amp/
+0.0.0.0 events.browsiprod.com
+0.0.0.0 yield-manager.browsiprod.com
+0.0.0.0 cdn-3.convertexperiments.com
+0.0.0.0 middycdn-a.akamaihd.net
 
+#https://montrealgazette.com/
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
+0.0.0.0 api.flyertown.ca
+0.0.0.0 widget.secure.ownlocal.com
+0.0.0.0 4436230.fls.doubleclick.net
+0.0.0.0 origami.secure.ownlocal.com
+0.0.0.0 d3hmp0045zy3cs.cloudfront.net
+0.0.0.0 dpcthkef9k46t.cloudfront.net
 
 #https://www.gamesradar.com/warhammer-chaosbane-ps4-preview//
 0.0.0.0 widgets.fie-data.co.uk
@@ -4103,7 +4117,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 pxl.ace.advertising.com.adcom.akadns.net
 0.0.0.0 an.pxl.ace.advertising.com
 0.0.0.0 p-ads44.eu.adsymptotic.com
-0.0.0.0 xml.adservme.com
+31.172.81.158 xml.adservme.com
 0.0.0.0 bigbangads.go2cloud.org
 0.0.0.0 p.static.ads-twitter.com
 0.0.0.0 ad.adsrvr.org
