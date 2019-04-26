@@ -215,3 +215,49 @@ sa.etp-prod.com #Chrunchyroll
 
 s3.eu-central-1.amazonaws.com #https://www.eurolotto.com/en/lotto/powerball
 postmediamontrealgazette2.files.wordpress.com #https://montrealgazette.com/
+
+
+res.cloudinary.com # Bjorn-These servers may break things.
+cdn.jsdelivr.net
+s0.wp.com
+s2.wp.com
+www.wupload.com
+110415.libdd.com
+wwwstatic.megaupload.com
+cp76677.edgefcs.net
+sas.ooyala.com
+a.ooyala.com
+ak.c.ooyala.com
+www-tc.pbs.org
+playerstatic.entropymedia.com
+adcolo.com
+inapcache.boston.com
+lads.myspacecdn.com
+a.fsdn.com
+i.cmpnet.com
+attach2.mobile01.com
+dw.com.com
+m.bestofmedia.com
+o.aolcdn.com
+cdn.gigya.commes.122.2o7.net
+widgets.twimg.com
+zam.zamimg.com
+static.networkedblogs.com
+admin.brightcove.com
+p.jwpcdn.com
+safe.txmblr.com
+f.youku.com
+140cc.v.fwmrm.net
+viarnd.112.2o7.net
+cdn.gotraffic.net
+go.trouter.io
+release.theplatform.com
+z.cdn.turner.com
+pixel.facebook.com # Facebook's pixel is required for clicking on notifications
+mp.twitch.tv # Twitch Chat
+www.googleapis.com # Google Drive
+imasdk.googleapis.com
+stats.pusher.com # CircleCI uses pusher for actual functionality in their app
+ws.pusherapp.com
+js.pusher.com
+mpsnare.iesnare.com # NCSoft uses this
