@@ -26,8 +26,32 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 static.getclicky.com
 0.0.0.0 in.getclicky.com
 
+#https://forums.indigorose.com/forum/old-versions/setup-factory-8-0/31260-code-signing-successful-used-to-work-but-get-unknown-publisher
+0.0.0.0 track.gaug.es
+0.0.0.0 d36ee2fcip1434.cloudfront.net
+
+
+
+#https://igg-games.com/cuphead-796218598-free-download.html
+0.0.0.0 deloplen.com
+0.0.0.0 d3q33rbmdkxzj.cloudfront.net
+
+#https://hackaday.com/2018/12/17/ultimate-a-useful-tool-for-file-system-hacking/
+0.0.0.0 analytics.supplyframe.com
+0.0.0.0 ads.supplyframe.com
+0.0.0.0 images.ads.supplyframe.com
+31.172.81.158 search.supplyframe.com
+0.0.0.0 tag.perfectaudience.com
+0.0.0.0 pixel-geo.prfct.co
+0.0.0.0 pixel.prfct.co
+0.0.0.0 cs.marinsm.com
+0.0.0.0 images.ihscontent.net
+0.0.0.0 findchips.com
+0.0.0.0 oemstrade.com
+
 
 #https://megaman.fandom.com/wiki/Rockman_7_Famicom
+#Video
 #https://megaman.fandom.com/wiki/Sigma
 31.172.81.158 mediadiscovery.net
 0.0.0.0 mcdp-nydc1.outbrain.com
