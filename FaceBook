@@ -2,4 +2,11 @@
 
 #NyaFilmer.com
 0.0.0.0 staticxx.facebook.com
-0.0.0.0 static.xx.fbcdn.net
+#Från denna: static.xx.fbcdn.net Sabbar FB websida
+0.0.0.0 our.intern.facebook.com
+0.0.0.0 fburl.com
+0.0.0.0 fbsbx.com
+0.0.0.0 freebasics.com
+0.0.0.0 origincache.facebook.com
+0.0.0.0 lookaside.internmc.facebook.com
+0.0.0.0 fbcdn.net
