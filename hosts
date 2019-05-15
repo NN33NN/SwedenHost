@@ -34,6 +34,78 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 ocular.pepper.com
 realtime03.pepper.com
 
+#https://www.google.com/amp/s/www.xda-developers.com/holey-light-samsung-galaxy-s10-s10e-s10plus-hole-punch-notification-led/amp/
+0.0.0.0 ampcid.google.com
+0.0.0.0 amp-error-reporting.appspot.com
+0.0.0.0 d-32924827741565078140.ampproject.net
+0.0.0.0 d-35095808941836656455.ampproject.net
+0.0.0.0 uip.semasio.net
+0.0.0.0 purch-match.dotomi.com
+0.0.0.0 pixel.servebom.com
+0.0.0.0 ads2.servebom.com
+0.0.0.0 ads.servebom.com
+0.0.0.0 bttrack.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 sync.mathtag.com
+0.0.0.0 us-u.openx.net
+0.0.0.0 sync.go.sonobi.com
+0.0.0.0 purch-sync.go.sonobi.com
+0.0.0.0 ap.lijit.com
+0.0.0.0 eb2.3lift.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 purch-match.dotomi.com
+0.0.0.0 publishers.tremorhub.com
+0.0.0.0 bh.contextweb.com
+0.0.0.0 ssum-sec.casalemedia.com
+0.0.0.0 sync.bfmio.com
+0.0.0.0 sync.adkernel.com
+0.0.0.0 px.powerlinks.com
+0.0.0.0 assets.rubiconproject.com
+0.0.0.0 secure-assets.rubiconproject.com
+0.0.0.0 cookie-matching.mediarithmics.com
+0.0.0.0 pixel.advertising.com
+0.0.0.0 cs.emxdgt.com
+0.0.0.0 sync.1rx.io
+0.0.0.0 ssc-cms.33across.com
+0.0.0.0 cdn.digitru.st
+0.0.0.0 mid.rkdms.com
+0.0.0.0 uipglob.semasio.net
+0.0.0.0 us.cssrvsync.com
+0.0.0.0 syncdome.com
+
+# [News] Thesun.co.uk
+0.0.0.0 cdn.teads.tv
+0.0.0.0 a.teads.tv
+0.0.0.0 t.teads.tv
+0.0.0.0 sync.teads.tv
+0.0.0.0 d-40229589062274692305.ampproject.net
+#https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
+0.0.0.0 rs.gwallet.com
+0.0.0.0 ramp.purch.com
+
+#https://m.pornoxo.com/videos/1510476/innocent-teen-groped-to-orgasm-on-a-bus-scene-4/
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 yandexmetrica.com
+0.0.0.0 metrika-informer.com
+0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.yandex.ru
+0.0.0.0 mc.yandexsport.ru
+0.0.0.0 mc.kinopoisk.ru
+0.0.0.0 mc.beru.ru
+0.0.0.0 mc.admetrica.ru
+0.0.0.0 brozen.yandex.ru
+0.0.0.0 yabro1.zen-test.yandex.ru
+0.0.0.0 yabro2.zen-test.yandex.ru
+0.0.0.0 www.tns-counter.ru
+0.0.0.0 banners.adfox.ru
+0.0.0.0 direct.yandex.ru
+0.0.0.0 adriver.ru
+31.172.81.158 offerbest.eu
+31.172.81.158 www.offerbest.eu
+
+#www.damernasvarld.se
+0.0.0.0 bmbstatic.blob.core.windows.net
+
 #https://dl-android.com/dl/index.php?id=cube-call-recorder-acr-apk
 0.0.0.0 relandssymphoking.info
 0.0.0.0 pl15011970.pvclouds.com
@@ -3889,9 +3961,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 ASHns1-ext1.fwmrm.net
 0.0.0.0 NYCns1-ext1.fwmrm.net
 0.0.0.0 a23-45-181-202.deploy.static.akamaitechnologies.com
-#https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
-0.0.0.0 rs.gwallet.com
-0.0.0.0 ramp.purch.com
 #https://www.20minutes.fr/arts-stars/cinema/2387615-20181204-video-vie-dehors-kaamelott-alexandre-astier
 0.0.0.0 lpm-20minutes.nuggad.net
 0.0.0.0 cdn.hubvisor.io
@@ -5436,13 +5505,6 @@ Tiendeo.se
 # [News] Sydostran.se
 0.0.0.0 asset.pagefair.net
 0.0.0.0 eas5.emediate.eu
-# [News] Thesun.co.uk
-0.0.0.0 cdn.teads.tv
-0.0.0.0 a.teads.tv
-0.0.0.0 t.teads.tv
-0.0.0.0 sync.teads.tv
-0.0.0.0 d-40229589062274692305.ampproject.net
-0.0.0.0 3p.ampproject.net
 # [News] Time.com
 0.0.0.0 z.moatads.com
 0.0.0.0 my.hellobar.com

@@ -1,3 +1,9 @@
+vet ej
+När man klickar på deals från: https://www.mydealz.de/
+apiservices.krxd.net
+www.anrdoezrs.net
+
+
 www.msftncsi.com #Windows 10 Network/Connection check
 dns.msftncsi.com #Windows 10 Network/Connection check
 msftncsi.com #Windows 10 Network/Connection check
@@ -261,3 +267,18 @@ stats.pusher.com # CircleCI uses pusher for actual functionality in their app
 ws.pusherapp.com
 js.pusher.com
 mpsnare.iesnare.com # NCSoft uses this
+embed.spotify.com #Spotify
+www.spotify.com
+developer.spotify.com
+play.spotify.com
+open.spotify.com
+play.spotify.edgekey.net
+openload.co #Stream Domains
+openload.io
+app.adjust.com # m.yelp.se links
+
+static.xx.fbcdn.net #FaceBook Layout
+
+codeload.github.com #To Load script from RAW.github.com #(forced-entry)
+
+3p.ampproject.net #För google AMP Twitter plugin.
