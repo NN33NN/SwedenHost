@@ -34,6 +34,16 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 ocular.pepper.com
 realtime03.pepper.com
 
+#https://freemovies4k.org/all-movies/23270-lazer-team.html
+https://freemovies4k.org/all-movies/96911-root-cause-2019.html
+0.0.0.0 ad.mail.ru
+#0.0.0.0 my4.imgsmail.ru #For player https://freemovies4k.org/all-movies/23270-lazer-team.html
+31.172.81.158 veuhg.freemovies4k.org
+31.172.81.158 www.popcornvod.com
+31.172.81.158 routeserve.info
+31.172.81.158 www.9t5.me
+
+
 #https://www.google.com/amp/s/www.xda-developers.com/holey-light-samsung-galaxy-s10-s10e-s10plus-hole-punch-notification-led/amp/
 0.0.0.0 ampcid.google.com
 0.0.0.0 amp-error-reporting.appspot.com
@@ -87,6 +97,7 @@ realtime03.pepper.com
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 yandexmetrica.com
 0.0.0.0 metrika-informer.com
+0.0.0.0 informer.yandex.ru
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mc.yandexsport.ru
@@ -351,7 +362,6 @@ plus.l.google.com
 0.0.0.0 pushdusk.com
 0.0.0.0 pushbaddy.com
 0.0.0.0 pushbasic.com
-0.0.0.0 server.cpmstar.com
 #https://douploads.com/q3z9rm0zqtmu
 0.0.0.0 pushnest.com
 0.0.0.0 pushwhy.com
