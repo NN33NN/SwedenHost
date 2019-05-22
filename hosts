@@ -1615,7 +1615,10 @@ https://www.twitch.tv/selmygaming
 https://github.com/pixeltris/TwitchAdBlock
 #https://player.twitch.tv/?volume=0.5&!muted&channel=apophis01
 #AmazoneVideoAdshttps://d2v02itv0y9u9t.cloudfront.net/dist/0.0.3/v6s.js
-0.0.0.0 player.twitch.tv ######ADS
+#0.0.0.0 player.twitch.tv ######ADS
+0.0.0.0 pubsub-edge.twitch.tv
+0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 countess.twitch.tv
 0.0.0.0 d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
 #https://www.twitch.tv/mdubz
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
@@ -1627,15 +1630,11 @@ https://github.com/pixeltris/TwitchAdBlock
 0.0.0.0 extension-files.twitch.tv
 0.0.0.0 polyfill.twitchsvc.net
 0.0.0.0 spade.twitch.tv
-0.0.0.0 client-event-reporter.twitch.tv
-0.0.0.0 countess.twitch.tv
-#0.0.0.0 pubsub-edge.twitch.tv
 0.0.0.0 supervisor.ext-twitch.tv
 ####0.0.0.0 usher.ttvnw.net
-#20.0.0.0 gql.twitch.tv
+#0.0.0.0 gql.twitch.tv
 0.0.0.0 sentinel.twitchsvc.net
-#20.0.0.0 usher.ttvnw.net
-0.0.0.0 pubsub-edge.twitch.tv
+#0.0.0.0 usher.ttvnw.net
 https://www.twitch.tv/videos/350078900
 0.0.0.0 places-dsn.algolia.net
 0.0.0.0 p2-use-1.algolia.net
@@ -2821,6 +2820,10 @@ https://linux.101hacks.com/unix/crond/
 #http://optout.networkadvertising.org/
 0.0.0.0 cdn.pubmatic.com
 #Hemnet.se
+0.0.0.0 logs-01.loggly.com
+0.0.0.0 loopaautomate.azureedge.net
+0.0.0.0 looparesources.azureedge.net
+0.0.0.0 gather-b-eu.loopaautomate.com
 0.0.0.0 ads.playground.xyz
 0.0.0.0 cm.eyereturn.com
 0.0.0.0 csyn.cxense.com
