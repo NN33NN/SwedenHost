@@ -30,6 +30,9 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 track.gaug.es
 0.0.0.0 d36ee2fcip1434.cloudfront.net
 
+#https://www.investing.com/
+0.0.0.0 i-invdn-com.akamaized.net
+
 #https://www.mydealz.de/
 ocular.pepper.com
 realtime03.pepper.com
