@@ -31,7 +31,8 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 d36ee2fcip1434.cloudfront.net
 
 #https://www.investing.com/
-0.0.0.0 i-invdn-com.akamaized.net
+#0.0.0.0 sbcharts.investing.com
+#0.0.0.0 accounts.google.com
 
 #https://www.mydealz.de/
 ocular.pepper.com
@@ -815,7 +816,6 @@ techtaunt.wordpress.com
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 t.zqtk.net
 #https://spiffymachine.com/v2/0/dqv0ur5V4Cs-sdDE9H9bsP3WgC1LlBx8HZFjFi_JvbuKw3CM9LpqFxmZt5HhSWsA2Uldg
-0.0.0.0 webcache.googleusercontent.com
 0.0.0.0 secure.p01.eloqua.com
 0.0.0.0 automate-prod.s3.amazonaws.com
 0.0.0.0 automate.linksynergy.com
