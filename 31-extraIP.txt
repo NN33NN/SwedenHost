@@ -7,9 +7,8 @@
 0.0.0.0 www.maxonclick.com
 0.0.0.0 as.sexad.net
 0.0.0.0 haggilder.com
-0.0.0.0 .meddelande.org
-0.0.0.0 0.nextyourcontent.com
 0.0.0.0 11fileupload-3.xyz
+0.0.0.0 130.211.222.44
 0.0.0.0 1y.googlo.co
 0.0.0.0 2468.go2cloud.org
 0.0.0.0 2agshdqwvcqs.website
@@ -39,6 +38,7 @@
 0.0.0.0 adserver.cxad.cxense.com
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adspaces.ero-advertising.com
+0.0.0.0 afcpatrk.com
 0.0.0.0 aff-online.com
 0.0.0.0 agreensdistra.info
 0.0.0.0 always.restoring.club
@@ -78,6 +78,7 @@
 0.0.0.0 cdn-images.mailchimp.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.hasmobi.net
+0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.sailfish.media
 0.0.0.0 cdn.user-api.com
 0.0.0.0 cdn.webnottify.com
@@ -206,14 +207,17 @@
 0.0.0.0 kaishist.top
 0.0.0.0 kampanj.dn.se
 0.0.0.0 keyrolan.com
+0.0.0.0 kj2hy.com
 0.0.0.0 kotaroyalliving.com
 0.0.0.0 kurlichan.com
+0.0.0.0 l6b587txj1.com
 0.0.0.0 lanmost.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 llnk.eu
 0.0.0.0 look.djfiln.com
 0.0.0.0 lp.pctonics.com
 0.0.0.0 lp.searchdimension.com
+0.0.0.0 m.sexriket.com
 0.0.0.0 main.dynsrvazg.com
 0.0.0.0 main.dynsrvazh.com
 0.0.0.0 mangellor-chardence.com
@@ -270,6 +274,7 @@
 0.0.0.0 ob.news-subscribe.com
 0.0.0.0 ocio.leadzu.com
 0.0.0.0 offaces-butional.com
+0.0.0.0 offerbest.eu
 0.0.0.0 ogrovom.xyz
 0.0.0.0 oiaosindec5.sit
 0.0.0.0 online.magicred.com
@@ -315,6 +320,7 @@
 0.0.0.0 rizk.com
 0.0.0.0 rnewsr.com
 0.0.0.0 rotumal.com
+0.0.0.0 routeserve.info
 0.0.0.0 rt4626.ariocroft.com
 0.0.0.0 rtbstream.com
 0.0.0.0 rus1.hottracker.biz
@@ -328,6 +334,7 @@
 0.0.0.0 sbiz.apusapps.com
 0.0.0.0 sbiz.subcdn.com
 0.0.0.0 scango.pro
+0.0.0.0 search.supplyframe.com
 0.0.0.0 serve.paradisesummer.xyz
 0.0.0.0 serve.popads.net
 0.0.0.0 server.cpmstar.com
@@ -371,6 +378,7 @@
 0.0.0.0 track.aptitudemedia.co
 0.0.0.0 track.special-offers.online
 0.0.0.0 track.tkbo.com
+0.0.0.0 track.trkvluum.com
 0.0.0.0 tracker936-1510221406.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking.perfecttoolmedia.com
 0.0.0.0 tracking.revimedia.com
@@ -393,6 +401,7 @@
 0.0.0.0 v5.time2notification.com
 0.0.0.0 v7.notification-browser.com
 0.0.0.0 velocitycdn.com
+0.0.0.0 veuhg.freemovies4k.org
 0.0.0.0 vip-flirtbooks.com
 0.0.0.0 vlwcmgb48.ecfwg.xyz
 0.0.0.0 voastauz.net
@@ -410,6 +419,7 @@
 0.0.0.0 woinvosndv.pw
 0.0.0.0 ww1.gogool.com
 0.0.0.0 www.888casino.se
+0.0.0.0 www.9t5.me
 0.0.0.0 www.bidvertiser.com
 0.0.0.0 www.bitlord.me
 0.0.0.0 www.cooppoang.com
@@ -430,10 +440,12 @@
 0.0.0.0 www.money-now-from-crypto.xyz
 0.0.0.0 www.nanoadexchange.com
 0.0.0.0 www.nuggitgames.com
+0.0.0.0 www.offerbest.eu
 0.0.0.0 www.oinqqbzs.com
 0.0.0.0 www.onclicksuper.com
 0.0.0.0 www.pcmclks.com
 0.0.0.0 www.performanceonclick.com
+0.0.0.0 www.popcornvod.com
 0.0.0.0 www.predictiondexchange.com
 0.0.0.0 www.primaryrent.com
 0.0.0.0 www.reimageplus.com

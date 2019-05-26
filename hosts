@@ -36,7 +36,6 @@ realtime03.pepper.com
 
 #https://freemovies4k.org/all-movies/23270-lazer-team.html
 https://freemovies4k.org/all-movies/96911-root-cause-2019.html
-0.0.0.0 ad.mail.ru
 #0.0.0.0 my4.imgsmail.ru #For player https://freemovies4k.org/all-movies/23270-lazer-team.html
 31.172.81.158 veuhg.freemovies4k.org
 31.172.81.158 www.popcornvod.com
@@ -50,34 +49,15 @@ https://freemovies4k.org/all-movies/96911-root-cause-2019.html
 0.0.0.0 d-32924827741565078140.ampproject.net
 0.0.0.0 d-35095808941836656455.ampproject.net
 0.0.0.0 uip.semasio.net
-0.0.0.0 purch-match.dotomi.com
-0.0.0.0 pixel.servebom.com
 0.0.0.0 ads2.servebom.com
-0.0.0.0 ads.servebom.com
-0.0.0.0 bttrack.com
-0.0.0.0 ib.adnxs.com
-0.0.0.0 sync.mathtag.com
-0.0.0.0 us-u.openx.net
 0.0.0.0 sync.go.sonobi.com
 0.0.0.0 purch-sync.go.sonobi.com
-0.0.0.0 ap.lijit.com
-0.0.0.0 eb2.3lift.com
-0.0.0.0 ads.pubmatic.com
 0.0.0.0 purch-match.dotomi.com
 0.0.0.0 publishers.tremorhub.com
-0.0.0.0 bh.contextweb.com
-0.0.0.0 ssum-sec.casalemedia.com
-0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.adkernel.com
-0.0.0.0 px.powerlinks.com
 0.0.0.0 assets.rubiconproject.com
-0.0.0.0 secure-assets.rubiconproject.com
-0.0.0.0 cookie-matching.mediarithmics.com
-0.0.0.0 pixel.advertising.com
 0.0.0.0 cs.emxdgt.com
-0.0.0.0 sync.1rx.io
 0.0.0.0 ssc-cms.33across.com
-0.0.0.0 cdn.digitru.st
 0.0.0.0 mid.rkdms.com
 0.0.0.0 uipglob.semasio.net
 0.0.0.0 us.cssrvsync.com
@@ -107,7 +87,6 @@ https://freemovies4k.org/all-movies/96911-root-cause-2019.html
 0.0.0.0 brozen.yandex.ru
 0.0.0.0 yabro1.zen-test.yandex.ru
 0.0.0.0 yabro2.zen-test.yandex.ru
-0.0.0.0 www.tns-counter.ru
 0.0.0.0 banners.adfox.ru
 0.0.0.0 direct.yandex.ru
 0.0.0.0 adriver.ru
@@ -120,7 +99,6 @@ https://freemovies4k.org/all-movies/96911-root-cause-2019.html
 #https://dl-android.com/dl/index.php?id=cube-call-recorder-acr-apk
 0.0.0.0 relandssymphoking.info
 0.0.0.0 pl15011970.pvclouds.com
-0.0.0.0 js.mobileoffers-a-download.com
 0.0.0.0 mobileoffers-ae-download.com
 0.0.0.0 find-my-great-life.com
 0.0.0.0 etreflased.info
@@ -134,7 +112,6 @@ https://freemovies4k.org/all-movies/96911-root-cause-2019.html
 31.172.81.158 l6b587txj1.com
 0.0.0.0 doo6pwib3qngu.cloudfront.net
 0.0.0.0 js.mobileoffers-a-download.com
-0.0.0.0 pl15011970.pvclouds.com
 
 
 #https://igg-games.com/cuphead-796218598-free-download.html
@@ -221,7 +198,6 @@ https://freemovies4k.org/all-movies/96911-root-cause-2019.html
 
 #https://www.seehdwatchmovie.com/movies/how-to-train-your-dragon-3-the-hidden-world-full-hd-watch/
 0.0.0.0 greedseed.world
-0.0.0.0 mc.webvisor.org
 0.0.0.0 adsco.re
 0.0.0.0 c.adsco.re
 31.172.81.158 www.onclicksuper.com
@@ -2286,7 +2262,6 @@ https://clk.icu/raTE
 31.172.81.158 whatsaappp.com
 31.172.81.158 k3.news-subscribe.com
 31.172.81.158 ob.news-subscribe.com
-31.172.81.158 traffic.focuusing.com
 31.172.81.158 focuusing.com
 31.172.81.158 www.money-now-from-crypto.xyz
 31.172.81.158 96y0.funnwebs.com
@@ -2820,7 +2795,6 @@ https://linux.101hacks.com/unix/crond/
 #http://optout.networkadvertising.org/
 0.0.0.0 cdn.pubmatic.com
 #Hemnet.se
-0.0.0.0 logs-01.loggly.com
 0.0.0.0 loopaautomate.azureedge.net
 0.0.0.0 looparesources.azureedge.net
 0.0.0.0 gather-b-eu.loopaautomate.com
@@ -4931,7 +4905,6 @@ Tiendeo.se
 0.0.0.0 ads.vserv.mobi
 0.0.0.0 sf.vserv.mobi
 # [ADS] Yandex.ru
-0.0.0.0 mc.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 yandex.st
 # [ADS] Youtube 2017
