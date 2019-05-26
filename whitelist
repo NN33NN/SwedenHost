@@ -104,6 +104,9 @@ s2.n4g.com #Web n4g.com -vanligsida bilder + endel ads
 dp8hsntg6do36.cloudfront.net #Video Server för flera sidor pitchfork.com, www.brides.com
 yt3.ggpht.com #https://www.youtube.com/watch?reload=9&v=NH2PhXYvrWs
 i1.ytimg.com #https://my.webfaction.com/
+youtubei.googleapis.com #YOUTUBE
+i.ytimg.com #YOUTUBE
+android.clients.google.com #YOUTUBE
 click.adrecord.com #https://aktiekunskap.nu/category/aktier-nyborjare/
 #OLD track.adtraction.com #klicka rabattkoder https://www.aftonbladet.se/rabattkod/tretti.se#promo-41211
 v.jwpcdn.com #Aftonbladet
@@ -111,13 +114,13 @@ track.avtrk2manage.com #https://goo.gl/JXZLXE click download
 cdn.shopify.com #blendjet.com
 m.facebook.com # FB-Mobile
 static.ts.360.com #Fix Total360 webpage
-des.smartclip.net #Wifog.com reklam funktion
-ad.sxp.smartclip.net #Wifog.com reklam funktion
+des.smartclip.net #Wifog.com reklam funktion-Anv av Viafree
+ad.sxp.smartclip.net #Wifog.com reklam funktion-Anv av Viafree
 bs.serving-sys.com #Wifog.com reklam funktion
 bid.g.doubleclick.net #Wifog.com reklam funktion
 track.adform.net #Wifog.com reklam funktion
 search.spotxchange.com #Wifog.com reklam funktion
-s1.adform.net #Wifog.com reklam funktion
+s1.adform.net #Wifog.com reklam funktion #finns på www.alltforforaldrar.se www.familjeliv.se www.viafree.se
 cdn.flashtalking.com #Wifog.com reklam Media funktion
 secure-ds.serving-sys.com #Wifog(via bs.serving-sys.com.. )
 gcdn.2mdn.net #Wifog(via bid.g.. )
@@ -130,3 +133,106 @@ jwpltx.com #Putlocker.vip Player
 cdn.ravenjs.com #Fix instagram 
 fls-na.amazon.com #AmazonMobApp,kanske oxå mads.amazon-adsystem.com
 fls-eu.amazon.co.uk #AmazonMobApp,kanske oxå mads.amazon-adsystem.com
+s.yimg.com #www.flickr.com
+https://www.foodbeast.com/news/disneyland-holidays-2018/
+ssl.gstatic.com #Gmail icon-uppe i-vänster hörn
+cse.google.com #www.superstart.se google search
+lh3.googleusercontent.com #img avatar messenger chat in gmail, Chrome plugin pictures.
+x.klarnacdn.net #Bilder på köp inloggad på klarna.se
+sme.expressen.se #instagram integretion
+precis.expressen.se #följande artiklar
+content.jwplatform.com #VIDEOPLAYER https://www.tmz.com/2019/01/06/chance-the-rapper-surviving-r-kelly-black-women/
+s3-us-west-1.amazonaws.com #truste.com
+track.adtraction.com #Refunder Rabatt %, Finns en del reklam på websidor.
+clk.tradedoubler.com #Komupp på allaannonser när man klicka
+y.cdn-expressen.se #https://www.expressen.se/halsoliv/hogt-blodtryck-det-har-kan-du-gora-at-det/
+in-addr.arpa #SNBforum
+ip6.arpa #SNBforum
+www.da-ads.com #www.deviantart.com
+scontent.xx.fbcdn.net #Facebook messenger
+stats.jpush.cn # Messenger
+platform.twitter.com #För Tweet knapp på sidor
+consent.truste.com #Forbes
+consent.trustarc.com #Forbes
+consent-pref.trustarc.com #Forbes
+players.brightcove.net #https://www.online-tech-tips.com/free-software-downloads/combine-text-files/
+apis.google.com #Google Drive förhandsvisning
+cdn.ampproject.org #Fixa amp länkar i mobilen
+clk.tradedoubler.com #Pricerunner klick
+gllto.glpals.com #GPS server
+youtube-ui.l.google.com #Youtube***Kanske inte
+googlevideo.com #Youtube
+youtube-nocookie.com #Youtube ***Kanske inte
+youtube.com #Youtube
+ytimg.com #Youtube
+ytmg.com #Youtube
+ytimg.l.google.com #Google Play Music + Youtube
+ytstatic.l.google.com #Google Play Music + Youtube
+segment.io #Chrunchyroll
+api.segment.io #Chrunchyroll
+cdn.segment.io #Chrunchyroll
+sa.etp-prod.com #Chrunchyroll
+s3.eu-central-1.amazonaws.com #https://www.eurolotto.com/en/lotto/powerball
+postmediamontrealgazette2.files.wordpress.com #https://montrealgazette.com/
+res.cloudinary.com # Bjorn-These servers may break things.
+cdn.jsdelivr.net
+s0.wp.com
+s2.wp.com
+www.wupload.com
+110415.libdd.com
+wwwstatic.megaupload.com
+cp76677.edgefcs.net
+sas.ooyala.com
+a.ooyala.com
+ak.c.ooyala.com
+www-tc.pbs.org
+playerstatic.entropymedia.com
+adcolo.com
+inapcache.boston.com
+lads.myspacecdn.com
+a.fsdn.com
+i.cmpnet.com
+attach2.mobile01.com
+dw.com.com
+m.bestofmedia.com
+o.aolcdn.com
+cdn.gigya.commes.122.2o7.net
+widgets.twimg.com
+zam.zamimg.com
+static.networkedblogs.com
+admin.brightcove.com
+p.jwpcdn.com
+safe.txmblr.com
+f.youku.com
+140cc.v.fwmrm.net
+viarnd.112.2o7.net
+cdn.gotraffic.net
+go.trouter.io
+release.theplatform.com
+z.cdn.turner.com
+pixel.facebook.com # Facebook's pixel is required for clicking on notifications
+mp.twitch.tv # Twitch Chat
+www.googleapis.com # Google Drive
+imasdk.googleapis.com
+stats.pusher.com # CircleCI uses pusher for actual functionality in their app
+ws.pusherapp.com
+js.pusher.com
+mpsnare.iesnare.com # NCSoft uses this
+embed.spotify.com #Spotify
+www.spotify.com
+developer.spotify.com
+play.spotify.com
+open.spotify.com
+play.spotify.edgekey.net
+openload.co #Stream Domains
+openload.io
+app.adjust.com # m.yelp.se links
+static.xx.fbcdn.net # FaceBook Layout
+codeload.github.com # To Load script from RAW.github.com #(forced-entry)
+3p.ampproject.net #För google AMP Twitetr plugin
+player.twitch.tv # svampriket.se
+pubsub-edge.twitch.tv # Svamp
+client-event-reporter.twitch.tv # sv
+countess.twitch.tv # sv
+googleusercontent.com # Google-Cashe-Webpages
+webcache.googleusercontent.com # Google-Web-Cashe
