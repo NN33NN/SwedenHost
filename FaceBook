@@ -1,3 +1,8 @@
+#Vet ej
+0.0.0.0 epicunitscan.info
+0.0.0.0 gfx.aftonbladet-cdn.se.cdn.cloudflare.net
+0.0.0.0 gfx.aftonbladet-cdn.se
+0.0.0.0 incoming.telemetry.mozilla.org
 #nyaFilmer
 0.0.0.0 remtoaku.net
 0.0.0.0 baipagid.com
