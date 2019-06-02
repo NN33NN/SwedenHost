@@ -1,8 +1,22 @@
+#nyaFilmer
+0.0.0.0 remtoaku.net
+0.0.0.0 baipagid.com
+0.0.0.0 betwinner1.mobi
+
+#pagead2.googlesyndication.com Sub domain
+0.0.0.0 platform.twitter.com
+0.0.0.0 cs472.wac.edgecastcdn.net
+0.0.0.0 cs1-apr-8315.wac.edgecastcdn.net
+0.0.0.0 wac.apr-8315.edgecastdns.net
+0.0.0.0 cs1-lb-eu.8315.ecdns.net
+0.0.0.0 cs41.wac.edgecastcdn.net
+0.0.0.0 pagead46.l.doubleclick.net
+
 #FB
 
 #NyaFilmer.com
 0.0.0.0 staticxx.facebook.com
-#Från denna: static.xx.fbcdn.net Sabbar FB websida
+#FrÃ¥n denna: static.xx.fbcdn.net Sabbar FB websida
 0.0.0.0 our.intern.facebook.com
 0.0.0.0 fburl.com
 0.0.0.0 fbsbx.com
