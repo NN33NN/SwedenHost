@@ -26,6 +26,28 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 static.getclicky.com
 0.0.0.0 in.getclicky.com
 
+#Mobile
+0.0.0.0 EXPJ9KOQCYQF.c.richmetrics.com
+0.0.0.0 olmprodpowerlift-cdn.azureedge.net
+0.0.0.0 epicunitscan.info
+0.0.0.0 incoming.telemetry.mozilla.org 
+
+#pagead2.googlesyndication.com Sub domain
+
+0.0.0.0 platform.twitter.com
+
+0.0.0.0 cs472.wac.edgecastcdn.net
+
+0.0.0.0 cs1-apr-8315.wac.edgecastcdn.net
+
+0.0.0.0 wac.apr-8315.edgecastdns.net
+
+0.0.0.0 cs1-lb-eu.8315.ecdns.net
+
+0.0.0.0 cs41.wac.edgecastcdn.net
+
+0.0.0.0 pagead46.l.doubleclick.net
+
 
 #https://forums.indigorose.com/forum/old-versions/setup-factory-8-0/31260-code-signing-successful-used-to-work-but-get-unknown-publisher
 0.0.0.0 track.gaug.es
@@ -3028,6 +3050,14 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 rtb.openx.net
 0.0.0.0 e.nexac.com
 #https://nyafilmerhd.com/ Nyafilmer.com
+0.0.0.0 remtoaku.net
+31.172.81.158 baipagid.com
+31.172.81.158 betwinner1.mobi
+0.0.0.0 psadsoob.com
+0.0.0.0 pushnevis.com
+0.0.0.0 stampurt.com
+0.0.0.0 global.stun.twilio.com
+0.0.0.0 stun.l.google.com
 0.0.0.0 epmcdn.com
 0.0.0.0 aj1574.online
 0.0.0.0 cdn.bannersnack.com
@@ -3796,6 +3826,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 #WildCard1
 0.0.0.0 .1e100.net
 0.0.0.0 cloudconfig.googleapis.com
+0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 mobilecrashreporting.googleapis.com
 0.0.0.0 collect.albacross.com
@@ -5111,6 +5142,8 @@ Tiendeo.se
 0.0.0.0 cdn.krxd.net
 0.0.0.0 jssdk.pulse.schibsted.com
 # [News] Aftonbladet.se
+0.0.0.0 kampanjer.aftonbladet.se
+0.0.0.0 gfx.aftonbladet-cdn.se.cdn.cloudflare.net
 0.0.0.0 c.us1.dyntrk.com
 0.0.0.0 d3fp1ey5g3omk.cloudfront.net
 0.0.0.0 click.vgnett.no
