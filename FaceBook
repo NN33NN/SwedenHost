@@ -1,26 +1,10 @@
-#Vet ej
-0.0.0.0 epicunitscan.info
-0.0.0.0 gfx.aftonbladet-cdn.se.cdn.cloudflare.net
-0.0.0.0 gfx.aftonbladet-cdn.se
-0.0.0.0 incoming.telemetry.mozilla.org
+
 #nyaFilmer
-0.0.0.0 remtoaku.net
 0.0.0.0 baipagid.com
 0.0.0.0 betwinner1.mobi
-0.0.0.0 psadsoob.com
-0.0.0.0 pushnevis.com
-0.0.0.0 stampurt.com
-0.0.0.0 global.stun.twilio.com
-0.0.0.0 stun.l.google.com
 
-#pagead2.googlesyndication.com Sub domain
-0.0.0.0 platform.twitter.com
-0.0.0.0 cs472.wac.edgecastcdn.net
-0.0.0.0 cs1-apr-8315.wac.edgecastcdn.net
-0.0.0.0 wac.apr-8315.edgecastdns.net
-0.0.0.0 cs1-lb-eu.8315.ecdns.net
-0.0.0.0 cs41.wac.edgecastcdn.net
-0.0.0.0 pagead46.l.doubleclick.net
+
+
 
 #FB
 
