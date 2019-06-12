@@ -5,6 +5,7 @@
 
 https://github.com/jerryn70/GoodbyeAds
 https://github.com/anudeepND/blacklist
+https://github.com/Laicure/HostsY_hosts/blob/master/shithosts
 
 #******************************
 #**********War sida
@@ -25,6 +26,13 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 js.braintreegateway.com
 0.0.0.0 static.getclicky.com
 0.0.0.0 in.getclicky.com
+
+#Jula.se
+0.0.0.0 sky.esales.apptus.com
+0.0.0.0 api.esales.apptus.com
+0.0.0.0 cdn.esales.apptus.com
+0.0.0.0 d1le22hyhj2ui8.cloudfront.net
+#0.0.0.0 www.google-analytics.com #Java chrashar sidan
 
 #Mobile
 0.0.0.0 EXPJ9KOQCYQF.c.richmetrics.com
@@ -53,13 +61,6 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 track.gaug.es
 0.0.0.0 d36ee2fcip1434.cloudfront.net
 
-#https://www.investing.com/
-#0.0.0.0 sbcharts.investing.com
-#0.0.0.0 accounts.google.com
-
-#https://www.mydealz.de/
-ocular.pepper.com
-realtime03.pepper.com
 
 #https://freemovies4k.org/all-movies/23270-lazer-team.html
 https://freemovies4k.org/all-movies/96911-root-cause-2019.html
@@ -68,6 +69,36 @@ https://freemovies4k.org/all-movies/96911-root-cause-2019.html
 31.172.81.158 www.popcornvod.com
 31.172.81.158 routeserve.info
 31.172.81.158 www.9t5.me
+
+https://www.porn300.com/video/sister-slides-brothers-cock-in-deep/?utm_campaign=nudevista&utm_medium=compra+trafico&utm_source=nudevista
+
+0.0.0.0 cdn.quantumws.net
+0.0.0.0 messaging.quantumws.net
+0.0.0.0 services.quantumws.net
+0.0.0.0 t.trfpump.com
+0.0.0.0 rs.maxiporn.com
+0.0.0.0 track.tcppu.com
+
+https://frprn.com/videos/31792/
+0.0.0.0 ssl-tools.bongacams.com
+
+https://m.realgfporn.com/videos/redhead-girlfriend-tries-out-deep-anal-277324.html
+0.0.0.0 nogerefron.info
+#0.0.0.0 pixel.onyemantee.pro
+#0.0.0.0 onyemantee.pro
+0.0.0.0 pw.wpu.sh #VidPlayer txxx.com
+
+31.172.81.158 main.dynsrvbaa.com
+
+https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
+0.0.0.0 ipecho.net
+#0.0.0.0 getfile.txxx.com
+#0.0.0.0 st.tubecup.org
+#0.0.0.0 undrininvereb.info
+#0.0.0.0 script.bangdom.com
+#0.0.0.0 ts.clickadilla.com
+#0.0.0.0 ts.obsceneoffers.com
+
 
 
 #https://www.google.com/amp/s/www.xda-developers.com/holey-light-samsung-galaxy-s10-s10e-s10plus-hole-punch-notification-led/amp/
@@ -3051,6 +3082,7 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 e.nexac.com
 #https://nyafilmerhd.com/ Nyafilmer.com
 0.0.0.0 remtoaku.net
+31.172.81.158 pekreecy.com
 31.172.81.158 baipagid.com
 31.172.81.158 betwinner1.mobi
 0.0.0.0 psadsoob.com
@@ -3143,7 +3175,7 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 31.172.81.158 signup.leekmedia.net
 31.172.81.158 signup.iambmedia.com
 31.172.81.158 www2.iambmedia.com
-0.0.0.0 tracker.jawcloud.co
+#0.0.0.0 tracker.jawcloud.co
 #https://tvline.com/
 0.0.0.0 load.instinctiveads.com
 0.0.0.0 instinctiveads.com
@@ -3289,11 +3321,16 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 # 1[SPECIAL]
 0.0.0.0 auth.dn.se #P?slagen full access till l?sa text till senaste nyheterna samt bloggar. Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
 0.0.0.0 login.di.se #P?slagen full access till weekend.di.se.Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
-0.0.0.0 csp-ssl.screen9.com
-0.0.0.0 csp.screen9.com
+#0.0.0.0 csp-ssl.screen9.com #VideoPlayer
+#0.0.0.0 csp.screen9.com
+#0.0.0.0 content.dn.se #Video https://www.dn.se/nyheter/sverige/sex-procent-av-svenskarna-tror-att-manlandningen-aldrig-har-hant/
 #DN: https://www.dn.se/ekonomi/elon-musk-stams-for-vilseledande-information/
 #https://www.dn.se/kultur-noje/utstallning-av-skriet-sammanfaller-med-brexit-en-slump/
-0.0.0.0 content.dn.se
+
+0.0.0.0 dn.c.richmetrics.com
+0.0.0.0 tracking.bonnier.news
+0.0.0.0 imasdk.googleapis.com
+
 #Låst artikel:
 #https://www.dn.se/nyheter/varlden/nej-vi-finlandare-ar-inte-det-minsta-lyckliga/
 31.172.81.158 kampanj.dn.se
@@ -4627,7 +4664,6 @@ Tiendeo.se
 0.0.0.0 a1089.d.akamai.net
 0.0.0.0 googlesyndication.com
 0.0.0.0 google-analytics.com
-0.0.0.0 www.google-analytics.com
 0.0.0.0 imageads.googleadservices.com
 0.0.0.0 imageads1.googleadservices.com
 0.0.0.0 imageads2.googleadservices.com
