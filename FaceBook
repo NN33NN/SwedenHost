@@ -1,4 +1,64 @@
 
+#router
+0.0.0.0 fast.wistia.com
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 static.olark.com
+0.0.0.0 hello.myfonts.net
+0.0.0.0 www.svtstatic.se
+
+0.0.0.0 z.moatads.com
+0.0.0.0 ads.nexage.com
+0.0.0.0 wtapi.tohapp.com
+0.0.0.0 service.cmp.oath.com
+
+#https://www.apkmirror.com/apk/oh-bibi/frag-pro-shooter/frag-pro-shooter-1-4-1-release/frag-pro-shooter-1-4-1-android-apk-download/
+0.0.0.0 instant.page
+
+#Web VideoCaster-apk
+0.0.0.0 adlog.flurry.com
+0.0.0.0 ads.flurry.com
+0.0.0.0 adservice.google.com
+0.0.0.0 cdn.flurry.com
+0.0.0.0 cfg.flurry.com
+0.0.0.0 data.flurry.com
+0.0.0.0 proton.flurry.com
+0.0.0.0 service.cmp.oath.com
+
+0.0.0.0 ads.mopub.com
+0.0.0.0 www.mopub.com
+0.0.0.0 z.moatads.com
+0.0.0.0 px.moatads.com
+
+0.0.0.0 config.inmobi.cn
+0.0.0.0 crash-metrics.sdk.inmobi.com
+0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 sdktm.w.inmobi.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 www.inmobi.com
+0.0.0.0 dock.inmobi.com
+0.0.0.0 i.l.inmobicdn.cn
+0.0.0.0 i.l.inmobicdn.net
+0.0.0.0 i.w.inmobi.com
+0.0.0.0 arcus-uswest.amazon.com
+
+0.0.0.0 www.smaato.com
+0.0.0.0 a913.smaato.net
+0.0.0.0 cw50.smaato.net
+0.0.0.0 sdk-android.ad.smaato.net
+
+0.0.0.0 mobile-static.adsafeprotected.com
+0.0.0.0 app-measurement.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 crowdin.com
+0.0.0.0 neuland.ninja
+0.0.0.0 i.xx.openx.com
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 suggestqueries.google.com
+
+
+
+
 #nyaFilmer
 0.0.0.0 baipagid.com
 0.0.0.0 betwinner1.mobi
@@ -7,7 +67,7 @@
 
 
 #FB
-
+0.0.0.0 portal.fb.com
 #NyaFilmer.com
 0.0.0.0 staticxx.facebook.com
 #Från denna: static.xx.fbcdn.net Sabbar FB websida
