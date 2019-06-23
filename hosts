@@ -4,13 +4,10 @@
 #212.124.115.233 googleads.g.doubleclick.net
 #31.172.81.158 googleads.g.doubleclick.net
 dummyimage.com/001x001/ffffff/fff googleads.g.doubleclick.net
-
 https://github.com/jerryn70/GoodbyeAds
 https://github.com/anudeepND/blacklist
 https://github.com/Laicure/HostsY_hosts/blob/master/shithosts
-
 https://dummyimage.com/001x001/ffffff/fff <-Pixel
-
 #******************************
 #**********War sida
 #https://s3.us-east-2.amazonaws.com/brtesc/ww/install.html
@@ -24,15 +21,105 @@ https://github.com/scoobydom0/pihole-google/commit/b9888f68c05d27246112635e5dd6d
 ##Easylist
 #https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
+
+#http://techgenix.com/slow-internet-windows-10/
+0.0.0.0 a.opmnstr.com
+0.0.0.0 api.opmnstr.com
+
+#https://www.tecklyfe.com/how-to-fix-windows-10-slow/
+#https://edition.cnn.com/
+0.0.0.0 8433695.fls.doubleclick.net
+31.172.81.158 widgets.outbrain.com
+0.0.0.0 media.adknit.com
+0.0.0.0 www.iab.net
+0.0.0.0 theoplayer.doubleclick.net
+0.0.0.0 conviva.testonly.conviva.com
+
+#Skräp
+31.172.81.158 se.rewards-win.club
+31.172.81.158 stremanp.com
+31.172.81.158 65vk1fba34.com
+31.172.81.158 yr9n47004g.com
+31.172.81.158 cfts1tifqr.com
+31.172.81.158 fortleeventrode.pro
+31.172.81.158 versatiles.club
+31.172.81.158 7wuvias.website
+31.172.81.158 1cbq.org
+31.172.81.158 www.giftdomain.site
+31.172.81.158 forelatorsma.pro
+31.172.81.158 vnrherdsxr.com
+31.172.81.158 worldvictory.vip
+31.172.81.158 promotions.nordicbet.com
+31.172.81.158 trk.railquince.bid
+0.0.0.0 www.track-enable.com
+
+#https://www.torrentdownloads.me/
+0.0.0.0 nofejectontrab.info
+0.0.0.0 untouchwarfar.info
+0.0.0.0 pixel.untouchwarfar.info
+
+#https://www17.zippyshare.com/v/hBM0YPob/file.html
+0.0.0.0 curriculture.com
+0.0.0.0 rydohimowa.info
+0.0.0.0 begantume.info
+0.0.0.0 pixel.begantume.info
+
+#http://www.mediafire.com/file/bk7wcrc1zb0pdw9/Windows+10+activation.zip
+0.0.0.0 desiredirt.com
+0.0.0.0 www.adsupplymedia.com
+0.0.0.0 www.adsupply.com
+0.0.0.0 cdn.otnolatrnup.com
+0.0.0.0 otnolatrnup.com
+0.0.0.0 xmlfeedparser.4dsply.com
+0.0.0.0 infinity.pub.com
+
+#mrkoll
+0.0.0.0 macro.adnami2.io
+0.0.0.0 functions.adnami.io
+0.0.0.0 macro.adnami.io
+#router
+0.0.0.0 fast.wistia.com
+0.0.0.0 static.olark.com
+0.0.0.0 hello.myfonts.net
+0.0.0.0 ads.nexage.com
+0.0.0.0 wtapi.tohapp.com
+#https://www.apkmirror.com/apk/oh-bibi/frag-pro-shooter/frag-pro-shooter-1-4-1-release/frag-pro-shooter-1-4-1-android-apk-download/
+0.0.0.0 instant.page
+
+#Web VideoCaster-apk
+0.0.0.0 cdn.flurry.com
+0.0.0.0 cfg.flurry.com
+0.0.0.0 data.flurry.com
+0.0.0.0 proton.flurry.com
+0.0.0.0 www.mopub.com
+0.0.0.0 config.inmobi.cn
+0.0.0.0 crash-metrics.sdk.inmobi.com
+0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 sdktm.w.inmobi.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 www.inmobi.com
+0.0.0.0 dock.inmobi.com
+0.0.0.0 i.l.inmobicdn.cn
+0.0.0.0 i.l.inmobicdn.net
+0.0.0.0 arcus-uswest.amazon.com
+0.0.0.0 www.smaato.com
+0.0.0.0 a913.smaato.net
+0.0.0.0 cw50.smaato.net
+0.0.0.0 sdk-android.ad.smaato.net
+0.0.0.0 mobile-static.adsafeprotected.com
+0.0.0.0 crowdin.com
+0.0.0.0 neuland.ninja
+0.0.0.0 i.xx.openx.com
+0.0.0.0 suggestqueries.google.com
 #https://openpirate.org/torrent/28169062/Adobe_Illustrator_CC_2019_v23.0.1_PreCracked
 0.0.0.0 www.powr.io
 0.0.0.0 blockchain.info
 0.0.0.0 js.braintreegateway.com
 0.0.0.0 static.getclicky.com
 0.0.0.0 in.getclicky.com
-
 #Ebay.com
 0.0.0.0 trustsealinfo.websecurity.norton.com
+
 
 #https://www.mediamarkt.se/sv/category/_tr%C3%A5dl%C3%B6sa-laddare-644039.html
 0.0.0.0 api.bazaarvoice.com
@@ -41,9 +128,6 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 display.ugc.bazaarvoice.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 p.univide.com
-0.0.0.0 pixel.tapad.com
-0.0.0.0 beacon.krxd.net
-0.0.0.0 usermatch.krxd.net
 0.0.0.0 6522957.fls.doubleclick.net
 0.0.0.0 ui.swogo.com
 0.0.0.0 ui.swogo.net
@@ -54,35 +138,20 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 cdn.esales.apptus.com
 0.0.0.0 d1le22hyhj2ui8.cloudfront.net
 #0.0.0.0 www.google-analytics.com #Java chrashar sidan
-
-#Mobile
 0.0.0.0 EXPJ9KOQCYQF.c.richmetrics.com
 0.0.0.0 olmprodpowerlift-cdn.azureedge.net
 0.0.0.0 epicunitscan.info
-0.0.0.0 incoming.telemetry.mozilla.org 
-
+0.0.0.0 incoming.telemetry.mozilla.org
 #pagead2.googlesyndication.com Sub domain
-
 0.0.0.0 platform.twitter.com
-
 0.0.0.0 cs472.wac.edgecastcdn.net
-
 0.0.0.0 cs1-apr-8315.wac.edgecastcdn.net
-
 0.0.0.0 wac.apr-8315.edgecastdns.net
-
 0.0.0.0 cs1-lb-eu.8315.ecdns.net
-
 0.0.0.0 cs41.wac.edgecastcdn.net
-
-0.0.0.0 pagead46.l.doubleclick.net
-
-
 #https://forums.indigorose.com/forum/old-versions/setup-factory-8-0/31260-code-signing-successful-used-to-work-but-get-unknown-publisher
 0.0.0.0 track.gaug.es
 0.0.0.0 d36ee2fcip1434.cloudfront.net
-
-
 #https://freemovies4k.org/all-movies/23270-lazer-team.html
 https://freemovies4k.org/all-movies/96911-root-cause-2019.html
 #0.0.0.0 my4.imgsmail.ru #For player https://freemovies4k.org/all-movies/23270-lazer-team.html
@@ -90,25 +159,20 @@ https://freemovies4k.org/all-movies/96911-root-cause-2019.html
 31.172.81.158 www.popcornvod.com
 31.172.81.158 routeserve.info
 31.172.81.158 www.9t5.me
-
 https://www.porn300.com/video/sister-slides-brothers-cock-in-deep/?utm_campaign=nudevista&utm_medium=compra+trafico&utm_source=nudevista
-
 0.0.0.0 cdn.quantumws.net
 0.0.0.0 messaging.quantumws.net
 0.0.0.0 services.quantumws.net
 0.0.0.0 t.trfpump.com
 0.0.0.0 rs.maxiporn.com
 0.0.0.0 track.tcppu.com
-
 https://frprn.com/videos/31792/
 0.0.0.0 ssl-tools.bongacams.com
-
 https://m.realgfporn.com/videos/redhead-girlfriend-tries-out-deep-anal-277324.html
 0.0.0.0 nogerefron.info
 #0.0.0.0 pixel.onyemantee.pro
 #0.0.0.0 onyemantee.pro
 0.0.0.0 pw.wpu.sh #VidPlayer txxx.com
-
 31.172.81.158 main.dynsrvbaa.com
 
 https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
@@ -119,10 +183,6 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 #0.0.0.0 script.bangdom.com
 #0.0.0.0 ts.clickadilla.com
 #0.0.0.0 ts.obsceneoffers.com
-
-
-
-#https://www.google.com/amp/s/www.xda-developers.com/holey-light-samsung-galaxy-s10-s10e-s10plus-hole-punch-notification-led/amp/
 0.0.0.0 ampcid.google.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 d-32924827741565078140.ampproject.net
@@ -151,7 +211,6 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 #https://www.androidcentral.com/how-turn-facebooks-app-browser-external-links
 0.0.0.0 rs.gwallet.com
 0.0.0.0 ramp.purch.com
-
 #https://m.pornoxo.com/videos/1510476/innocent-teen-groped-to-orgasm-on-a-bus-scene-4/
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 yandexmetrica.com
@@ -171,10 +230,8 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 0.0.0.0 adriver.ru
 31.172.81.158 offerbest.eu
 31.172.81.158 www.offerbest.eu
-
 #www.damernasvarld.se
 0.0.0.0 bmbstatic.blob.core.windows.net
-
 #https://dl-android.com/dl/index.php?id=cube-call-recorder-acr-apk
 0.0.0.0 relandssymphoking.info
 0.0.0.0 pl15011970.pvclouds.com
@@ -191,12 +248,9 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 31.172.81.158 l6b587txj1.com
 0.0.0.0 doo6pwib3qngu.cloudfront.net
 0.0.0.0 js.mobileoffers-a-download.com
-
-
 #https://igg-games.com/cuphead-796218598-free-download.html
 0.0.0.0 deloplen.com
 0.0.0.0 d3q33rbmdkxzj.cloudfront.net
-
 #https://hackaday.com/2018/12/17/ultimate-a-useful-tool-for-file-system-hacking/
 0.0.0.0 analytics.supplyframe.com
 0.0.0.0 ads.supplyframe.com
@@ -209,8 +263,6 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 0.0.0.0 images.ihscontent.net
 0.0.0.0 findchips.com
 0.0.0.0 oemstrade.com
-
-
 #https://megaman.fandom.com/wiki/Rockman_7_Famicom
 #Video
 #https://megaman.fandom.com/wiki/Sigma
@@ -221,13 +273,11 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 dnt.qualaroo.com
 0.0.0.0 services.fandom.com
-
 #https://www.google.com/amp/s/www.xda-developers.com/holey-light-samsung-galaxy-s10-s10e-s10plus-hole-punch-notification-led/amp/
 0.0.0.0 events.browsiprod.com
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 middycdn-a.akamaihd.net
-
 #https://montrealgazette.com/
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
@@ -237,51 +287,39 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 0.0.0.0 origami.secure.ownlocal.com
 0.0.0.0 d3hmp0045zy3cs.cloudfront.net
 0.0.0.0 dpcthkef9k46t.cloudfront.net
-
 #https://www.gamesradar.com/warhammer-chaosbane-ps4-preview//
 0.0.0.0 widgets.fie-data.co.uk
 0.0.0.0 gizmos.future-price.co.uk
 0.0.0.0 gamesradar-gb.gamesradar.com
-
 #https://en.wikipedia.org/wiki/List_of_SNK_games
 0.0.0.0 meta.wikimedia.org
 0.0.0.0 sstatic1.histats.com
 31.172.81.158 blogoutnow.mobi
 31.172.81.158 bodloster.com
-
 #http://icd.internetmedicin.se/diagnos/F323
 31.172.81.158 imlogin.se
-
 #https://www.google.com/amp/s/www.dignited.com/31577/asus-launches-10-gigabit-tri-band-802-11ax-router/amp/
 0.0.0.0 batraim.com
 0.0.0.0 www.mtn.co.ug
-
 #https://www.dx.com/
 0.0.0.0 www.mainadv.com
 0.0.0.0 secureaud.solocpm.com
 0.0.0.0 clk.solocpm.com
 0.0.0.0 analyselog.dx.com
-
 #http://se.laowl.com/hunden-hittas-gratande-vid-hennes-dode-husse
 0.0.0.0 notedmedia.se
 0.0.0.0 traffic.feedremedy.com
-
-
 #https://mobilanyheter.net/2019/03/27/chromecast-darfor-ska-du-undvika-att-kopa-den-just-nu/
 0.0.0.0 assets.strossle.com
 0.0.0.0 steadfastsystem.com
 0.0.0.0 example.com
-
 #https://monetizepros.com/display-advertising/11-sites-that-effectively-use-in-content-ads/
 0.0.0.0 manychat.com
-
 #https://www.seehdwatchmovie.com/movies/how-to-train-your-dragon-3-the-hidden-world-full-hd-watch/
 0.0.0.0 greedseed.world
 0.0.0.0 adsco.re
 0.0.0.0 c.adsco.re
 31.172.81.158 www.onclicksuper.com
-
-
 #Phone
 0.0.0.0 3kxrt0l29e.execute-api.us-east-1.amazonaws.com
 0.0.0.0 8202550.fls.doubleclick.net
@@ -304,8 +342,6 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 0.0.0.0 by.uservoice.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 analytics.ff.avast.com
-
-
 #https://www.kiplinger.com/
 0.0.0.0 analytics.myfinance.com
 0.0.0.0 markets-uat.morningstar.com
@@ -314,11 +350,8 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 0.0.0.0 kiplinger.112.2o7.net
 0.0.0.0 www.myfinance.com
 31.172.81.158 www.dianomi.com
-
-#https://www.zive.cz/bleskovky/vzhled-windows-xp-pro-windows-311/sc-4-a-116204/default.aspx
 #https://www.morningstar.com/
 #content.aimatch.com
-
 #skonahem.se
 0.0.0.0 ds-aksb-a.akamaihd.net
 #http://annonswebb.mittmedia.se/op/
@@ -1078,7 +1111,6 @@ https://88mallonline.com/
 0.0.0.0 serving.ascendmedia.ca
 0.0.0.0 thor.rtk.io
 #0.0.0.0 quantcast.mgr.consensu.org
-#0.0.0.0 static.quantcast.mgr.consensu.org
 #0.0.0.0 vendorlist.consensu.org
 0.0.0.0 rtkio-d.openx.net
 #Prebid 1.26.0
@@ -2009,7 +2041,7 @@ https://clk.icu/raTE
 ##Spotfy Adds
 ##Adobe Potoshop Licences
 ##Corel Draw Licences
-##All Products of Piriform (Driver booster, ccleaner, Advanced SystemCare etc...)
+##All Products of Piriform (Driver booster31.172.81.158 ccleaner31.172.81.158 Advanced SystemCare etc...)
 ##Skype Adds
 ##Bitcoins mining Adds
 ##Browser Adds and more
@@ -3101,6 +3133,8 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 rtb.openx.net
 0.0.0.0 e.nexac.com
 #https://nyafilmerhd.com/ Nyafilmer.com
+0.0.0.0 baipagid.com
+0.0.0.0 betwinner1.mobi
 0.0.0.0 remtoaku.net
 31.172.81.158 pekreecy.com
 31.172.81.158 baipagid.com
@@ -3339,18 +3373,16 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 dev.youtube.com
 0.0.0.0 home.youtube.com
 # 1[SPECIAL]
-0.0.0.0 auth.dn.se #P?slagen full access till l?sa text till senaste nyheterna samt bloggar. Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
-0.0.0.0 login.di.se #P?slagen full access till weekend.di.se.Sl? AV OM DU HAR PREMERATIONS LOGIN, Off=  #127.0.0.1
+0.0.0.0 auth.dn.se #P?slagen full access till l?sa text till senaste nyheterna samt bloggar. Sl? AV OM DU HAR PREMERATIONS LOGIN31.172.81.158 Off=  #127.0.0.1
+0.0.0.0 login.di.se #P?slagen full access till weekend.di.se.Sl? AV OM DU HAR PREMERATIONS LOGIN31.172.81.158 Off=  #127.0.0.1
 #0.0.0.0 csp-ssl.screen9.com #VideoPlayer
 #0.0.0.0 csp.screen9.com
 #0.0.0.0 content.dn.se #Video https://www.dn.se/nyheter/sverige/sex-procent-av-svenskarna-tror-att-manlandningen-aldrig-har-hant/
 #DN: https://www.dn.se/ekonomi/elon-musk-stams-for-vilseledande-information/
 #https://www.dn.se/kultur-noje/utstallning-av-skriet-sammanfaller-med-brexit-en-slump/
-
 0.0.0.0 dn.c.richmetrics.com
 0.0.0.0 tracking.bonnier.news
 0.0.0.0 imasdk.googleapis.com
-
 #Låst artikel:
 #https://www.dn.se/nyheter/varlden/nej-vi-finlandare-ar-inte-det-minsta-lyckliga/
 31.172.81.158 kampanj.dn.se
@@ -3714,7 +3746,7 @@ script.ioam.de/iam.js
 cart.payments.ebay.com
 #https://www.ebay.com/itm/Absolut-Vodka-Collector-Bottle-Los-Angeles-with-Tag-2008/263819765871?hash=item3d6ce2286f:g:fR8AAOSw1zpbTR6j
 ir.ebaystatic.com
-#0.0.0.0 rover.ebay.com #Beh?vs f?r email utskick, kuna klicka l?nk till ebay
+#0.0.0.0 rover.ebay.com #Beh?vs f?r email utskick31.172.81.158 kuna klicka l?nk till ebay
 #http://m.videostory.dkn.tv/life/teen-surprises-mom-cut-dreads-9-years-one-look-shes-tears.html
 #http://www.lakartidningen.se/Klinik-och-vetenskap/Fallbeskrivning/2014/03/Botulism-ar-en-behandlingsbar-mycket-sallsynt-forgiftning/
 #https://m.theepochtimes.com/uplift/man-sees-kangaroo-hopping-after-him-so-he-suddenly-turns-kneels-then-mind-blowing-thing-occurs_2434512.html
@@ -3986,7 +4018,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 static.crunchyroll.com
 #0.0.0.0 static.vrv.co
 0.0.0.0 testonly.conviva.com
-
 0.0.0.0 ads.intergi.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads-twitter.com
@@ -4003,9 +4034,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 amsgslb1.fwmrm.net
 0.0.0.0 ashgslb1.fwmrm.net
 0.0.0.0 laxgslb1.fwmrm.net
-
 0.0.0.0 spotxchange.com
-
 0.0.0.0 www.spotx.tv
 0.0.0.0 c1.rfihub.net
 0.0.0.0 singlewomenmeet.com
@@ -4733,7 +4762,7 @@ Tiendeo.se
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 cdn1.inner-active.mobi
 0.0.0.0 m2m1.inner-active.mobi
-# [ADS] MdotM, Inc.
+# [ADS] MdotM31.172.81.158 Inc.
 0.0.0.0 ads.mdotm.com
 0.0.0.0 cdn.mdotm.com
 # [ADS] Mobclix
@@ -4897,7 +4926,7 @@ Tiendeo.se
 0.0.0.0 swappit.tapad.com
 0.0.0.0 campaign-tapad.s3.amazonaws.com
 0.0.0.0 adsrv1.tapad.com
-# [ADS] Tradedoubler.com (Telia, msn.se, hp)
+# [ADS] Tradedoubler.com (Telia31.172.81.158 msn.se31.172.81.158 hp)
 0.0.0.0 tradedoubler.com
 0.0.0.0 anet.tradedoubler.com
 0.0.0.0 anetno.tradedoubler.com
