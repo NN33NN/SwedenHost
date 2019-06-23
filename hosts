@@ -2,10 +2,14 @@
 #***********Intressant**********
 #https://212.124.115.233  Self signed Cert
 #212.124.115.233 googleads.g.doubleclick.net
+#31.172.81.158 googleads.g.doubleclick.net
+dummyimage.com/001x001/ffffff/fff googleads.g.doubleclick.net
 
 https://github.com/jerryn70/GoodbyeAds
 https://github.com/anudeepND/blacklist
 https://github.com/Laicure/HostsY_hosts/blob/master/shithosts
+
+https://dummyimage.com/001x001/ffffff/fff <-Pixel
 
 #******************************
 #**********War sida
@@ -26,6 +30,23 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 js.braintreegateway.com
 0.0.0.0 static.getclicky.com
 0.0.0.0 in.getclicky.com
+
+#Ebay.com
+0.0.0.0 trustsealinfo.websecurity.norton.com
+
+#https://www.mediamarkt.se/sv/category/_tr%C3%A5dl%C3%B6sa-laddare-644039.html
+0.0.0.0 api.bazaarvoice.com
+0.0.0.0 network-eu.bazaarvoice.com
+0.0.0.0 apps.nexus.bazaarvoice.com
+0.0.0.0 display.ugc.bazaarvoice.com
+0.0.0.0 analytics-static.ugc.bazaarvoice.com
+0.0.0.0 p.univide.com
+0.0.0.0 pixel.tapad.com
+0.0.0.0 beacon.krxd.net
+0.0.0.0 usermatch.krxd.net
+0.0.0.0 6522957.fls.doubleclick.net
+0.0.0.0 ui.swogo.com
+0.0.0.0 ui.swogo.net
 
 #Jula.se
 0.0.0.0 sky.esales.apptus.com
@@ -834,7 +855,7 @@ https://www.zive.cz/WMI3ip7qAm-CmbX8Yv_FOCFPe0PbwWM/hb/prebid/v1/prebid.js
 SPAM:
 winningdays.xyz
 phastoag.com
-##0.0.0.0 www.googletagmanager.com
+##0.0.0.0 www.googletagmanager.com #Medimarkt slutar funka
 #https://avmania.e15.cz/10-nejocekavanejsich-sci-fi-a-akcnich-filmu-roku-2019#part=1
 https://avmania.e15.cz/QANN5DrHbcUCXtOG_X37ojvWjwZ8wQA/hb/prebid/v1/prebid.js
 ##0.0.0.0 cdn.mookie1.com
@@ -2066,7 +2087,7 @@ https://clk.icu/raTE
 31.172.81.158 use.photios-raj.com
 31.172.81.158 sarah.runtnc.net
 0.0.0.0 tag.getdrip.com
-0.0.0.0 s.pinimg.com
+#0.0.0.0 s.pinimg.com #Pinrest video mobilephone
 0.0.0.0 de14.zopim.com
 0.0.0.0 v2.zopim.com
 31.172.81.158 web.norstatsurveys.com
@@ -2841,7 +2862,6 @@ Liz:
 #152.195.39.249 di.se
 #https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 google.f.bez1fd google.f.LmvwCb
-31.172.81.158 googleads.g.doubleclick.net
 #(https://www.bukefalos.se/)
 #185.26.230.136
 https://linux.101hacks.com/unix/crond/
@@ -3120,7 +3140,7 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 djfiln.com
 0.0.0.0 uptobranding.com
 0.0.0.0	googletagmanager.com
-0.0.0.0	www.googletagmanager.com
+#0.0.0.0 www.googletagmanager.com
 0.0.0.0	www.getcontent.net
 0.0.0.0 arsenal54.xyz
 0.0.0.0 arsenal55.xyz
