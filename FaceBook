@@ -1,5 +1,3 @@
-#https://en.savefrom.net/#url=http://youtube.com/watch?v=TkCSr30UojM&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com&a_ts=1561494039.344
-0.0.0.0 rek.savefrom.net
 
 #360 Total Security
 0.0.0.0 feedback.360totalsecurity.com
@@ -12,21 +10,6 @@
 0.0.0.0 aftr-37-201-215-100.unity-media.net
 0.0.0.0 tr.p.360safe.com
 0.0.0.0 ec2-54-77-146-221.eu-west-1.compute.amazonaws.com
-
-
-#https://www.geekbuying.com/item/Tronsmart-Fast-Charge-27W-1-Port-Type-A-USB-Wall-Charger-for-Smartphone---Type-C-5V-3A-Output-for-Nexus-5X-6P-Letv-Max---US-366070.html?idev_id=970&utm_source=affiliate.geekbuying.com&utm_medium=affiliate_970&utm_campaign=970
-#https://www.geekbuying.com
-0.0.0.0 recommender.scarabresearch.com
-0.0.0.0 static.scarabresearch.com
-0.0.0.0 local.scarabresearch.com
-0.0.0.0 z.lenmit.com
-0.0.0.0 cdn.lenmit.com
-0.0.0.0 chatserver.comm100.com
-0.0.0.0 seals.resellerratings.com
-
-Whitelist:
-s.click.aliexpress.com
-click.linksynergy.com #Refounder
 
 
 #FB
