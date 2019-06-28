@@ -22,6 +22,117 @@ https://github.com/scoobydom0/pihole-google/commit/b9888f68c05d27246112635e5dd6d
 #https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 
+#https://www.pcloud.com/
+0.0.0.0 widget.manychat.com
+
+#https://www.apple.com/
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 apple.tt.omtrdc.net
+
+#Dropbox.com
+0.0.0.0 b92.yahoo.co.jp
+0.0.0.0 8166291.fls.doubleclick.net
+0.0.0.0 marketing.dropbox.com
+
+#https://onedrive.live.com/about/en-us/
+0.0.0.0 mem.gfx.ms
+0.0.0.0 c.s-microsoft.com
+0.0.0.0 az725175.vo.msecnd.net
+0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 assets.adobedtm.com
+0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 query.prod.cms.rt.microsoft.com
+0.0.0.0 dynmsg.modpim.com
+
+#Amazone.com
+0.0.0.0 unagi-na.amazon.com
+
+#https://dailyuploads.net/o7jwppo332p0
+0.0.0.0 mirrorfinder.xyz
+0.0.0.0 media-sapiens.com
+0.0.0.0 double-clickd.com
+0.0.0.0 phengung.net
+0.0.0.0 wapoawoo.net
+0.0.0.0 whehilru.com
+31.172.81.158 usairguw.com
+31.172.81.158 gretaith.com
+31.172.81.158 www.friendlyduck.com
+
+#https://uptobox.com/ugjcmomkupon
+0.0.0.0 www.hostingcloud.racing
+0.0.0.0 s07.hostcontent.live
+0.0.0.0 ads2.uptobox.com
+0.0.0.0 tonsterandhantan.info
+0.0.0.0 uptimecdn.com
+0.0.0.0 attacketslovern.info
+0.0.0.0 pixel.attacketslovern.info
+0.0.0.0 c.ad6media.fr
+0.0.0.0 z2q1s7jvfw.s.ad6media.fr
+0.0.0.0 rw9bj24c2j.s.ad6media.fr
+0.0.0.0 8mdfq0gzbs.s.ad6media.fr
+
+#https://userscloud.com/bd65zctx73lr
+31.172.81.158 ucheephu.com
+0.0.0.0 furtherescottom.info
+0.0.0.0 djtflbt20bdde.cloudfront.net
+0.0.0.0 d3t5ngjixpjdho.cloudfront.net
+0.0.0.0 nanolinglacci.info
+0.0.0.0 junioneruytew.info
+0.0.0.0 beiven.pw
+0.0.0.0 api.ipinfodb.com
+0.0.0.0 js.maxmind.com
+0.0.0.0 cookiesandyou.com
+0.0.0.0 freegeoip.net
+0.0.0.0 ojeergoy.com
+31.172.81.158 www.roblox.com
+
+
+#https://bayfiles.com/22T5Nfwab2/slc_All_in_one_v5.08_zip
+0.0.0.0 policityseriod.info
+
+#https://anonfile.com/18T7Nbwbb6/slc_All_in_one_v5.08_zip
+0.0.0.0 shermore.info
+
+https://ddl.to/l24k689gj0bl
+31.172.81.158 b3z29k1uxb.com
+0.0.0.0 embed.tawk.to
+0.0.0.0 d4fed03105c9f65b.com
+0.0.0.0 3b9eb5ed04721bef.com
+0.0.0.0 www.dclmmbjyshy.com
+0.0.0.0 www.czaxrbclfse.com
+0.0.0.0 eca1d7792ad5de43.com
+0.0.0.0 3585656d9351553f.com
+0.0.0.0 b60228e270e363f6.com
+0.0.0.0 7667bab1751ff777.com
+0.0.0.0 2d7bd9e6eb370143.com
+0.0.0.0 564d28256cddaeba.com
+0.0.0.0 47f624b2e6c6072e.com
+31.172.81.158 preferredain.com
+
+#https://tusfiles.com/9w9fk4s6qxb0
+0.0.0.0 calacrephantot.pro
+0.0.0.0 makemyvids.com
+31.172.81.158 tavertotsand.info
+0.0.0.0 3585656d9351553f.com
+0.0.0.0 b60228e270e363f6.com
+0.0.0.0 7667bab1751ff777.com
+0.0.0.0 2d7bd9e6eb370143.com
+0.0.0.0 564d28256cddaeba.com
+0.0.0.0 47f624b2e6c6072e.com
+0.0.0.0 e7393e33565ce805.com
+0.0.0.0 fd9523b31ff93b5c.com
+0.0.0.0 e6081b73afec581f.com
+
+#https://upload.ac/a12qnu9pyfwr
+0.0.0.0 tontwiredat.info
+0.0.0.0 bnsjb1ab1e.com
+0.0.0.0 www.hnnp4ixxkl.com
+0.0.0.0 susm0q6jys.com
+0.0.0.0 cdn15.acloudimages.com
+0.0.0.0 pl15051881.pvclouds.com
+31.172.81.158 best2019games.com
+31.172.81.158 ghoto-12.win
+
 #http://techgenix.com/slow-internet-windows-10/
 0.0.0.0 a.opmnstr.com
 0.0.0.0 api.opmnstr.com
@@ -1238,7 +1349,7 @@ https://pi-hole.net/pages-to-test-ad-blocking-performance/
 0.0.0.0 asinartisationy.info
 0.0.0.0 etrabandidlo.club
 0.0.0.0 zoagremo.net
-0.0.0.0 dolohen.com
+31.172.81.158 dolohen.com
 0.0.0.0 gregnobs.com
 0.0.0.0 7wtic7ru.com
 0.0.0.0 glodrips.com
@@ -5841,7 +5952,7 @@ Tiendeo.se
 0.0.0.0 db187550c7dkf.cloudfront.net
 0.0.0.0 www.zergnet.com
 0.0.0.0 ia.media-imdb.com
-0.0.0.0 images-na.ssl-images-amazon.com
+#0.0.0.0 images-na.ssl-images-amazon.com #Amazone.com 2 work
 # [WEB] Koket.se
 0.0.0.0 bn-01d.adtomafusion.com
 # [WEB] Mail.com
@@ -6177,7 +6288,6 @@ Tiendeo.se
 0.0.0.0 cdn.engine.phn.doublepimp.com
 31.172.81.158 engine.phn.doublepimp.com
 31.172.81.158 syndication.exdynsrv.com
-#0.0.0.0 thumb.oloadcdn.net
 0.0.0.0 propvideo.net
 0.0.0.0 jsc.mgid.com
 0.0.0.0 www.pureadexchange.com
