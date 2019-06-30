@@ -22,6 +22,109 @@ https://github.com/scoobydom0/pihole-google/commit/b9888f68c05d27246112635e5dd6d
 #https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 
+
+#https://1movies.se/movie/pirates-of-the-caribbean-dead-men-tell-no-tales/111900-watch-online-free.html
+#https://1movies.se/allmovies
+#https://www4.1movies.is/1movies-1
+#https://www4.1movies.is/movie/shazam/127670/t5fvP53z-watch-online-free.html
+0.0.0.0 loadercdn.com
+0.0.0.0 6a2adb496b8951e.com
+0.0.0.0 defpush.com
+0.0.0.0 .piguiqproxy.com #Sp?rra alla subdomainer
+0.0.0.0 .amgload.net #Sp?rra alla dom?ner
+0.0.0.0 .smcheck.org #Sp?rra alla dom?ner
+0.0.0.0 amgload.net
+0.0.0.0 piguiqproxy.com
+0.0.0.0 stream-1-2.loadshare.org #Kill Ads in video
+0.0.0.0 stream-3-2.loadshare.org #Kill ads in video
+0.0.0.0 abodealley.com
+0.0.0.0 eseecmoa.com
+0.0.0.0 shoochie.net
+0.0.0.0 roinduk.com
+0.0.0.0 duptx.com
+0.0.0.0 abodealley.com
+0.0.0.0 bruzp.com #Postnord
+0.0.0.0 forcedolphin.com
+0.0.0.0 xml.showcasead.com
+0.0.0.0 www.vidcpm.com
+31.172.81.158 roinduk.com
+31.172.81.158 whegadry.com
+31.172.81.158 asdad.xyz
+
+
+#https://ww2.putlockerfree.sc/tv_series/the-umbrella-academy-season-1/
+0.0.0.0 ationcomotest.club
+0.0.0.0 erssamplet.pro
+0.0.0.0 pixel.erssamplet.pro
+0.0.0.0 daelynn.xyz
+
+#https://www.putlockers.me/movie/ma-25760.html
+#vcstream.to  #Kanskeinte
+31.172.81.158 zap.buzz
+0.0.0.0 xml.adxnexus.com
+0.0.0.0 xml.revrtb.net
+0.0.0.0 xml.popmonetizer.net
+0.0.0.0 www.formenterads.com
+0.0.0.0 mure.work
+0.0.0.0 mptentry.com
+0.0.0.0 partofmediax.com
+0.0.0.0 img.cinehubcdn.com
+0.0.0.0 dynamicadx.com
+
+#https://putlockerstoworld.com/
+0.0.0.0 oukrocky.com
+0.0.0.0 nieveni.com
+0.0.0.0 pushsar.com
+0.0.0.0 feewoajy.net
+0.0.0.0 poazoanu.com
+0.0.0.0 paibopse.com
+
+#https://w2.putlocker.to/episode/beecham-house-season-1-episode-1
+0.0.0.0 hosoojat.net
+0.0.0.0 phengung.net
+0.0.0.0 oodraune.com
+0.0.0.0 koindut.com
+0.0.0.0 codaspani.club
+#0.0.0.0 gomostream.com
+#0.0.0.0 veryserverwow.verystream.net
+0.0.0.0 c.hqq.tv
+#0.0.0.0 hqq.tv #Player
+0.0.0.0 dog1.verystream.com
+31.172.81.158 opsaupsa.com
+https://w2.putlocker.to/75533-watch-feedback-online-for-free-putlockers.html
+
+#https://putlockers.pro/
+#https://putlockers.pro/watch-movie-online/deadpool-2/uilEy5LO-free.html
+0.0.0.0 paumoogo.net
+0.0.0.0 sendmepush.com
+31.172.81.158 dairouzy.net
+0.0.0.0 www.movcpm.com
+
+
+
+#https://putlocker.style/movie/anima/Y4zVG6Cz/AgiqSt2H
+#https://putlocker.style/movie/anima/Y4zVG6Cz/AgiqSt2H-watch-online.html
+0.0.0.0 s20dh7e9dh.com
+#0.0.0.0 oload.life
+0.0.0.0 cdn.acloudvideos.com
+0.0.0.0 acloudvideos.com
+#0.0.0.0 tt1.oload.life
+#0.0.0.0 tt2.oload.life
+#0.0.0.0 tt1.openload.co
+#0.0.0.0 tt2.openload.co
+
+31.172.81.158 wussucko.com
+0.0.0.0 ph2dql.oloadcdn.net
+
+#https://123putlocker.info/series/marvels-agents-of-s-h-i-e-l-d/
+31.172.81.158 taiwhups.net
+31.172.81.158 paibopse.com
+31.172.81.158 stazumik.net
+31.172.81.158 partofmediax.com
+31.172.81.158 phudrour.net
+31.172.81.158 weewhaik.com
+#https://123putlocker.info/episode/marvels-agents-of-s-h-i-e-l-d-season-6-episode-3/
+
 #https://www.pcloud.com/
 0.0.0.0 widget.manychat.com
 
@@ -405,7 +508,7 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 0.0.0.0 doo6pwib3qngu.cloudfront.net
 0.0.0.0 js.mobileoffers-a-download.com
 #https://igg-games.com/cuphead-796218598-free-download.html
-0.0.0.0 deloplen.com
+31.172.81.158 deloplen.com
 0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 #https://hackaday.com/2018/12/17/ultimate-a-useful-tool-for-file-system-hacking/
 0.0.0.0 analytics.supplyframe.com
@@ -2185,7 +2288,6 @@ https://clk.icu/raTE
 #https://openload.co/f/XCVqalTIA2U/AppNee.com.CCleaner.Busi.v5.48.Portable.FR.7z/
 0.0.0.0 go.padstm.com
 31.172.81.158 uod2quk646.com
-0.0.0.0 tt2.openload.co
 31.172.81.158 www.getfun-stuff.com
 31.172.81.158 www.uod2quk646.com
 #Cookies
@@ -3973,15 +4075,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 lucklayed.info
 0.0.0.0 croissed.info
 0.0.0.0 filter.bidrev.net
-#https://1movies.se/movie/pirates-of-the-caribbean-dead-men-tell-no-tales/111900-watch-online-free.html
-#https://1movies.se/allmovies
-0.0.0.0 loadercdn.com
-0.0.0.0 6a2adb496b8951e.com
-0.0.0.0 defpush.com
-0.0.0.0 .piguiqproxy.com #Sp?rra alla subdomainer
-0.0.0.0 .amgload.net #Sp?rra alla dom?ner
-0.0.0.0 stream-1-2.loadshare.org #Kill Ads in video
-0.0.0.0 stream-3-2.loadshare.org #Kill ads in video
 #https://hdonline.eu/movie/the-titan-2018/?ep=6
 0.0.0.0 adexc.net
 0.0.0.0 9e5420f6be48ccc.com
@@ -6298,7 +6391,6 @@ Tiendeo.se
 0.0.0.0 redonetype.com
 31.172.81.158 serve.popads.net
 31.172.81.158 constintptr.com
-0.0.0.0 tt1.openload.co
 0.0.0.0 cdn.engine.phn.doublepimp.com
 31.172.81.158 engine.phn.doublepimp.com
 31.172.81.158 syndication.exdynsrv.com
@@ -6366,7 +6458,6 @@ Tiendeo.se
 0.0.0.0 toolfaster-8234239.pw
 # [VIDEO] Kinox.to / Seehd.ws
 https://www.kinos.to/Stream/Searching.html
-0.0.0.0 piguiqproxy.com
 31.172.81.158 jf71qh5v14.com
 31.172.81.158 pop.bid
 31.172.81.158 tabdevappff.cool
