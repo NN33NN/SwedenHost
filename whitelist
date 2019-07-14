@@ -114,18 +114,6 @@ track.avtrk2manage.com #https://goo.gl/JXZLXE click download
 cdn.shopify.com #blendjet.com
 m.facebook.com # FB-Mobile
 static.ts.360.com #Fix Total360 webpage
-des.smartclip.net #Wifog.com reklam funktion-Anv av Viafree
-ad.sxp.smartclip.net #Wifog.com reklam funktion-Anv av Viafree
-bs.serving-sys.com #Wifog.com reklam funktion
-bid.g.doubleclick.net #Wifog.com reklam funktion
-track.adform.net #Wifog.com reklam funktion
-search.spotxchange.com #Wifog.com reklam funktion
-s1.adform.net #Wifog.com reklam funktion #finns på www.alltforforaldrar.se www.familjeliv.se www.viafree.se
-cdn.flashtalking.com #Wifog.com reklam Media funktion
-secure-ds.serving-sys.com #Wifog(via bs.serving-sys.com.. )
-gcdn.2mdn.net #Wifog(via bid.g.. )
-c.2mdn.net #Wifog.com reklam Media funktion
-googleadapis.l.google.com #Wifog via bid.g.doubleclick.net
 s.youtube.com #YOUTUBE view history
 mssl.fwmrm.net #ViaFree.se Adblock detector
 vidtech.cbsinteractive.com #ZDNet player
@@ -160,9 +148,6 @@ apis.google.com #Google Drive förhandsvisning
 cdn.ampproject.org #Fixa amp länkar i mobilen
 clk.tradedoubler.com #Pricerunner klick
 gllto.glpals.com #GPS server
-youtube-ui.l.google.com #Youtube***Kanske inte
-googlevideo.com #Youtube
-youtube-nocookie.com #Youtube ***Kanske inte
 youtube.com #Youtube
 ytimg.com #Youtube
 ytmg.com #Youtube
