@@ -207,7 +207,7 @@
 0.0.0.0 inference.location.live.net
 0.0.0.0 js.microsoft.com
 0.0.0.0 jslog.krxd.net
-#0.0.0.0 l.facebook.com #För FB ska funka
+#0.0.0.0 l.facebook.com #FÃ¶r FB ska funka
 0.0.0.0 licensing.md.mp.microsoft.com
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 live.rads.msn.com
@@ -295,7 +295,7 @@
 0.0.0.0 s-0008.s-msedge.net
 0.0.0.0 s-0009.s-msedge.net
 0.0.0.0 s.youtube.com
-0.0.0.0 s0.2mdn.net
+#0.0.0.0 s0.2mdn.net #ZDNet Player
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s1.adform.net
 0.0.0.0 sam.msn.com
@@ -368,7 +368,7 @@
 0.0.0.0 to-do.microsoft.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpcnc.googlesyndication.com
-#0.0.0.0 track.adform.net #Klickar på ads redirection tex https://mitti.se/
+#0.0.0.0 track.adform.net #Klickar pÃ¥ ads redirection tex https://mitti.se/
 0.0.0.0 traffic.adxprts.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 tu9srvbirvvtocrjcc1pbi5uyw5vdmlzb3iuaw80.g00.msn.com
@@ -421,7 +421,7 @@
 0.0.0.0 wscont2.apps.microsoft.com
 0.0.0.0 wu.wut.smartscreen.microsoft.com
 0.0.0.0 www-google-analytics.l.google.com
-#0.0.0.0 www.bing.com #Edge sök
+#0.0.0.0 www.bing.com #Edge sÃ¶k
 #0.0.0.0 www.google-analytics.com #Jula
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
@@ -432,4 +432,4 @@
 0.0.0.0 www.youtube-nocookie.com
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 youtube.2cnt.net
-#0.0.0.0 yt3.ggpht.com #Bilder på Websidor och youtube fuktion
+#0.0.0.0 yt3.ggpht.com #Bilder pÃ¥ Websidor och youtube fuktion
