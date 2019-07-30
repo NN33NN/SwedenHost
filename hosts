@@ -23,6 +23,16 @@ https://github.com/scoobydom0/pihole-google/commit/b9888f68c05d27246112635e5dd6d
 #https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 
+#http://judi.bloggplatsen.se/2018/05/05/11532623-als-och-traning/
+0.0.0.0 ads.internet24.se
+
+#https://www.dcshoes-uk.co.uk/
+0.0.0.0 api.cquotient.com
+0.0.0.0 ea.dcshoes-europe.com
+0.0.0.0 widgets.readypulse.com
+0.0.0.0 quiksilver.112.2o7.net
+#0.0.0.0 ssl.quiksilver.com
+
 #https://www.mabra.com/koll-pa-kisset-det-betyder-fargen-pa-ditt-urin/
 0.0.0.0 example.org
 
@@ -3094,8 +3104,17 @@ https://clk.icu/raTE
 0.0.0.0 tss-geotrust-crl.thawte.com
 0.0.0.0 wwis-dubc1-vip*
 #https://blendjet.com/
+#https://loox.io/i/4yQcRUIr8
 0.0.0.0 tracking.ghostmonitor.com
-0.0.0.0 loox.io
+0.0.0.0 sumo-shopify.com
+0.0.0.0 static.klaviyo.com
+0.0.0.0 load.sumo.com
+0.0.0.0 sc-static.net
+0.0.0.0 front.optimonk.com
+0.0.0.0 cdn.weglot.com
+fonts.googleapis.com
+0.0.0.0 editor-upload-cdn.optimonk.com
+0.0.0.0 api.recart.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 cdn.ghostmonitor.com
 0.0.0.0 chimpstatic.com
@@ -4133,6 +4152,7 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 apps.developermedia.com
 #http://www.shopzilla.com/digital-cameras/402/products
 0.0.0.0 advertising.bizrate.com
+0.0.0.0 t.cxt.ms
 0.0.0.0 s.cxt.ms
 0.0.0.0 connexity.net
 #http://corneey.com/wL0hdd
