@@ -153,7 +153,7 @@
 0.0.0.0 inference.location.live.net
 0.0.0.0 js.microsoft.com
 0.0.0.0 jslog.krxd.net
-#0.0.0.0 l.facebook.com #För FB ska funka
+#0.0.0.0 l.facebook.com #FÃ¶r FB ska funka
 0.0.0.0 licensing.md.mp.microsoft.com
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
@@ -282,7 +282,7 @@
 0.0.0.0 to-do.microsoft.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpcnc.googlesyndication.com
-#0.0.0.0 track.adform.net #Klickar på ads redirection tex https://mitti.se/
+#0.0.0.0 track.adform.net #Klickar pÃ¥ ads redirection tex https://mitti.se/
 0.0.0.0 traffic.adxprts.com
 0.0.0.0 tu9srvbirvvtocrjcc1pbi5uyw5vdmlzb3iuaw80.g00.msn.com
 0.0.0.0 uhf.microsoft.com
@@ -326,9 +326,9 @@
 0.0.0.0 wscont1.apps.microsoft.com
 0.0.0.0 wscont2.apps.microsoft.com
 0.0.0.0 wu.wut.smartscreen.microsoft.com
-#0.0.0.0 www.bing.com #Edge sök
+#0.0.0.0 www.bing.com #Edge sÃ¶k
 #0.0.0.0 www.google-analytics.com #Jula
-#0.0.0.0 www.googleadservices.com #Sök på Google
+#0.0.0.0 www.googleadservices.com #SÃ¶k pÃ¥ Google
 #0.0.0.0 www.msftncsi.com
 #0.0.0.0 www.msftncsi.com.edgesuite.net
 0.0.0.0 www.myrappid.com
@@ -338,3 +338,8 @@
 0.0.0.0 youtube.2cnt.net
 #0.0.0.0 yt3.ggpht.com
 #Blackbird#
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 au.download.windowsupdate.com #windows update getting files
+0.0.0.0 download.windowsupdate.com #windows update getting files
+0.0.0.0 insiderservice.microsoft.com
+0.0.0.0 fe2cr.update.microsoft.com
