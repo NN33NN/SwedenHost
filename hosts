@@ -186,6 +186,7 @@ https://www.tenforums.com/tutorials/15523-change-compatibility-mode-settings-app
 0.0.0.0 w2.outlook.com
 
 #Win10 Extra Block
+;https://social.technet.microsoft.com/Forums/windows/en-US/97d91945-b1c6-426a-96bd-393aa82dd36c/what-is-the-web-address-of-the-microsoft-windows-activation-server?forum=w7itproinstall
 #W Update
 0.0.0.0 au.download.windowsupdate.com #windows update getting files
 0.0.0.0 download.windowsupdate.com #windows update getting files
