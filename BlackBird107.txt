@@ -1,4 +1,18 @@
+#Win10 Extra Block
+0.0.0.0 dl.delivery.mp.microsoft.com #windows update getting files
+0.0.0.0 au.download.windowsupdate.com #windows update getting files
+0.0.0.0 download.windowsupdate.com #windows update getting files
+0.0.0.0 insiderservice.microsoft.com
+0.0.0.0 fe2cr.update.microsoft.com #windows update getting files
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 onecollector.cloudapp.aria.akadns.net #Office Telemetry
+0.0.0.0 prod.nexusrules.live.com.akadns.net #Office Telemetry
+0.0.0.0 flightingservicewus.cloudapp.net #Insider Program
+0.0.0.0 onecollector.cloudapp.aria.akadns.net #Office Telemetry
+0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com #Used to serve office 365 experimentation traffic
+
 ##https://www.getblackbird.net/blacklist/hosts.txt
+#https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1803-non-enterprise-editions
 0.0.0.0 112.2o7.net
 0.0.0.0 6to4.ipv6.microsoft.com
 0.0.0.0 a-0001.a-msedge.net
@@ -27,8 +41,8 @@
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 apprep.smartscreen.microsoft.com
 0.0.0.0 apprepsvc-ch1p.smartscreen.microsoft.com
-0.0.0.0 arc.msn.com
-0.0.0.0 arc1.msn.com
+#0.0.0.0 arc.msn.com #windows spotlight
+0.0.0.0 arc1.msn.com #msn ads
 0.0.0.0 ars.smartscreen.microsoft.com
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 at.atwola.com
@@ -72,9 +86,9 @@
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 crl.microsoft.com
 0.0.0.0 cs1.wpc.v0cdn.net
-0.0.0.0 ctldl.windowsupdate.com
+#0.0.0.0 ctldl.windowsupdate.com #Used to download certificates that are publicly known to be fraudulent.
 0.0.0.0 cts.w55c.net
-0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
+0.0.0.0 cy2.settings.data.microsoft.com.akadns.net #Used to communicate with Microsoft Store
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 db5sch101100831.wns.windows.com
@@ -98,7 +112,7 @@
 0.0.0.0 dc.applicationinsights.microsoft.com
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 diagnostics.support.microsoft.com
-0.0.0.0 displaycatalog.mp.microsoft.com
+#0.0.0.0 displaycatalog.mp.microsoft.com #Ms Store Downloads
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 download-ssl.msgamestudios.com
 0.0.0.0 e-0001.e-msedge.net
@@ -125,7 +139,7 @@
 0.0.0.0 fbexternal-a.akamaihd.net
 0.0.0.0 fbstatic-a.akamaihd.net
 0.0.0.0 fe2.update.microsoft.com.akadns.net
-0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net #Enables connections to Windows Update, Microsoft Update, and the online services of Microsoft Store
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
@@ -133,7 +147,7 @@
 0.0.0.0 functionalclam.com
 0.0.0.0 g.bing.com
 0.0.0.0 g.microsoft.com
-0.0.0.0 g.msn.com.nsatc.net
+#0.0.0.0 g.msn.com.nsatc.net #ms spotlight
 0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
@@ -153,13 +167,13 @@
 0.0.0.0 inference.location.live.net
 0.0.0.0 js.microsoft.com
 0.0.0.0 jslog.krxd.net
-#0.0.0.0 l.facebook.com #FÃ¶r FB ska funka
+#0.0.0.0 l.facebook.com #För FB ska funka
 0.0.0.0 licensing.md.mp.microsoft.com
-0.0.0.0 licensing.mp.microsoft.com
+#0.0.0.0 licensing.mp.microsoft.com #Used for online activation and some app licensing.
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
-0.0.0.0 location-inference-westus.cloudapp.net
+#0.0.0.0 location-inference-westus.cloudapp.net #Used for location data (check maps)
 #0.0.0.0 login.live.com #Hotmail
-0.0.0.0 modern.watson.data.microsoft.com.akadns.net
+0.0.0.0 modern.watson.data.microsoft.com.akadns.net #Used by Windows Error Reporting
 0.0.0.0 mpa.one.microsoft.com
 0.0.0.0 msdl.microsoft.com
 0.0.0.0 msedge.net
@@ -171,7 +185,7 @@
 0.0.0.0 oca7.alpha.telemetry.microsoft.com
 0.0.0.0 oca7.ppe.telemetry.microsoft.com
 0.0.0.0 oca8.ppe.telemetry.microsoft.com
-0.0.0.0 ocos-office365-s2s.msedge.net
+#0.0.0.0 ocos-office365-s2s.msedge.net #Used to connect to the Office 365 portal's shared infrastructure
 0.0.0.0 ocsa.office.microsoft.com
 0.0.0.0 office14client.microsoft.com
 0.0.0.0 office15client.microsoft.com
@@ -212,7 +226,7 @@
 0.0.0.0 res1.windows.microsoft.com
 0.0.0.0 res2.windows.microsoft.com
 0.0.0.0 responses.df.telemetry.microsoft.com
-0.0.0.0 ris.api.iris.microsoft.com
+#0.0.0.0 ris.api.iris.microsoft.com #Used to retrieve Windows Spotlight metadata
 0.0.0.0 rmads.msn.com
 0.0.0.0 rr.office.microsoft.com
 0.0.0.0 rt.applicationinsights.microsoft.com
@@ -238,14 +252,14 @@
 0.0.0.0 service.datamart.windows.com
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings-ssl.xboxlive.com
-0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com #Checking settings
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 site-cdn.onenote.net
 0.0.0.0 sitefinder-idn.verisign.com
 0.0.0.0 sitefinder.verisign.com
 0.0.0.0 skydrive.live.com
 0.0.0.0 skypeecs-prod-usw-0-b.cloudapp.net
-0.0.0.0 sls.update.microsoft.com.akadns.net
+0.0.0.0 sls.update.microsoft.com.akadns.net #Enables connections to Windows Update
 #https://social.technet.microsoft.com/Forums/ie/en-US/1119ef94-6050-4953-bc6b-8c7ce6f8ad82/what-is-slsupdatemicrosoftcom-?forum=winserver8gen
 0.0.0.0 smartscreen-os1p.smartscreen.microsoft.com
 0.0.0.0 smartscreen-prod.microsoft.com
@@ -269,7 +283,7 @@
 0.0.0.0 steamih.com
 #0.0.0.0 store-images.s-microsoft.com #Bilder https://www.microsoft.com/en-us/store/collections/mixedreality
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
-0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+#0.0.0.0 storeedgefd.dsx.mp.microsoft.com #Ms Store + Activate Windows
 0.0.0.0 support.content.office.microsoft.com
 0.0.0.0 support.office.microsoft.com
 0.0.0.0 survey.watson.microsoft.com
@@ -282,7 +296,7 @@
 0.0.0.0 to-do.microsoft.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpcnc.googlesyndication.com
-#0.0.0.0 track.adform.net #Klickar pÃ¥ ads redirection tex https://mitti.se/
+#0.0.0.0 track.adform.net #Klickar på ads redirection tex https://mitti.se/
 0.0.0.0 traffic.adxprts.com
 0.0.0.0 tu9srvbirvvtocrjcc1pbi5uyw5vdmlzb3iuaw80.g00.msn.com
 0.0.0.0 uhf.microsoft.com
@@ -326,9 +340,9 @@
 0.0.0.0 wscont1.apps.microsoft.com
 0.0.0.0 wscont2.apps.microsoft.com
 0.0.0.0 wu.wut.smartscreen.microsoft.com
-#0.0.0.0 www.bing.com #Edge sÃ¶k
+#0.0.0.0 www.bing.com #Edge sök
 #0.0.0.0 www.google-analytics.com #Jula
-#0.0.0.0 www.googleadservices.com #SÃ¶k pÃ¥ Google
+#0.0.0.0 www.googleadservices.com #Sök på Google
 #0.0.0.0 www.msftncsi.com
 #0.0.0.0 www.msftncsi.com.edgesuite.net
 0.0.0.0 www.myrappid.com
@@ -338,8 +352,3 @@
 0.0.0.0 youtube.2cnt.net
 #0.0.0.0 yt3.ggpht.com
 #Blackbird#
-0.0.0.0 dl.delivery.mp.microsoft.com
-0.0.0.0 au.download.windowsupdate.com #windows update getting files
-0.0.0.0 download.windowsupdate.com #windows update getting files
-0.0.0.0 insiderservice.microsoft.com
-0.0.0.0 fe2cr.update.microsoft.com
