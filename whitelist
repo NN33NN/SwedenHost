@@ -257,6 +257,8 @@ cdn.jsdelivr.net #Does not load pictres on webpages https://www.hongkiat.com/blo
 arc.msn.com #windows spotlight
 displaycatalog.mp.microsoft.com #Ms Store Downloads
 slscr.update.microsoft.com #ms store app downloads
+tsfe.trafficshaping.dsp.mp.microsoft.com #MS Store App Download
+tlu.dl.delivery.mp.microsoft.com #MS Store App Download
 
 g.msn.com.nsatc.net #ms spotlight
 licensing.mp.microsoft.com #Used for online activation and some app licensing.
