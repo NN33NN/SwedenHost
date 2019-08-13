@@ -256,6 +256,8 @@ cdn.jsdelivr.net #Does not load pictres on webpages https://www.hongkiat.com/blo
 
 arc.msn.com #windows spotlight
 displaycatalog.mp.microsoft.com #Ms Store Downloads
+slscr.update.microsoft.com #ms store app downloads
+
 g.msn.com.nsatc.net #ms spotlight
 licensing.mp.microsoft.com #Used for online activation and some app licensing.
 location-inference-westus.cloudapp.net #Used for location data (check maps)
