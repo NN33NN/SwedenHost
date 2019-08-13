@@ -268,5 +268,6 @@ ocos-office365-s2s.msedge.net #Used to connect to the Office 365 portal's shared
 ris.api.iris.microsoft.com #Used to retrieve Windows Spotlight metadata
 store-images.s-microsoft.com #Bilder https://www.microsoft.com/en-us/store/collections/mixedreality
 storeedgefd.dsx.mp.microsoft.com #Ms Store + Activate Windows
+query.prod.cms.rt.microsoft.com #Windows Spotlight
 www.bing.com #Edge sök
 ctldl.windowsupdate.com #Used to download certificates that are publicly known to be fraudulent.
