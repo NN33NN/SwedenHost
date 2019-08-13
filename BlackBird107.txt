@@ -1,3 +1,8 @@
+#win10 Microsoft Smartscreen Telemetry
+0.0.0.0 checkappexec.Microsoft.com
+0.0.0.0 t.checkappexec.Microsoft.com
+0.0.0.0 canonicalizer.ucsuri.TCS
+
 #https://onedrive.live.com/about/en-us/
 #Microsoft ISO downloader
 0.0.0.0 mem.gfx.ms
