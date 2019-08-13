@@ -8,6 +8,7 @@ https://github.com/anudeepND/blacklist
 https://github.com/Laicure/HostsY_hosts/blob/master/shithosts
 https://dummyimage.com/001x001/ffffff/fff <-Pixel
 
+
 Går ej att blocka: https://kurera.se/expertpanelen/varfor-har-jag-daliga-naglar-och-sprickor-i-tungan/
 #******************************
 #**********War sida
@@ -23,31 +24,184 @@ https://github.com/scoobydom0/pihole-google/commit/b9888f68c05d27246112635e5dd6d
 #https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 
-#http://judi.bloggplatsen.se/2018/05/05/11532623-als-och-traning/
-0.0.0.0 ads.internet24.se
+#Chruncyroll
+#0.0.0.0 an.facebook.com
+#0.0.0.0 static.vrv.co
+#0.0.0.0 fy.v.vrv.co
 
-#https://www.dcshoes-uk.co.uk/
-0.0.0.0 api.cquotient.com
-0.0.0.0 ea.dcshoes-europe.com
-0.0.0.0 widgets.readypulse.com
-0.0.0.0 quiksilver.112.2o7.net
-#0.0.0.0 ssl.quiksilver.com
+#https://onedrive.live.com/about/en-us/
+#Microsoft ISO downloader
+0.0.0.0 mem.gfx.ms
+#0.0.0.0 c.s-microsoft.com
+0.0.0.0 az725175.vo.msecnd.net
+0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 dynmsg.modpim.com
+0.0.0.0 a122.dscg3.akamai.net
+0.0.0.0 a1449.dscg2.akamai.net
+0.0.0.0 a1737.dspw65.akamai.net
+0.0.0.0 aa.online-metrix.net
+0.0.0.0 array608-prod.do.dsp.mp.microsoft.com
+0.0.0.0 cds.p9u4n2q3.hwcdn.net
+0.0.0.0 cmocsp.wosign.com
+0.0.0.0 cs11.wpc.v0cdn.net
+0.0.0.0 cs22.wpc.v0cdn.net
+0.0.0.0 cs9.wac.phicdn.net
+0.0.0.0 e11095.dspg.akamaiedge.net
+0.0.0.0 e12358.g.akamaiedge.net
+0.0.0.0 e13678.dscg.akamaiedge.net
+0.0.0.0 e1706.g.akamaiedge.net
+0.0.0.0 e1723.dscd.akamaiedge.net
+0.0.0.0 e4578.dscg.akamaiedge.net
+0.0.0.0 e55.dspb.akamaiedge.net
+0.0.0.0 f2.shared.global.fastly.net
+0.0.0.0 h-microsoft.online-metrix.net
+0.0.0.0 ocsp-services.uzto.netdna-cdn.com
+0.0.0.0 ocsp.globalsign.cloud
+0.0.0.0 orion.ts.360.com.awsr53.qihucdn.com
+0.0.0.0 update.googleapis.com
+0.0.0.0 venatusmedia-d.openx.net
+0.0.0.0 vs.login.msa.akadns6.net
+0.0.0.0 y6jn8c31-83ab311b16ba82d811849a2bbd62c0a8e207558b-am1.d.aa.online-metrix.net
 
-#https://www.mabra.com/koll-pa-kisset-det-betyder-fargen-pa-ditt-urin/
-0.0.0.0 example.org
+https://www.tenforums.com/tutorials/15523-change-compatibility-mode-settings-apps-windows-10-a.html
+0.0.0.0 loadeu.exelator.com
+0.0.0.0 cdn.threadloom.com
+0.0.0.0 sync.crwdcntrl.net
+0.0.0.0 cat.nl.eu.criteo.com
+0.0.0.0 cas.criteo.com
+0.0.0.0 static.criteo.net
+0.0.0.0 gem.gbc.criteo.com
+0.0.0.0 ag.gbc.criteo.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 api.skimlinks.mgr.consensu.org
+0.0.0.0 r.skimresources.com
+0.0.0.0 s.skimresources.com
+0.0.0.0 i.skimresources.com
+0.0.0.0 p.skimresources.com
+0.0.0.0 t.skimresources.com
+0.0.0.0 x.skimresources.com
+ 
+#https://hclips.com/videos/1766769/chnuggie91-180-effekt-so-fickt-sie-deinen-0.0.0.0 schwanz-bis-zum-anschlag/
+0.0.0.0 tsyndicate.com
+0.0.0.0 pxl.tsyndicate.com
+0.0.0.0 static.exosrv.com
+0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 syndication.exosrv.com
+31.172.81.158 in16.zog.link
+31.172.81.158 in12.zog.link
+31.172.81.158 in14.zog.link
+31.172.81.158 in101.zog.link
+31.172.81.158 in8.zog.link
+0.0.0.0 ssp.zog.link
+0.0.0.0 ads.exosrv.com
+0.0.0.0 script.bangdom.com
+0.0.0.0 st.tubecup.org
+0.0.0.0 ts.clickadilla.com
+0.0.0.0 eu-adsrv.rtbsuperhub.com
+0.0.0.0 bmedia.justservingfiles.net
+0.0.0.0 sw.wpu.sh
+0.0.0.0 events.tubecup.org
+ 
+#https://hb.vntsm.com/v3/live/ad-manager.min.js
+#http://www.xtremetop100.com/
+0.0.0.0 static.h-bid.com
+0.0.0.0 geo.us.h-bid.com
+0.0.0.0 csm.nl.eu.criteo.net
+0.0.0.0 mc.yandex.ru
+0.0.0.0 odr.mookie1.com
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 pm.w55c.net
+0.0.0.0 c1.adform.net
+0.0.0.0 ups.analytics.yahoo.com
+0.0.0.0 ams1-ib.adnxs.com
+0.0.0.0 ads.stickyadstv.com
+0.0.0.0 pixel.advertising.com
+0.0.0.0 idsync.rlcdn.com
+0.0.0.0 track.venatusmedia.com
+0.0.0.0 sync.mathtag.com
+0.0.0.0 ad.360yield.com
+0.0.0.0 eb2.3lift.com
+0.0.0.0 beacon.krxd.net
+0.0.0.0 sync.extend.tv
+0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 farm.plista.com
+0.0.0.0 pre-usermatch.targeting.unrulymedia.com
+0.0.0.0 match.sharethrough.com
+0.0.0.0 appnexus-partners.tremorhub.com
+0.0.0.0 cm.adform.net
+0.0.0.0 cdn0.match2one.net
+0.0.0.0 ap.lijit.com
+0.0.0.0 bidder.criteo.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 pixel.tapad.com
+0.0.0.0 m.adnxs.com
+0.0.0.0 load77.exelator.com
+0.0.0.0 sync.search.spotxchange.com
+0.0.0.0 cdn1.match2one.net
+0.0.0.0 e1.emxdgt.com
+0.0.0.0 ad.turn.com
+0.0.0.0 t.mookie1.com
+0.0.0.0 p.rfihub.com
+0.0.0.0 loadm.exelator.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 t.wayfair.com
+0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 cms.quantserve.com
+0.0.0.0 dis.criteo.com
+0.0.0.0 c.bing.com
+0.0.0.0 hb.vntsm.com
+0.0.0.0 eu-u.openx.net
 
-http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
-0.0.0.0 ds-4047.kxcdn.com
+#https://trakt.tv/shows/another-life-2019
+0.0.0.0 js.stripe.com
+0.0.0.0 m.stripe.network
+0.0.0.0 m.stripe.com
 
-#Shit http://picmoza.com/img-5b83bc366517a.html
-31.172.81.158 grtbzrsndrrtsb.com
-31.172.81.158 popmyads.com
-31.172.81.158 best4211.boloufduj94.agency
-0.0.0.0 popmyads.com
-0.0.0.0 tracking.hurlmedia.design
-0.0.0.0 imzahrwl.xyz
+#https://hittael.se/
+31.172.81.158 track.adtraction.com
+#https://aktiekunskap.nu/category/aktier-nyborjare/
+31.172.81.158 graphics.adrecord.com
+0.0.0.0 img.ascontentcloud.com
+0.0.0.0 impr.adservicemedia.dk
+31.172.81.158 online.adservicemedia.dk
+
+#https://www.zmarta.se/el
+0.0.0.0 8817008.fls.doubleclick.net
+
+#https://www.wine-searcher.com/find/elyx+night/1/-/-/x
+0.0.0.0 collector-pxk6s8okp3.perimeterx.net
+
+#https://www.imgrum.pw/tag/absolutcompany
+#0.0.0.0 unpkg.com #www.zmarta.se Websida visas
+0.0.0.0 nkmsite.com
+
+#https://www.tysklandspecialisterna.se/component/k2/item/1603-kopa-ol-vin-och-sprit-i-tyskland
+#0.0.0.0 aff.bstatic.com
+0.0.0.0 www.zenaps.com
+31.172.81.158 www.awin1.com
+0.0.0.0 ad.zanox.com
+
+#weboutlook ads
+0.0.0.0 w2.outlook.com
+
+#Win10 Extra Block
+#W Update
+0.0.0.0 au.download.windowsupdate.com #windows update getting files
+0.0.0.0 download.windowsupdate.com #windows update getting files
+0.0.0.0 insiderservice.microsoft.com
+0.0.0.0 fe2cr.update.microsoft.com #windows update getting files
+0.0.0.0 emdl.ws.microsoft.com
+0.0.0.0 go.microsoft.com #ms probeing
+0.0.0.0 onecollector.cloudapp.aria.akadns.net #Office Telemetry
+0.0.0.0 prod.nexusrules.live.com.akadns.net #Office Telemetry
+0.0.0.0 flightingservicewus.cloudapp.net #Insider Program
+0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com #Used to serve office 365 experimentation traffic
+0.0.0.0 tring.clo.footprintdns.com
+0.0.0.0 t-ring.msedge.net
 
 ##https://www.getblackbird.net/blacklist/hosts.txt
+#https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1803-non-enterprise-editions
 0.0.0.0 112.2o7.net
 0.0.0.0 6to4.ipv6.microsoft.com
 0.0.0.0 a-0001.a-msedge.net
@@ -76,8 +230,8 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 apprep.smartscreen.microsoft.com
 0.0.0.0 apprepsvc-ch1p.smartscreen.microsoft.com
-0.0.0.0 arc.msn.com
-0.0.0.0 arc1.msn.com
+#0.0.0.0 arc.msn.com #windows spotlight
+0.0.0.0 arc1.msn.com #msn ads
 0.0.0.0 ars.smartscreen.microsoft.com
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 at.atwola.com
@@ -121,9 +275,9 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 crl.microsoft.com
 0.0.0.0 cs1.wpc.v0cdn.net
-0.0.0.0 ctldl.windowsupdate.com
+#0.0.0.0 ctldl.windowsupdate.com #Used to download certificates that are publicly known to be fraudulent.
 0.0.0.0 cts.w55c.net
-0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
+0.0.0.0 cy2.settings.data.microsoft.com.akadns.net #Used to communicate with Microsoft Store
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 db5sch101100831.wns.windows.com
@@ -147,7 +301,7 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 dc.applicationinsights.microsoft.com
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 diagnostics.support.microsoft.com
-0.0.0.0 displaycatalog.mp.microsoft.com
+#0.0.0.0 displaycatalog.mp.microsoft.com #Ms Store Downloads
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 download-ssl.msgamestudios.com
 0.0.0.0 e-0001.e-msedge.net
@@ -174,7 +328,7 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 fbexternal-a.akamaihd.net
 0.0.0.0 fbstatic-a.akamaihd.net
 0.0.0.0 fe2.update.microsoft.com.akadns.net
-0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net #Enables connections to Windows Update, Microsoft Update, and the online services of Microsoft Store
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
@@ -182,7 +336,7 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 functionalclam.com
 0.0.0.0 g.bing.com
 0.0.0.0 g.microsoft.com
-0.0.0.0 g.msn.com.nsatc.net
+#0.0.0.0 g.msn.com.nsatc.net #ms spotlight
 0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
@@ -204,11 +358,11 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 jslog.krxd.net
 #0.0.0.0 l.facebook.com #För FB ska funka
 0.0.0.0 licensing.md.mp.microsoft.com
-0.0.0.0 licensing.mp.microsoft.com
+#0.0.0.0 licensing.mp.microsoft.com #Used for online activation and some app licensing.
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
-0.0.0.0 location-inference-westus.cloudapp.net
+#0.0.0.0 location-inference-westus.cloudapp.net #Used for location data (check maps)
 #0.0.0.0 login.live.com #Hotmail
-0.0.0.0 modern.watson.data.microsoft.com.akadns.net
+0.0.0.0 modern.watson.data.microsoft.com.akadns.net #Used by Windows Error Reporting
 0.0.0.0 mpa.one.microsoft.com
 0.0.0.0 msdl.microsoft.com
 0.0.0.0 msedge.net
@@ -220,7 +374,7 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 oca7.alpha.telemetry.microsoft.com
 0.0.0.0 oca7.ppe.telemetry.microsoft.com
 0.0.0.0 oca8.ppe.telemetry.microsoft.com
-0.0.0.0 ocos-office365-s2s.msedge.net
+#0.0.0.0 ocos-office365-s2s.msedge.net #Used to connect to the Office 365 portal's shared infrastructure
 0.0.0.0 ocsa.office.microsoft.com
 0.0.0.0 office14client.microsoft.com
 0.0.0.0 office15client.microsoft.com
@@ -261,7 +415,7 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 res1.windows.microsoft.com
 0.0.0.0 res2.windows.microsoft.com
 0.0.0.0 responses.df.telemetry.microsoft.com
-0.0.0.0 ris.api.iris.microsoft.com
+#0.0.0.0 ris.api.iris.microsoft.com #Used to retrieve Windows Spotlight metadata
 0.0.0.0 rmads.msn.com
 0.0.0.0 rr.office.microsoft.com
 0.0.0.0 rt.applicationinsights.microsoft.com
@@ -287,14 +441,14 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 service.datamart.windows.com
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings-ssl.xboxlive.com
-0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com #Checking settings
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 site-cdn.onenote.net
 0.0.0.0 sitefinder-idn.verisign.com
 0.0.0.0 sitefinder.verisign.com
 0.0.0.0 skydrive.live.com
 0.0.0.0 skypeecs-prod-usw-0-b.cloudapp.net
-0.0.0.0 sls.update.microsoft.com.akadns.net
+0.0.0.0 sls.update.microsoft.com.akadns.net #Enables connections to Windows Update
 #https://social.technet.microsoft.com/Forums/ie/en-US/1119ef94-6050-4953-bc6b-8c7ce6f8ad82/what-is-slsupdatemicrosoftcom-?forum=winserver8gen
 0.0.0.0 smartscreen-os1p.smartscreen.microsoft.com
 0.0.0.0 smartscreen-prod.microsoft.com
@@ -316,9 +470,9 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 steamih.com
-0.0.0.0 store-images.s-microsoft.com
+#0.0.0.0 store-images.s-microsoft.com #Bilder https://www.microsoft.com/en-us/store/collections/mixedreality
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
-0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+#0.0.0.0 storeedgefd.dsx.mp.microsoft.com #Ms Store + Activate Windows
 0.0.0.0 support.content.office.microsoft.com
 0.0.0.0 support.office.microsoft.com
 0.0.0.0 survey.watson.microsoft.com
@@ -387,6 +541,31 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 youtube.2cnt.net
 #0.0.0.0 yt3.ggpht.com
 #Blackbird#
+
+
+#http://judi.bloggplatsen.se/2018/05/05/11532623-als-och-traning/
+0.0.0.0 ads.internet24.se
+
+#https://www.dcshoes-uk.co.uk/
+0.0.0.0 api.cquotient.com
+0.0.0.0 ea.dcshoes-europe.com
+0.0.0.0 widgets.readypulse.com
+0.0.0.0 quiksilver.112.2o7.net
+#0.0.0.0 ssl.quiksilver.com
+
+#https://www.mabra.com/koll-pa-kisset-det-betyder-fargen-pa-ditt-urin/
+0.0.0.0 example.org
+
+http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
+0.0.0.0 ds-4047.kxcdn.com
+
+#Shit http://picmoza.com/img-5b83bc366517a.html
+31.172.81.158 grtbzrsndrrtsb.com
+31.172.81.158 popmyads.com
+31.172.81.158 best4211.boloufduj94.agency
+0.0.0.0 popmyads.com
+0.0.0.0 tracking.hurlmedia.design
+0.0.0.0 imzahrwl.xyz
 
 #https://www.mabra.com/wp-content/plugins/se-wordpress-gdpr/.well-known/vendorlist.json
 # Privacy Adservers
@@ -830,20 +1009,16 @@ http://www.traditionellkinesiskmedicin.se/diagnos/tungan/
 0.0.0.0 openbid.pubmatic.com
 0.0.0.0 hbint.emxdgt.com
 0.0.0.0 jwplayer.eb.tremorhub.com
-0.0.0.0 an.facebook.com
 0.0.0.0 vpb-cache.jwplayer.com
 0.0.0.0 g.jwpsrv.com
 0.0.0.0 i.jwpsrv.com
-0.0.0.0 api.skimlinks.mgr.consensu.org
 0.0.0.0 api1.lightboxcdn.com
-0.0.0.0 p.skimresources.com
 0.0.0.0 static.adsafeprotected.com
 #https://www.cafemom.com/
 #https://forums.macrumors.com/threads/safari-help-http-0-r-bat-bing-com.2064868/
 0.0.0.0 t.neodatagroup.com
 0.0.0.0 www.newscurve.com
 0.0.0.0 d.neodatagroup.com
-0.0.0.0 www.neodatagroup.com
 0.0.0.0 track.netshelter.net
 0.0.0.0 54109422.r.bat.bing.com
 0.0.0.0 150107589.r.bat.bing.com
@@ -958,13 +1133,6 @@ https://w2.putlocker.to/75533-watch-feedback-online-for-free-putlockers.html
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 8166291.fls.doubleclick.net
 0.0.0.0 marketing.dropbox.com
-#https://onedrive.live.com/about/en-us/
-0.0.0.0 mem.gfx.ms
-0.0.0.0 c.s-microsoft.com
-0.0.0.0 az725175.vo.msecnd.net
-0.0.0.0 web.vortex.data.microsoft.com
-0.0.0.0 query.prod.cms.rt.microsoft.com
-0.0.0.0 dynmsg.modpim.com
 #Amazone.com
 0.0.0.0 unagi-na.amazon.com
 #https://dailyuploads.net/o7jwppo332p0
@@ -1138,12 +1306,10 @@ https://ddl.to/l24k689gj0bl
 0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 sdktm.w.inmobi.com
 0.0.0.0 telemetry.sdk.inmobi.com
-0.0.0.0 www.inmobi.com
 0.0.0.0 dock.inmobi.com
 0.0.0.0 i.l.inmobicdn.cn
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 arcus-uswest.amazon.com
-0.0.0.0 www.smaato.com
 0.0.0.0 a913.smaato.net
 0.0.0.0 cw50.smaato.net
 0.0.0.0 sdk-android.ad.smaato.net
@@ -1248,12 +1414,10 @@ https://txxx.com/videos/8708725/mature-french-slut/?promo=10376
 0.0.0.0 rs.gwallet.com
 0.0.0.0 ramp.purch.com
 #https://m.pornoxo.com/videos/1510476/innocent-teen-groped-to-orgasm-on-a-bus-scene-4/
-0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 yandexmetrica.com
 0.0.0.0 metrika-informer.com
 0.0.0.0 informer.yandex.ru
 0.0.0.0 mc.webvisor.org
-0.0.0.0 mc.yandex.ru
 0.0.0.0 mc.yandexsport.ru
 0.0.0.0 mc.kinopoisk.ru
 0.0.0.0 mc.beru.ru
@@ -1871,7 +2035,6 @@ https://trends.builtwith.com/ads/Prebid
 https://static.h-bid.com/prebid/1.15.0-pre/prebid.js
 #an.facebook.com
 0.0.0.0 ads.reddit.com
-0.0.0.0 static.h-bid.com
 0.0.0.0 www.anrdoezrs.net
 #https://vetusware.com/download/Mini-Windows%203.11/?id=12609
 0.0.0.0 epnt.ebay.com
@@ -1992,8 +2155,6 @@ https://www.babyshowertips.se/
 0.0.0.0 redistats.com
 0.0.0.0 www.adrecord.com
 #https://www.delupe.se
-0.0.0.0 cat.nl.eu.criteo.com
-0.0.0.0 cas.criteo.com
 #https://www.delupe.se/new/template/shop_api/script/dist/all.123.js
 #www.allaannonser.se
 0.0.0.0 mtst.io
@@ -2105,7 +2266,6 @@ www.kbtx.com
 0.0.0.0 api.lytics.io
 0.0.0.0 secure.polldaddy.com
 #https://www.whathifi.com/news/lg-confirms-8k-oled-and-lcd-tvs-for-2019
-0.0.0.0 r.skimresources.com
 0.0.0.0 sync-jp.im-apps.net
 https://88mallonline.com/
 0.0.0.0 nexusmedia-ua.github.io
@@ -2838,21 +2998,15 @@ search.spotxchange.com
 0.0.0.0 eu2.madsone.com
 0.0.0.0 demo.madsone.com
 0.0.0.0 tps30.doubleverify.com
-0.0.0.0 pm.w55c.net
 0.0.0.0 stat240.flashtalking.com
-0.0.0.0 c1.adform.net
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 r.turn.com
-0.0.0.0 sync.mathtag.com
-0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 stats.smartclip.net
 0.0.0.0 loadus.exelator.com
-0.0.0.0 loadeu.exelator.com
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 dsp.adfarm1.adition.com
-0.0.0.0 load77.exelator.com
 0.0.0.0 d5p.de17a.com
 0.0.0.0 visitanalytics.userreport.com
 0.0.0.0 servedby.flashtalking.com
@@ -2900,8 +3054,7 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 0.0.0.0 cdn.raygun.io
 0.0.0.0 api.raygun.io
 0.0.0.0 targetp.emsecure.net
-#https://aktiekunskap.nu/category/aktier-nyborjare/
-0.0.0.0 graphics.adrecord.com
+
 #nordea.se
 0.0.0.0 policy.cookiereports.com
 #www.swedbank.se
@@ -3107,7 +3260,6 @@ https://clk.icu/raTE
 #https://loox.io/i/4yQcRUIr8
 0.0.0.0 tracking.ghostmonitor.com
 0.0.0.0 sumo-shopify.com
-0.0.0.0 static.klaviyo.com
 0.0.0.0 load.sumo.com
 0.0.0.0 sc-static.net
 0.0.0.0 front.optimonk.com
@@ -3148,7 +3300,6 @@ fonts.googleapis.com
 #https://whatismyipaddress.com/hostname-ip
 0.0.0.0 sb.l.google.com
 0.0.0.0 nexus-long-poller-a.intercom.io
-#Spam
 31.172.81.158 vshred.com
 31.172.81.158 gogool.com
 31.172.81.158 ww1.gogool.com
@@ -3256,7 +3407,6 @@ fonts.googleapis.com
 31.172.81.158 forms.convertkit.com
 31.172.81.158 sumomethumbs-140a.kxcdn.com
 31.172.81.158 sumomewelcomemat-140a.kxcdn.com
-0.0.0.0 load.sumo.com
 0.0.0.0 sumo.b-cdn.net
 0.0.0.0 sumo.com
 #https://www.bl.ink/features/
@@ -3452,7 +3602,6 @@ fonts.googleapis.com
 #https://www.overclock.net/forum/18049-network-hardware/1605759-n66u-router-loosing-connection.html
 0.0.0.0 fundingchoices.google.com
 0.0.0.0 contributor.google.com
-0.0.0.0 cdn.threadloom.com
 #http://linkshrink.net/75dexS
 0.0.0.0 betclick.hs.llnwd.net
 0.0.0.0 d.la1-c1-frf.salesforceliveagent.com
@@ -3666,7 +3815,6 @@ https://www83.zippyshare.com/v/cwWzpMB1/file.html
 0.0.0.0 my.mobfox.com
 0.0.0.0 papi.mynativeplatform.com
 0.0.0.0 adn.admixer.co.kr
-0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 match.adsrvr.org
 0.0.0.0 show.oneplanetonly.com
 0.0.0.0 onetag-sys.com
@@ -3817,7 +3965,6 @@ https://www.yandex.com.mobi
 0.0.0.0 i2-jzbngaccfthscplbziqybcxobnpqzo.init.cedexis-0.0.0.0 radar.net
 0.0.0.0 secure-ds.serving-sys.com
 bs.serving-sys.com
-0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 gcdn.2mdn.net
 gcdn.2mdn.net
 0.0.0.0
@@ -4070,7 +4217,6 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 www.audiencemanager.de
 0.0.0.0 www.hlserve.com
 0.0.0.0 www.infectiousmedia.com
-0.0.0.0 www.leiki.com
 0.0.0.0 www.rlcdn.com
 0.0.0.0 www.wearemiq.com
 0.0.0.0 yoc.optout.redirectingat.com
@@ -4090,14 +4236,13 @@ https://www.lexpress.fr/actualite/politique/serge-dassault-demande-la-levee-de-s
 0.0.0.0 rtb.sitescout.com
 0.0.0.0 sync.im-apps.net
 0.0.0.0 tag.clrstm.com
-0.0.0.0 www.acuityads.com
 0.0.0.0 www.aggregateknowledge.com
 0.0.0.0 www.clearstream.tv
 0.0.0.0 www.lijit.com
 0.0.0.0 www.valassisdigital.com
 # https://sourceforge.net/projects/asuswrt-merlin/files/
 0.0.0.0 analytics.slashdotmedia.com
-0.0.0.0 audit.quantcast.mgr.consensu.org
+#0.0.0.0 audit.quantcast.mgr.consensu.org
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
 0.0.0.0 dfp.bizx.info
 0.0.0.0 dmx.districtm.io
@@ -4707,7 +4852,6 @@ Refunder %rabatt
 0.0.0.0 status.dixa.io
 #SVD.se
 # https://www.svd.se/valbetalda-ex-direktorerna-pa-elefantkyrkogarden
-0.0.0.0 collector.brandmetrics.com
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 engage-auth.schibsted.media
 0.0.0.0 schema.schibsted.com
@@ -4723,7 +4867,6 @@ Refunder %rabatt
 script.ioam.de/iam.js
 0.0.0.0 console.appnexus.com
 0.0.0.0 wiki.appnexus.com
-0.0.0.0 www.appnexus.com
 0.0.0.0 71i.nuggad.net
 .nuggad.net
 0.0.0.0 resources-production.la.welt.de
@@ -4745,7 +4888,6 @@ script.ioam.de/iam.js
 0.0.0.0 t4ft.de
 0.0.0.0 json.bild.de
 0.0.0.0 bt.mediaimpact.de
-0.0.0.0 odr.mookie1.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 axel-springer-d.openx.net
 0.0.0.0 fra1-ib.adnxs.com
@@ -4883,7 +5025,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 appnexus.com
 0.0.0.0 casale-cm.p.veruta.com
 0.0.0.0 r.casalemedia.com
-0.0.0.0 p.rfihub.com
 0.0.0.0 rfihub.com
 0.0.0.0 pagefair.net
 0.0.0.0 rumble.com
@@ -4902,11 +5043,9 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 conf.xpanama.net
 0.0.0.0 invocation.combotag.com
 0.0.0.0 serve2.combotag.com
-0.0.0.0 eu-u.openx.net
 0.0.0.0 pixel2.combotag.com
 0.0.0.0 pixel.reactrmod.com
 0.0.0.0 px.powerlinks.com
-0.0.0.0 t.mookie1.com
 0.0.0.0 ibn.adnxs.com
 0.0.0.0 bid.socdm.com
 0.0.0.0 g.cwkuki.com
@@ -4918,26 +5057,17 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 sync3.adsniper.ru ##33
 0.0.0.0 usync.nexage.com
 0.0.0.0 lb.statsevent.com
-0.0.0.0 x.skimresources.com
 0.0.0.0 tg.socdm.com
 0.0.0.0 t.tellapart.com
-0.0.0.0 t.wayfair.com
 0.0.0.0 sync.ligadx.com
 0.0.0.0 sync.jivox.com
 0.0.0.0 s.thebrighttag.com
-0.0.0.0 pre-usermatch.targeting.unrulymedia.com
-0.0.0.0 cms.quantserve.com
-0.0.0.0 c.bing.com
-0.0.0.0 appnexus-partners.tremorhub.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 cs.adingo.jp
 0.0.0.0 dh.serving-sys.com
-0.0.0.0 dis.criteo.com
-0.0.0.0 eb2.3lift.com
 0.0.0.0 ebdr3.com
 0.0.0.0 fcs.zedo.com
 0.0.0.0 epiv.cardlytics.com
-0.0.0.0 e1.emxdgt.com
 #Hyper hero
 0.0.0.0 static.imsbiz.com
 # https://nyheter24.se/modette/livsstil/903102-darfor-ska-du-inte-duscha-pa-morgonen
@@ -4978,7 +5108,7 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 morrison-software.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 config.edge.skype.com
+#0.0.0.0 config.edge.skype.com #retrieve Skype configuration values
 ## [ANDROID APP] Terrarium TV https://github.com/AdAway/AdAway/issues/922
 0.0.0.0 ads.avocarrot.com
 0.0.0.0 ads30.adcolony.com
@@ -5050,26 +5180,37 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 dev.appboy.com
 0.0.0.0 sondheim.appboy.com
 0.0.0.0 static.crunchyroll.com
-#0.0.0.0 static.vrv.co
 0.0.0.0 testonly.conviva.com
 0.0.0.0 ads.intergi.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 1lniu-yllm6.ads.tremorhub.com
 0.0.0.0 static.pub-ecommerce.crunchyroll.com
+#crunchyroll 2019-07-31 #https://www.reddit.com/r/pihole/comments/cid3t8/blocking_crunchyroll_ads_solved/
+0.0.0.0 1771968717.rsc.cdn77.org
+0.0.0.0 23-ak-df9fb22a88ad420abf8c365738dd37cb.vip2-iad1.dlvr1.net
+0.0.0.0 25-ak-df9fb22a88ad420abf8c365738dd37cb.vip2-lga1.dlvr1.net
+0.0.0.0 25-fa-df9fb22a88ad420abf8c365738dd37cb.vip2-mia1.dlvr1.net
+0.0.0.0 api.mapbox.com
+0.0.0.0 beacons-dual-808847889.us-east-1.elb.amazonaws.com
+0.0.0.0 content.businessinfoline.com
+0.0.0.0 dntcl.qualaroo.com
+0.0.0.0 ellation.map.fastly.net
+0.0.0.0 pcva3.manifest.auditude.com
+0.0.0.0 scone-pa.clients6.google.com
+0.0.0.0 tile-service.weather.microsoft.com
+0.0.0.0 vrv-eec.etp-prod.com
+0.0.0.0 ytstatic.l.google.com
 #Chromecast crunchyroll
 0.0.0.0 5fd74.v.fwmrm.net #Must be blocked in router
 0.0.0.0 laxmvpdvip2.fwmrm.net
 0.0.0.0 longslb1.fwmrm.net
 0.0.0.0 nycgslb1.fwmrm.net
-0.0.0.0 NYCGSLB1.fwmrm.net
 0.0.0.0 svlgslb1.fwmrm.net
-0.0.0.0 SVLGSLB1.fwmrm.net
 0.0.0.0 amsgslb1.fwmrm.net
 0.0.0.0 ashgslb1.fwmrm.net
 0.0.0.0 laxgslb1.fwmrm.net
 0.0.0.0 spotxchange.com
-0.0.0.0 www.spotx.tv
 0.0.0.0 c1.rfihub.net
 0.0.0.0 singlewomenmeet.com
 0.0.0.0 d3p2b5qewrnsyv.cloudfront.net
@@ -5079,9 +5220,8 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 promo.bestcasino.com
 0.0.0.0 join.casino.com
 0.0.0.0 cdn2.inner-active.mobi
-0.0.0.0 3086.content.Swrve.com
 0.0.0.0 cdn.branch.io
-0.0.0.0 app.adjust.com
+31.172.81.158 app.adjust.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 plg2.yumenetworks.com
 0.0.0.0 static.subcdn.com
@@ -5185,7 +5325,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 video.appledaily.com.hk
 0.0.0.0 videonuz.ensonhaber.com
 0.0.0.0 videoplaza.tv
-0.0.0.0 freewheel.tv
 0.0.0.0 vpaid.doubleverify.com
 0.0.0.0 vast.doubleverify.com
 0.0.0.0 pxsrv.net
@@ -5275,11 +5414,9 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 csync.smartadserver.com
 0.0.0.0 click2go.link
 0.0.0.0 d.turn.com
-0.0.0.0 ad.turn.com
 0.0.0.0 www.junbi-tracker.com
 0.0.0.0 hicpm5.com
 0.0.0.0 higheurest.com
-0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ads.mopub.com
 #CCleaner.com  https://en.softonic.com/download/ccleaner-portable/windows/post-download?sl=1
@@ -5483,7 +5620,6 @@ Metro.se
 209.244.0.3 haggilder.com
 #Msn.com Outlook.com
 0.0.0.0 prod.video.msn.com
-0.0.0.0 m.adnxs.com
 0.0.0.0 .adnxs.com
 0.0.0.0 adnxs.com
 0.0.0.0 cdn.at.atwola.com
@@ -5534,7 +5670,6 @@ Tiendeo.se
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
-0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -5773,7 +5908,6 @@ Tiendeo.se
 0.0.0.0 doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 pagead46.l.doubleclick.net
 # [ADS] Google Youtube
@@ -5926,7 +6060,6 @@ Tiendeo.se
 0.0.0.0 popup.taboola.com
 0.0.0.0 www.popup.taboola.com
 0.0.0.0 taboola.com
-0.0.0.0 www.taboola.com
 0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 www.taboolasyndication.com
@@ -6255,7 +6388,6 @@ Tiendeo.se
 # [News] 24uppsala.se
 0.0.0.0 adx.adform.net
 0.0.0.0 i.ctnsnet.com
-0.0.0.0 cm.adform.net
 # [News] Aftonbladet Sport
 0.0.0.0 cdn.krxd.net
 0.0.0.0 jssdk.pulse.schibsted.com
@@ -6319,10 +6451,8 @@ Tiendeo.se
 # [News] Cafemom.com
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 ce.lijit.com
-0.0.0.0 pixel.advertising.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 vidsync.rlcdn.com
-0.0.0.0 beacon.krxd.net
 0.0.0.0 data.adsrvr.org
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 adserver-us.adtech.advertising.com
@@ -6380,7 +6510,6 @@ Tiendeo.se
 0.0.0.0 pa.rxthdr.com
 0.0.0.0 s.ntv.io
 0.0.0.0 js.matheranalytics.com
-0.0.0.0 ap.lijit.com
 0.0.0.0 t.brand-server.com
 0.0.0.0 www.npttech.com
 # [News] DI.se <- Tillg?ng till premium text samt weekend delen.
@@ -6395,10 +6524,8 @@ Tiendeo.se
 0.0.0.0 hittahem.table.core.windows.net
 0.0.0.0 s0-cdn.hittahem.se
 0.0.0.0 assets.bonad.io
-0.0.0.0 ad.360yield.com
 0.0.0.0 adserver.adtech.de
 0.0.0.0 ads.creative-serving.com
-0.0.0.0 ib.adnxs.com
 0.0.0.0 ms-ads-statistics-master.servicebus.windows.net
 0.0.0.0 dn-se.c.richmetrics.com
 0.0.0.0 dco.smartclip.net
@@ -6489,12 +6616,9 @@ Tiendeo.se
 # [News] Gd.se
 0.0.0.0 gd.ecsanalytics.com
 0.0.0.0 common.ecsanalytics.com
-0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 p502.atemda.com
 0.0.0.0 sifomedia.tidningsnatet.se
 0.0.0.0 ues.mmcloud.se
-0.0.0.0 bidder.criteo.com
-0.0.0.0 static.criteo.net
 # [News] Helagotland.se
 0.0.0.0 widget.boende.se
 0.0.0.0 survey.webstatus.v2.userneeds.dk
@@ -6529,7 +6653,6 @@ Tiendeo.se
 0.0.0.0 samizdat-graphql.nytimes.com
 0.0.0.0 a.nytimes.com
 #0.0.0.0 mwcm.nyt.com #test 2018-11-27 to get https://www.nytimes.com/subscription/inyt/lp8U87J.html?campaignId=7UXFY&gclid=EAIaIQobChMI4oSnsLvz3gIVAbDtCh2LjA-SEAAYASAAEgKvffD_BwE
-0.0.0.0 Media.net
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 ct.pinterest.com
@@ -6730,7 +6853,6 @@ Tiendeo.se
 0.0.0.0 cookie.brealtime.com
 0.0.0.0 delivery.swid.switchadhub.com
 0.0.0.0 px.owneriq.net
-0.0.0.0 pixel.tapad.com
 # [WEB] Blog.juriba.com
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsforms.net
@@ -6864,7 +6986,6 @@ Tiendeo.se
 0.0.0.0 ads.nordichardware.se
 # [WEB] Onmsft.com
 0.0.0.0 a.zdbb.net
-0.0.0.0 t.skimresources.com
 0.0.0.0 ns.zdbb.net
 0.0.0.0 widgets.stackcommerce.com
 # [WEB] Pri.org
@@ -6884,7 +7005,6 @@ Tiendeo.se
 0.0.0.0 ads.kelkoo.com
 0.0.0.0 adservice.kelkoo.se
 # [WEB] PS4news.com
-0.0.0.0 ads.stickyadstv.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 rp.gwallet.com
 # [WEB] Scloud.ws
@@ -6939,7 +7059,6 @@ Tiendeo.se
 0.0.0.0 rtb.districtm.io
 0.0.0.0 tags.h12-media.com
 0.0.0.0 w.theoutplay.com
-0.0.0.0 s.skimresources.com
 0.0.0.0 stats.wp.com
 0.0.0.0 d2na2p72vtqyok.cloudfront.net
 0.0.0.0 www.insticator.com
@@ -6987,7 +7106,6 @@ Tiendeo.se
 0.0.0.0 cdn.boomtrain.com
 0.0.0.0 d3r7h55ola878c.cloudfront.net
 # [WEB] Yahoo
-0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 player.aniview.com
 0.0.0.0 cdn.w55c.net
 0.0.0.0 token.rubiconproject.com
@@ -7044,7 +7162,6 @@ Tiendeo.se
 0.0.0.0 ads.zdnet.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 ps.ns-cdn.com
-0.0.0.0 gum.criteo.com
 0.0.0.0 cdn.clicktale.net
 0.0.0.0 ml314.com
 0.0.0.0 in.ml314.com
@@ -7059,7 +7176,6 @@ Tiendeo.se
 0.0.0.0 www.everestjs.net
 0.0.0.0 dw.cbsimg.net
 0.0.0.0 www.lightboxcdn.com
-0.0.0.0 loadm.exelator.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 dpm.demdex.net
@@ -7079,7 +7195,6 @@ Tiendeo.se
 0.0.0.0 asset.pagefair.com
 0.0.0.0 tru.am
 0.0.0.0 pixel.rubiconproject.com
-0.0.0.0 idsync.rlcdn.com
 0.0.0.0 pippio.com
 # [VIDEO] 1movies.tv (Does not work on internet explorer)
 0.0.0.0 d2gt9oovykfp1z.cloudfront.net
@@ -7373,8 +7488,6 @@ https://www.kinos.to/Stream/Searching.html
 31.172.81.158 crptentry.com
 # [XXX] Motherless.com
 31.172.81.158 ads.exoclick.com
-0.0.0.0 cdn.tsyndicate.com
-0.0.0.0 pxl.tsyndicate.com
 31.172.81.158 tsyndicate.com
 0.0.0.0 cdn1ht.traffichaus.com
 0.0.0.0 secure.medleyads.com
