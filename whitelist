@@ -2,6 +2,8 @@ www.msftncsi.com #Windows 10 Network/Connection check
 dns.msftncsi.com #Windows 10 Network/Connection check
 ipv6.msftncsi.com #Windows 10 Network/Connection check
 msftncsi.com #Windows 10 Network/Connection check
+www.msftncsi.com.edgesuite.net #Windows 10 Network/Connection check
+
 www.googleadservices.com #GoogleSearch Ad-click
 ad-emea.doubleclick.net #GoogleSearch Ad-click
 ad-server.one.com #GoogleSearch Ad-click
@@ -249,3 +251,16 @@ click.adtraction.com #hittael.se/
 s.click.aliexpress.com #Click ref
 c.s-microsoft.com #Download MS ISO wont work.
 cdn.jsdelivr.net #Does not load pictres on webpages https://www.hongkiat.com/blog/windows-explorer-pro-tips/
+
+arc.msn.com #windows spotlight
+displaycatalog.mp.microsoft.com #Ms Store Downloads
+g.msn.com.nsatc.net #ms spotlight
+licensing.mp.microsoft.com #Used for online activation and some app licensing.
+location-inference-westus.cloudapp.net #Used for location data (check maps)
+login.live.com #Hotmail
+ocos-office365-s2s.msedge.net #Used to connect to the Office 365 portal's shared infrastructure
+ris.api.iris.microsoft.com #Used to retrieve Windows Spotlight metadata
+store-images.s-microsoft.com #Bilder https://www.microsoft.com/en-us/store/collections/mixedreality
+storeedgefd.dsx.mp.microsoft.com #Ms Store + Activate Windows
+www.bing.com #Edge sök
+ctldl.windowsupdate.com #Used to download certificates that are publicly known to be fraudulent.
