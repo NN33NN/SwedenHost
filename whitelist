@@ -3,6 +3,8 @@ dns.msftncsi.com #Windows 10 Network/Connection check
 ipv6.msftncsi.com #Windows 10 Network/Connection check
 msftncsi.com #Windows 10 Network/Connection check
 www.msftncsi.com.edgesuite.net #Windows 10 Network/Connection check
+www.msftconnecttest.com #Windows 10 web Connection check
+ipv6.msftconnecttest.com #Windows 10 web Connection check
 
 www.googleadservices.com #GoogleSearch Ad-click
 ad-emea.doubleclick.net #GoogleSearch Ad-click
