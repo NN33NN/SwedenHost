@@ -29,6 +29,15 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 #0.0.0.0 static.vrv.co
 #0.0.0.0 fy.v.vrv.co
 
+#ccleaner
+0.0.0.0 ccleaner.tools.avcdn.net
+
+#https://www.majorgeeks.com/files/details/unlocker.html
+0.0.0.0 ra.majorgeeks.com
+0.0.0.0 cdn.thisiswaldo.com
+#https://cse.google.com/adsense/search/async-ads.js
+0.0.0.0 cdn-images.mailchimp.com
+
 #https://onedrive.live.com/about/en-us/
 #Microsoft ISO downloader
 0.0.0.0 mem.gfx.ms
@@ -184,6 +193,11 @@ https://www.tenforums.com/tutorials/15523-change-compatibility-mode-settings-app
 
 #weboutlook ads
 0.0.0.0 w2.outlook.com
+
+#win10 Microsoft Smartscreen Telemetry
+0.0.0.0 checkappexec.Microsoft.com
+0.0.0.0 t.checkappexec.Microsoft.com
+0.0.0.0 canonicalizer.ucsuri.TCS
 
 #Win10 Extra Block
 ;https://social.technet.microsoft.com/Forums/windows/en-US/97d91945-b1c6-426a-96bd-393aa82dd36c/what-is-the-web-address-of-the-microsoft-windows-activation-server?forum=w7itproinstall
