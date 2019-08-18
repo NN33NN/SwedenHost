@@ -272,3 +272,7 @@ query.prod.cms.rt.microsoft.com #Windows Spotlight
 www.bing.com #Edge sök
 ctldl.windowsupdate.com #Used to download certificates that are publicly known to be fraudulent.
 config.edge.skype.com #retrieve Skype configuration values
+locus.prod-custeng.clearleap.info #se.hbonordic.com To work
+api-hbon.hbo.clearleap.com #se.hbonordic.com To work
+cdn.raygun.io #se.hbonordic.com To work
+api.raygun.io #se.hbonordic.com To work
