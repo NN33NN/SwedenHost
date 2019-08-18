@@ -8,6 +8,21 @@ https://github.com/anudeepND/blacklist
 https://github.com/Laicure/HostsY_hosts/blob/master/shithosts
 https://dummyimage.com/001x001/ffffff/fff <-Pixel
 
+#HBO https://se.hbonordic.com/toonix/movies/de-fem-legenderna/1f10ced-01150bc0e97
+#https://freefree.io/free-hbo-now-accounts/
+0.0.0.0 4837406.fls.doubleclick.net
+cws.conviva.com
+
+
+#stream.Telenor.se
+api.mixpanel.com
+0.0.0.0 js.logentries.com
+0.0.0.0 stats.bradmax.com
+
+#www.apotekhjartat.se
+0.0.0.0 track.adform.net
+0.0.0.0 targetp.emsecure.net
+
 
 Går ej att blocka: https://kurera.se/expertpanelen/varfor-har-jag-daliga-naglar-och-sprickor-i-tungan/
 #******************************
@@ -31,6 +46,9 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 
 #ccleaner
 0.0.0.0 ccleaner.tools.avcdn.net
+
+#https://www.driverscape.com/download/composite-bus-enumerator
+0.0.0.0 ga.megaify.com
 
 #https://www.majorgeeks.com/files/details/unlocker.html
 0.0.0.0 ra.majorgeeks.com
@@ -67,7 +85,6 @@ https://forums.lanik.us/viewforum.php?f=62&sid=963f6d4e51caee03974c98ef72806663
 0.0.0.0 ocsp-services.uzto.netdna-cdn.com
 0.0.0.0 ocsp.globalsign.cloud
 0.0.0.0 orion.ts.360.com.awsr53.qihucdn.com
-0.0.0.0 update.googleapis.com
 0.0.0.0 venatusmedia-d.openx.net
 0.0.0.0 vs.login.msa.akadns6.net
 0.0.0.0 y6jn8c31-83ab311b16ba82d811849a2bbd62c0a8e207558b-am1.d.aa.online-metrix.net
@@ -207,7 +224,7 @@ https://www.tenforums.com/tutorials/15523-change-compatibility-mode-settings-app
 0.0.0.0 insiderservice.microsoft.com
 0.0.0.0 fe2cr.update.microsoft.com #windows update getting files
 0.0.0.0 emdl.ws.microsoft.com
-0.0.0.0 go.microsoft.com #ms probeing
+go.microsoft.com #ms probeing måste ha för information
 0.0.0.0 onecollector.cloudapp.aria.akadns.net #Office Telemetry
 0.0.0.0 prod.nexusrules.live.com.akadns.net #Office Telemetry
 0.0.0.0 flightingservicewus.cloudapp.net #Insider Program
@@ -3065,10 +3082,7 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 0.0.0.0 cx.atdmt.com
 #Blocket.se
 0.0.0.0 logs2.xiti.com
-#www.apotekhjartat.se
-0.0.0.0 cdn.raygun.io
-0.0.0.0 api.raygun.io
-0.0.0.0 targetp.emsecure.net
+
 
 #nordea.se
 0.0.0.0 policy.cookiereports.com
@@ -4809,7 +4823,6 @@ Refunder %rabatt
 0.0.0.0 cdn.bizible.com
 0.0.0.0 ads.bitsngo.net
 0.0.0.0 cdn.mxpnl.com
-0.0.0.0 api.mixpanel.com
 #2018-05-17 https://forum.xda-developers.com/showthread.php?t=709037
 0.0.0.0 hm.baidu.com
 #*******Ej Klar
@@ -5432,7 +5445,6 @@ http://123watchfree.co/movie/pacific-rim-uprising-2557478/watching.html
 0.0.0.0 www.junbi-tracker.com
 0.0.0.0 hicpm5.com
 0.0.0.0 higheurest.com
-0.0.0.0 ad.atdmt.com
 0.0.0.0 ads.mopub.com
 #CCleaner.com  https://en.softonic.com/download/ccleaner-portable/windows/post-download?sl=1
 0.0.0.0 cdn.playwire.com
@@ -6431,7 +6443,6 @@ Tiendeo.se
 0.0.0.0 story.aftonbladet.se
 0.0.0.0 wwwapp.aftonbladet.se
 0.0.0.0 klart.se
-##0.0.0.0 api.mixpanel.com
 0.0.0.0 panel2.research-int.se
 # [News] Antiwar.com
 0.0.0.0 realtime.services.disqus.com
