@@ -291,4 +291,5 @@ img-s-msn-com.akamaized.net #Websida bilder https://www.msn.com/sv-se/nyheter/ut
 optanon.blob.core.windows.net #webdesign https://www.msn.com/sv-se/nyheter/utrikes/gretas-uppmaning-till-trump-lyssna-p%C3%A5-vetenskapen/vi-AAGugXZ
 optanon.blob.core.windows.net #msn video preview
 storage.googleapis.com #Fixar sidan www.klart.se
-aka-cdn.adtech.de #www.stockholmdirekt.se Detects-AD block
+aka-cdn.adtech.de #www.stockholmdirekt.se AD-Block detect
+www.asadcdn.com #bild.de AD-Block detect
