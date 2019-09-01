@@ -131,6 +131,7 @@ cws.conviva.com
 0.0.0.0 0.mediazone.mobi
 0.0.0.0 1.mediazone.mobi
 0.0.0.0 2.mediazone.mobi
+0.0.0.0 load.dorup.ru
 
 #https://www.dobreprogramy.pl/
 31.172.81.158 staticbc.com
@@ -745,7 +746,7 @@ go.microsoft.com #ms probeing måste ha för information
 0.0.0.0 s.youtube.com
 #0.0.0.0 s0.2mdn.net #ZDNet Player
 0.0.0.0 s1.2mdn.net
-0.0.0.0 sam.msn.com
+#0.0.0.0 sam.msn.com #Fix video preview www.msn.com
 0.0.0.0 scontent-frt3-2.xx.fbcdn.net
 0.0.0.0 scontent-veil-1.xx.fbcdn.net
 0.0.0.0 scontent-vie1-1.xx.fbcdn.net
