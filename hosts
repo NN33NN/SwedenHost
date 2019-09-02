@@ -22,6 +22,67 @@ cws.conviva.com
 0.0.0.0 hbx.media.net
 0.0.0.0 c.msn.com
 
+
+edge.api.brightcove.com
+-metrics.brightcove.com
+prof.estat.com
+videos-dd.videos.prismamediadigital.com
+0.0.0.0 pr-bh.ybp.yahoo.com
+
+#https://github.com/ryanbr/fanboy-adblock/issues/633
+#https://www.programme-tv.net/programme/series-tv/r1448-esprits-criminels/2856777-menace-a-domicile/
+0.0.0.0 s.seedtag.com
+0.0.0.0 config.seedtag.com
+0.0.0.0 tms.api.seedtag.com
+0.0.0.0 tagging.api.seedtag.com
+0.0.0.0 realtimelogs.api.seedtag.com
+0.0.0.0 config.seedtag.com
+0.0.0.0 endpoint1.collection.eu.sumologic.com/
+0.0.0.0 creatives.seedtag.com
+0.0.0.0 errors.api.seedtag.com
+0.0.0.0 www.seedtag.com
+0.0.0.0 edge.quantserve.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 cs.seedtag.com
+0.0.0.0 tags.t.tailtarget.com
+0.0.0.0 76c693ba967d4f1880f77a41648a6fe7@sentry.io
+0.0.0.0 1f8d28a3614642e0ab3885394cf80381@sentry.io
+0.0.0.0 d645843336b44e178254ccc5b0a430d9@sentry.io
+#0.0.0.0 consent.prismamedia.com
+#0.0.0.0 tel.prismaconnect.fr
+0.0.0.0 fr-gmtdmp.mookie1.com
+0.0.0.0 social-reco.antvoice.com
+0.0.0.0 js.antvoice.com
+0.0.0.0 id5-sync.com
+0.0.0.0 prismamedia-349651-hdb.adomik.com
+0.0.0.0 cdn.mookie1.com
+0.0.0.0 cross-prod.antvoice.com
+0.0.0.0 prismashop.commander1.com
+0.0.0.0 adtrack.adleadevent.com
+0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
+#0.0.0.0 tra.scds.pmdstatic.net
+#https://tra.scds.pmdstatic.net/advertising-core-libs/1.2.1/prebid.js
+0.0.0.0 js.spotx.tv
+0.0.0.0 a.teads.tv
+0.0.0.0 sync.teads.tv
+0.0.0.0 cdn.elasticad.net
+0.0.0.0 resize-ssp.elasticad.net
+0.0.0.0 concat.hb-api.concat.r.omnitagjs.com
+0.0.0.0 hb-api.concat.r.omnitagjs.com
+0.0.0.0 r.omnitagjs.com
+0.0.0.0 concat.hb-api.concat.omnitagjs.com
+0.0.0.0 hb-api.concat.omnitagjs.com
+0.0.0.0 concat.omnitagjs.com
+0.0.0.0 bid.videostep.com
+0.0.0.0 k.r66net.com
+0.0.0.0 sdev.sspqns.com
+0.0.0.0 s.sspqns.com
+0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 eus.rubiconproject.com
+0.0.0.0 search.spotxchange.com
+0.0.0.0 prebid.adnxs.com
+
+
 #https://www.sacbee.com/
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.turn.com
@@ -3462,7 +3523,7 @@ https://putlocker.vip/film/robin-hood-the-rebellion-26786/watching.html?ep=14357
 #0.0.0.0 platform.twitter.com #Test
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 data-api.twitter.com
-0.0.0.0 metrics.brightcove.com
+#0.0.0.0 metrics.brightcove.com
 0.0.0.0 publisher-assets.spot.im
 0.0.0.0 www.spot.im
 0.0.0.0 pix.spot.im

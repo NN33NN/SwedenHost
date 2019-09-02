@@ -37,20 +37,6 @@
 0.0.0.0 vs.login.msa.akadns6.net
 0.0.0.0 y6jn8c31-83ab311b16ba82d811849a2bbd62c0a8e207558b-am1.d.aa.online-metrix.net
 
-#Win10 Extra Block
-#W Update
-0.0.0.0 au.download.windowsupdate.com #windows update getting files
-0.0.0.0 download.windowsupdate.com #windows update getting files
-0.0.0.0 insiderservice.microsoft.com
-0.0.0.0 fe2cr.update.microsoft.com #windows update getting files
-0.0.0.0 emdl.ws.microsoft.com
-0.0.0.0 go.microsoft.com #ms probeing
-0.0.0.0 onecollector.cloudapp.aria.akadns.net #Office Telemetry
-0.0.0.0 prod.nexusrules.live.com.akadns.net #Office Telemetry
-0.0.0.0 flightingservicewus.cloudapp.net #Insider Program
-0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com #Used to serve office 365 experimentation traffic
-0.0.0.0 tring.clo.footprintdns.com
-0.0.0.0 t-ring.msedge.net
 
 ##https://www.getblackbird.net/blacklist/hosts.txt
 #https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1803-non-enterprise-editions
@@ -193,7 +179,7 @@
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 global.msads.net
-0.0.0.0 go.microsoft.com
+#0.0.0.0 go.microsoft.com #Info från MS
 #0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googletagmanager.com
@@ -203,7 +189,7 @@
 0.0.0.0 iecvlist.microsoft.com
 0.0.0.0 ieonline.microsoft.com
 0.0.0.0 ieonlinews.microsoft.com
-0.0.0.0 img-s-msn-com.akamaized.net
+#0.0.0.0 img-s-msn-com.akamaized.net #Websida bilder https://www.msn.com/sv-se/nyheter/utrikes/gretas-uppmaning-till-trump-lyssna-p%c3%a5-vetenskapen/vi-AAGugXZ?ocid=sf
 0.0.0.0 img1.wsimg.com
 0.0.0.0 inference.location.live.net
 0.0.0.0 js.microsoft.com
@@ -236,9 +222,9 @@
 0.0.0.0 oft.msn.com
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 onecs-live.azureedge.net
-0.0.0.0 onedrive.live.com
+#0.0.0.0 onedrive.live.com #Says diversions whitelist
 0.0.0.0 onlinestores.metaservices.microsoft.com
-0.0.0.0 optanon.blob.core.windows.net
+#0.0.0.0 optanon.blob.core.windows.net #webdesign https://www.msn.com/sv-se/nyheter/utrikes/gretas-uppmaning-till-trump-lyssna-p%C3%A5-vetenskapen/vi-AAGugXZ
 0.0.0.0 otf.msn.com
 0.0.0.0 p2-ajqzcgzl2l3xw-gepf7uctxogn5vzq-if-v6exp3-v4.metric.gstatic.com
 0.0.0.0 p2-bqvskhonsju5q-ed4zavcsaojzmvmb-if-v6exp3-v4.metric.gstatic.com
@@ -284,7 +270,7 @@
 0.0.0.0 s.youtube.com
 #0.0.0.0 s0.2mdn.net #ZDNet Player
 0.0.0.0 s1.2mdn.net
-0.0.0.0 sam.msn.com
+#0.0.0.0 sam.msn.com #Fix video preview www.msn.com
 0.0.0.0 scontent-frt3-2.xx.fbcdn.net
 0.0.0.0 scontent-veil-1.xx.fbcdn.net
 0.0.0.0 scontent-vie1-1.xx.fbcdn.net
@@ -293,7 +279,7 @@
 0.0.0.0 service.datamart.windows.com
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings-ssl.xboxlive.com
-0.0.0.0 settings-win.data.microsoft.com #Checking settings
+0.0.0.0 settings-win.data.microsoft.com #CEIP collects data for third-party applications using the Application Insights service
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 site-cdn.onenote.net
 0.0.0.0 sitefinder-idn.verisign.com
@@ -350,12 +336,12 @@
 0.0.0.0 urs.smartscreen.microsoft.com
 0.0.0.0 us.vortex-win.data.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
-0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsoft.com #Microsoft Data Management Service to upload the Telemetry data
 0.0.0.0 v20.vortex-win.data.microsoft.com
 0.0.0.0 validation-v2.sls.microsoft.com
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex-win-sandbox.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com #CEIP collects data for third-party applications using the Application Insights service
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 wat8.ppe.telemetry.microsoft.com
 0.0.0.0 watson.alpha.telemetry.microsoft.com
@@ -388,7 +374,7 @@
 #0.0.0.0 www.msftncsi.com.edgesuite.net
 0.0.0.0 www.myrappid.com
 0.0.0.0 www.pinkturtle.me
-0.0.0.0 www.youtube-nocookie.com
+#0.0.0.0 www.youtube-nocookie.com #youtube clip funkaar inte på ru-clip.net
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 youtube.2cnt.net
 #0.0.0.0 yt3.ggpht.com
