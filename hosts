@@ -8,6 +8,7 @@ https://github.com/anudeepND/blacklist
 https://github.com/Laicure/HostsY_hosts/blob/master/shithosts
 https://github.com/Cauchon/NSABlocklist-pi-hole-edition/blob/master/Trackers/trackers.txt
 https://dummyimage.com/001x001/ffffff/fff <-Pixel
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
 
 #HBO https://se.hbonordic.com/toonix/movies/de-fem-legenderna/1f10ced-01150bc0e97
 #https://freefree.io/free-hbo-now-accounts/
@@ -16,7 +17,62 @@ https://dummyimage.com/001x001/ffffff/fff <-Pixel
 #Windows10 Activation Server
 0.0.0.0 licensing.mp.microsoft.com
 
+#Fantasystar IV sega
+#https://www.logitheque.com/articles/disney_plus_il_est_deja_possible_de_telecharger_lapp_mais_elle_nest_pas_accessible_a_tous_3535.htm
+0.0.0.0 services.google.com
+0.0.0.0 sddan.mgr.consensu.org
+0.0.0.0 ui.sddan.mgr.consensu.org
+0.0.0.0 js.sddan.com
+0.0.0.0 ct.sddan.com
+0.0.0.0 map.sddan.com
+0.0.0.0 sync.sharethis.com
+0.0.0.0 autolinkmaker.itunes.apple.com
+0.0.0.0 go.redirectingat.com
+0.0.0.0 t.skimresources.com
+0.0.0.0 markhor.organicfruitapps.com
+0.0.0.0 phobos.apple.com
+0.0.0.0 w.estat.com
+0.0.0.0 t.kmtx.io
+0.0.0.0 asset.easydmp.net
+0.0.0.0 mmtro.com
+0.0.0.0 redirect.frontend.weborama.fr
+0.0.0.0 scripts.static-od.com
+0.0.0.0 k.r66net.com
+0.0.0.0 bid.videostep.com
+0.0.0.0 pre.ads.justpremium.com
+0.0.0.0 emea-v3.tracking.justpremium.com
+0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 eus.rubiconproject.com
+0.0.0.0 prg.smartadserver.com
+0.0.0.0 toutsurmesfinances.com
+0.0.0.0 www.toutsurmesfinances.com
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 currency.prebid.org
+0.0.0.0 adserver.org
+0.0.0.0 a.teads.tv
+0.0.0.0 sync.teads.tv
+
+
+
+#https://1fichier.com/?ryk9djwzw5l429pj4g2p&af=2850246
+0.0.0.0 discovernative.com
+31.172.81.158 fhtoxxda.com
+0.0.0.0 www.predictivdisplay.com
+
 #https://ouo.io/Ql1Ng5
+31.172.81.158 raiphupi.com
+0.0.0.0 go.ero-advertising.com
+0.0.0.0 bebasads.com
+0.0.0.0 aidalbark.site
+0.0.0.0 volyze.com
+0.0.0.0 opgolan.com
+0.0.0.0 www.oymlttqg.com
+0.0.0.0 www.fhtoxxda.com
+0.0.0.0 cdnondemand.org
+0.0.0.0 runative-syndicate.com
+0.0.0.0 run-syndicate.com
+0.0.0.0 cdn.run-syndicate.com
+0.0.0.0 pixel.runative-syndicate.com
 0.0.0.0 cdn.seaofads.com
 0.0.0.0 seaofads.com
 0.0.0.0 n.domnovrek.com
